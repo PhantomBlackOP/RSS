@@ -47,6 +47,12 @@
       padding: 10px;
       text-align: center;
     }
+    .nav-left {
+      text-align: left;
+    }
+    .nav-right {
+      text-align: right;
+    }
     nav a {
       color: #d4d4d4;
       text-decoration: none;
@@ -116,11 +122,10 @@
   </style>
 </head>
 <body>
-  <header>
-    <h1>@Trevorion</h1>
-    <h2>Cosmic Art as Survival</h2>
-  </header>
-  <nav>
+  <nav class="nav-left" > 
+    <a href="https://www.trevorion.io/home">TREVOR GRECH - MALTA</a>
+  </nav>
+  <nav class="nav-right" >
     <a href="https://www.trevorion.io/home">Home</a>
     <a href="https://www.trevorion.io/dailies">Dailies</a>
     <a href="https://www.trevorion.io/puzzles">Puzzles</a>
@@ -129,6 +134,10 @@
     <a href="https://www.trevorion.io/news">News</a>
     <a href="https://www.trevorion.io/contact">Contact</a>
   </nav>
+ <header>
+    <h1>@Trevorion</h1>
+    <h2>Cosmic Art as Survival</h2>
+  </header>
   <main>
     {{ content }}
   </main>
