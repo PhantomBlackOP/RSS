@@ -24,18 +24,18 @@
     header h1 {
       margin: 0;
       font-family: Roboto, Helvetica, Arial, sans-serif;
-      font-size: 64;
+      font-size: 64pt;
       font-weight: 900;
     }
     header h2 {
       margin: 0;
       font-family: Roboto, Helvetica, Arial, sans-serif;
-      font-size: 32;
-      font-weight: 600;
+      font-size: 32pt;
+      font-weight: 300;
     }
     header p {
       margin: 0;
-      font-size: 16;
+      font-size: 16pt;
       font-weight: 400;
     }
     nav {
@@ -44,13 +44,13 @@
       text-align: center;
     }
     nav a {
-      color: #fff;
+      color: #d4d4d4;
       text-decoration: none;
       margin: 0 10px;
       font-weight: 500;
     }
     nav a: hover {
-      text-decoration: underline;
+       color: #ffffff;
     }
     main {
       padding: 40px 20px;
@@ -83,13 +83,17 @@
     .footer-right {
       text-align: right;
     }
+    .footer-icons {
+      width: auto;
+      height: 25px;
+    }
     .footer-icons a {
       margin-left: 10px;
       text-decoration: none;
-      color: #fff;
-      font-size: 1.2em;
+      color: #d4d4d4;
     }
     .footer-icons a: hover {
+      color: #ffffff;
       opacity: 0.7;
     }
   </style>
@@ -121,12 +125,12 @@
     </div>
     <div class="footer-right">
       <p><strong>Elsewhere, in the Void</strong></p>
-      <div class="footer-icons">
-        <a href="https://x.com/Trevorion"><img src="/assets/x.png" alt="X/Twitter"></a>
-        <a href="https://www.linkedin.com/in/trevorgrech/"><img src="/assets/li.png" alt="LinkedIn"></a>
-        <a href="https://www.anime-planet.com/users/MuLaFlaga"><img src="/assets/ap3.png" alt="Anime-Planet"></a>
-        <a href="https://www.tiktok.com/@trevor_grech"><img src="/assets/tt.png" alt="TikTok"></a>
-        <a href="https://bsky.app/profile/trevorion.io"><img src="/assets/bs.png" alt="Blue Sky"></a>
+      <div>
+        <a href="https://x.com/Trevorion"><img class="footer-icons" src="/assets/x.png" alt="X/Twitter"></a>
+        <a href="https://www.linkedin.com/in/trevorgrech/"><img class="footer-icons" src="/assets/li.png" alt="LinkedIn"></a>
+        <a href="https://www.anime-planet.com/users/MuLaFlaga"><img class="footer-icons" src="/assets/ap3.png" alt="Anime-Planet"></a>
+        <a href="https://www.tiktok.com/@trevor_grech"><img class="footer-icons" src="/assets/tt.png" alt="TikTok"></a>
+        <a href="https://bsky.app/profile/trevorion.io"><img class="footer-icons" src="/assets/bs.png" alt="Blue Sky"></a>
       </div>
       <p>&copy; TREVOR GRECH / @TREVORION {{ site.time | date: "%Y" }}</p>
     </div>
