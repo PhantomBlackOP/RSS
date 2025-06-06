@@ -2,7 +2,8 @@
 
 📰 **Weekly Anime + AI Digest by @Trevorion**
 
-![Banner](https://rss.trevorion.io/assets/Banner.png)
+<img src="/assets/Banner.png" alt="Trevorion Weekly Digest Banner" style="width: 640px; height: auto;" />
+
 This is the source for [https://rss.trevorion.io](https://rss.trevorion.io) — a weekly digest feed of curated anime-inspired AI dailies, memes, polls, articles, and creative content.
 
 ## 📡 About
