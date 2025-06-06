@@ -13,6 +13,7 @@
         .title { font-size: 1.2em; font-weight: bold; }
         .link { color: #3498db; text-decoration: none; }
         .date { color: #999; font-size: 0.9em; }
+        .description a { color: #e67e22; text-decoration: underline; }
       </style>
     </head>
     <body>
