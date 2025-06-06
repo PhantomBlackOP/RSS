@@ -1,4 +1,4 @@
----
+<hr>
 <h1>Trevorion Weekly Digest</h1>
 <hr>
 <img src="/assets/Banner.png" alt="Trevorion Weekly Digest Banner" style="width: 640px; height: auto;" />
