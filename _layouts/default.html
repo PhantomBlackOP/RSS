@@ -12,13 +12,19 @@
       background: #fff;
       color: #222;
     }
-    header {
+    .backIMG{
       background-color: #000;
-      color: #fff;
-      height: 300px;
+      height: 320px;
       background-image: url('/assets/Back.jpg');
       background-size: cover;
       background-position: center;
+    }
+    header {
+      background-color: #000;
+      opacity: 0;
+      color: #fff;
+      height: 300px;
+
       text-align: center;
     }
     header h1 {
@@ -39,7 +45,7 @@
       font-weight: 400;
     }
     nav {
-      background: #000;
+      opacity: 0;
       padding: 10px;
       text-align: center;
     }
@@ -112,7 +118,7 @@
   </style>
 </head>
 <body>
-  <header>
+<div class="backIMG">
   <nav> 
     <div class="nav-left">
       <a href="https://www.trevorion.io/home"  style="vertical-align: middle;"><IMG src="/assets/Anime AIS.jpg"  alt="Avatar" width=40px>&nbsp; TREVOR GRECH - MALTA</a>
@@ -127,11 +133,13 @@
       <a href="https://www.trevorion.io/contact">Contact</a>
     </div>
   </nav>
+<header>
    <br><br>
     <h1>@Trevorion</h1><br>
     <h2>RSS Feed - Weekly Digest</h2>
    <br><be>
  </header>
+</div>
   <main>
     {{ content }}
   </main>
