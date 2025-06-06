@@ -1,0 +1,17 @@
+# Ignore Jekyll's build output
+_site/
+.sass-cache/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ignore macOS and Windows OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
