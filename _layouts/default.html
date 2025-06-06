@@ -1,13 +1,128 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <link rel="icon" href="{{ '/favicon.png' | relative_url }}">
+  <title>{{ page.title }} | @Trevorion</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background: #ffffff;
+      color: #222;
+    }
+    header {
+      background-color: #000;
+      color: #fff;
+      padding: 20px;
+      background-image: url('/assets/train-banner.jpg');
+      background-size: cover;
+      background-position: center;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.8em;
+      font-weight: bold;
+    }
+    header p {
+      margin: 0;
+      font-size: 1.2em;
+      font-weight: 300;
+    }
+    nav {
+      background: #111;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin: 0 10px;
+      font-weight: 500;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    main {
+      padding: 40px 20px;
+      max-width: 960px;
+      margin: auto;
+      line-height: 1.8;
+    }
+    footer {
+      background: linear-gradient(to right, #0a0a0a, #2c1c1a);
+      color: #eee;
+      padding: 40px 20px;
+      font-size: 0.95em;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .footer-left, .footer-right {
+      flex: 1 1 300px;
+      margin: 10px;
+    }
+    .footer-left img {
+      max-width: 100px;
+      border-radius: 6px;
+      margin-bottom: 10px;
+    }
+    .footer-left p {
+      margin: 0.3em 0;
+    }
+    .footer-right {
+      text-align: right;
+    }
+    .footer-icons a {
+      margin-left: 10px;
+      text-decoration: none;
+      color: #fff;
+      font-size: 1.2em;
+    }
+    .footer-icons a:hover {
+      opacity: 0.7;
+    }
+  </style>
 </head>
 <body>
-  {{ content }}
+  <header>
+    <h1>@Trevorion</h1>
+    <p>Cosmic Art as Survival</p>
+  </header>
+  <nav>
+    <a href="/">Home</a>
+    <a href="/dailies.html">Dailies</a>
+    <a href="/puzzles.html">Puzzles</a>
+    <a href="/comics.html">Comics</a>
+    <a href="/articles.html">Articles</a>
+    <a href="/news.html">News</a>
+    <a href="/contact.html">Contact</a>
+  </nav>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <div class="footer-left">
+      <img src="/assets/footer-avatar.png" alt="Avatar">
+      <p>This is not a brand. It is not monetized.<br>
+      But cosmic art as a means of survival;<br>
+      Broadcast straight from the void.</p>
+      <p><strong>Email:</strong> <a href="mailto:info@trevorion.io" style="color:#fff;">info@trevorion.io</a></p>
+    </div>
+    <div class="footer-right">
+      <p><strong>Elsewhere, in the Void</strong></p>
+      <div class="footer-icons">
+        <a href="https://x.com/Trevorion">X</a>
+        <a href="#">in</a>
+        <a href="#">👽</a>
+        <a href="#">🎵</a>
+        <a href="#">🦋</a>
+      </div>
+      <p>&copy; TREVOR GRECH / @TREVORION {{ site.time | date: "%Y" }}</p>
+    </div>
+  </footer>
 </body>
 </html>
