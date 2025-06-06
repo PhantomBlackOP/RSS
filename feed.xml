@@ -13,10 +13,10 @@ permalink: /feed.xml
     <item>
       <title>{{ post.title | xml_escape }}</title>
       <link>{{ site.url }}{{ post.url }}</link>
-      <description><![CDATA[
-        <p>{{ post.excerpt | xml_escape }}</p>
+      <description>
+        {{ post.excerpt | markdownify }}
         <p><a href="{{ site.url }}{{ post.url }}">Read More</a></p>
-      ]]></description>
+      </description>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
     </item>
     {% endfor %}
