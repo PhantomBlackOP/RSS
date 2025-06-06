@@ -1,5 +1,3 @@
-<hr>
-<br>
 
 <img src="/assets/Banner.png" alt="Trevorion Weekly Digest Banner" style="width: 640px; height: auto;" />
 
