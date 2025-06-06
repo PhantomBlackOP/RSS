@@ -1,0 +1,8 @@
+
+title: "Trevorion Weekly Feed"
+description: "A weekly digest of anime AI dailies, memes, polls, and articles."
+baseurl: ""
+url: "https://rss.trevorion.info"
+markdown: kramdown
+plugins:
+  - jekyll-feed
