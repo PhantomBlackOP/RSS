@@ -43,6 +43,9 @@ lines = [header]
 for week, url, date in posts:
     lines.append(f"- 📅 [Week {week:02d} – Dailies & Highlights]({url}) ({date.strftime('%b %d, %Y')})")
 
+from datetime import datetime
+lines.append(f"\n_Last updated: {datetime.utcnow().strftime('%b %d, %Y %H:%M UTC')}_")
+
 # Write archive.md
 ARCHIVE_FILE.write_text("\n".join(lines), encoding="utf-8")
 print("✅ archive.md updated successfully.")
