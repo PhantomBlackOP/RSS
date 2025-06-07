@@ -145,6 +145,19 @@
 </div>
   <main>
     <div style="text-align: left">{{ content }}</div>
+    <hr>
+    <div class="post-nav" style="display: flex; justify-content: space-between; padding-top: 20px;">
+      {% if page.previous %}
+        <div style="text-align: left;">
+          ← <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
+        </div>
+      {% endif %}
+      {% if page.next %}
+        <div style="text-align: right;">
+          <a href="{{ page.next.url }}">{{ page.next.title }}</a> →
+        </div>
+      {% endif %}
+    </div>
   </main>
   <footer>
     <div style="text-align: left">
