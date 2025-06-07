@@ -52,7 +52,7 @@ Follow [@Trevorion](https://x.com/Trevorion)
 Stay lit. 🔥
 
 """
-lines.append([footer])
+lines.append(footer)
 
 # Write archive.md
 ARCHIVE_FILE.write_text("\n".join(lines), encoding="utf-8")
