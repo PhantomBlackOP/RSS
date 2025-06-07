@@ -7,18 +7,23 @@ POSTS_DIR = Path("_posts")
 INDEX_FILE = Path("index.md")
 
 # Front matter
-header = """---
+header = """
+---
 layout: page
-title: Archive
-permalink: /archive/
+title: Trevorion Weekly RSS Feed
+permalink: /
 ---
 
-# 📚 Archive
+<img src="/assets/Banner.png" alt="Trevorion Weekly Digest Banner" style="width: 365px; height: auto; float: left; margin-right: 20px;" />
 
-Explore all past weekly digests (newest first):
+Welcome to the official archive of [@Trevorion](https://x.com/Trevorion)'s AI Anime Daily Images.
+
+Each week captures 7 unique daily posts — a blend of tech, fantasy, sci-fi, nostalgia, and slice-of-life.  
+Built for long-term readers, indie web fans, and curious minds.
+
+---
 
 """
-
 def extract_post_info(filename):
     match = re.match(r"(\d{4})-(\d{2})-(\d{2})-week-(\d{2})\.md", filename)
     if not match:
@@ -28,26 +33,37 @@ def extract_post_info(filename):
     url = f"/{year}/{month}/{day}/week-{week}.html"
     return int(week), url, date
 
-# Collect all posts
+# Collect the last post
 posts = []
 for file in POSTS_DIR.glob("*.md"):
     info = extract_post_info(file.name)
     if info:
         posts.append(info)
 
-# Sort by week descending
+# Sort by week, descending
 posts.sort(key=lambda x: x[2], reverse=True)
 
 # Build archive content
 lines = [header]
 for week, url, date in posts:
-    lines.append(f"- 📅 [Week {week:02d} – Dailies & Highlights]({url}) ({date.strftime('%b %d, %Y')})")
+    lines.append(f"- 📅 **Latest Week**: [Week {week:02d} – Dailies & Highlights]({url}) ({date.strftime('%b %d, %Y')})")
+
+bodypart = """
+📚 **Full Archive**: [View All Weeks](/archive/)  
+📰 **RSS Feed**: [RSS is active](/feed.xml)
+
+---
+
+"""
+
+lines.append(bodypart)
 
 from datetime import datetime
 lines.append(f"\n_Last updated: {datetime.utcnow().strftime('%b %d, %Y %H:%M UTC')}_")
 
-footer = """---
-Follow [@Trevorion](https://x.com/Trevorion)
+footer = """
+
+Follow [@Trevorion](https://x.com/Trevorion)  
 
 Stay lit. 🔥
 
@@ -56,4 +72,4 @@ lines.append(footer)
 
 # Write archive.md
 ARCHIVE_FILE.write_text("\n".join(lines), encoding="utf-8")
-print("✅ archive.md updated successfully.")
+print("✅ index.md updated successfully.")
