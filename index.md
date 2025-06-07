@@ -6,7 +6,6 @@ permalink: /
 
 <img src="/assets/Banner.png" alt="Trevorion Weekly Digest Banner" style="width: 400px; height: auto; float: left; margin-right: 100px;" />
 
-# ✨ Trevorion Weekly Digest
 Welcome to the official archive of [@Trevorion](https://x.com/Trevorion)'s AI + Anime Daily Image Chronicles.
 
 Each week captures 7 unique daily posts — a blend of tech, fantasy, sci-fi, nostalgia, and slice-of-life.  
