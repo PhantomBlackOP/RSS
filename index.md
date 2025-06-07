@@ -2,4 +2,4 @@
 <img src="/assets/Banner.png" alt="Trevorion Weekly Digest Banner" style="width: 640px; height: auto;" />
 
 Welcome to the weekly digest feed for Trevorion's Anime + AI content schedule.  
-All updates are structured, timestamped, and consistent. RSS is active. 🔥
+All updates are structured, timestamped, and consistent. [RSS is active](https://rss.trevorion.io/feed.xml). 🔥
