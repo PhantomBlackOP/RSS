@@ -45,7 +45,9 @@ posts.sort(key=lambda x: x[2], reverse=True)
 
 # Build archive content
 lines = [header]
-for week, url, date in posts:
+
+if posts:
+    week, url, date = posts[0]
     lines.append(f"- 📅 **Latest Week**: [Week {week:02d} – Dailies & Highlights]({url}) ({date.strftime('%b %d, %Y')})")
 
 bodypart = """
@@ -70,6 +72,6 @@ Stay lit. 🔥
 """
 lines.append(footer)
 
-# Write archive.md
-ARCHIVE_FILE.write_text("\n".join(lines), encoding="utf-8")
+# Write index.md
+INDEX_FILE.write_text("\n".join(lines), encoding="utf-8")
 print("✅ index.md updated successfully.")
