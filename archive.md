@@ -8,7 +8,7 @@ permalink: /archive/
 
 Explore all past weekly digests:
 
-- 📅 [Week 01 – Dailies & Highlights](/2025/01/01/week-01.html) (Jan 01, 2025)
+- 📅 [Week 01 – Dailies & Highlights](/2024/12/30/week-01.html) (Jan 01, 2025)
 - 📅 [Week 02 – Dailies & Highlights](/2025/01/06/week-02.html) (Jan 06, 2025)
 - 📅 [Week 03 – Dailies & Highlights](/2025/01/13/week-03.html) (Jan 13, 2025)
 - 📅 [Week 04 – Dailies & Highlights](/2025/01/20/week-04.html) (Jan 20, 2025)
