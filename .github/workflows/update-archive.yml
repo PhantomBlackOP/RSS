@@ -6,24 +6,24 @@ on:
       - "_posts/**"
 
 jobs:
-  build:
+  update-archive:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout the repo
+      uses: actions/checkout@v3
+      with:
+        persist-credentials: true  # REQUIRED to allow git push
 
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: 3.11
 
-    - name: Install Python deps
-      run: pip install pyyaml
-
-    - name: Update archive.md
+    - name: Run archive updater script
       run: python scripts/update_archive.py
 
-    - name: Commit updated archive.md
+    - name: Commit and push archive.md
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -32,4 +32,3 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
