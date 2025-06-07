@@ -150,6 +150,7 @@
       {% if page.previous %}
         <div style="text-align: left;">
           ← <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
+          <a href="{{ page.previous.url }}" style="color: #555;">⬅ {{ page.previous.title }}</a>
         </div>
       {% endif %}
       {% if page.next %}
