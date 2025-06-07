@@ -46,6 +46,14 @@ for week, url, date in posts:
 from datetime import datetime
 lines.append(f"\n_Last updated: {datetime.utcnow().strftime('%b %d, %Y %H:%M UTC')}_")
 
+footer = """---
+Follow [@Trevorion](https://x.com/Trevorion)
+
+Stay lit. 🔥
+
+"""
+lines.append([footer])
+
 # Write archive.md
 ARCHIVE_FILE.write_text("\n".join(lines), encoding="utf-8")
 print("✅ archive.md updated successfully.")
