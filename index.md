@@ -1,10 +1,8 @@
-
 ---
 layout: page
 title: Trevorion Weekly RSS Feed
 permalink: /
 ---
-
 <img src="/assets/Banner.png" alt="Trevorion Weekly Digest Banner" style="width: 365px; height: auto; float: left; margin-right: 20px;" />
 
 Welcome to the official archive of [@Trevorion](https://x.com/Trevorion)'s AI Anime Daily Images.
@@ -24,7 +22,7 @@ Built for long-term readers, indie web fans, and curious minds.
 
 
 
-_Last updated: Jun 07, 2025 23:39 UTC_
+_Last updated: Jun 07, 2025 23:45 UTC_
 
 
 Follow [@Trevorion](https://x.com/Trevorion)  
