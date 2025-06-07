@@ -80,6 +80,11 @@
       margin: auto;
       line-height: 1.8;
       text-align: center;
+      text-decoration: none;
+    }
+    main a {
+      color: #555;
+      text-decoration: none;
     }
     footer {
       background-color: #000;
@@ -150,7 +155,6 @@
       {% if page.previous %}
         <div style="text-align: left;">
           ← <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
-          <a href="{{ page.previous.url }}" style="color: #555;">⬅ {{ page.previous.title }}</a>
         </div>
       {% endif %}
       {% if page.next %}
