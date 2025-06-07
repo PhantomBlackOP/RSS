@@ -48,8 +48,7 @@ if posts:
     week, url, date = posts[0]
     lines.append(f"📅 **Latest Week**: [Week {week:02d} – Dailies & Highlights]({url}) ({date.strftime('%b %d, %Y')})")
 
-bodypart = """
-📚 **Full Archive**: [View All Weeks](/archive/)  
+bodypart = """📚 **Full Archive**: [View All Weeks](/archive/)  
 📰 **RSS Feed**: [RSS is active](/feed.xml)
 
 ---
