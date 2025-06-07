@@ -10,25 +10,27 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout the repo
+    - name: Checkout repo with write access
       uses: actions/checkout@v3
       with:
-        persist-credentials: true  # REQUIRED to allow git push
+        persist-credentials: true
 
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: 3.11
 
-    - name: Run archive updater script
-      run: python scripts/update_archive.py
-
-    - name: Commit and push archive.md
+    - name: Run archive updater
       run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        python scripts/update_archive.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add archive.md
-        git commit -m "Update archive.md automatically" || echo "No changes to commit"
-        git push
+        git commit -m "Auto-update archive.md" || echo "No changes to commit"
+        echo "🔄 Pushing to origin HEAD..."
+        git push origin HEAD
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
