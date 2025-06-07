@@ -4,7 +4,7 @@ title: Trevorion Weekly RSS Feed
 permalink: /
 ---
 
-<img src="/assets/Banner.png" alt="Trevorion Weekly Digest Banner" style="width: 400px; height: auto; float: left; margin-right: 100px;" />
+<img src="/assets/Banner.png" alt="Trevorion Weekly Digest Banner" style="width: 400px; height: auto; float: left; margin-right: 20px;" />
 
 Welcome to the official archive of [@Trevorion](https://x.com/Trevorion)'s AI + Anime Daily Image Chronicles.
 
