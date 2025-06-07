@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Trevorion Weekly RSS Feed
@@ -13,12 +14,20 @@ Built for long-term readers, indie web fans, and curious minds.
 
 ---
 
-📅 **Latest Week**: [Week 23 – Dailies & Highlights](/2025/06/02/week-23.html)  
+
+- 📅 **Latest Week**: [Week 23 – Dailies & Highlights](/2025/06/02/week-23.html) (Jun 02, 2025)
+
 📚 **Full Archive**: [View All Weeks](/archive/)  
 📰 **RSS Feed**: [RSS is active](/feed.xml)
 
 ---
 
+
+
+_Last updated: Jun 07, 2025 23:39 UTC_
+
+
 Follow [@Trevorion](https://x.com/Trevorion)  
 
 Stay lit. 🔥
+
