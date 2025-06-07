@@ -7,8 +7,7 @@ POSTS_DIR = Path("_posts")
 INDEX_FILE = Path("index.md")
 
 # Front matter
-header = """
----
+header = """---
 layout: page
 title: Trevorion Weekly RSS Feed
 permalink: /
