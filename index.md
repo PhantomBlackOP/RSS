@@ -13,7 +13,7 @@ Built for long-term readers, indie web fans, and curious minds.
 
 ---
 
-📅 **Latest Week**: [Week 24 – Dailies & Highlights](/2025/06/09/week-24.html)  
+📅 **Latest Week**: [Week 23 – Dailies & Highlights](/2025/06/02/week-23.html)  
 📚 **Full Archive**: [View All Weeks](/archive/)  
 📰 **RSS Feed**: [RSS is active](/feed.xml)
 
