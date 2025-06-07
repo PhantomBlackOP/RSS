@@ -1,7 +1,7 @@
       - "_posts/**"
 
 jobs:
-  update-archive:
+  update-index:
     runs-on: ubuntu-latest
 
     steps:
