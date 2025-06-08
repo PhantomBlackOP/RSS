@@ -6,7 +6,7 @@ from pathlib import Path
 from collections import defaultdict, Counter
 
 # Load day-to-title+url mapping
-with open("day_url_map_full_with_titles.py", encoding="utf-8") as f:
+with open("scripts/day_url_map_full_with_titles.py", encoding="utf-8") as f:
     exec(f.read())
 
 POSTS_DIR = Path("_posts")
