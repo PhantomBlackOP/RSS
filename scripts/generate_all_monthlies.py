@@ -27,7 +27,6 @@ def extract_tags(text, filename):
     if tags:
         print(f"[{filename}] ✅ Found hashtags: {tags}")
         return tags
-    # fallback to markdown-style Day lines
     titles = re.findall(r"-\s+Day\s+\d+:\s+\[([^\]]+)\]", text)
     print(f"[{filename}] 📋 Day titles extracted: {titles}")
     words = []
@@ -46,7 +45,7 @@ for (year, month), posts in sorted(monthly_posts.items()):
         "---",
         "layout: page",
         f"title: {datetime.date(int(year), int(month), 1).strftime('%B')} {year} – Monthly Digest",
-        f"permalink: /monthly/{year}-{month}/",
+        f"permalink: /monthly/{year}-{month}.md",
         "---",
         "",
         "## 📅 Weekly Highlights",
