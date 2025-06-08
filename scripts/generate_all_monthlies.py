@@ -87,19 +87,30 @@ for i, (year, month) in enumerate(months_sorted):
         size = min(2.5, 1.0 + (count / max(tag_counter.values())) * 1.5)
         lines.append(f"<span style=\"font-size: {size:.1f}em; margin-right: 0.5em;\">{tag}</span>")
 
-    # Navigation block
-    nav = []
+
+    nav_lines = []
+    nav_lines.append("")
+    nav_lines.append("---")
+    nav_lines.append("")
+    nav_html = "<div style=\"display: flex; justify-content: space-between; padding: 1em 0;\">"
+
     if i > 0:
         prev_year, prev_month = months_sorted[i - 1]
         prev_label = datetime.date(int(prev_year), int(prev_month), 1).strftime("%B %Y")
-        nav.append(f"← [{prev_label}](/monthly/{prev_year}-{prev_month}/)")
+        nav_html += f"<div style=\"text-align: left;\">← <a href='/monthly/{prev_year}-{prev_month}/'>{prev_label}</a></div>"
+    else:
+        nav_html += "<div></div>"
+
     if i < len(months_sorted) - 1:
         next_year, next_month = months_sorted[i + 1]
         next_label = datetime.date(int(next_year), int(next_month), 1).strftime("%B %Y")
-        nav.append(f"[{next_label}](/monthly/{next_year}-{next_month}/) →")
+        nav_html += f"<div style=\"text-align: right;\"><a href='/monthly/{next_year}-{next_month}/'>{next_label}</a> →</div>"
+    else:
+        nav_html += "<div></div>"
 
-    if nav:
-        lines += ["", "---", "", "## 🔁 Browse More", "", " | ".join(nav)]
+    nav_html += "</div>"
+    nav_lines.append(nav_html)
+    lines += nav_lines
 
     lines += [
         "",
