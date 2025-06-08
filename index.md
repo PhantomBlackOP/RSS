@@ -11,12 +11,12 @@ Each week captures 7 unique daily posts — a blend of tech, fantasy, sci-fi, no
 Built for long-term readers, indie web fans, and curious minds.
 
 ---
-<div align="left">
-📅 **Latest Week**: [Week 23 – Dailies & Highlights](/2025/06/02/week-23.html) (Jun 02, 2025)<br/>
+
+📅 **Latest Week**: [Week 23 – Dailies & Highlights](/2025/06/02/week-23.html)<br/>
 📚 **Full Archive**: [View All Weeks](/archive/)<br/>
 🗓️ **Monthly Recap**: [All Months](/monthly/)<br/>
 📰 **RSS Feed**: [RSS is active](/feed.xml)<br/>
-</div>
+
 ---
 
 _Last updated: Jun 08, 2025 02:25 UTC_
