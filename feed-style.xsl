@@ -11,9 +11,9 @@
         h1 { color: #c0392b; }
         .item { margin-bottom: 30px; padding-bottom: 15px; border-bottom: 1px solid #ccc; }
         .title { font-size: 1.2em; font-weight: bold; }
-        .link { color: #3498db; text-decoration: none; }
-        .date { color: #999; font-size: 0.9em; }
-        .description a { color: #e67e22; text-decoration: underline; }
+        .link { color: navy; text-decoration: none; }
+        .date { color: #444; font-size: 0.9em; }
+        .description a { color: navy; text-decoration: none; }
       </style>
     </head>
     <body>
