@@ -33,4 +33,4 @@ jobs:
           git diff --cached --quiet || git commit -m "Auto-update monthly digest"
           git fetch origin
           git rebase origin/main
-          git push origin HEAD
+          git push --force-with-lease origin HEAD
