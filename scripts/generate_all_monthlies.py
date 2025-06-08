@@ -4,7 +4,7 @@ from pathlib import Path
 from collections import defaultdict, Counter
 
 POSTS_DIR = Path("_posts")
-MONTHLY_DIR = Path("_monthly")
+MONTHLY_DIR = Path("monthly")
 MONTHLY_DIR.mkdir(exist_ok=True)
 
 STOPWORDS = [
