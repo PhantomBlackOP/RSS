@@ -7,6 +7,8 @@ POSTS_DIR = Path("_posts")
 MONTHLY_DIR = Path("_monthly")
 MONTHLY_DIR.mkdir(exist_ok=True)
 
+STOPWORDS = ['the', 'this', 'that', 'and', 'with', 'from', 'into', 'over', 'your', 'have', 'has', 'was', 'were', 'been', 'are', 'for', 'out', 'all', 'but', 'you', 'not', 'just', 'very', 'some', 'more', 'than', 'then', 'once']
+
 pattern = re.compile(r"(\d{4})-(\d{2})-(\d{2})-week-(\d{2})\.md")
 monthly_posts = defaultdict(list)
 
@@ -18,13 +20,14 @@ for file in POSTS_DIR.glob("*.md"):
 
 def extract_tags(text):
     tags = re.findall(r"#\w+", text)
-    if not tags:
-        titles = re.findall(r"^###\s*(.+)$", text, re.MULTILINE)
-        words = []
-        for title in titles:
-            words += re.findall(r"\b\w{4,}\b", title)
-        return [f"#{word.lower()}" for word in words]
-    return tags
+    if tags:
+        return tags
+    # fallback to Day captions
+    titles = re.findall(r"^Day\s+\d{3}:\s+(.+)$", text, re.MULTILINE)
+    words = []
+    for title in titles:
+        words += re.findall(r"\b\w{4,}\b", title)
+    return [f"#{w.lower()}" for w in words if w.lower() not in STOPWORDS]
 
 for (year, month), posts in sorted(monthly_posts.items()):
     digest_path = MONTHLY_DIR / f"{year}-{month}.md"
