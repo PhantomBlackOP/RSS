@@ -12,7 +12,7 @@ layout: page
 title: Trevorion Weekly RSS Feed
 permalink: /
 ---
-<img src="/assets/Banner.png" alt="Trevorion Weekly Digest Banner" style="width: 365px; height: auto; float: left; margin-right: 24px;" />
+<img src="/assets/Banner.png" alt="Trevorion Weekly Digest Banner" style="width: 365px; height: auto; float: left; margin-bottom: 50px; margin-right: 24px;" />
 
 Welcome to the official archive of [@Trevorion](https://x.com/Trevorion)'s AI Anime Daily Images.
 
@@ -45,15 +45,13 @@ lines = [header]
 
 if posts:
     week, url, date = posts[0]
-    lines.append(f"📅 **Latest Week**: [Week {week:02d} – Dailies & Highlights]({url}) ({date.strftime('%b %d, %Y')})")
+    lines.append(f"<p>📅 <strong>Latest Week</strong>: [Week {week:02d} – Dailies & Highlights]({url}) ({date.strftime('%b %d, %Y')})<br />")
 
 bodypart = """
-📚 **Full Archive**: [View All Weeks](/archive/)  
-🗓️ **Monthly Recap**: [All Months](/monthly/)
-📰 **RSS Feed**: [RSS is active](/feed.xml)
-
+📚 <strong>Full Archive</strong>: <a href="/archive/">View All Weeks</a><br />
+🗓️ <strong>Monthly Recap</strong>: <a href="/monthly/">All Months</a><br />
+📰 <strong>RSS Feed</strong>: <a href="/feed.xml">RSS is active</a><br /></p>
 ---
-
 """
 
 lines.append(bodypart)
