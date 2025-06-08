@@ -8,7 +8,7 @@
       <title>Trevorion Weekly RSS Feed</title>
       <style>
         body { font-family: sans-serif; line-height: 1.6; padding: 20px; background: #f8f8f8; color: #222; }
-        h1 { color: #c0392b; }
+        h1 { color: #000; }
         .item { margin-bottom: 30px; padding-bottom: 15px; border-bottom: 1px solid #ccc; }
         .title { font-size: 1.2em; font-weight: bold; }
         .link { color: navy; text-decoration: none; }
