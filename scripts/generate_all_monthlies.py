@@ -1,113 +1,64 @@
+import os
 import re
+import json
 import datetime
 from pathlib import Path
 from collections import defaultdict, Counter
 
+# Load day-to-title+url mapping
+with open("day_url_map_full_with_titles.py", encoding="utf-8") as f:
+    exec(f.read())
+
 POSTS_DIR = Path("_posts")
-MONTHLY_DIR = Path("monthly")
-MONTHLY_DIR.mkdir(exist_ok=True)
+OUTPUT_DIR = Path("_monthly")
+OUTPUT_DIR.mkdir(exist_ok=True)
 
-STOPWORDS = [
-    "the", "this", "that", "and", "with", "from", "into", "over", "your",
-    "have", "has", "was", "were", "been", "are", "for", "out", "all", "but",
-    "you", "not", "just", "very", "some", "more", "than", "then", "once"
-]
+def extract_month_key(filename):
+    match = re.match(r"(\d{4})-(\d{2})-(\d{2})-week-(\d{2})\.md", filename)
+    if match:
+        year, month = match.group(1), match.group(2)
+        return f"{year}-{month}"
+    return None
 
-START_DATE = datetime.date(2025, 1, 1)
-
-monthly_lines = defaultdict(list)
-monthly_wordcount = defaultdict(int)
-monthly_tags = defaultdict(Counter)
+posts_by_month = defaultdict(list)
 
 for file in POSTS_DIR.glob("*.md"):
-    text = file.read_text(encoding="utf-8")
-    lines = text.splitlines()
-    for line in lines:
-        day_match = re.match(r"-\s+Day\s+(\d{3}):\s+\[(.*?)\]", line)
-        if day_match:
-            day_num = int(day_match.group(1))
-            caption = day_match.group(2)
-            post_date = START_DATE + datetime.timedelta(days=day_num - 1)
-            key = (post_date.year, f"{post_date.month:02d}")
-            monthly_lines[key].append((post_date, caption))
-            monthly_wordcount[key] += len(re.findall(r"\b\w+\b", caption))
-            tags = re.findall(r"#\w+", caption)
-            if tags:
-                monthly_tags[key].update(tags)
-            else:
-                fallback_words = [f"#{w.lower()}" for w in re.findall(r"\b\w{4,}\b", caption) if w.lower() not in STOPWORDS]
-                monthly_tags[key].update(fallback_words)
+    key = extract_month_key(file.name)
+    if key:
+        posts_by_month[key].append(file)
 
-for (year, month), posts in sorted(monthly_lines.items()):
-    digest_path = MONTHLY_DIR / f"{year}-{month}.md"
-    posts.sort()
-    lines = [
-        "---",
-        "layout: page",
-        f"title: {datetime.date(int(year), int(month), 1).strftime('%B')} {year} – Monthly Digest",
-        f"permalink: /monthly/{year}-{month}/",
-        "---",
-        "",
-        "## 📅 Daily Highlights",
-        ""
-    ]
+for month, files in sorted(posts_by_month.items()):
+    all_lines = []
+    tag_counter = Counter()
 
-    for post_date, caption in posts:
-        week_number = ((post_date - datetime.date(2024, 12, 30)).days // 7) + 1
-        url = f"/{post_date.strftime('%Y/%m/%d')}/week-{week_number:02d}.html"
-        lines.append(f"- {post_date.strftime('%b %d')}: [{caption}]({url})")
+    for file in sorted(files, key=lambda f: f.name):
+        lines = file.read_text(encoding="utf-8").splitlines()
+        for line in lines:
+            match = re.match(r"- Day\s+(\d{3}):", line)
+            if match:
+                day_num = f"Day {int(match.group(1)):03d}"
+                entry = day_map.get(day_num)
+                if entry:
+                    title, url = entry["title"], entry["url"]
+                    all_lines.append(f"- {day_num[4:]}: [{title}]({url})")
+                    tags = re.findall(r"#\w+", title)
+                    if tags:
+                        tag_counter.update(tags)
+                    else:
+                        fallback = re.findall(r"[A-Za-z]+", title)
+                        tag_counter.update([f"#{word.lower()}" for word in fallback if len(word) > 3])
 
-    
-    # Navigation links
-    all_keys = sorted(monthly_lines.keys())
-    index = all_keys.index((year, month))
-    nav_html = "<div style=\"display: flex; justify-content: space-between; padding: 1em 0;\">"
-    if index > 0:
-        prev_year, prev_month = all_keys[index - 1]
-        prev_label = datetime.date(int(prev_year), int(prev_month), 1).strftime("%B %Y")
-        nav_html += f"<div style=\"text-align: left;\">← <a href='/monthly/{prev_year}-{prev_month}/'>{prev_label}</a></div>"
-    else:
-        nav_html += "<div></div>"
-    if index < len(all_keys) - 1:
-        next_year, next_month = all_keys[index + 1]
-        next_label = datetime.date(int(next_year), int(next_month), 1).strftime("%B %Y")
-        nav_html += f"<div style=\"text-align: right;\"><a href='/monthly/{next_year}-{next_month}/'>{next_label}</a> →</div>"
-    else:
-        nav_html += "<div></div>"
-    nav_html += "</div>"
+    out_file = OUTPUT_DIR / f"{month}.md"
+    header = f"# 📅 Monthly Digest – {datetime.date(int(month[:4]), int(month[5:]), 1):%B %Y}\n\n"
 
-    lines += ["", "---", "", nav_html]
+    tag_cloud = " ".join(sorted(tag_counter.keys()))
+    total_words = sum(len(re.findall(r'\w+', entry['title'])) for entry in day_map.values() if entry["title"])
 
+    with out_file.open("w", encoding="utf-8") as f:
+        f.write(header)
+        f.write(f"Total words: {total_words} Tag count: {len(tag_counter)}\n\n")
+        if tag_cloud:
+            f.write("☁️ Tag Cloud\n" + tag_cloud + "\n\n")
+        f.write("\n".join(all_lines))
 
-    lines += [
-        "",
-        "---",
-        "",
-        "## 🔤 Word Stats",
-        "",
-        f"**Total words:** {monthly_wordcount[(year, month)]}",
-        f"**Tag count:** {len(monthly_tags[(year, month)])}",
-        "",
-        "---",
-        "",
-        "## ☁️ Tag Cloud",
-        ""
-    ]
-
-    for tag, count in monthly_tags[(year, month)].most_common():
-        size = min(2.5, 1.0 + (count / max(monthly_tags[(year, month)].values())) * 1.5)
-        lines.append(f"<span style=\"font-size: {size:.1f}em; margin-right: 0.5em;\">{tag}</span>")
-
-    lines += [
-        "",
-        "---",
-        "",
-        "## 🌟 Closing Note",
-        "",
-        f"Thanks for following along through {datetime.date(int(year), int(month), 1).strftime('%B')}!  \nSee you next month for more daily sparks from Trevorion.",
-        "",
-        f"_Last updated: {datetime.datetime.utcnow().strftime('%b %d, %Y')}_"    
-    ]
-
-    digest_path.write_text("\n".join(lines), encoding="utf-8")
-    print(f"✅ Wrote monthly digest: {digest_path}")
+print("✅ Monthly digest files regenerated successfully.")
