@@ -55,7 +55,7 @@ bodypart = """📚 **Full Archive**: [View All Weeks](/archive/)
 
 """
 
-lines.append(bodypart)
+lines.append("\n" + bodypart)
 
 from datetime import datetime
 lines.append(f"\n_Last updated: {datetime.utcnow().strftime('%b %d, %Y %H:%M UTC')}_")
