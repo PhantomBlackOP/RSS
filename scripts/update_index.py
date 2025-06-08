@@ -45,14 +45,12 @@ lines = [header]
 
 if posts:
     week, url, date = posts[0]
-    lines.append(f"<p>📅 <strong>Latest Week</strong>: [Week {week:02d} – Dailies & Highlights]({url}) ({date.strftime('%b %d, %Y')})<br />")
+    lines.append(f"📅 **Latest Week**: [Week {week:02d} – Dailies & Highlights]({url})<br />")
 
-bodypart = """
-📚 <strong>Full Archive</strong>: <a href="/archive/">View All Weeks</a><br />
-🗓️ <strong>Monthly Recap</strong>: <a href="/monthly/">All Months</a><br />
-📰 <strong>RSS Feed</strong>: <a href="/feed.xml">RSS is active</a><br /></p>
----
-"""
+bodypart = """📚 **Full Archive**: [View All Weeks](/archive/)<br/>
+🗓️ **Monthly Recap**: [All Months](/monthly/)<br/>
+📰 **RSS Feed**: [RSS is active](/feed.xml)<br/>
+---"""
 
 lines.append(bodypart)
 
