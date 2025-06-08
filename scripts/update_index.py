@@ -50,6 +50,7 @@ if posts:
 bodypart = """
 📚 **Full Archive**: [View All Weeks](/archive/)  
 📰 **RSS Feed**: [RSS is active](/feed.xml)
+🗓️ **Monthly Recap**: [All Months](/monthly/)
 
 ---
 
