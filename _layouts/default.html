@@ -150,6 +150,9 @@
  </header>
 </div>
   <main>
+    {% if page.title %}
+        <h1 style="padding-top: 20px;">{{ page.title }}</h1>
+    {% endif %}
     <div style="text-align: left">{{ content }}</div>
     <hr>
     <div class="post-nav" style="display: flex; justify-content: space-between; padding-top: 20px;">
