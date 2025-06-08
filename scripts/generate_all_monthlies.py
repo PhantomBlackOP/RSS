@@ -27,16 +27,16 @@ def extract_tags(text, filename):
     if tags:
         print(f"[{filename}] ✅ Found hashtags: {tags}")
         return tags
-    # fallback to Day captions
-    titles = re.findall(r"(?i)^Day\s+\d+:\s+(.+)$", text, re.MULTILINE)
-    print(f"[{filename}] 📋 Day lines found: {titles}")
+    # fallback to markdown-style Day lines
+    titles = re.findall(r"-\s+Day\s+\d+:\s+\[([^\]]+)\]", text)
+    print(f"[{filename}] 📋 Day titles extracted: {titles}")
     words = []
     for title in titles:
         extracted = re.findall(r"\b\w{4,}\b", title)
         print(f"[{filename}] ➕ Extracted words: {extracted}")
         words += extracted
     result = [f"#{{w.lower()}}" for w in words if w.lower() not in STOPWORDS]
-    print(f"[{filename}] 🏷️ Final fallback tags: {{result}}")
+    print(f"[{filename}] 🏷️ Final fallback tags: {result}")
     return result
 
 for (year, month), posts in sorted(monthly_posts.items()):
