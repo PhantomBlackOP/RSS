@@ -1,11 +1,10 @@
 import os
 import re
-import json
 import datetime
 from pathlib import Path
 from collections import defaultdict, Counter
 
-# Load day-to-title+url mapping
+# Load prebuilt map of Day NNN → {title, url}
 with open("scripts/day_url_map_full_with_titles.py", encoding="utf-8") as f:
     exec(f.read())
 
@@ -39,13 +38,15 @@ for month, files in sorted(posts_by_month.items()):
                 day_num = f"Day {int(match.group(1)):03d}"
                 entry = day_map.get(day_num)
                 if entry:
-                    title, url = entry["title"], entry["url"]
-                    all_lines.append(f"- {day_num[4:]}: [{title}]({url})")
-                    tags = re.findall(r"#\w+", title)
+                    clean_title = entry["title"].strip("[]")
+                    url = entry["url"]
+                    all_lines.append(f"- {day_num[4:]}: [{clean_title}]({url})")
+
+                    tags = re.findall(r"#\w+", clean_title)
                     if tags:
                         tag_counter.update(tags)
                     else:
-                        fallback = re.findall(r"[A-Za-z]+", title)
+                        fallback = re.findall(r"[A-Za-z]+", clean_title)
                         tag_counter.update([f"#{word.lower()}" for word in fallback if len(word) > 3])
 
     out_file = OUTPUT_DIR / f"{month}.md"
@@ -61,4 +62,4 @@ for month, files in sorted(posts_by_month.items()):
             f.write("☁️ Tag Cloud\n" + tag_cloud + "\n\n")
         f.write("\n".join(all_lines))
 
-print("✅ Monthly digest files regenerated successfully.")
+print("✅ Clean monthly digests generated using only tweet URLs.")
