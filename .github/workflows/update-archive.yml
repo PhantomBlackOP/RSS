@@ -23,10 +23,11 @@ jobs:
     - name: Run archive updater
       run: python scripts/update_archive.py
 
-    - name: Commit and push changes
+    - name: Commit and push archive.md
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git pull origin HEAD --rebase
         git add archive.md
         git commit -m "Auto-update archive.md" || echo "No changes to commit"
         git push origin HEAD
