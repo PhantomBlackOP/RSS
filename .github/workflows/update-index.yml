@@ -32,4 +32,4 @@ jobs:
           git add index.md
           git diff --cached --quiet || git commit -m "Auto-update index.md"
           git pull origin HEAD --rebase
-          git push origin HEAD
+          git push --force-with-lease origin HEAD
