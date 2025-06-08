@@ -45,7 +45,7 @@ for (year, month), posts in sorted(monthly_posts.items()):
         "---",
         "layout: page",
         f"title: {datetime.date(int(year), int(month), 1).strftime('%B')} {year} – Monthly Digest",
-        f"permalink: /monthly/{year}-{month}.md",
+        f"permalink: /monthly/{year}-{month}/",
         "---",
         "",
         "## 📅 Weekly Highlights",
