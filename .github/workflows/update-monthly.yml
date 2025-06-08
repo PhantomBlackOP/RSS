@@ -1,0 +1,36 @@
+name: Update monthly digest
+
+on:
+  push:
+    paths:
+      - "_posts/**"
+
+jobs:
+  update-monthly:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      - name: Run monthly digest script
+        run: python scripts/update_monthly.py
+
+      - name: Commit and push monthly file
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _monthly/
+          git diff --cached --quiet || git commit -m "Auto-update monthly digest"
+          git fetch origin
+          git rebase origin/main
+          git push origin HEAD
