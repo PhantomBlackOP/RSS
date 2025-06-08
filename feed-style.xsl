@@ -17,7 +17,7 @@
       </style>
     </head>
     <body>
-      <h1>Trevorion Weekly RSS Feed</h1>
+      <h1>📰 Trevorion Weekly RSS Feed</h1>
       <xsl:for-each select="rss/channel/item">
         <div class="item">
           <div class="title">
