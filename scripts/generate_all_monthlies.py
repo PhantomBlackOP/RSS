@@ -35,7 +35,7 @@ def extract_tags(text, filename):
         extracted = re.findall(r"\b\w{4,}\b", title)
         print(f"[{filename}] ➕ Extracted words: {extracted}")
         words += extracted
-    result = [f"#{{w.lower()}}" for w in words if w.lower() not in STOPWORDS]
+    result = [f"#{w.lower()}" for w in words if w.lower() not in STOPWORDS]
     print(f"[{filename}] 🏷️ Final fallback tags: {result}")
     return result
 
