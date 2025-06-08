@@ -22,16 +22,22 @@ for file in POSTS_DIR.glob("*.md"):
         year, month, day, week = match.groups()
         monthly_posts[(year, month)].append((int(week), day, file))
 
-def extract_tags(text):
+def extract_tags(text, filename):
     tags = re.findall(r"#\w+", text)
     if tags:
+        print(f"[{filename}] ✅ Found hashtags: {tags}")
         return tags
     # fallback to Day captions
-    titles = re.findall(r"^Day\s+\d+:\s+(.+)$", text, re.MULTILINE)
+    titles = re.findall(r"(?i)^Day\s+\d+:\s+(.+)$", text, re.MULTILINE)
+    print(f"[{filename}] 📋 Day lines found: {titles}")
     words = []
     for title in titles:
-        words += re.findall(r"\b\w{4,}\b", title)
-    return [f"#{{w.lower()}}" for w in words if w.lower() not in STOPWORDS]
+        extracted = re.findall(r"\b\w{4,}\b", title)
+        print(f"[{filename}] ➕ Extracted words: {extracted}")
+        words += extracted
+    result = [f"#{{w.lower()}}" for w in words if w.lower() not in STOPWORDS]
+    print(f"[{filename}] 🏷️ Final fallback tags: {{result}}")
+    return result
 
 for (year, month), posts in sorted(monthly_posts.items()):
     digest_path = MONTHLY_DIR / f"{year}-{month}.md"
@@ -55,8 +61,9 @@ for (year, month), posts in sorted(monthly_posts.items()):
         title = f"Week {week} – Dailies & Highlights"
         lines.append(f"- {title} – [View]({url})")
         text = file.read_text(encoding="utf-8")
-        tags = extract_tags(text)
-        tag_counter.update(tags)
+        tags = extract_tags(text, file.name)
+        if tags:
+            tag_counter.update(tags)
         total_words += len(re.findall(r"\b\w+\b", text))
 
     lines += [
@@ -90,3 +97,4 @@ for (year, month), posts in sorted(monthly_posts.items()):
     ]
 
     digest_path.write_text("\n".join(lines), encoding="utf-8")
+    print(f"✅ Wrote monthly digest: {digest_path}")
