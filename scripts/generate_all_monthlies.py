@@ -7,7 +7,11 @@ POSTS_DIR = Path("_posts")
 MONTHLY_DIR = Path("_monthly")
 MONTHLY_DIR.mkdir(exist_ok=True)
 
-STOPWORDS = ['the', 'this', 'that', 'and', 'with', 'from', 'into', 'over', 'your', 'have', 'has', 'was', 'were', 'been', 'are', 'for', 'out', 'all', 'but', 'you', 'not', 'just', 'very', 'some', 'more', 'than', 'then', 'once']
+STOPWORDS = [
+    "the", "this", "that", "and", "with", "from", "into", "over", "your",
+    "have", "has", "was", "were", "been", "are", "for", "out", "all", "but",
+    "you", "not", "just", "very", "some", "more", "than", "then", "once"
+]
 
 pattern = re.compile(r"(\d{4})-(\d{2})-(\d{2})-week-(\d{2})\.md")
 monthly_posts = defaultdict(list)
@@ -23,11 +27,11 @@ def extract_tags(text):
     if tags:
         return tags
     # fallback to Day captions
-    titles = re.findall(r"^Day\s+\d{3}:\s+(.+)$", text, re.MULTILINE)
+    titles = re.findall(r"^Day\s+\d+:\s+(.+)$", text, re.MULTILINE)
     words = []
     for title in titles:
         words += re.findall(r"\b\w{4,}\b", title)
-    return [f"#{w.lower()}" for w in words if w.lower() not in STOPWORDS]
+    return [f"#{{w.lower()}}" for w in words if w.lower() not in STOPWORDS]
 
 for (year, month), posts in sorted(monthly_posts.items()):
     digest_path = MONTHLY_DIR / f"{year}-{month}.md"
@@ -82,7 +86,7 @@ for (year, month), posts in sorted(monthly_posts.items()):
         "",
         f"Thanks for following along through {datetime.date(int(year), int(month), 1).strftime('%B')}!  \nSee you next month for more daily sparks from Trevorion.",
         "",
-        f"_Last updated: {datetime.datetime.utcnow().strftime('%b %d, %Y')}_"
+        f"_Last updated: {datetime.datetime.utcnow().strftime('%b %d, %Y')}_"    
     ]
 
     digest_path.write_text("\n".join(lines), encoding="utf-8")
