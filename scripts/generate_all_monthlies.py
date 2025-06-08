@@ -16,6 +16,16 @@ for file in POSTS_DIR.glob("*.md"):
         year, month, day, week = match.groups()
         monthly_posts[(year, month)].append((int(week), day, file))
 
+def extract_tags(text):
+    tags = re.findall(r"#\w+", text)
+    if not tags:
+        titles = re.findall(r"^###\s*(.+)$", text, re.MULTILINE)
+        words = []
+        for title in titles:
+            words += re.findall(r"\b\w{4,}\b", title)
+        return [f"#{word.lower()}" for word in words]
+    return tags
+
 for (year, month), posts in sorted(monthly_posts.items()):
     digest_path = MONTHLY_DIR / f"{year}-{month}.md"
     posts.sort()
@@ -31,18 +41,16 @@ for (year, month), posts in sorted(monthly_posts.items()):
     ]
 
     total_words = 0
-    hashtag_counter = Counter()
+    tag_counter = Counter()
 
     for week, day, file in posts:
         url = f"/{year}/{month}/{day}/week-{week}.html"
         title = f"Week {week} – Dailies & Highlights"
         lines.append(f"- {title} – [View]({url})")
         text = file.read_text(encoding="utf-8")
-        hashtags = re.findall(r"#\w+", text)
-        hashtag_counter.update(hashtags)
+        tags = extract_tags(text)
+        tag_counter.update(tags)
         total_words += len(re.findall(r"\b\w+\b", text))
-
-    top_hashtags = ", ".join(f"`{tag}`" for tag, _ in hashtag_counter.most_common(3))
 
     lines += [
         "",
@@ -51,7 +59,19 @@ for (year, month), posts in sorted(monthly_posts.items()):
         "## 🔤 Word Stats",
         "",
         f"**Total words:** {total_words}",
-        f"**Top hashtags:** {top_hashtags}",
+        f"**Tag count:** {len(tag_counter)}",
+        "",
+        "---",
+        "",
+        "## ☁️ Tag Cloud",
+        ""
+    ]
+
+    for tag, count in tag_counter.most_common():
+        size = min(2.5, 1.0 + (count / max(tag_counter.values())) * 1.5)
+        lines.append(f"<span style=\"font-size: {size:.1f}em; margin-right: 0.5em;\">{tag}</span>")
+
+    lines += [
         "",
         "---",
         "",
