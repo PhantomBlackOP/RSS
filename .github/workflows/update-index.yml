@@ -20,15 +20,17 @@ jobs:
       with:
         python-version: 3.11
 
-    - name: Run archive updater
+    - name: Run index updater
       run: python scripts/update_index.py
 
-    - name: Commit and push changes
+    - name: Commit and push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git pull origin HEAD --rebase
         git add index.md
-        git commit -m "Auto-update index.md" || echo "No changes to commit"
+        git diff --cached --quiet || git commit -m "Auto-update index.md"
         git push origin HEAD
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
