@@ -53,7 +53,31 @@ for (year, month), posts in sorted(monthly_lines.items()):
     ]
 
     for post_date, caption in posts:
-        lines.append(f"- {post_date.strftime('%b %d')}: {caption}")
+        week_number = ((post_date - datetime.date(2024, 12, 30)).days // 7) + 1
+        url = f"/{post_date.strftime('%Y/%m/%d')}/week-{week_number:02d}.html"
+        lines.append(f"- {post_date.strftime('%b %d')}: [{caption}]({url})")
+
+    
+    # Navigation links
+    all_keys = sorted(monthly_lines.keys())
+    index = all_keys.index((year, month))
+    nav_html = "<div style=\"display: flex; justify-content: space-between; padding: 1em 0;\">"
+    if index > 0:
+        prev_year, prev_month = all_keys[index - 1]
+        prev_label = datetime.date(int(prev_year), int(prev_month), 1).strftime("%B %Y")
+        nav_html += f"<div style=\"text-align: left;\">← <a href='/monthly/{prev_year}-{prev_month}/'>{prev_label}</a></div>"
+    else:
+        nav_html += "<div></div>"
+    if index < len(all_keys) - 1:
+        next_year, next_month = all_keys[index + 1]
+        next_label = datetime.date(int(next_year), int(next_month), 1).strftime("%B %Y")
+        nav_html += f"<div style=\"text-align: right;\"><a href='/monthly/{next_year}-{next_month}/'>{next_label}</a> →</div>"
+    else:
+        nav_html += "<div></div>"
+    nav_html += "</div>"
+
+    lines += ["", "---", "", nav_html]
+
 
     lines += [
         "",
