@@ -29,7 +29,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add _monthly/
+          git add monthly/
           git diff --cached --quiet || git commit -m "Auto-update monthly digest"
           git fetch origin
           git rebase origin/main
