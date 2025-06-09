@@ -9,6 +9,7 @@ permalink: /archive/
 Explore all past weekly digests (newest first):
 
 
+- 📅 [Week 24 – Dailies & Highlights](/2025/06/09/week-24.html) (Jun 09, 2025)
 - 📅 [Week 23 – Dailies & Highlights](/2025/06/02/week-23.html) (Jun 02, 2025)
 - 📅 [Week 22 – Dailies & Highlights](/2025/05/26/week-22.html) (May 26, 2025)
 - 📅 [Week 21 – Dailies & Highlights](/2025/05/19/week-21.html) (May 19, 2025)
@@ -33,7 +34,7 @@ Explore all past weekly digests (newest first):
 - 📅 [Week 02 – Dailies & Highlights](/2025/01/06/week-02.html) (Jan 06, 2025)
 - 📅 [Week 01 – Dailies & Highlights](/2024/12/30/week-01.html) (Dec 30, 2024)
 
-_Last updated: Jun 08, 2025 19:47 UTC_
+_Last updated: Jun 09, 2025 14:39 UTC_
 ---
 Follow [@Trevorion](https://x.com/Trevorion)
 
