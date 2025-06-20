@@ -37,24 +37,16 @@ for month, entries in sorted(posts_by_month.items()):
     all_lines = []
     tag_counter = Counter()
 
-    for file in sorted(entries, key=lambda f: f.name):
-        lines = file.read_text(encoding="utf-8").splitlines()
-        for line in lines:
-            match = re.match(r"- Day\s+(\d{3}):", line)
-            if match:
-                day_key = f"Day {int(match.group(1)):03d}"
-                if day_key in day_map:
-                    title = day_map[day_key]["title"].strip("[]")
-                    url = day_map[day_key]["url"]
-                    all_lines.append(f"- {day_key[4:]}: [{title}]({url})")
+for day_number, title, url in sorted(entries):
+    all_lines.append(f"- {day_number:03d}: [{title}]({url})")
 
-                    # Extract hashtags or fallback words
-                    tags = re.findall(r"#\w+", title)
-                    if tags:
-                        tag_counter.update(tags)
-                    else:
-                        fallback = re.findall(r"[A-Za-z]+", title)
-                        tag_counter.update([f"#{word.lower()}" for word in fallback if len(word) > 3])
+    # Extract hashtags or fallback words
+    tags = re.findall(r"#\w+", title)
+    if tags:
+        tag_counter.update(tags)
+    else:
+        fallback = re.findall(r"[A-Za-z]+", title)
+        tag_counter.update([f"#{word.lower()}" for word in fallback if len(word) > 3])
 
     out_file = OUTPUT_DIR / f"{month}.md"
     header = f"# 📅 Monthly Digest – {datetime.date(int(month[:4]), int(month[5:]), 1):%B %Y}\n\n"
