@@ -43,7 +43,7 @@ Each month distills daily AI anime images into a summary of:
     for year in sorted(months_by_year, reverse=True):
         f.write(f"\n## 📆 {year}\n")
         for month in sorted(months_by_year[year], reverse=True):
-            f.write(f"- [{datetime.date(year, month, 1):%B %Y}](/monthly/{year}-{month:02d}/)\n")
+            f.write(f"- [{datetime.date(year, month, 1):%B %Y}](/monthly/{year}-{month:02d}.md)\n")
     f.write("""
 ---
 
