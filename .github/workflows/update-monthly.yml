@@ -31,8 +31,15 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add scripts/day_url_map_full_with_titles.py
           git commit -m "Auto-update day_url_map_full_with_titles.py" || echo "No changes to commit"
-          git pull --rebase
-          git push --force-with-lease origin HEAD
+          n=0
+          until git pull --rebase && git push --force-with-lease origin HEAD; do
+            n=$((n+1))
+            if [ $n -ge 5 ]; then
+              echo "Failed to push after 5 attempts"
+              exit 1
+            fi
+            sleep 5
+          done
 
       - name: Pull to ensure workspace is latest
         run: git pull --rebase
@@ -44,8 +51,15 @@ jobs:
         run: |
           git add monthly/
           git commit -m "Auto-update monthly digests" || echo "No changes to commit"
-          git pull --rebase
-          git push --force-with-lease origin HEAD
+          n=0
+          until git pull --rebase && git push --force-with-lease origin HEAD; do
+            n=$((n+1))
+            if [ $n -ge 5 ]; then
+              echo "Failed to push after 5 attempts"
+              exit 1
+            fi
+            sleep 5
+          done
 
       - name: Pull to ensure workspace is latest
         run: git pull --rebase
