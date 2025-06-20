@@ -6,11 +6,15 @@ OUTPUT_FILE = Path("scripts/day_url_map_full_with_titles.py")
 
 day_map = {}
 
+print("Scanning _posts/ ...")
 for md_file in POSTS_DIR.glob("*.md"):
+    print("Found file:", md_file)
     lines = md_file.read_text(encoding="utf-8").splitlines()
     for line in lines:
+        print("LINE:", line)
         match = re.match(r"- Day (\d{3}): \[(.+?)\]\((https://x.com/Trevorion/status/\d+)\)", line)
         if match:
+            print("MATCHED:", match.groups())
             day_number = int(match.group(1))
             title = match.group(2).strip()
             url = match.group(3).strip()
