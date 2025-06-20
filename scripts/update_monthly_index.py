@@ -30,6 +30,7 @@ with INDEX_FILE.open("w", encoding="utf-8") as f:
 layout: page
 title: Monthly AI Anime Digests
 permalink: /monthly/
+show_title: true
 ---
 
 🗓️ Welcome to the Monthly Digest Hub  
