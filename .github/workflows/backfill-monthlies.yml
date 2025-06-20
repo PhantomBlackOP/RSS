@@ -16,6 +16,9 @@ jobs:
         with:
           python-version: 3.11
 
+      - name: Extract day → title/url map
+        run: python scripts/extract_day_map.py
+        
       - name: Run backfill script
         run: python scripts/generate_all_monthlies.py
 
