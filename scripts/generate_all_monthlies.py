@@ -3,7 +3,6 @@ import re
 import datetime
 from pathlib import Path
 from collections import defaultdict, Counter
-import json
 import sys
 
 START_DATE = datetime.date(2025, 1, 1)  # Day 001 = Jan 1, 2025
@@ -20,13 +19,6 @@ OUTPUT_DIR.mkdir(exist_ok=True)
 for f in OUTPUT_DIR.glob("*.md"):
     f.unlink()
 
-def extract_month_key(filename):
-    match = re.match(r"(\d{4})-(\d{2})-(\d{2})-week-(\d{2})\.md", filename)
-    if match:
-        year, month = match.group(1), match.group(2)
-        return f"{year}-{month}"
-    return None
-
 posts_by_month = defaultdict(list)
 
 for day_key, entry in day_map.items():
@@ -42,16 +34,16 @@ for month, entries in sorted(posts_by_month.items()):
     all_lines = []
     tag_counter = Counter()
 
-for day_number, title, url in sorted(entries):
-    all_lines.append(f"- {day_number:03d}: [{title}]({url})")
+    for day_number, title, url in sorted(entries):
+        all_lines.append(f"- {day_number:03d}: [{title}]({url})")
 
-    # Extract hashtags or fallback words
-    tags = re.findall(r"#\w+", title)
-    if tags:
-        tag_counter.update(tags)
-    else:
-        fallback = re.findall(r"[A-Za-z]+", title)
-        tag_counter.update([f"#{word.lower()}" for word in fallback if len(word) > 3])
+        # Extract hashtags or fallback words
+        tags = re.findall(r"#\w+", title)
+        if tags:
+            tag_counter.update(tags)
+        else:
+            fallback = re.findall(r"[A-Za-z]+", title)
+            tag_counter.update([f"#{word.lower()}" for word in fallback if len(word) > 3])
 
     out_file = OUTPUT_DIR / f"{month}.md"
     header = f"# 📅 Monthly Digest – {datetime.date(int(month[:4]), int(month[5:]), 1):%B %Y}\n\n"
