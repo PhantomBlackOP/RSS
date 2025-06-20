@@ -11,6 +11,7 @@ header = """---
 layout: page
 title: Trevorion Weekly RSS Feed
 permalink: /
+show_title: true
 ---
 <img src="/assets/Banner.png" alt="Trevorion Weekly Digest Banner" style="width: 365px; height: auto; float: left; margin-bottom: 50px; margin-right: 24px;" />
 
