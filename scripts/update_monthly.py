@@ -4,7 +4,7 @@ from pathlib import Path
 print("🚀 Starting monthly digest generation...")
 
 # Run the updated generate_all_monthlies.py
-subprocess.run(["python", "/scripts/generate_all_monthlies.py"], check=True)
+subprocess.run(["python", "scripts/generate_all_monthlies.py"], check=True)
 
 # Stage changes in monthly/
 print("📦 Staging monthly digest updates...")
