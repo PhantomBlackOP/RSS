@@ -13,12 +13,12 @@ Each month distills daily AI anime images into a summary of:
 ---
 
 ## 📆 2025
-- [June 2025](/monthly/2025-06/)
-- [May 2025](/monthly/2025-05/)
-- [April 2025](/monthly/2025-04/)
-- [March 2025](/monthly/2025-03/)
-- [February 2025](/monthly/2025-02/)
-- [January 2025](/monthly/2025-01/)
+- [June 2025](/monthly/2025-06.md)
+- [May 2025](/monthly/2025-05.md)
+- [April 2025](/monthly/2025-04.md)
+- [March 2025](/monthly/2025-03.md)
+- [February 2025](/monthly/2025-02.md)
+- [January 2025](/monthly/2025-01.md)
 
 ---
 
