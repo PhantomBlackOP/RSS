@@ -2,6 +2,7 @@
 layout: page
 title: Monthly AI Anime Digests
 permalink: /monthly/
+show_title: true
 ---
 
 🗓️ Welcome to the Monthly Digest Hub  
