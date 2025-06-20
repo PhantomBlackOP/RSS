@@ -31,6 +31,15 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add index.md
           git diff --cached --quiet || git commit -m "Auto-update index.md"
-          git fetch origin
-          git rebase origin/main
-          git push --force-with-lease origin HEAD
+          n=0
+          until git pull --rebase && git push --force-with-lease origin HEAD; do
+            n=$((n+1))
+            if [ $n -ge 5 ]; then
+              echo "Failed to push after 5 attempts"
+              exit 1
+            fi
+            sleep 5
+          done
+
+      - name: Pull to ensure workspace is latest
+        run: git pull --rebase
