@@ -2,6 +2,7 @@
 layout: page
 title: Trevorion Weekly RSS Feed
 permalink: /
+show_title: true
 ---
 <img src="/assets/Banner.png" alt="Trevorion Weekly Digest Banner" style="width: 365px; height: auto; float: left; margin-bottom: 50px; margin-right: 24px;" />
 
@@ -18,7 +19,7 @@ Built for long-term readers, indie web fans, and curious minds.
 📰 **RSS Feed**: [RSS is active](/feed.xml)<br/>
 ---
 
-_Last updated: Jun 20, 2025 20:52 UTC_
+_Last updated: Jun 20, 2025 21:05 UTC_
 
 
 Follow [@Trevorion](https://x.com/Trevorion)  
