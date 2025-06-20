@@ -31,6 +31,7 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add scripts/day_url_map_full_with_titles.py
           git commit -m "Auto-update day_url_map_full_with_titles.py" || echo "No changes to commit"
+          git pull --rebase
           git push --force-with-lease origin HEAD
 
       - name: Pull to ensure workspace is latest
@@ -43,8 +44,7 @@ jobs:
         run: |
           git add monthly/
           git commit -m "Auto-update monthly digests" || echo "No changes to commit"
-          git fetch origin
-          git rebase origin/main
+          git pull --rebase
           git push --force-with-lease origin HEAD
 
       - name: Pull to ensure workspace is latest
