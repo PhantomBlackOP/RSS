@@ -11,6 +11,7 @@ header = """---
 layout: page
 title: Archive
 permalink: /archive/
+show_title: false
 ---
 
 # 📚 Archive
