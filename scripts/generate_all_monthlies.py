@@ -6,6 +6,8 @@ from collections import defaultdict, Counter
 import json
 import sys
 
+START_DATE = datetime.date(2025, 1, 1)  # Day 001 = Jan 1, 2025
+
 # Load Day-to-Tweet map
 sys.path.insert(0, "scripts")
 from day_url_map_full_with_titles import day_map
@@ -23,16 +25,19 @@ def extract_month_key(filename):
 
 posts_by_month = defaultdict(list)
 
-for file in POSTS_DIR.glob("*.md"):
-    key = extract_month_key(file.name)
-    if key:
-        posts_by_month[key].append(file)
+for day_key, entry in day_map.items():
+    day_number = int(day_key.split()[1])  # Extracts N from "Day NNN"
+    entry_date = START_DATE + datetime.timedelta(days=day_number - 1)
+    month_key = f"{entry_date.year}-{entry_date.month:02d}"
+    title = entry["title"].strip("[]")
+    url = entry["url"]
+    posts_by_month[month_key].append((day_number, title, url))
 
-for month, files in sorted(posts_by_month.items()):
+for month, entries in sorted(posts_by_month.items()):
     all_lines = []
     tag_counter = Counter()
 
-    for file in sorted(files, key=lambda f: f.name):
+    for file in sorted(entries, key=lambda f: f.name):
         lines = file.read_text(encoding="utf-8").splitlines()
         for line in lines:
             match = re.match(r"- Day\s+(\d{3}):", line)
