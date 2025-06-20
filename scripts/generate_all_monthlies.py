@@ -35,8 +35,9 @@ for day_key, entry in day_map.items():
     month_key = f"{entry_date.year}-{entry_date.month:02d}"
     title = entry["title"].strip("[]")
     url = entry["url"]
-    posts_by_month[month_key].append((day_number, title, url))
+    posts_by_month[month_key].append((day_number, title, URL))
 
+print("All months found:", sorted(posts_by_month.keys()))
 for month, entries in sorted(posts_by_month.items()):
     all_lines = []
     tag_counter = Counter()
