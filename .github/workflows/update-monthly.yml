@@ -47,10 +47,14 @@ jobs:
       - name: Update Monthly Digests
         run: python scripts/update_monthly.py
 
+      - name: Update Monthly Index
+        run: python scripts/update_monthly_index.py
+
       - name: Commit and push monthly digests
         run: |
           git add monthly/
-          git commit -m "Auto-update monthly digests" || echo "No changes to commit"
+          git add monthly_index.md
+          git commit -m "Auto-update monthly digests and index" || echo "No changes to commit"
           n=0
           until git pull --rebase && git push --force-with-lease origin HEAD; do
             n=$((n+1))
