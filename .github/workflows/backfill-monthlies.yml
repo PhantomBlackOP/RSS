@@ -35,10 +35,14 @@ jobs:
       - name: Generate Monthly Digests
         run: python scripts/generate_all_monthlies.py
 
+      - name: Update Monthly Index
+        run: python scripts/update_monthly_index.py
+
       - name: Commit and push monthly digests
         run: |
           git add monthly/
-          git commit -m "Backfill monthly digests" || echo "No changes to commit"
+          git add monthly_index.md
+          git commit -m "Backfill monthly digests and index" || echo "No changes to commit"
           git push --force-with-lease origin HEAD
 
       - name: Pull to ensure workspace is latest
