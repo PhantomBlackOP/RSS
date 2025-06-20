@@ -6,8 +6,7 @@ from collections import defaultdict, Counter
 import json
 
 # Load Day-to-Tweet map
-with open("scripts/day_url_map_full_with_titles.json", encoding="utf-8") as f:
-    day_map = json.load(f)
+from scripts.day_url_map_full_with_titles import day_map
 
 POSTS_DIR = Path("_posts")
 OUTPUT_DIR = Path("_monthly")
