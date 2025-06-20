@@ -36,6 +36,7 @@ jobs:
         run: python scripts/generate_all_monthlies.py
 
       - name: Commit and push monthly digests
+        run: |
           git add monthly/
           git commit -m "Backfill monthly digests" || echo "No changes to commit"
           git push --force-with-lease origin HEAD
