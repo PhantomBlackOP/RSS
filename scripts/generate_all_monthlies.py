@@ -11,7 +11,7 @@ sys.path.insert(0, "scripts")
 from day_url_map_full_with_titles import day_map
 
 POSTS_DIR = Path("_posts")
-OUTPUT_DIR = Path("_monthly")
+OUTPUT_DIR = Path("monthly")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 def extract_month_key(filename):
