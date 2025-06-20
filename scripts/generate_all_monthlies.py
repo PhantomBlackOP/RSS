@@ -4,9 +4,11 @@ import datetime
 from pathlib import Path
 from collections import defaultdict, Counter
 import json
+import sys
 
 # Load Day-to-Tweet map
-from scripts.day_url_map_full_with_titles import day_map
+sys.path.insert(0, "scripts")
+from day_url_map_full_with_titles import day_map
 
 POSTS_DIR = Path("_posts")
 OUTPUT_DIR = Path("_monthly")
