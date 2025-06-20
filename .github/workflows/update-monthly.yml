@@ -20,6 +20,9 @@ jobs:
         with:
           python-version: 3.11
 
+      - name: Extract day → title/url map
+        run: python scripts/extract_day_map.py
+        
       - name: Run monthly digest script
         run: python scripts/update_monthly.py
 
