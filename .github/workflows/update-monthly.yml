@@ -23,17 +23,29 @@ jobs:
       - name: Extract day → title/url map
         run: python scripts/extract_day_map.py
         
-      - name: Run monthly digest script
-        run: python scripts/update_monthly.py
-
-      - name: Commit and push monthly file
+      - name: Commit and Push Updated Day Map
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scripts/day_url_map_full_with_titles.py
+          git commit -m "Auto-update day_url_map_full_with_titles.py" || echo "No changes to commit"
+          git push --force-with-lease origin HEAD
+
+      - name: Pull to ensure workspace is latest
+        run: git pull --rebase
+
+      - name: Update Monthly Digests
+        run: python scripts/update_monthly.py
+
+      - name: Commit and push monthly digests
+        run: |
           git add monthly/
-          git diff --cached --quiet || git commit -m "Auto-update monthly digest"
+          git commit -m "Auto-update monthly digests" || echo "No changes to commit"
           git fetch origin
           git rebase origin/main
           git push --force-with-lease origin HEAD
+
+      - name: Pull to ensure workspace is latest
+        run: git pull --rebase
