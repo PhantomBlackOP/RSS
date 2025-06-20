@@ -16,6 +16,10 @@ POSTS_DIR = Path("_posts")
 OUTPUT_DIR = Path("monthly")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
+# Clear out old monthly digests to force a full rebuild
+for f in OUTPUT_DIR.glob("*.md"):
+    f.unlink()
+
 def extract_month_key(filename):
     match = re.match(r"(\d{4})-(\d{2})-(\d{2})-week-(\d{2})\.md", filename)
     if match:
