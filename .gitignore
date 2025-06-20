@@ -15,3 +15,6 @@ Thumbs.db
 # Ignore IDE/editor files
 .vscode/
 .idea/
+
+!scripts/day_url_map_full_with_titles.py
+!_monthly/
