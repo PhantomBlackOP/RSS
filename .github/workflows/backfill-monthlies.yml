@@ -19,15 +19,26 @@ jobs:
       - name: Extract day → title/url map
         run: python scripts/extract_day_map.py
         
-      - name: Run backfill script
-        run: python scripts/generate_all_monthlies.py
-
-      - name: Commit and push monthly digests
+      - name: Commit and Push Updated Day Map
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add monthly/
-          git diff --cached --quiet || git commit -m "Backfill all monthly digests"
+          git add scripts/day_url_map_full_with_titles.py
+          git commit -m "Auto-update day_url_map_full_with_titles.py" || echo "No changes to commit"
           git push --force-with-lease origin HEAD
+
+      - name: Pull to ensure workspace is latest
+        run: git pull --rebase
+
+      - name: Generate Monthly Digests
+        run: python scripts/generate_all_monthlies.py
+
+      - name: Commit and push monthly digests
+          git add monthly/
+          git commit -m "Backfill monthly digests" || echo "No changes to commit"
+          git push --force-with-lease origin HEAD
+
+      - name: Pull to ensure workspace is latest
+        run: git pull --rebase
