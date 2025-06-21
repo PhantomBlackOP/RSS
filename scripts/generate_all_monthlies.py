@@ -31,13 +31,13 @@ for day_key, entry in day_map.items():
 
 print("All months found:", sorted(posts_by_month.keys()))
 
-from datetime import datetime, timedelta
-
+from datetime import datetime, timedelta, date
+    
 def prev_month(month):
     dt = datetime.strptime(month, "%Y-%m")
     prev = dt.replace(day=1) - timedelta(days=1)
     return prev.strftime("%Y-%m")
-
+    
 def next_month(month):
     dt = datetime.strptime(month, "%Y-%m")
     next_ = (dt.replace(day=28) + timedelta(days=4)).replace(day=1)
@@ -63,7 +63,7 @@ for month, entries in sorted(posts_by_month.items()):
             tag_counter.update([f"#{word.lower()}" for word in fallback if len(word) > 3])
 
     out_file = OUTPUT_DIR / f"{month}.md"
-   
+  
     header = (
         f"---\n"
         f"layout: page\n"
@@ -77,7 +77,7 @@ for month, entries in sorted(posts_by_month.items()):
     if month != last_month:
         header += f"next_url: /monthly/{next_month(month)}.html\n"
     header += "---\n\n"
-    header += f"# 📅 Monthly Digest – {datetime.date(int(month[:4]), int(month[5:]), 1):%B %Y}\n\n"
+    header += f"# 📅 Monthly Digest – {date(int(month[:4]), int(month[5:]), 1):%B %Y}\n\n"
 
     tag_cloud = " ".join(sorted(tag_counter.keys()))
     total_words = sum(len(re.findall(r'\w+', entry['title'])) for entry in day_map.values() if entry["title"])
