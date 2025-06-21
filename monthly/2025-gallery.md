@@ -6,7 +6,7 @@ show_title: false
 page_type: archive
 ---
 
-# Daily Images Gallery 2025
+🖼️ Daily Images Gallery 2025
 
 [001: Back in the day](https://pbs.twimg.com/media/Gg2cGkZXoAA-hOW?format=jpg&name=medium)
 [002: How it all began](https://pbs.twimg.com/media/Gg2jnszXMAAdjnM?format=jpg&name=medium)
@@ -14,31 +14,31 @@ page_type: archive
 [004: Gamer Forever!](https://pbs.twimg.com/media/Gg2p2uKXsAAmyPl?format=jpg&name=medium)
 [005: Latest Insanity](https://pbs.twimg.com/media/Gg6BZ0OWoAAAPgU?format=jpg&name=medium)
 [006: Foot Soldier](https://pbs.twimg.com/media/Gg6HiLNXkAALhUb?format=jpg&name=medium)
-007: Knight
-008: Protection Paladin
-009: Gundam
-010: Mizuki
-011: Doomsday
-012: Dragon
-013: Tomorrow
-014: Carrier
-015: Doctor
-016: Tiger
-017: Those ASML shares …
-018: Batman
-019: Carthaginian
-020: Hawk
-021: Noah
-022: Year of the Snake
-023: Hashira
-024: Sword
-025: Golf
-026: Solar Carrack
-027: Labrador
-028: Spring Festival
-029: Spaghetti
-030: The Map
-031: Pirate
+[007: Knight](https://pbs.twimg.com/media/Gg6IrCJXUAAx9Y8?format=jpg&name=medium)
+[008: Protection Paladin](https://pbs.twimg.com/media/Gg6LgQ3WUAAWvqq?format=jpg&name=medium)
+[009: Gundam](https://x.com/Trevorion/status/1877596003513110754/photo/1)
+[010: Mizuki](https://pbs.twimg.com/media/Gg6VZZWWcAEcadV?format=jpg&name=medium)
+[011: Doomsday](https://pbs.twimg.com/media/Gg-0rqkWkAAmjtB?format=jpg&name=medium)
+[012: Dragon](https://pbs.twimg.com/media/GhFZdNKWgAA1IK8?format=jpg&name=medium)
+[013: Tomorrow](https://pbs.twimg.com/media/GhI4u6wXQAAYCab?format=jpg&name=medium)
+[014: Carrier](https://pbs.twimg.com/media/GhNlYZVW4AAtAcs?format=jpg&name=medium)
+[015: Doctor](https://pbs.twimg.com/media/GhT2Pp9XMAA4UUG?format=jpg&name=medium)
+[016: Tiger](https://pbs.twimg.com/media/GheYAS1XIAE6KVP?format=jpg&name=medium)
+[017: Those ASML shares …](https://pbs.twimg.com/media/GhguaqUWMAEWPMq?format=jpg&name=medium)
+[018: Batman](https://pbs.twimg.com/media/GhjviSqXYAAlzW3?format=jpg&name=medium)
+[019: Carthaginian](https://pbs.twimg.com/media/GhqdwQmXsAAjnD-?format=jpg&name=medium)
+[020: Hawk](https://pbs.twimg.com/media/GhvP8UuXgAA61Nw?format=jpg&name=medium)
+[021: Noah](https://pbs.twimg.com/media/Gh1da0MWgAAQh_6?format=jpg&name=medium)
+[022: Year of the Snake](https://pbs.twimg.com/media/Gh5d1t0XAAAaimI?format=jpg&name=medium)
+[023: Hashira](https://pbs.twimg.com/media/Gh8jD2xW8AAeUTf?format=jpg&name=medium)
+[024: Sword](https://pbs.twimg.com/media/GiDZaB4W8AAugWx?format=jpg&name=medium)
+[025: Golf](https://pbs.twimg.com/media/GiHQkB-WQAAAFly?format=jpg&name=medium)
+[026: Solar Carrack](https://pbs.twimg.com/media/GiM6VzDWYAAdBdJ?format=jpg&name=medium)
+[027: Labrador](https://pbs.twimg.com/media/GiSTnNuW4AAdXYK?format=jpg&name=medium)
+[028: Spring Festival](https://pbs.twimg.com/media/GiXSfbrXoAA5uJq?format=jpg&name=medium)
+[029: Spaghetti](https://pbs.twimg.com/media/GihJ_ulWMAAVVLJ?format=jpg&name=medium)
+[030: The Map](https://pbs.twimg.com/media/GihM4DjWsAEHmOR?format=jpg&name=medium)
+[031: Pirate](https://pbs.twimg.com/media/GimhE38XMAABiLx?format=jpg&name=medium)
 032: Grimoire
 033: Demon Lord
 034: Future Grok
