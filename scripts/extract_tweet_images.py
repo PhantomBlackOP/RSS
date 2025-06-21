@@ -7,6 +7,7 @@ def get_tweet_image(tweet_url):
     try:
         r = requests.get(tweet_url, headers=headers, timeout=10)
         r.raise_for_status()
+        print(f"Fetching {tweet_url} — status code: {r.status_code}")
         print(f"Fetched HTML for {tweet_url}:\n{r.text[:500]}")
         m = re.search(r'<meta property="og:image" content="([^"]+)"', r.text)
         if m:
