@@ -14,11 +14,17 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: 3.11
-          
+
       - name: Install requests
         run: pip install requests
-      
+
       - name: Run fetch_tweet_v2.py
         env:
           TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
-        run: python scripts/fetch_tweet_v2.py
+        run: python fetch_tweet_v2.py
+
+      - name: Upload test_response.json as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: tweet-response
+          path: test_response.json
