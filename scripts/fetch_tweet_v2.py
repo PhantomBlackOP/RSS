@@ -25,7 +25,7 @@ response = requests.get(url, headers=headers)
 print("Status code:", response.status_code)
 
 # Save the JSON to file
-with open("testfile.txt", "w", encoding="utf-8") as f:
+with open("test_response.json", "w", encoding="utf-8") as f:
     json.dump(response.json(), f, indent=2, ensure_ascii=False)
 
-print("Response saved to testfile.txt")
+print("Response saved to test_response.json")
