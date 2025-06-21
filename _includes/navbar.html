@@ -1,19 +1,19 @@
 <nav style="display: flex; justify-content: space-between; padding-top: 20px; text-align: center;">
-  {% if page.prev_url %}
+  {% if include.prev_url %}
     <div style="text-align: left;">
-      <a href="{{ page.prev_url }}">👈 PREVIOUS </a>
+      <a href="{{ include.prev_url }}">👈 PREVIOUS </a>
     </div>
   {% endif %}
   <div style="text-align: center;">
     {% assign latest_week = site.posts | first %}
-    <a href="{{ latest_week.url }}" style="margin: 0 0.7em;">🗞️WEEKLY</a>
+    <a href="{{ latest_week.url }}" style="margin: 0 0.7em;"> 🗞️WEEKLY </a>
     <a href="/archive/" style="margin: 0 0.7em;"> 📚 ARCHIVE </a>
     <a href="/monthly/" style="margin: 0 0.7em;"> 🗓️ MONTHLY </a>
     <a href="/rss.xml" style="margin: 0 0.7em;"> 📰 RSS </a>
   </div>
-  {% if page.next_url %}
+  {% if include.next_url %}
     <div style="text-align: right;">
-      <a href="{{ page.next_url }}"> NEXT 👉</a>
+      <a href="{{ include.next_url }}"> NEXT 👉</a>
     </div>
   {% endif %}
 </nav>
