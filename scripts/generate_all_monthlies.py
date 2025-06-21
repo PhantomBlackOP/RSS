@@ -101,7 +101,7 @@ for month, entries in sorted(posts_by_month.items()):
         f"🖼️ Total days: {len(all_lines)} 📜 Total words: {total_words} 🏷️ Tag count: {len(tag_counter)}\n\n" +
         (f"🏆 Top words: {top_words}\n" if top_words else "") +
         (f"🔥 Top tags: {top_tags}\n\n" if top_tags else "") +
-        (f"☁️ Tag Cloud\n{tag_cloud}\n\n" if tag_cloud else "")
+        (f"☁️ Tag Cloud: \n{tag_cloud}\n\n" if tag_cloud else "")
     )
 
     out_file.write_text(file_content, encoding="utf-8")
