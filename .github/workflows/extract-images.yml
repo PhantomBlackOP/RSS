@@ -25,7 +25,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add _posts/*-images-*.md
+          git add gallery/
           git commit -m "Auto-generate tweet image lists" || echo "No changes to commit"
           git pull --rebase
           git push --force-with-lease origin HEAD
