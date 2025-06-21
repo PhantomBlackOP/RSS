@@ -67,57 +67,57 @@ page_type: archive
 - [057: Free!](https://pbs.twimg.com/media/GksEdMkXEAAyqYa?format=jpg&name=medium)
 - [058: Old Petrol Station](https://pbs.twimg.com/media/GkzoBvHWEAA-SaM?format=jpg&name=medium)
 - [059: Old Boots](https://pbs.twimg.com/media/Gk45EJZWAAMG8yR?format=jpg&name=medium)
-- [060: The Siren
-- [061: Mecha-Tiger
-- [062: Lorelei
-- [063: Sakura
-- [064: Runestone
-- [065: Hot Dog
-- [066: Stranglethorn
-- [067: Penelope
-- [068: The Strafe
-- [069: The Driver
-- [070: Prometheus
-- [071: Golden Egg
-- [072: Iustitia
-- [073: And here we go…
-- [074: Mikari
-- [075: Princess Diana of Themyscira
-- [076: Blanche
-- [077: Kraken
-- [078: Train
-- [079: Beralios
-- [080: Phantom Prometheus
-- [081: Under the sea …
-- [082: Balloon
-- [083: Knight Choco
-- [084: Retro
-- [085: Tori
-- [086: Sylphie
-- [087: The Boss
-- [088: Gunner
-- [089: Badminton
-- [090: Time to make a move!
-- [091: The #Tryst
-- [092: A future #AIPet
-- [093: Kuroe Yamada #AnimeGirl
-- [094: Street Hawk 🏍️ #Rider #SciFi
-- [095: Star Child✨#SciFi #Nebula
-- [096: Celestial Bloom✨#Fractal #Pattern
-- [097: Rachel 🤷‍♀️ #CyberGirl
-- [098: Baaba 🐏 #BlackSheep #HaveYouAnyWool
-- [099: Orion 🦾 #PowerArmor #Guardian #PhantomCorps
-- [100: #Optimus on #Mars 🦾 @ElonMusk
-- [101: #Goku 🐉🔮 #Dragonball #AIAnime
-- [102: Elara Calden ✨🧙‍♀️#Arcane #Battlemage
-- [103: Oda Nobunaga 👹🗾 #Samurai #FeudalJapan
-- [104: Bjorn the Bear ⚔️💪 #Warrior #Dungeon
-- [105: Vision 🌃🏙️ #Innovation #FutureTech
-- [106: Simone Lorène🤺🌷 #Reboot #RaSênunoHoshi @NetflixAnime
-- [107: The Truck 🚛🌆 #Survival #PostApocalyptic
-- [108: Aoi Hikari 💙🏞️ #Nature #Paradise
-- [109: Zahira ⏳✨ #TimeBokan #DesertKingdom
-- [110: The Cosplayer 🗡️🕵️ #YorForger #SpyXFamily #Cosplay #Convention
+- [060: The Siren]()
+- [061: Mecha-Tiger]()
+- [062: Lorelei]()
+- [063: Sakura]()
+- [064: Runestone]()
+- [065: Hot Dog]()
+- [066: Stranglethorn]()
+- [067: Penelope]()
+- [068: The Strafe]()
+- [069: The Driver]()
+- [070: Prometheus]()
+- [071: Golden Egg]()
+- [072: Iustitia]()
+- [073: And here we go…]()
+- [074: Mikari]()
+- [075: Princess Diana of Themyscira]()
+- [076: Blanche]()
+- [077: Kraken]()
+- [078: Train]()
+- [079: Beralios]()
+- [080: Phantom Prometheus]()
+- [081: Under the sea …]()
+- [082: Balloon]()
+- [083: Knight Choco]()
+- [084: Retro]()
+- [085: Tori]()
+- [086: Sylphie]()
+- [087: The Boss]()
+- [088: Gunner]()
+- [089: Badminton]()
+- [090: Time to make a move!]()
+- [091: The #Tryst]()
+- [092: A future #AIPet]()
+- [093: Kuroe Yamada #AnimeGirl]()
+- [094: Street Hawk 🏍️ #Rider #SciFi]()
+- [095: Star Child✨#SciFi #Nebula]()
+- [096: Celestial Bloom✨#Fractal #Pattern]()
+- [097: Rachel 🤷‍♀️ #CyberGirl]()
+- [098: Baaba 🐏 #BlackSheep #HaveYouAnyWool]()
+- [099: Orion 🦾 #PowerArmor #Guardian #PhantomCorps]()
+- [100: #Optimus on #Mars 🦾 @ElonMusk]()
+- [101: #Goku 🐉🔮 #Dragonball #AIAnime]()
+- [102: Elara Calden ✨🧙‍♀️#Arcane #Battlemage]()
+- [103: Oda Nobunaga 👹🗾 #Samurai #FeudalJapan]()
+- [104: Bjorn the Bear ⚔️💪 #Warrior #Dungeon]()
+- [105: Vision 🌃🏙️ #Innovation #FutureTech]()
+- [106: Simone Lorène🤺🌷 #Reboot #RaSênunoHoshi @NetflixAnime]()
+- [107: The Truck 🚛🌆 #Survival #PostApocalyptic]()
+- [108: Aoi Hikari 💙🏞️ #Nature #Paradise]()
+- [109: Zahira ⏳✨ #TimeBokan #DesertKingdom]()
+- [110: The Cosplayer 🗡️🕵️ #YorForger #SpyXFamily #Cosplay #Convention]()
 - [111: The Cosplayer 🗡️🕵️ #YorForger #SpyXFamily #Cosplay #Convention
 - [112: Fabergé Imperial Egg 🥚💎 #RussianHistory #AntiqueCollectibles
 - [113: Death Note 📖💀 #DeathNote #Dark #Supernatural
