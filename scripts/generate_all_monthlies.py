@@ -51,6 +51,19 @@ for month, entries in sorted(posts_by_month.items()):
     all_lines = []
     tag_counter = Counter()
 
+    from collections import Counter
+    
+    # For Top Words (excluding stopwords)
+    stopwords = {"the", "of", "and", "a", "in", "to", "for", "on", "with", "at", "by", "an"}
+    words = []
+    for _, title, _ in entries:
+        words += [w.lower() for w in re.findall(r'\w+', title) if w.lower() not in stopwords]
+    word_freq = Counter(words)
+    top_words = ", ".join(f"{w} ({c})" for w, c in word_freq.most_common(3))
+    
+    # For Top Tags
+    top_tags = ", ".join(f"{tag} ({count})" for tag, count in tag_counter.most_common(3))
+    
     for day_number, title, url in sorted(entries):
         all_lines.append(f"- {day_number:03d}: [{title}]({url})")
 
@@ -86,7 +99,9 @@ for month, entries in sorted(posts_by_month.items()):
         header +
         "\n".join(all_lines) + "\n\n" +
         f"🖼️ Total days: {len(all_lines)} 📜 Total words: {total_words} 🏷️ Tag count: {len(tag_counter)}\n\n" +
-        (f"☁️ Tag Cloud:\n{tag_cloud}\n\n" if tag_cloud else "")
+        (f"🏆 Top words: {top_words}\n" if top_words else "") +
+        (f"🔥 Top tags: {top_tags}\n\n" if top_tags else "") +
+        (f"☁️ Tag Cloud\n{tag_cloud}\n\n" if tag_cloud else "")
     )
 
     out_file.write_text(file_content, encoding="utf-8")
