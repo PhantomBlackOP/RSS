@@ -8,7 +8,7 @@ ARCHIVE_FILE = Path("archive.md")
 
 # Front matter
 header = """---
-layout: default
+layout: page
 title: Archive
 permalink: /archive/
 show_title: false
