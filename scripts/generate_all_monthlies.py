@@ -48,10 +48,11 @@ for month, entries in sorted(posts_by_month.items()):
     out_file = OUTPUT_DIR / f"{month}.md"
     header = (
         f"---\n"
-        f"layout: monthly\n"
+        f"layout: default\n"
         f"title: Monthly\n"
         f"permalink: /monthly/{month}.html\n"
         f"show_title: false\n"
+        f"page_type: monthly\n"
         f"---\n\n"
     )
     header += f"# 📅 Monthly Digest – {datetime.date(int(month[:4]), int(month[5:]), 1):%B %Y}\n\n"
