@@ -4,10 +4,10 @@ from pathlib import Path
 import re
 
 # Load secrets from environment as before
-API_KEY = os.environ["DAU6lMuxLTAAoVkBJqdNY0cch"]
-API_SECRET = os.environ["Yt5ZuCmESWTtDioPF084PKtbVAqkt8kJDQut1B8z2ibSfV66he"]
-ACCESS_TOKEN = os.environ["1877103205214994432-1uyjznwOLm7wMhRZq4XZgJv9OBVKBd"]
-ACCESS_SECRET = os.environ["0EFNf3iVooYHSVC7gO9vN14PQeIjK2s6hq1LrFjIbOFLd"]
+API_KEY = os.environ["TWITTER_API_KEY"]
+API_SECRET = os.environ["TWITTER_API_SECRET"]
+ACCESS_TOKEN = os.environ["TWITTER_ACCESS_TOKEN"]
+ACCESS_SECRET = os.environ["TWITTER_ACCESS_SECRET"]
 
 auth = tweepy.OAuth1UserHandler(API_KEY, API_SECRET, ACCESS_TOKEN, ACCESS_SECRET)
 api = tweepy.API(auth, wait_on_rate_limit=True)
