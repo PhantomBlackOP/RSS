@@ -39,34 +39,34 @@ page_type: archive
 - [029: Spaghetti](https://pbs.twimg.com/media/GihJ_ulWMAAVVLJ?format=jpg&name=medium)
 - [030: The Map](https://pbs.twimg.com/media/GihM4DjWsAEHmOR?format=jpg&name=medium)
 - [031: Pirate](https://pbs.twimg.com/media/GimhE38XMAABiLx?format=jpg&name=medium)
-- [032: Grimoire]()
-033: Demon Lord
-034: Future Grok
-035: Manga
-036: Revenge of the Nuggets
-037: A dimensionally transcendent WoW Home
-038: Liquor
-039: Tsukiko
-040: Aqua
-041: The Storm
-042: Samurai
-043: Processor War
-044: Haruka
-045: Maltese Puppy
-046: Old Chest
-047: Pizza
-048: The Compass
-049: Lost Ring
-050: Luna
-051: Monster
-052: Chiyo
-053: Bianca
-054: The Return
-055: The Commander
-056: Tablet
-057: Free!
-058: Old Petrol Station
-059: Old Boots
+- [032: Grimoire](https://pbs.twimg.com/media/Gitv_QiXkAA3mYA?format=jpg&name=medium)
+- [033: Demon Lord](https://pbs.twimg.com/media/GiytSg6WUAAWS69?format=jpg&name=medium)
+- [034: Future Grok](https://pbs.twimg.com/media/Gi1ouCxXgAAKMCj?format=jpg&name=medium)
+- [035: Manga](https://pbs.twimg.com/media/Gi6Dk-zWIAANgz2?format=jpg&name=medium)
+- [036: Revenge of the Nuggets](https://pbs.twimg.com/media/Gi_FIKlWAAASuBO?format=jpg&name=medium)
+- [037: A dimensionally transcendent WoW Home](https://pbs.twimg.com/media/GjEN_RpXcAAzq4Z?format=jpg&name=medium)
+- [038: Liquor](https://pbs.twimg.com/media/GjKpC4vWEAEIUcm?format=jpg&name=medium)
+- [039: Tsukiko](https://pbs.twimg.com/media/GjO6KFoWsAAHPKC?format=jpg&name=medium)
+- [040: Aqua](https://pbs.twimg.com/media/GjT0-qmWQAA9vHW?format=jpg&name=medium)
+- [041: The Storm](https://pbs.twimg.com/media/GjZQyyuX0AA-1fV?format=jpg&name=medium)
+- [042: Samurai](https://pbs.twimg.com/media/GjgLJgYW4AAn0CR?format=jpg&name=medium)
+- [043: Processor War](https://pbs.twimg.com/media/GjjrlMJXwAAtwiG?format=jpg&name=medium)
+- [044: Haruka](https://pbs.twimg.com/media/GjopP3IXEAAJT9l?format=jpg&name=medium)
+- [045: Maltese Puppy](https://pbs.twimg.com/media/GjuK79EXwAAQM61?format=jpg&name=medium)
+- [046: Old Chest](https://pbs.twimg.com/media/GjzLD1tWYAAexVf?format=jpg&name=medium)
+- [047: Pizza](https://pbs.twimg.com/media/Gj4KqPeXEAAF7F0?format=jpg&name=medium)
+- [048: The Compass](https://pbs.twimg.com/media/Gj-C-P_WMAAGqCr?format=jpg&name=medium)
+- [049: Lost Ring](https://pbs.twimg.com/media/GkF6HwXW4AAbMPO?format=jpg&name=medium)
+- [050: Luna](https://pbs.twimg.com/media/GkHiSxyWgAAjqhe?format=jpg&name=medium)
+- [051: Monster](https://pbs.twimg.com/media/GkNYZIJXAAEiNS9?format=jpg&name=medium)
+- [052: Chiyo](https://pbs.twimg.com/media/GkTJNJlW0AE4CIT?format=jpg&name=medium)
+- [053: Bianca](https://pbs.twimg.com/media/GkW8F7nWAAAT5ss?format=jpg&name=medium)
+- [054: The Return](https://pbs.twimg.com/media/GkdHkl6WsAETIlI?format=jpg&name=medium)
+- [055: The Commander](https://pbs.twimg.com/media/GkhVdaAXkAApuy5?format=jpg&name=medium)
+- [056: Tablet](https://pbs.twimg.com/media/GkojQxUWsAEX7Ta?format=jpg&name=medium)
+- [057: Free!](https://pbs.twimg.com/media/GksEdMkXEAAyqYa?format=jpg&name=medium)
+- [058: Old Petrol Station](https://pbs.twimg.com/media/GkzoBvHWEAA-SaM?format=jpg&name=medium)
+- [059: Old Boots](https://pbs.twimg.com/media/Gk45EJZWAAMG8yR?format=jpg&name=medium)
 060: The Siren
 061: Mecha-Tiger
 062: Lorelei
