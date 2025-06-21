@@ -75,8 +75,8 @@ for month, entries in sorted(posts_by_month.items()):
     header += f"# 📅 Monthly Digest – {date(int(month[:4]), int(month[5:]), 1):%B %Y}\n\n"
 
     tag_cloud = " ".join(sorted(tag_counter.keys()))
-    total_words = sum(len(re.findall(r'\w+', entry['title'])) for entry in day_map.values() if entry["title"])
-
+    total_words = sum(len(re.findall(r'\w+', title)) for _, title, _ in entries)
+    
     file_content = (
         header +
         "\n".join(all_lines) + "\n\n" +
