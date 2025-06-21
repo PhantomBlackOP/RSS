@@ -30,6 +30,19 @@ for day_key, entry in day_map.items():
     posts_by_month[month_key].append((day_number, title, url))
 
 print("All months found:", sorted(posts_by_month.keys()))
+
+from datetime import datetime, timedelta
+
+def prev_month(month):
+    dt = datetime.strptime(month, "%Y-%m")
+    prev = dt.replace(day=1) - timedelta(days=1)
+    return prev.strftime("%Y-%m")
+
+def next_month(month):
+    dt = datetime.strptime(month, "%Y-%m")
+    next_ = (dt.replace(day=28) + timedelta(days=4)).replace(day=1)
+    return next_.strftime("%Y-%m")
+
 months_sorted = sorted(posts_by_month.keys())
 first_month = months_sorted[0]
 last_month = months_sorted[-1]
