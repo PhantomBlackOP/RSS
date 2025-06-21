@@ -41,7 +41,16 @@ for month, entries in sorted(posts_by_month.items()):
             tag_counter.update([f"#{word.lower()}" for word in fallback if len(word) > 3])
 
     out_file = OUTPUT_DIR / f"{month}.md"
-    header = f"# 📅 Monthly Digest – {datetime.date(int(month[:4]), int(month[5:]), 1):%B %Y}\n\n"
+
+    header = """---
+    layout: monthly
+    title: Monthly
+    permalink:"""
+    /archive/
+    show_title: false
+    """
+    
+    header = header + f"# 📅 Monthly Digest – {datetime.date(int(month[:4]), int(month[5:]), 1):%B %Y}\n\n"
 
     tag_cloud = " ".join(sorted(tag_counter.keys()))
     total_words = sum(len(re.findall(r'\w+', entry['title'])) for entry in day_map.values() if entry["title"])
