@@ -1,5 +1,5 @@
 <nav style="display: flex; justify-content: space-between; padding-top: 20px; text-align: center;">
-  <div style="text-align: left;">
+  <div style="text-align: left; width: 20%;">
       {% if include.prev_url %}
         <a href="{{ include.prev_url }}">👈 PREVIOUS </a>
       {% endif %}
@@ -11,7 +11,7 @@
     <a href="/monthly/" style="margin: 0 0.7em;"> 🗓️ MONTHLY </a>
     <a href="/rss.xml" style="margin: 0 0.7em;"> 📰 RSS </a>
   </div>
-  <div style="text-align: right;">
+  <div style="text-align: right; width: 20%;">
     {% if include.next_url %}
       <a href="{{ include.next_url }}"> NEXT 👉</a>
     {% endif %}  
