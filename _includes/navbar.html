@@ -5,7 +5,8 @@
     </div>
   {% endif %}
   <div style="text-align: center;">
-    <a href="{{ page.prev_url }}" style="margin: 0 0.7em;"> 📅 WEEKLY </a>
+    {% assign latest_week = site.posts | first %}
+    <a href="{{ latest_week.url }}" style="margin: 0 0.7em;">🗞️WEEKLY</a>
     <a href="/archive/" style="margin: 0 0.7em;"> 📚 ARCHIVE </a>
     <a href="/monthly/" style="margin: 0 0.7em;"> 🗓️ MONTHLY </a>
     <a href="/rss.xml" style="margin: 0 0.7em;"> 📰 RSS </a>
