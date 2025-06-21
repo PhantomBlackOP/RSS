@@ -163,10 +163,10 @@
         {% assign prev_url = prev.url %}
         {% assign next_url = next.url %}
         {% include navbar.html prev_url=prev_url next_url=next_url %}
-      {% elsif page.layout == "archive" %}
+      {% elsif page.page_type == "archive" %}
         {%- comment -%} Archive: no prev/next {%- endcomment -%}
         {% include navbar.html %}
-      {% elsif page.layout == "monthly" %}
+      {% elsif page.page_type == "monthly" %}
         {%- comment -%} Monthly: prev/next from front matter {%- endcomment -%}
         {% include navbar.html prev_url=page.prev_url next_url=page.next_url %}
       {% endif %}
