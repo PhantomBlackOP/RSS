@@ -1,6 +1,6 @@
+from pathlib import Path
 import re
 import requests
-from pathlib import Path
 
 def get_tweet_image(tweet_url):
     headers = {"User-Agent": "Mozilla/5.0"}
@@ -24,9 +24,10 @@ def process_week_file(md_path):
                 tweet_url = m.group(1)
                 image_url = get_tweet_image(tweet_url)
                 output_lines.append(image_url)
-    # Output to same folder, similar name
-    md_path = Path(md_path)
-    img_md = md_path.parent / md_path.name.replace("-week-", "-images-")
+    # Output to gallery/ folder, similar name
+    gallery_dir = Path("gallery")
+    gallery_dir.mkdir(exist_ok=True)
+    img_md = gallery_dir / Path(md_path).name.replace("-week-", "-images-")
     with open(img_md, "w", encoding="utf-8") as f:
         for url in output_lines:
             f.write(url + "\n")
