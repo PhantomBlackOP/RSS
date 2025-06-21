@@ -48,7 +48,7 @@ for month, entries in sorted(posts_by_month.items()):
     out_file = OUTPUT_DIR / f"{month}.md"
     header = (
         f"---\n"
-        f"layout: default\n"
+        f"layout: page\n"
         f"title: Monthly\n"
         f"permalink: /monthly/{month}.html\n"
         f"show_title: false\n"
