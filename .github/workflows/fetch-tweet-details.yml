@@ -1,4 +1,4 @@
-name: Fetch Monthly Tweet Images
+name: Fetch Tweet Details
 
 on:
   workflow_dispatch:
