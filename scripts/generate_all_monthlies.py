@@ -46,11 +46,27 @@ for month, entries in sorted(posts_by_month.items()):
             tag_counter.update([f"#{word.lower()}" for word in fallback if len(word) > 3])
 
     out_file = OUTPUT_DIR / f"{month}.md"
-    header = f"# 📅 Monthly Digest – {datetime.date(int(month[:4]), int(month[5:]), 1):%B %Y}\n\n"
+    header = (
+        f"---\n"
+        f"layout: monthly\n"
+        f"title: Monthly\n"
+        f"permalink: /monthly/{month}.html\n"
+        f"show_title: false\n"
+        f"---\n\n"
+    )
+    header += f"# 📅 Monthly Digest – {datetime.date(int(month[:4]), int(month[5:]), 1):%B %Y}\n\n"
 
     tag_cloud = " ".join(sorted(tag_counter.keys()))
     total_words = sum(len(re.findall(r'\w+', entry['title'])) for entry in day_map.values() if entry["title"])
 
+    file_content = (
+        header +
+        "\n".join(all_lines) + "\n\n" +
+        f"Total days: {len(all_lines)} Total words: {total_words} Tag count: {len(tag_counter)}\n\n" +
+        (f"☁️ Tag Cloud\n{tag_cloud}\n\n" if tag_cloud else "")
+    )
+
+444
     with out_file.open("w", encoding="utf-8") as f:
         f.write(header)
         f.write(f"Total words: {total_words} Tag count: {len(tag_counter)}\n\n")
