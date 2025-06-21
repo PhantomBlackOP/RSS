@@ -155,16 +155,20 @@
     {% endif %}
     <div style="text-align: left">{{ content }}</div>
     <hr>
-    <div class="post-nav" style="display: flex; justify-content: space-between; padding-top: 20px;">
-      {% if page.previous %}
-        <div style="text-align: left;">
-          ← <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
-        </div>
-      {% endif %}
-      {% if page.next %}
-        <div style="text-align: right;">
-          <a href="{{ page.next.url }}">{{ page.next.title }}</a> →
-        </div>
+    <div class="post-nav">
+      {% if page.layout == "post" %}
+        {%- comment -%} Weekly post: prev/next from page.previous/page.next {%- endcomment -%}
+        {% assign prev = page.previous %}
+        {% assign next = page.next %}
+        {% assign prev_url = prev.url %}
+        {% assign next_url = next.url %}
+        {% include navbar.html prev_url=prev_url next_url=next_url %}
+      {% elsif page.layout == "archive" %}
+        {%- comment -%} Archive: no prev/next {%- endcomment -%}
+        {% include navbar.html %}
+      {% elsif page.layout == "monthly" %}
+        {%- comment -%} Monthly: prev/next from front matter {%- endcomment -%}
+        {% include navbar.html prev_url=page.prev_url next_url=page.next_url %}
       {% endif %}
     </div>
   </main>
