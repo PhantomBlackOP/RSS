@@ -8,7 +8,7 @@ page_type: archive
 
 🗓️ Welcome to the Monthly Digest Hub  
 Each month distills daily AI anime images into a summary of:
-- Weekly post links
+- Daily post links
 - Word usage statistics
 - A tag cloud snapshot
 
