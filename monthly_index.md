@@ -21,7 +21,3 @@ Each month distills daily AI anime images into a summary of:
 - [March 2025](/monthly/2025-03.md)
 - [February 2025](/monthly/2025-02.md)
 - [January 2025](/monthly/2025-01.md)
-
----
-
-📚 Or return to the [Weekly Archive](/archive/)
