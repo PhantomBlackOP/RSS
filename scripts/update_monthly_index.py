@@ -47,8 +47,5 @@ Each month distills daily AI anime images into a summary of:
         for month in sorted(months_by_year[year], reverse=True):
             f.write(f"- [{datetime.date(year, month, 1):%B %Y}](/monthly/{year}-{month:02d}.md)\n")
     f.write("""
----
-
-📚 Or return to the [Weekly Archive](/archive/)
-""")
+---""")
 print("✅ monthly_index.md updated.")
