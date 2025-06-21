@@ -58,7 +58,7 @@ for month, entries in sorted(posts_by_month.items()):
     file_content = (
         header +
         "\n".join(all_lines) + "\n\n" +
-        f"Total days: {len(all_lines)} Total words: {total_words} Tag count: {len(tag_counter)}\n\n" +
+        f"🖼️ Total days: {len(all_lines)} 📜 Total words: {total_words} 🏷️ Tag count: {len(tag_counter)}\n\n" +
         (f"☁️ Tag Cloud\n{tag_cloud}\n\n" if tag_cloud else "")
     )
 
