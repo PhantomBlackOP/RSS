@@ -74,6 +74,7 @@ for month, entries in sorted(posts_by_month.items()):
     
         # For Top Tags
         top_tags = ", ".join(f"{tag} ({count})" for tag, count in tag_counter.most_common(3))
+        print(f"For month {month}: tag_counter={dict(tag_counter)}; top_tags='{top_tags}'")
 
     out_file = OUTPUT_DIR / f"{month}.md"
   
