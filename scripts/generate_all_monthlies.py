@@ -62,16 +62,10 @@ for month, entries in sorted(posts_by_month.items()):
     file_content = (
         header +
         "\n".join(all_lines) + "\n\n" +
-        f"Total days: {len(all_lines)} Total words: {total_words} Tag count: {len(tag_counter)}\n\n" +
+        f"🖼️ Total days: {len(all_lines)} 📜 Total words: {total_words} 🏷️ Tag count: {len(tag_counter)}\n\n" +
         (f"☁️ Tag Cloud\n{tag_cloud}\n\n" if tag_cloud else "")
     )
 
-444
-    with out_file.open("w", encoding="utf-8") as f:
-        f.write(header)
-        f.write(f"Total words: {total_words} Tag count: {len(tag_counter)}\n\n")
-        if tag_cloud:
-            f.write("☁️ Tag Cloud\n" + tag_cloud + "\n\n")
-        f.write("\n".join(all_lines))
+    out_file.write_text(file_content, encoding="utf-8")
 
 print("✅ Monthly digests updated with real tweet URLs.")
