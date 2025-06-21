@@ -26,7 +26,7 @@ for day_key, entry in day_map.items():
 
 changed_months = []
 
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, date
 
 def prev_month(month):
     dt = datetime.strptime(month, "%Y-%m")
@@ -72,7 +72,7 @@ for month, entries in sorted(posts_by_month.items()):
         header += f"next_url: /monthly/{next_month(month)}.html\n"
     header += "---\n\n"
 
-    header += f"# 📅 Monthly Digest – {datetime.date(int(month[:4]), int(month[5:]), 1):%B %Y}\n\n"
+    header += f"# 📅 Monthly Digest – {date(int(month[:4]), int(month[5:]), 1):%B %Y}\n\n"
 
     tag_cloud = " ".join(sorted(tag_counter.keys()))
     total_words = sum(len(re.findall(r'\w+', entry['title'])) for entry in day_map.values() if entry["title"])
