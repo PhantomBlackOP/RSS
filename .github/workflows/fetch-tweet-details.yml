@@ -21,4 +21,4 @@ jobs:
       - name: Run fetch_tweet_v2.py
         env:
           TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
-        run: python fetch_tweet_v2.py
+        run: python scripts/fetch_tweet_v2.py
