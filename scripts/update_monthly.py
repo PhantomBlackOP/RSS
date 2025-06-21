@@ -42,24 +42,24 @@ for month, entries in sorted(posts_by_month.items()):
 
     out_file = OUTPUT_DIR / f"{month}.md"
 
-    header = """---
-    layout: monthly
-    title: Monthly
-    permalink:"""
-    /archive/
-    show_title: false
-    """
-    
-    header = header + f"# 📅 Monthly Digest – {datetime.date(int(month[:4]), int(month[5:]), 1):%B %Y}\n\n"
+    header = (
+        f"---\n"
+        f"layout: monthly\n"
+        f"title: Monthly\n"
+        f"permalink: /monthly/{month}.html\n"
+        f"show_title: false\n"
+        f"---\n\n"
+    )
+    header += f"# 📅 Monthly Digest – {datetime.date(int(month[:4]), int(month[5:]), 1):%B %Y}\n\n"
 
     tag_cloud = " ".join(sorted(tag_counter.keys()))
     total_words = sum(len(re.findall(r'\w+', entry['title'])) for entry in day_map.values() if entry["title"])
 
     file_content = (
         header +
-        f"Total words: {total_words} Tag count: {len(tag_counter)}\n\n" +
-        (f"☁️ Tag Cloud\n{tag_cloud}\n\n" if tag_cloud else "") +
-        "\n".join(all_lines)
+        "\n".join(all_lines) + "\n\n" +
+        f"Total days: {len(all_lines)} Total words: {total_words} Tag count: {len(tag_counter)}\n\n" +
+        (f"☁️ Tag Cloud\n{tag_cloud}\n\n" if tag_cloud else "")
     )
 
     # Only overwrite file if contents would change
