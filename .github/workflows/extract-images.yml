@@ -15,6 +15,9 @@ jobs:
         with:
           python-version: 3.11
 
+      - name: Install dependencies
+        run: pip install requests
+
       - name: Run extract_tweet_images.py
         run: python scripts/extract_tweet_images.py
 
