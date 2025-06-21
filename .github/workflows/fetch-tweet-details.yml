@@ -15,10 +15,10 @@ jobs:
         with:
           python-version: 3.11
           
-- name: Install requests
-  run: pip install requests
-
-- name: Run fetch_tweet_v2.py
-  env:
-    TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
-  run: python fetch_tweet_v2.py
+      - name: Install requests
+        run: pip install requests
+      
+      - name: Run fetch_tweet_v2.py
+        env:
+          TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
+        run: python fetch_tweet_v2.py
