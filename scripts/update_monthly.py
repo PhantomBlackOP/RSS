@@ -25,6 +25,9 @@ for day_key, entry in day_map.items():
     posts_by_month[month_key].append((day_number, title, url))
 
 changed_months = []
+months_sorted = sorted(posts_by_month.keys())
+first_month = months_sorted[0]
+last_month = months_sorted[-1]
 
 for month, entries in sorted(posts_by_month.items()):
     all_lines = []
@@ -60,10 +63,13 @@ for month, entries in sorted(posts_by_month.items()):
         f"permalink: /monthly/{month}.html\n"
         f"show_title: false\n"
         f"page_type: monthly\n"
-        f"prev_url: /monthly/{prev_month(month)}.html\n"
-        f"next_url: /monthly/{next_month(month)}.html\n"
-        f"---\n\n"
     )
+    if month != first_month:
+        header += f"prev_url: /monthly/{prev_month(month)}.html\n"
+    if month != last_month:
+        header += f"next_url: /monthly/{next_month(month)}.html\n"
+    header += "---\n\n"
+
     header += f"# 📅 Monthly Digest – {datetime.date(int(month[:4]), int(month[5:]), 1):%B %Y}\n\n"
 
     tag_cloud = " ".join(sorted(tag_counter.keys()))
