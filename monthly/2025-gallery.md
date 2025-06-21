@@ -16,7 +16,7 @@ page_type: archive
 - [006: Foot Soldier](https://pbs.twimg.com/media/Gg6HiLNXkAALhUb?format=jpg&name=medium)
 - [007: Knight](https://pbs.twimg.com/media/Gg6IrCJXUAAx9Y8?format=jpg&name=medium)
 - [008: Protection Paladin](https://pbs.twimg.com/media/Gg6LgQ3WUAAWvqq?format=jpg&name=medium)
-- [009: Gundam](https://x.com/Trevorion/status/1877596003513110754/photo/1)
+- [009: Gundam](https://pbs.twimg.com/media/Gg6PioUWIAAm1GF?format=jpg&name=medium)
 - [010: Mizuki](https://pbs.twimg.com/media/Gg6VZZWWcAEcadV?format=jpg&name=medium)
 - [011: Doomsday](https://pbs.twimg.com/media/Gg-0rqkWkAAmjtB?format=jpg&name=medium)
 - [012: Dragon](https://pbs.twimg.com/media/GhFZdNKWgAA1IK8?format=jpg&name=medium)
