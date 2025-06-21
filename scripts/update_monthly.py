@@ -42,6 +42,17 @@ for month, entries in sorted(posts_by_month.items()):
 
     out_file = OUTPUT_DIR / f"{month}.md"
 
+    def prev_month(month):
+        dt = datetime.strptime(month, "%Y-%m")
+        prev = dt.replace(day=1) - datetime.timedelta(days=1)
+        return prev.strftime("%Y-%m")
+    
+    def next_month(month):
+        dt = datetime.strptime(month, "%Y-%m")
+        # add 32 days to always roll over to next month
+        next_ = (dt.replace(day=28) + datetime.timedelta(days=4)).replace(day=1)
+        return next_.strftime("%Y-%m")
+    
     header = (
         f"---\n"
         f"layout: page\n"
@@ -49,6 +60,8 @@ for month, entries in sorted(posts_by_month.items()):
         f"permalink: /monthly/{month}.html\n"
         f"show_title: false\n"
         f"page_type: monthly\n"
+        f"prev_url: /monthly/{prev_month(month)}.html\n"
+        f"next_url: /monthly/{next_month(month)}.html\n"
         f"---\n\n"
     )
     header += f"# 📅 Monthly Digest – {datetime.date(int(month[:4]), int(month[5:]), 1):%B %Y}\n\n"
