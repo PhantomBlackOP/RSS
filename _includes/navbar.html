@@ -1,0 +1,11 @@
+<nav style="margin-bottom: 1.5em; text-align: center;">
+  {% if page.prev_url %}
+    <a href="{{ page.prev_url }}">👈PREVIOUS</a>
+  {% endif %}
+  <a href="/archive/" style="margin: 0 0.7em;">📚ARCHIVE</a>
+  <a href="/monthly/" style="margin: 0 0.7em;">🗓️MONTHLY</a>
+  <a href="/rss.xml" style="margin: 0 0.7em;">📰RSS</a>
+  {% if page.next_url %}
+    <a href="{{ page.next_url }}">NEXT 👉</a>
+  {% endif %}
+</nav>
