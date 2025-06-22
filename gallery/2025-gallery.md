@@ -8,8 +8,6 @@ page_type: archive
 
 🖼️ Daily Images Gallery 2025
 
-[<img src="https://pbs.twimg.com/media/Gg2cGkZXoAA-hOW?format=jpg&name=medium" alt="001: Back in the day" style="width: 50px; height: auto;">](https://x.com/Trevorion/status/1877328414471803378)
-
 - 001: [Back in the day](https://pbs.twimg.com/media/Gg2cGkZXoAA-hOW?format=jpg&name=medium)
 - 002: [How it all began](https://pbs.twimg.com/media/Gg2jnszXMAAdjnM?format=jpg&name=medium)
 - 003: [Missing the glory days!](https://pbs.twimg.com/media/Gg2lzxGW0AAdXl3?format=jpg&name=medium)
