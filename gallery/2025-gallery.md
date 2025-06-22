@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-permalink: /monthly/2025-gallery.html
+permalink: /gallery/2025-gallery.html
 show_title: false
 page_type: archive
 ---
@@ -167,16 +167,17 @@ page_type: archive
 - 157: Imperial Meal 🐌🥬 #ImperialGreen #Snail #Philodendron #RainyDay]()
 - 158: Last Chance ⚽🔥 #TiedGame #HighSchoolFinals #RecoveryTime]()
 - 159: Stagecoach 🐎🧳 #Cobblestone #ForestPath #DarkJourney]()
-- 160: Little Blacksmith 🦊🔥 #Forge #Anvil #Horseshoe #WoodlandMagic]()
-- 161: Beatrice in Bloom 🌸🦋 #ReZero #FlowerField #TsundereQueen]()
-- 162: Reina & Raidou 🍱☀️ #AharenSanWaHakarenai #Tamagoyaki #BentoTime]()
-- 163: Costly Mistake 🖤🌙 #Falling #Midnight #FailedMission]()
-- 164: Sky-splitting Titan 🛡️⚙️ #GreatMazinger #AnimeLegend #GoNagai]()
-- 165: Empress Lira Nox 🌌👑 #StellarRegent #CelestineEmpire #Lyseth]()
-- 166: Yuke Feldio 🧙🍀 #RedMage #CloverLeader #Aparida]()
-- 167: High Cantor Seris Avelle 🎼✨ #LullabyThrone #HollowVerseEnclave #Lyseth]()
-- 168: Mobile Bunker 🛡️🚛 #Military #PostApocalyptic #MobileBase]()
-- 169: Warlord-King Draeven Morak ⚔️👑 #RiftbornCrown #DuskrendCitadel #UmbrahalDominion #Lyseth]()
-- 170: Serene Cyborg 🤖💭 #AndroidGirl #CyberSoul #DigitalDreams]()
-- 171: The Archcircle of Nine 🧙‍♀️👁️ #ThalvethirCovenant #HighMagisters #RulingCouncil #Lyseth]()
-- 172: Last Choice 🥫✨ #Forest #Hope #VendingMachine #BoxxoStyle]()
+- 160: [Little Blacksmith 🦊🔥 #Forge #Anvil #Horseshoe #WoodlandMagic](https://pbs.twimg.com/media/GtA6GgCWsAACHUw?format=jpg&name=medium)
+- 161: [Beatrice in Bloom 🌸🦋 #ReZero #FlowerField #TsundereQueen](https://pbs.twimg.com/media/GtGW3qzXEAAQvjh?format=jpg&name=medium)
+- 162: [Reina & Raidou 🍱☀️ #AharenSanWaHakarenai #Tamagoyaki #BentoTime](https://pbs.twimg.com/media/GtMT0LuXQAAAEIp?format=jpg&name=medium)
+- 163: [Costly Mistake 🖤🌙 #Falling #Midnight #FailedMission](https://pbs.twimg.com/media/GtRHvk9XwAAjecy?format=jpg&name=medium)
+- 164: [Sky-splitting Titan 🛡️⚙️ #GreatMazinger #AnimeLegend #GoNagai](https://pbs.twimg.com/media/GtUBNaXXQAAH6ua?format=jpg&name=medium)
+- 165: [Empress Lira Nox 🌌👑 #StellarRegent #CelestineEmpire #Lyseth](https://pbs.twimg.com/media/GtayZ35XEAAAM7e?format=jpg&name=medium)
+- 166: [Yuke Feldio 🧙🍀 #RedMage #CloverLeader #Aparida](https://pbs.twimg.com/media/Gtf3nZuW4AABS9x?format=jpg&name=medium)
+- 167: [High Cantor Seris Avelle 🎼✨ #LullabyThrone #HollowVerseEnclave #Lyseth](https://pbs.twimg.com/media/GtlBZMAXUAAUAzl?format=jpg&name=medium)
+- 168: [Mobile Bunker 🛡️🚛 #Military #PostApocalyptic #MobileBase](https://pbs.twimg.com/media/GtqfO8TagAEdmKI?format=jpg&name=medium)
+- 169: [Warlord-King Draeven Morak ⚔️👑 #RiftbornCrown #DuskrendCitadel #UmbrahalDominion #Lyseth](https://pbs.twimg.com/media/GtwWrtiXYAA-69L?format=jpg&name=medium)
+- 170: [Serene Cyborg 🤖💭 #AndroidGirl #CyberSoul #DigitalDreams](https://pbs.twimg.com/media/GtySebCWoAAliZh?format=jpg&name=medium)
+- 171: [The Archcircle of Nine 🧙‍♀️👁️ #ThalvethirCovenant #HighMagisters #RulingCouncil #Lyseth](https://pbs.twimg.com/media/Gt4Bb_9W4AQtwOG?format=jpg&name=medium)
+- 172: [Last Choice 🥫✨ #Forest #Hope #VendingMachine #BoxxoStyle](https://pbs.twimg.com/media/Gt-ALLuWMAAdJl9?format=jpg&name=medium)
+- 173: [Kaelith the Unbound 🌌📿 #Moonseer #StarlostReaches #DriftingSanctuaries #Lyseth](https://pbs.twimg.com/media/GuCRHz7WIAAKzxY?format=jpg&name=medium)
