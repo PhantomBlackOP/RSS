@@ -27,7 +27,10 @@ output = "gallery/2025-gallery-thumbs.md"
 with open(output, "w", encoding="utf-8") as f:
     for day in sorted(gallery.keys()):
         title, img_url = gallery[day]
-        tweet_url = day_to_tweet.get(day)
+
+        day_key = f"Day {int(day):03d}"
+        tweet_url = day_to_tweet.get(day_key)
+        
         if tweet_url:
             alt = f'{day}: {title}'
             f.write(f'[<img src="{img_url}" alt="{alt}" style="width: 50px; height: auto;">]({tweet_url})\n')
