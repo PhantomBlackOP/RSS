@@ -17,14 +17,13 @@ map_py = "scripts/day_url_map_full_with_titles.py"
 day_to_tweet = {}  # day_num: tweet_url
 
 # The file is a Python dict, so eval is risky, let's just use regex
+# Read the *whole* file into a string
 with open(map_py, encoding="utf-8") as f:
-    for line in f:
-        m = re.match(r"\s*'Day (\d{3})': \{\s*'title': .+,\s*'url': '([^']+)'", line)
-        if m:
-            day, tweet_url = m.groups()
-            day_to_tweet[day] = tweet_url
-
-print("Loaded from day_map:", list(day_to_tweet.items())[:3])
+    daymap_text = f.read()
+# Find all day, url pairs
+matches = re.findall(r"'Day (\d{3})':\s*\{'title': [^}]+?'url': '([^']+)'", daymap_text)
+day_to_tweet = {f"Day {day}": url for day, url in matches}
+print("Day-to-tweet loaded:", len(day_to_tweet))
 
 # 3. Write new file
 output = "gallery/2025-gallery-thumbs.md"
