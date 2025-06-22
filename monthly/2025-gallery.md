@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-permalink: /monthly/2025-gallery.html
+permalink: /gallery/2025-gallery.html
 show_title: false
 page_type: archive
 ---
@@ -178,5 +178,6 @@ page_type: archive
 - 168: Mobile Bunker 🛡️🚛 #Military #PostApocalyptic #MobileBase]()
 - 169: Warlord-King Draeven Morak ⚔️👑 #RiftbornCrown #DuskrendCitadel #UmbrahalDominion #Lyseth]()
 - 170: Serene Cyborg 🤖💭 #AndroidGirl #CyberSoul #DigitalDreams]()
-- 171: The Archcircle of Nine 🧙‍♀️👁️ #ThalvethirCovenant #HighMagisters #RulingCouncil #Lyseth]()
-- 172: Last Choice 🥫✨ #Forest #Hope #VendingMachine #BoxxoStyle]()
+- 171: [The Archcircle of Nine 🧙‍♀️👁️ #ThalvethirCovenant #HighMagisters #RulingCouncil #Lyseth](https://pbs.twimg.com/media/Gt4Bb_9W4AQtwOG?format=jpg&name=4096x4096)
+- 172: [Last Choice 🥫✨ #Forest #Hope #VendingMachine #BoxxoStyle](https://pbs.twimg.com/media/Gt-ALLuWMAAdJl9?format=jpg&name=4096x4096)
+- 173: [Kaelith the Unbound 🌌📿 #Moonseer #StarlostReaches #DriftingSanctuaries #Lyseth](https://pbs.twimg.com/media/GuCRHz7WIAAKzxY?format=jpg&name=4096x4096)
