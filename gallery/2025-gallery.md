@@ -181,3 +181,4 @@ page_type: archive
 - 171: [The Archcircle of Nine 🧙‍♀️👁️ #ThalvethirCovenant #HighMagisters #RulingCouncil #Lyseth](https://pbs.twimg.com/media/Gt4Bb_9W4AQtwOG?format=jpg&name=medium)
 - 172: [Last Choice 🥫✨ #Forest #Hope #VendingMachine #BoxxoStyle](https://pbs.twimg.com/media/Gt-ALLuWMAAdJl9?format=jpg&name=medium)
 - 173: [Kaelith the Unbound 🌌📿 #Moonseer #StarlostReaches #DriftingSanctuaries #Lyseth](https://pbs.twimg.com/media/GuCRHz7WIAAKzxY?format=jpg&name=medium)
+- 174: [Midnight Curriculum 📚✨ #Instructor #DarkAcademia #Gothic](https://pbs.twimg.com/media/GuJ-V3vX0AAHSV4?format=jpg&name=4096x4096)
