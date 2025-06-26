@@ -184,3 +184,4 @@ page_type: archive
 - 174: [Midnight Curriculum 📚✨ #Instructor #DarkAcademia #Gothic](https://pbs.twimg.com/media/GuJ-V3vX0AAHSV4?format=jpg&name=4096x4096)
 - 175: [Queen Selyra Ardentis 👑🪷 #AurelithaConcord #BloomCrowned #Solenvienne #Lyseth](https://pbs.twimg.com/media/GuNqaCdW8AADtIn?format=jpg&name=4096x4096)
 - 176: [Moustache-Twirling Villain 😈➰ #Scheming #Malevolent #EvilLaugh](https://pbs.twimg.com/media/GuRycEFW0AA6Zy4?format=jpg&name=4096x4096)
+- 177: [Cryptarch Veyth Morlan 🕯️💀 #Noxvalen #Undead #SeveredFlame #GravesspireHollow #Lyseth](https://pbs.twimg.com/media/GuY8ziaW4AE4FPS?format=jpg&name=4096x4096)
