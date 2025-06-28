@@ -186,3 +186,4 @@ page_type: archive
 - 176: [Moustache-Twirling Villain 😈➰ #Scheming #Malevolent #EvilLaugh](https://pbs.twimg.com/media/GuRycEFW0AA6Zy4?format=jpg&name=4096x4096)
 - 177: [Cryptarch Veyth Morlan 🕯️💀 #Noxvalen #Undead #SeveredFlame #GravesspireHollow #Lyseth](https://pbs.twimg.com/media/GuY8ziaW4AE4FPS?format=jpg&name=4096x4096)
 - 178: [The Wheelchair 🧑‍🦽🫥#VisualPoetry #Disability #Loneliness](https://pbs.twimg.com/media/GudxDTCWMAAbiL3?format=jpg&name=4096x4096)
+- 179: [Grandpact Primarch Elien Vorth 🤝📜 #Elarion #NinefoldAccord #VintrelsHollow #Lyseth](https://pbs.twimg.com/media/Guiqb-qXwAAov_f?format=jpg&name=4096x4096)
