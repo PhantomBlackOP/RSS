@@ -15,6 +15,7 @@ Each month distills daily AI anime images into a summary of:
 ---
 
 ## 📆 2025
+- [July 2025](/monthly/2025-07.md)
 - [June 2025](/monthly/2025-06.md)
 - [May 2025](/monthly/2025-05.md)
 - [April 2025](/monthly/2025-04.md)
