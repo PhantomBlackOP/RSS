@@ -191,3 +191,4 @@ page_type: archive
 - 181: [High Fang-King Vaoros Flametongue 🔥🐉 #KaethvarExpanse #CrucibleFangspire #Lyseth](https://pbs.twimg.com/media/GutNrnYXMAAtP1s?format=jpg&name=4096x4096)
 - 182: [Moonlit Canal 🌕🍃 #EdoJapan #BeneathBridge #StillNight](https://pbs.twimg.com/media/Guw4j8OWwAAEHgo?format=jpg&name=4096x4096)
 - 183: [The Last Sentinel ⚔️🛡️ #LoneWarrior #FuturisticKnight #Ruins](https://pbs.twimg.com/media/Gu30mN4WAAA56yW?format=jpg&name=4096x4096)
+- 184: [Midori R. Kurokawa ☕💎 #Café #MagicalJewelry #GothAesthetic](https://pbs.twimg.com/media/Gu9aYnSXEAALFLY?format=jpg&name=4096x4096)
