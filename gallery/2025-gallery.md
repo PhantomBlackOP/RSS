@@ -189,3 +189,5 @@ page_type: archive
 - 179: [Grandpact Primarch Elien Vorth 🤝📜 #Elarion #NinefoldAccord #VintrelsHollow #Lyseth](https://pbs.twimg.com/media/Guiqb-qXwAAov_f?format=jpg&name=4096x4096)
 - 180: [The Dice 🎲🎯 #Casino #CrapsTable #RollToWin](https://pbs.twimg.com/media/GuoTm45WcAAi3D1?format=jpg&name=4096x4096)
 - 181: [High Fang-King Vaoros Flametongue 🔥🐉 #KaethvarExpanse #CrucibleFangspire #Lyseth](https://pbs.twimg.com/media/GutNrnYXMAAtP1s?format=jpg&name=4096x4096)
+- 182: [Moonlit Canal 🌕🍃 #EdoJapan #BeneathBridge #StillNight](https://pbs.twimg.com/media/Guw4j8OWwAAEHgo?format=jpg&name=4096x4096)
+- 183: [The Last Sentinel ⚔️🛡️ #LoneWarrior #FuturisticKnight #Ruins](https://pbs.twimg.com/media/Gu30mN4WAAA56yW?format=jpg&name=4096x4096)
