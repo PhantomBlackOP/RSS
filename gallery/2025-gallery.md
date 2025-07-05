@@ -192,3 +192,5 @@ page_type: archive
 - 182: [Moonlit Canal 🌕🍃 #EdoJapan #BeneathBridge #StillNight](https://pbs.twimg.com/media/Guw4j8OWwAAEHgo?format=jpg&name=4096x4096)
 - 183: [The Last Sentinel ⚔️🛡️ #LoneWarrior #FuturisticKnight #Ruins](https://pbs.twimg.com/media/Gu30mN4WAAA56yW?format=jpg&name=4096x4096)
 - 184: [Midori R. Kurokawa ☕💎 #Café #MagicalJewelry #GothAesthetic](https://pbs.twimg.com/media/Gu9aYnSXEAALFLY?format=jpg&name=4096x4096)
+- 185: [Cogzimodo 🔔🤖 #BrassTinkerer #TimeBokan #Steampunk](https://pbs.twimg.com/media/GvB-TuGWIAAH3LQ?format=jpg&name=4096x4096)
+- 186: [Astral Duel 🌌⚔️ #BindingConstellation #DawnChronicle #Lyseth](https://pbs.twimg.com/media/GvHGHa0WkAAdfSj?format=jpg&name=4096x4096)
