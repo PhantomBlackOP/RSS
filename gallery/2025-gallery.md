@@ -195,3 +195,4 @@ page_type: archive
 - 185: [Cogzimodo 🔔🤖 #BrassTinkerer #TimeBokan #Steampunk](https://pbs.twimg.com/media/GvB-TuGWIAAH3LQ?format=jpg&name=4096x4096)
 - 186: [Astral Duel 🌌⚔️ #BindingConstellation #DawnChronicle #Lyseth](https://pbs.twimg.com/media/GvHGHa0WkAAdfSj?format=jpg&name=4096x4096)
 - 187: [Airi Komiya 🌸📷 #AnimeGirl #SliceOfLife #Blonde](https://pbs.twimg.com/media/GvMcanLWkAAdWhe?format=jpg&name=4096x4096)
+- 188: [Council of Light 👼✨ #CelestialTemple #SeraphicJudgment #Lyseth](https://pbs.twimg.com/media/GvRpLRiWYAAJYti?format=jpg&name=4096x4096)
