@@ -196,3 +196,8 @@ page_type: archive
 - 186: [Astral Duel 🌌⚔️ #BindingConstellation #DawnChronicle #Lyseth](https://pbs.twimg.com/media/GvHGHa0WkAAdfSj?format=jpg&name=4096x4096)
 - 187: [Airi Komiya 🌸📷 #AnimeGirl #SliceOfLife #Blonde](https://pbs.twimg.com/media/GvMcanLWkAAdWhe?format=jpg&name=4096x4096)
 - 188: [Council of Light 👼✨ #CelestialTemple #SeraphicJudgment #Lyseth](https://pbs.twimg.com/media/GvRpLRiWYAAJYti?format=jpg&name=4096x4096)
+- 189: [Marin Kitagawa 💖🎀 #AnimeGirl #MyDressUpDarling #Cosplayer](https://pbs.twimg.com/media/GvWZKNwXkAADD1b?format=jpg&name=4096x4096)
+- 190: [The Rookie 🚓✨ #JohnNolan #NathanFillion #SunsetCopVibes](https://pbs.twimg.com/media/GvcRroNXAAE15_k?format=jpg&name=4096x4096)
+- 191: [Ignarion 🔥⚔️ #AnimeHero #FireStarter #Original #FirePower](https://pbs.twimg.com/media/GvhZ8ZiXQAEfM9Q?format=jpg&name=4096x4096)
+- 192: [Round Card Girl 🥊✨ #AnimeGirl #BoxingNight #RingGirl](https://pbs.twimg.com/media/GvmTgthWEAEER8n?format=jpg&name=4096x4096)
+- 193: [Kizuna AI 🌟🎀 #VTuber #AISeiyuu #DigitalIdol #DigitalIcon](https://pbs.twimg.com/media/GvrOmQ7WgAAli6h?format=jpg&name=4096x4096)
