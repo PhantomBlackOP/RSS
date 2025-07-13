@@ -201,3 +201,4 @@ page_type: archive
 - 191: [Ignarion 🔥⚔️ #AnimeHero #FireStarter #Original #FirePower](https://pbs.twimg.com/media/GvhZ8ZiXQAEfM9Q?format=jpg&name=4096x4096)
 - 192: [Round Card Girl 🥊✨ #AnimeGirl #BoxingNight #RingGirl](https://pbs.twimg.com/media/GvmTgthWEAEER8n?format=jpg&name=4096x4096)
 - 193: [Kizuna AI 🌟🎀 #VTuber #AISeiyuu #DigitalIdol #DigitalIcon](https://pbs.twimg.com/media/GvrOmQ7WgAAli6h?format=jpg&name=4096x4096)
+- 194: [Scarlet Macaw ✨🦜 #Parrot #VividPlumage #TropicalBird](https://pbs.twimg.com/media/GvwOC7EW8AEKfAI?format=jpg&name=4096x4096)
