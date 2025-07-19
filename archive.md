@@ -11,6 +11,7 @@ page_type: archive
 Explore all past weekly digests (newest first):
 
 
+- 📅 [Week 29 – Dailies & Highlights](/2025/07/14/week-29.html) (Jul 14, 2025)
 - 📅 [Week 28 – Dailies & Highlights](/2025/07/07/week-28.html) (Jul 07, 2025)
 - 📅 [Week 27 – Dailies & Highlights](/2025/06/30/week-27.html) (Jun 30, 2025)
 - 📅 [Week 26 – Dailies & Highlights](/2025/06/23/week-26.html) (Jun 23, 2025)
@@ -40,7 +41,7 @@ Explore all past weekly digests (newest first):
 - 📅 [Week 02 – Dailies & Highlights](/2025/01/06/week-02.html) (Jan 06, 2025)
 - 📅 [Week 01 – Dailies & Highlights](/2024/12/30/week-01.html) (Dec 30, 2024)
 
-_Last updated: Jul 13, 2025 18:02 UTC_
+_Last updated: Jul 19, 2025 09:03 UTC_
 ---
 Follow [@Trevorion](https://x.com/Trevorion)
 
