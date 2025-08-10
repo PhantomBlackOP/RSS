@@ -14,13 +14,13 @@ Built for long-term readers, indie web fans, and curious minds.
 
 ---
 
-📅 **Latest Week**: [Week 31 – Dailies & Highlights](/2025/07/28/week-31.html)<br />
+📅 **Latest Week**: [Week 32 – Dailies & Highlights](/2025/08/04/week-32.html)<br />
 📚 **Full Archive**: [View All Weeks](/archive/)<br/>
 🗓️ **Monthly Recap**: [All Months](/monthly/)<br/>
 📰 **RSS Feed**: [RSS is active](/feed.xml)<br/>
 ---
 
-_Last updated: Aug 03, 2025 18:59 UTC_
+_Last updated: Aug 10, 2025 22:46 UTC_
 
 
 Follow [@Trevorion](https://x.com/Trevorion)  
