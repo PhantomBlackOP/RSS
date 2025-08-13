@@ -29,6 +29,11 @@
           <div class="date">
             <xsl:value-of select="pubDate"/>
           </div>
+          <xsl:if test="media:content/@url">
+            <div style="margin: 10px 0;">
+              <img src="{media:content/@url}" style="max-width:100%; height:auto;" />
+            </div>
+          </xsl:if>
           <div class="description">
             <xsl:value-of select="description" disable-output-escaping="yes"/>
           </div>
