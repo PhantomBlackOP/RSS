@@ -47,12 +47,11 @@
             <xsl:value-of select="description" disable-output-escaping="yes"/>
           </div>
 
-          <!-- Optional: show full HTML content in browser preview -->
-          <xsl:if test="content:encoded">
+          <xsl:for-each select="content:encoded">
             <div class="content">
-              <xsl:value-of select="content:encoded" disable-output-escaping="yes"/>
+              <xsl:value-of select="." disable-output-escaping="yes"/>
             </div>
-          </xsl:if>
+          </xsl:for-each>
         </div>
       </xsl:for-each>
     </body>
