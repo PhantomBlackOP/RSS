@@ -13,28 +13,27 @@ permalink: /feed.xml
     <description>{{ site.description | xml_escape }}</description>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 
-    {% for post in site.posts limit:20 %}
-    <item>
-      <title>{{ post.title | xml_escape }}</title>
-      <link>{{ site.url }}{{ post.url }}</link>
-      <guid>{{ site.url }}{{ post.url }}</guid>
-      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-
-      {% if post.excerpt %}
-      <description><![CDATA[
-        {{ post.excerpt }}
-      ]]></description>
-      {% endif %}
-
-      {% if post.image %}
-      <media:content url="{{ post.image }}" medium="image" />
-      {% endif %}
-         
-      <content:encoded><![CDATA[
-       {{ post.output }}
-     ]]></content:encoded>
-         
-    </item>
-    {% endfor %}
+     {% for post in site.posts limit:20 %}
+     <item>
+       <title>{{ post.title | xml_escape }}</title>
+       <link>{{ site.url }}{{ post.url }}</link>
+       <guid>{{ site.url }}{{ post.url }}</guid>
+       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+     
+       {% if post.excerpt %}
+       <description><![CDATA[
+         {{ post.excerpt }}
+       ]]></description>
+       {% endif %}
+     
+       {% if post.image %}
+       <media:content url="{{ post.image }}" medium="image" />
+       {% endif %}
+     
+       <content:encoded><![CDATA[
+         {{ post.output }}
+       ]]></content:encoded>
+     </item>
+     {% endfor %}
   </channel>
 </rss>
