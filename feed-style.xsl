@@ -13,6 +13,7 @@
         .title { font-size: 1.2em; font-weight: bold; }
         .link { color: navy; text-decoration: none; }
         .date { color: #444; font-size: 0.9em; }
+        .thumb img { max-width: 160px; height: auto; border-radius: 8px; display: block; margin-bottom: 10px; }
         .description a { color: navy; text-decoration: none; }
       </style>
     </head>
@@ -28,6 +29,18 @@
           </div>
           <div class="date">
             <xsl:value-of select="pubDate"/>
+          </div>
+          <div class="thumb">
+              <xsl:if test="media:thumbnail/@url">
+                <img>
+                  <xsl:attribute name="src">
+                    <xsl:value-of select="media:thumbnail/@url"/>
+                  </xsl:attribute>
+                  <xsl:attribute name="alt">
+                    <xsl:value-of select="title"/>
+                  </xsl:attribute>
+                </img>
+              </xsl:if>
           </div>
           <div class="description">
             <xsl:value-of select="description" disable-output-escaping="yes"/>
