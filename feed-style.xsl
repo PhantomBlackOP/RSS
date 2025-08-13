@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0"
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:media="http://search.yahoo.com/mrss/">
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <xsl:output method="html" indent="yes"/>
 
   <xsl:template match="/">
@@ -17,6 +18,7 @@
         .date { color: #444; font-size: 0.9em; }
         .description a { color: navy; text-decoration: none; }
         img { max-width: 100%; height: auto; }
+        .content { margin-top: 10px; }
       </style>
     </head>
     <body>
@@ -35,7 +37,6 @@
             <xsl:value-of select="pubDate"/>
           </div>
 
-          <!-- Safe: only runs if media namespace is present in the feed -->
           <xsl:if test="media:content/@url">
             <div style="margin:10px 0;">
               <img src="{media:content/@url}" alt="Post image"/>
@@ -45,6 +46,13 @@
           <div class="description">
             <xsl:value-of select="description" disable-output-escaping="yes"/>
           </div>
+
+          <!-- Optional: show full HTML content in browser preview -->
+          <xsl:if test="content:encoded">
+            <div class="content">
+              <xsl:value-of select="content:encoded" disable-output-escaping="yes"/>
+            </div>
+          </xsl:if>
         </div>
       </xsl:for-each>
     </body>
