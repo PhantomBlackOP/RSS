@@ -3,10 +3,9 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:media="http://search.yahoo.com/mrss/"
     xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <xsl:output method="html" indent="yes"/>
+  <xsl:output method="html" indent="yes" doctype-public="" doctype-system=""/>
 
   <xsl:template match="/">
-    <xsl:text disable-output-escaping="yes"><![CDATA[<!DOCTYPE html>]]></xsl:text>
     <html>
       <head>
         <title>Trevorion Weekly RSS Feed</title>
