@@ -14,7 +14,7 @@ permalink: /feed.xml
     <description>{{ site.description | xml_escape }}</description>
     <language>en-us</language>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-
+<!--
     {% for post in site.posts limit:20 %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
@@ -37,5 +37,6 @@ permalink: /feed.xml
       ]]></content:encoded>
     </item>
     {% endfor %}
+-->       
   </channel>
 </rss>
