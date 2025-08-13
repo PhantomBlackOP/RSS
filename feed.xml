@@ -13,10 +13,15 @@ permalink: /feed.xml
     <item>
       <title>{{ post.title | xml_escape }}</title>
       <link>{{ site.url }}{{ post.url }}</link>
-      <description><![CDATA[
-        {{ post.content | markdownify }}
-      ]]></description>
+      <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <description><![CDATA[
+        {{ post.excerpt | default: post.content | strip_html | normalize_whitespace | truncate: 240 }}
+      ]]></description>
+      {% if post.image %}
+        <media:content url="{{ site.url }}{{ post.image }}" medium="image"/>
+        <media:thumbnail url="{{ site.url }}{{ post.image }}"/>
+      {% endif %}
     </item>
     {% endfor %}
   </channel>
