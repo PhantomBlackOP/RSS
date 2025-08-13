@@ -16,6 +16,10 @@ permalink: /feed.xml
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 <!--
     {% for post in site.posts limit:20 %}
+-->
+     {% assign debug_posts = site.posts | slice: 0, 1 %}
+     {% for post in debug_posts %}
+
     <item>
       <title>{{ post.title | xml_escape }}</title>
       <link>{{ site.url }}{{ post.url }}</link>
@@ -37,6 +41,6 @@ permalink: /feed.xml
       ]]></content:encoded>
     </item>
     {% endfor %}
--->       
+
   </channel>
 </rss>
