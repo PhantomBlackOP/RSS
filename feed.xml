@@ -32,8 +32,8 @@ permalink: /feed.xml
       {% endif %}
 
       <content:encoded><![CDATA[
-        {{ post.output }}
-      ]]></content:encoded>
+       {{ post.content | markdownify }}
+     ]]></content:encoded>
     </item>
     {% endfor %}
   </channel>
