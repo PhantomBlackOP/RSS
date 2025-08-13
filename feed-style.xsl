@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0"
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:media="http://search.yahoo.com/mrss/">
   <xsl:output method="html" indent="yes"/>
+
   <xsl:template match="/">
     <html>
     <head>
@@ -14,10 +16,12 @@
         .link { color: navy; text-decoration: none; }
         .date { color: #444; font-size: 0.9em; }
         .description a { color: navy; text-decoration: none; }
+        img { max-width: 100%; height: auto; }
       </style>
     </head>
     <body>
       <h1>📰 Trevorion Weekly RSS Feed</h1>
+
       <xsl:for-each select="rss/channel/item">
         <div class="item">
           <div class="title">
@@ -26,14 +30,18 @@
               <xsl:value-of select="title"/>
             </a>
           </div>
+
           <div class="date">
             <xsl:value-of select="pubDate"/>
           </div>
+
+          <!-- Safe: only runs if media namespace is present in the feed -->
           <xsl:if test="media:content/@url">
-            <div style="margin: 10px 0;">
-              <img src="{media:content/@url}" style="max-width:100%; height:auto;" />
+            <div style="margin:10px 0;">
+              <img src="{media:content/@url}" alt="Post image"/>
             </div>
           </xsl:if>
+
           <div class="description">
             <xsl:value-of select="description" disable-output-escaping="yes"/>
           </div>
