@@ -7,7 +7,6 @@
 
   <xsl:template match="/">
     <html>
-    <!DOCTYPE html>
     <head>
       <title>Trevorion Weekly RSS Feed</title>
       <style>
