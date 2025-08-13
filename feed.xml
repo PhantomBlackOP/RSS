@@ -2,23 +2,28 @@
 layout: null
 permalink: /feed.xml
 ---
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/feed-style.xsl"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
-    <link>{{ site.url }}</link>
-    <description>{{ site.description | xml_escape }}</description>
-    {% for post in site.posts limit:10 %}
+    <link>{{ site.url }}{{ site.baseurl }}</link>
+    <description>{{ site.description | default: site.title | xml_escape }}</description>
+    <language>{{ site.lang | default: 'en' }}</language>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <atom:link href="{{ site.url }}{{ site.baseurl }}/feed.xml" rel="self" type="application/rss+xml"/>
+    {% for post in site.posts limit:50 %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
       <link>{{ site.url }}{{ post.url }}</link>
       <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-      <description><![CDATA[
-        {{ post.excerpt | default: post.content | strip_html | normalize_whitespace | truncate: 240 }}
-      ]]></description>
+
+      <!-- Use your front-matter excerpt; fall back to a trimmed, plain-text snippet -->
+      <description>{{ post.excerpt | default: post.content | strip_html | normalize_whitespace | truncate: 240 | xml_escape }}</description>
+
       {% if post.image %}
+        <!-- Media RSS for readers like Feedly -->
         <media:content url="{{ site.url }}{{ post.image }}" medium="image"/>
         <media:thumbnail url="{{ site.url }}{{ post.image }}"/>
       {% endif %}
