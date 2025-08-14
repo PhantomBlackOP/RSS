@@ -159,15 +159,15 @@
 </div>
   <main>
     {% if page.show_title and page.title %}
-        <h1 style="text-align: left">{{ page.title }}</h1>
+        <h1 style="text-align: left;">{{ page.title }}</h1>
     {% endif %}
     {% if page.image %}
-      <p style="text-align: left"><img src="{{ page.image | relative_url }}" alt="{{ page.title | xml_escape }}"  style="width: 640px; height: auto;" /></p>
+      <p style="text-align: left;"><img src="{{ page.image | relative_url }}" alt="{{ page.title | xml_escape }}"  style="width: 640px; height: auto;" /></p>
     {% endif %}
     {% if page.excerpt %}
-      <p><strong>{{ page.excerpt }}</strong></p>
+      <p style="text-align: left; width: 640px;"><strong>{{ page.excerpt }}</strong></p>
     {% endif %}
-    <div style="text-align: left">{{ content }}</div>
+    <div style="text-align: left;">{{ content }}</div>
     <hr>
     <div class="post-nav">
       {% if page.layout == "post" %}
@@ -187,10 +187,10 @@
     </div>
   </main>
   <footer>
-    <div style="text-align: left">
+    <div style="text-align: left;">
       <img src="/assets/Assistant.jpg" alt="Assistant" width=150px height=150px style="object-fit: cover; margin-left:100px;">
     </div>
-    <div class="footer-left">
+    <div class="footer-left;">
       <p style="font-size: 11pt;">This is not a brand. It is not monetized.<br>
       But cosmic art as a means of survival;<br>
       Broadcast straight from the void.<br></p>
