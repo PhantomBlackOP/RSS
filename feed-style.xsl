@@ -25,7 +25,7 @@
         </span>
       </xsl:if>
     </h1>
-    <hr/>       
+    <hr/><br/>      
       <xsl:for-each select="rss/channel/item">
         <div class="item">
           <div class="title">
