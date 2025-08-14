@@ -163,6 +163,11 @@
     {% if page.show_title and page.title %}
         <h1 style="text-align: left;">{{ page.title }}</h1>
     {% endif %}
+    {% if page.date %}
+        <p style="text-align: left; font-size: 12pt; color: gray;">
+          <em>Published on {{ page.date | date: "%-d %B %Y" }}</em>
+        </p>
+    {% endif %}   
    <div style="text-align: left; max-width: 800px;">    
     {{ content }}</div>
     <hr>
