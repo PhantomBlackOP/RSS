@@ -19,7 +19,7 @@ permalink: /feed.xml
     <item>
       <title>{{ post.title | xml_escape }}</title>
       <link>{{ site.url }}{{ post.url }}</link>
-      <guid isPermaLink="false">{{ post.id }}</guid>
+      <guid isPermaLink="false">{{ post.id | xml_escape }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
        
       <content:encoded><![CDATA[
