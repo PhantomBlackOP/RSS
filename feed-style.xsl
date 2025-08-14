@@ -17,12 +17,14 @@
       </style>
     </head>
     <body>
-      <h1>📰 Trevorion Weekly RSS Feed
+    <h1>📰 Trevorion Weekly RSS Feed
       <xsl:if test="/rss/channel/lastBuildDate">
-          <br/>
-          <xsl:text>📅 </xsl:text><em>
-          <xsl:value-of select="/rss/channel/lastBuildDate"/></em>
-      </xsl:if></h1>        
+        <br/>
+        <span style="font-weight: normal;">
+          📅 <em><xsl:value-of select="/rss/channel/lastBuildDate"/></em>
+        </span>
+      </xsl:if>
+    </h1>        
       <xsl:for-each select="rss/channel/item">
         <div class="item">
           <div class="title">
