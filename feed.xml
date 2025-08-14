@@ -21,18 +21,16 @@ permalink: /feed.xml
       <link>{{ site.url }}{{ post.url }}</link>
       <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-
-      {% if post.excerpt %}
-      <description><![CDATA[
-        {{ post.excerpt }}
-      ]]></description>
-      {% endif %}
-
-      {% if post.image %}
-      <media:content url="{{ post.image | absolute_url | xml_escape }}" medium="image" />
-      {% endif %}
-         
+       
       <content:encoded><![CDATA[
+       {% if post.image %}
+       <p><img src="{{ post.image }}" alt="{{ post.title | xml_escape }}" /></p>
+       {% endif %}
+
+       {% if post.excerpt %}
+       <p><strong>{{ post.excerpt }}</strong></p>
+       {% endif %}
+
        {{ post.content | markdownify }}
      ]]></content:encoded>
     </item>
