@@ -161,13 +161,15 @@
     {% if page.show_title and page.title %}
         <h1 style="text-align: left;">{{ page.title }}</h1>
     {% endif %}
+    
+   <div style="text-align: left; width: 640px;"> 
     {% if page.image %}
       <p style="text-align: left;"><img src="{{ page.image | relative_url }}" alt="{{ page.title | xml_escape }}"  style="width: 640px; height: auto;" /></p>
     {% endif %}
     {% if page.excerpt %}
-      <p style="text-align: left; width: 640px;"><strong>{{ page.excerpt }}</strong></p>
+      <p>{{ page.excerpt }}</p>
     {% endif %}
-    <div style="text-align: left;">{{ content }}</div>
+    {{ content }}</div>
     <hr>
     <div class="post-nav">
       {% if page.layout == "post" %}
