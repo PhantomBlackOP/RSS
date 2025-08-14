@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" href="{{ '/favicon.ico' | relative_url }}">
   <link rel="alternate" type="application/rss+xml" title="Trevorion Weekly Feed" href="/feed.xml" />
-  <!--
+
 {% if page.image %}
   <meta property="og:image" content="{{ page.image | relative_url }}" />
   <meta name="twitter:image" content="{{ page.image | relative_url }}" />
@@ -15,7 +15,7 @@
   <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines }}" />
   <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines }}" />
 {% endif %}
-  -->
+
   <style>
     body {
       margin: 0;
@@ -163,15 +163,6 @@
     {% if page.show_title and page.title %}
         <h1 style="text-align: left;">{{ page.title }}</h1>
     {% endif %}
-<!--    
-   <div style="text-align: left; max-width: 640px;"> 
-    {% if page.excerpt %}
-      <p>{{ page.excerpt }}</p>
-    {% endif %}
-    {% if page.image %}
-      <p style="text-align: left;"><img src="{{ page.image | relative_url }}" alt="{{ page.title | xml_escape }}"  style="max-width: 640px; height: auto;" /></p>
-    {% endif %}</div>
-  -->
    <div style="text-align: left; max-width: 800px;">    
     {{ content }}</div>
     <hr>
