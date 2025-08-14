@@ -35,8 +35,8 @@ permalink: /feed.xml
       {% endif %}
    -->     
       <content:encoded><![CDATA[
-       {% if post.excerpt %}
-       <p><strong>{{ post.excerpt }}</strong></p>
+       {% if post.excerpt %}<div class="heart">
+       <p><strong>{{ post.excerpt }}</strong></p></div>
        {% endif %}
        {% if post.image %}
        <p><img src="{{ post.image }}" alt="{{ post.title | xml_escape }}" /></p>
