@@ -6,6 +6,7 @@ permalink: /feed.xml
 <?xml-stylesheet type="text/xsl" href="/feed-style.xsl"?>
 <rss version="2.0"
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
@@ -22,6 +23,17 @@ permalink: /feed.xml
       <guid isPermaLink="false">{{ post.id | xml_escape }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 
+<!--
+      {% if post.excerpt %}
+      <description><![CDATA[
+        {{ post.excerpt }}
+      ]]></description>
+      {% endif %}
+
+      {% if post.image %}
+      <media:content url="{{ post.image | xml_escape }}" medium="image" />
+      {% endif %}
+   -->     
       <content:encoded><![CDATA[
        {% if post.excerpt %}
        <p><strong>{{ post.excerpt }}</strong></p>
