@@ -10,13 +10,13 @@
       <head>
         <title>Trevorion Weekly RSS Feed</title>
         <style>
-          body { font-family: sans-serif; line-height: 1.6; padding: 20px; background: #f8f8f8; color: #222; max-width: 700px; height: auto; }
+          body { font-family: sans-serif; line-height: 1.6; padding: 20px; background: #f8f8f8; color: #222; }
           h1 { color: #000; }
           .item { margin-bottom: 30px; padding-bottom: 15px; border-bottom: 1px solid #ccc; }
           .title { font-size: 1.2em; font-weight: bold; }
           .link { color: navy; text-decoration: none; }
           .date { color: #444; font-size: 0.9em; }
-          .description a { color: navy; text-decoration: none; }
+          .description a { color: navy; text-decoration: none; max-width: 640px; height: auto; }
           img { max-width: 640px; height: auto; }
           .content { margin-top: 10px; }
         </style>
