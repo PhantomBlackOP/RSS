@@ -163,11 +163,11 @@
     {% endif %}
     
    <div style="text-align: left; width: 640px;"> 
-    {% if page.image %}
-      <p style="text-align: left;"><img src="{{ page.image | relative_url }}" alt="{{ page.title | xml_escape }}"  style="width: 640px; height: auto;" /></p>
-    {% endif %}
     {% if page.excerpt %}
       <p>{{ page.excerpt }}</p>
+    {% endif %}
+    {% if page.image %}
+      <p style="text-align: left;"><img src="{{ page.image | relative_url }}" alt="{{ page.title | xml_escape }}"  style="width: 640px; height: auto;" /></p>
     {% endif %}
     {{ content }}</div>
     <hr>
