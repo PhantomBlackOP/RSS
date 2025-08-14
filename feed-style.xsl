@@ -24,7 +24,8 @@
           📅 <em><xsl:value-of select="/rss/channel/lastBuildDate"/></em>
         </span>
       </xsl:if>
-    </h1><hr/>       
+    </h1>
+    <hr/>       
       <xsl:for-each select="rss/channel/item">
         <div class="item">
           <div class="title">
