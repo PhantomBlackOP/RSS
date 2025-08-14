@@ -16,7 +16,7 @@
           .title { font-size: 1.2em; font-weight: bold; }
           .link { color: navy; text-decoration: none; }
           .date { color: #444; font-size: 0.9em; }
-          .description a { color: navy; text-decoration: none; max-width: 640px; height: auto; }
+          .description a { color: navy; text-decoration: none; }
           img { max-width: 640px; height: auto; }
           .content { margin-top: 10px; }
         </style>
