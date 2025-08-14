@@ -134,10 +134,9 @@
   </style>
 </head>
 <body>
-  <div style="display:none;">
-      {% if page.excerpt %}
-        {{ page.excerpt }}
-      {% endif %}</div>
+  {% if page.excerpt %}
+    <div style="display:none;">{{ page.excerpt }}</div>
+  {% endif %}
   <div class="backIMG">
   <nav> 
     <div class="nav-left">
