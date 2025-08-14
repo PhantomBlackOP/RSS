@@ -9,17 +9,18 @@ permalink: /feed.xml
     <title>{{ site.title | xml_escape }}</title>
     <link>{{ site.url }}</link>
     <description>{{ site.description | xml_escape }}</description>
-    <language>en-us</language>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <!-- <language>en-us</language>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate> -->
     
     {% for post in site.posts limit:20 %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
       <link>{{ site.url }}{{ post.url }}</link>
-      <!-- <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid> -->
-      <guid isPermaLink="true">{{ site.url }}{{ post.url }}?v=2</guid>
-      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-      <description>{{ post.content | strip_html | xml_escape }}</description>
+      <!-- <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+      <guid isPermaLink="true">{{ site.url }}{{ post.url }}?v=2</guid> -->
+      <description><![CDATA[
+        {{ post.content | markdownify }}
+      ]]></description>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
     </item>
     {% endfor %}
