@@ -28,10 +28,11 @@ permalink: /feed.xml
       ]]></description>
       {% endif %}
 
+      {% if post.image %}
+      <media:content url="{{ post.image | absolute_url | xml_escape }}" medium="image" />
+      {% endif %}
+         
       <content:encoded><![CDATA[
-          {% if post.image %}
-           <media:content url="{{ post.image | absolute_url | xml_escape }}" medium="image" />
-           {% endif %}
        {{ post.content | markdownify }}
      ]]></content:encoded>
     </item>
