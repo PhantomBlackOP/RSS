@@ -4,47 +4,19 @@ permalink: /feed.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/feed-style.xsl"?>
-<rss version="2.0"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/"
-     xmlns:media="http://search.yahoo.com/mrss/"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <link>{{ site.url }}</link>
     <description>{{ site.description | xml_escape }}</description>
-    <language>en-us</language>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <atom:link href="https://rss.trevorion.io/feed.xml" rel="self" type="application/rss+xml" />
-
-    {% for post in site.posts limit:20 %}
+    {% for post in site.posts limit:10 %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
       <link>{{ site.url }}{{ post.url }}</link>
-      <guid isPermaLink="false">{{ post.id | xml_escape }}</guid>
-      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-
-<!--
-      {% if post.excerpt %}
       <description><![CDATA[
-        {{ post.excerpt }}
+        {{ post.content | markdownify }}
       ]]></description>
-      {% endif %}
-
-      {% if post.image %}
-      <media:content url="{{ post.image | xml_escape }}" medium="image" />
-      {% endif %}
-   -->     
-      <content:encoded><![CDATA[
-       {% if post.excerpt %}
-       <div class="heart">
-       <p><strong>{{ post.excerpt }}</strong></p>
-       </div>
-       {% endif %}
-       {% if post.image %}
-       <p><img src="{{ post.image }}" alt="{{ post.title | xml_escape }}" /></p>
-       {% endif %}
-       {{ post.content | markdownify }}
-     ]]></content:encoded>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
     </item>
     {% endfor %}
   </channel>
