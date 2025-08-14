@@ -162,7 +162,7 @@
         <h1 style="text-align: left">{{ page.title }}</h1>
     {% endif %}
     {% if page.image %}
-      <p><img src="{{ page.image | relative_url }}" alt="{{ page.title | xml_escape }}" /></p>
+      <p style="text-align: left"><img src="{{ page.image | relative_url }}" alt="{{ page.title | xml_escape }}"  style="width: 640px; height: auto;" /></p>
     {% endif %}
     {% if page.excerpt %}
       <p><strong>{{ page.excerpt }}</strong></p>
