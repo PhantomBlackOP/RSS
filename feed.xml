@@ -28,7 +28,7 @@ permalink: /feed.xml
        {% endif %}
 
        {% if post.excerpt %}
-       <p><strong>{{ post.excerpt }}</strong></p>
+       <p style="width: 640px;"><strong>{{ post.excerpt }}</strong></p>
        {% endif %}
 
        {{ post.content | markdownify }}
