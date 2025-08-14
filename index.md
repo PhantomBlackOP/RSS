@@ -5,7 +5,7 @@ permalink: /
 show_title: true
 page_type: index
 ---
-<img src="/assets/Banner.png" alt="Trevorion Weekly Digest Banner" style="width: 365px; height: auto; float: left; margin-bottom: 40px; margin-right: 24px;" />
+<img src="/assets/Banner.png" alt="Trevorion Weekly Digest Banner" style="width: 365px; height: auto; float: left; margin-bottom: 32px; margin-right: 24px;" />
 
 Welcome to the official archive of [@Trevorion](https://x.com/Trevorion)'s AI Anime Daily Images.
 
