@@ -134,7 +134,11 @@
   </style>
 </head>
 <body>
-<div class="backIMG">
+  <div style="display:none;">
+      {% if page.excerpt %}
+        {{ page.excerpt }}
+      {% endif %}</div>
+  <div class="backIMG">
   <nav> 
     <div class="nav-left">
       <a href="https://www.trevorion.io/home"><IMG src="/assets/Anime AIS.jpg"  alt="Avatar" width=40px style="float: left;"></a>
