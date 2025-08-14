@@ -30,7 +30,7 @@ permalink: /feed.xml
 
       <content:encoded><![CDATA[
           {% if post.image %}
-                <media:content url="{{ post.image | absolute_url | xml_escape }}" medium="image" />
+           <media:content url="{{ post.image | absolute_url | xml_escape }}" medium="image" />
            {% endif %}
        {{ post.content | markdownify }}
      ]]></content:encoded>
