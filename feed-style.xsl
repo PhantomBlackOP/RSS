@@ -9,8 +9,8 @@
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
       <meta property="og:description" content="A weekly digest highlighting daily AI-generated anime art, news, comics, and articles by @Trevorion. Dive into a curated blend of creativity, culture, and commentary." />        
       <meta name="description" content="A weekly digest highlighting daily AI-generated anime art, news, comics, and articles by @Trevorion. Dive into a curated blend of creativity, culture, and commentary." />
-      <meta property="og:image" content="/assets/RSS.png" />
-      <meta name="twitter:image" content="/assets/RSS.png" />
+      <meta property="og:image" content="/assets/RSSFeed.png" />
+      <meta name="twitter:image" content="/assets/RSSFeed.png" />
       <style>
         body { font-family: sans-serif; line-height: 1.6; padding: 20px; background: #f8f8f8; color: #222; }
         h1 { color: #000; }
