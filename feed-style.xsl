@@ -19,6 +19,12 @@
         .link { color: navy; text-decoration: none; }
         .date { color: #444; font-size: 0.9em; }
         .description a { color: navy; text-decoration: none; }
+        .description img {
+            max-width: 640px;
+            height: auto;
+            display: block;
+            margin-top: 10px;
+        }
       </style>
     </head>
     <body>
