@@ -7,10 +7,6 @@
     <head>
       <title>Trevorion Anime/AI RSS Feed</title>
       <meta charset="UTF-8" />
-      <meta property="og:image" content="https://pbs.twimg.com/media/GouKfB4XQAEvXW7?format=jpg&name=4096x4096" />
-      <meta name="twitter:image" content="https://pbs.twimg.com/media/GouKfB4XQAEvXW7?format=jpg&name=4096x4096" />
-      <meta name="description" content= "A weekly digest highlighting daily AI-generated anime art, news, comics, and articles by @Trevorion. Dive into a curated blend of creativity, culture, and commentary." />
-      <meta property="og:description" content= "A weekly digest highlighting daily AI-generated anime art, news, comics, and articles by @Trevorion. Dive into a curated blend of creativity, culture, and commentary." />
       <style>
         body { font-family: sans-serif; line-height: 1.6; padding: 20px; background: #f8f8f8; color: #222; }
         h1 { color: #000; }
