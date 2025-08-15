@@ -8,7 +8,7 @@ permalink: /feed.xml
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
-    <link>{{ site.rss_url }}</link>
+    <link>{{ site.url }}</link>
     <description>{{ site.description | xml_escape }}</description>
 
      <!-- SEO-friendly tags -->
