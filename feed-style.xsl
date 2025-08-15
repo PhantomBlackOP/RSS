@@ -17,7 +17,7 @@
       </style>
     </head>
     <body>
-    <h1>📰 Trevorion Weekly RSS Feed
+    <h1>📰 Trevorion Weekly Anime/AI RSS Feed
       <xsl:if test="/rss/channel/lastBuildDate">
         <br/>
         <span style="font-weight: normal;">
