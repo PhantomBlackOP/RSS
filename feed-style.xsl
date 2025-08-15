@@ -29,6 +29,8 @@
                     </span>
                   </xsl:if>
                 </h1>
+        </div>
+        <div style="text-align: left;">
                 <hr/>
                 <h3>
                   <span style="font-weight: normal; width: 800px; height: auto;">
