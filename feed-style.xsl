@@ -23,8 +23,8 @@
     </head>
     <body>
         <div style="vertical-align: middle; text-align: left;">
-            <a href="https://trevorion.io"><img src="/assets/Anime%20AIS.jpg" alt="Trevorion Avatar" style="width: 100px; height: 100px; float: left; margin-right:10px;" /></a>
-            <div style="overflow: hidden;">
+            <a href="https://trevorion.io"><img src="/assets/Anime%20AIS.jpg" alt="Trevorion Avatar" style="width: 100px; height: 100px; vertical-align: middle; float: left; margin-right:10px;" /></a>
+            <div style="overflow: hidden; vertical-align: middle;">
                 <h1>📰 Trevorion Anime/AI RSS Feed
                   <xsl:if test="/rss/channel/lastBuildDate">
                     <br/>
