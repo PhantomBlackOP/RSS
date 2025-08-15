@@ -18,7 +18,7 @@ permalink: /feed.xml
        
     <language>en-uk</language>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <atom:link href="https://rss.trevorion.io/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="{{ site.rss_url }}" rel="self" type="application/rss+xml" />
     
     {% for post in site.posts limit:20 %}
     <item>
