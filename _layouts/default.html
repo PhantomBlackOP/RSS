@@ -97,6 +97,20 @@
       color: navy;
       text-decoration: none;
     }
+
+    .post-content img {
+      text-align: left;
+      max-width: 800px;
+      height: auto;      
+    }
+    
+    .post-content img {
+      max-width: 640px;
+      height: auto;
+      display: block;
+      margin-top: 10px;
+    }
+    
     footer {
       background-color: #000;
       color: #fff;
@@ -169,7 +183,7 @@
           <em>Published on {{ page.date | date: "%-d %B %Y" }}</em>
         </p>
     {% endif %}   
-   <div style="text-align: left; max-width: 800px;">    
+   <div  class="post-content">    
     {{ content }}</div>
     <hr>
     <div class="post-nav">
