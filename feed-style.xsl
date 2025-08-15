@@ -6,6 +6,11 @@
     <html>
     <head>
       <title>Trevorion Anime/AI RSS Feed</title>
+      <meta charset="UTF-8" />
+      <meta property="og:image" content="https://pbs.twimg.com/media/GouKfB4XQAEvXW7?format=jpg&name=4096x4096" />
+      <meta name="twitter:image" content="https://pbs.twimg.com/media/GouKfB4XQAEvXW7?format=jpg&name=4096x4096" />
+      <meta name="description" content= "A weekly digest highlighting daily AI-generated anime art, news, comics, and articles by @Trevorion. Dive into a curated blend of creativity, culture, and commentary." />
+      <meta property="og:description" content= "A weekly digest highlighting daily AI-generated anime art, news, comics, and articles by @Trevorion. Dive into a curated blend of creativity, culture, and commentary." />
       <style>
         body { font-family: sans-serif; line-height: 1.6; padding: 20px; background: #f8f8f8; color: #222; }
         h1 { color: #000; }
@@ -28,6 +33,8 @@
                     </span>
                   </xsl:if>
                 </h1>
+                <hr/>
+                <h3 style="width: 800px; height: auto;">From anime-style AI art to sharp cultural insights, the Trevorion Weekly Feed delivers a handpicked blend of daily visuals, memes, tech news, and original articles. Updated every Monday, it's your portal to a vibrant intersection of art, AI, and storytelling.</h3>
                 <h6>
                   <span style="font-weight: bold;">
                     🏷️ #AI #Anime #News #Articles #DailyImage #AnimeAI #AIArt #WeeklyDigest #Comics #Trevorion #AnimeStyle #Highlights
