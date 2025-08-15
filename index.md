@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trevorion Weekly Anime/AI RSS Feed
+title: Trevorion Anime/AI RSS Feed
 permalink: /
 show_title: true
 page_type: index
