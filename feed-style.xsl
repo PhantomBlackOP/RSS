@@ -25,6 +25,11 @@
         </span>
       </xsl:if>
     </h1>
+    <h2>
+      <span style="font-weight: normal;">
+        🏷️ #AI #Anime #News #Articles #DailyImage #AnimeAI #AIArt #WeeklyDigest #Trevorion #AnimeStyle #Highlights
+      </span>
+    </h2>
     <hr/><br/>      
       <xsl:for-each select="rss/channel/item">
         <div class="item">
