@@ -17,20 +17,22 @@
       </style>
     </head>
     <body>
-    <img src="/assets/Anime%20AIS.jpg" alt="Trevorion Avatar" style="with: 100px; height: 100px; float: left; margin-left:50px;" />
-    <h1>📰 Trevorion Weekly Anime/AI RSS Feed
-      <xsl:if test="/rss/channel/lastBuildDate">
-        <br/>
-        <span style="font-weight: normal;">
-          📅 <em><xsl:value-of select="/rss/channel/lastBuildDate"/></em>
-        </span>
-      </xsl:if>
-    </h1>
-    <h6>
-      <span style="font-weight: bold;">
-        🏷️ #AI #Anime #News #Articles #DailyImage #AnimeAI #AIArt #WeeklyDigest #Comics #Trevorion #AnimeStyle #Highlights
-      </span>
-    </h6>
+        <div style="text-align: left;">
+            <img src="/assets/Anime%20AIS.jpg" alt="Trevorion Avatar" style="with: 100px; height: 100px; float: left; margin-right:10px;" />
+            <h1>📰 Trevorion Weekly Anime/AI RSS Feed
+              <xsl:if test="/rss/channel/lastBuildDate">
+                <br/>
+                <span style="font-weight: normal;">
+                  📅 <em><xsl:value-of select="/rss/channel/lastBuildDate"/></em>
+                </span>
+              </xsl:if>
+            </h1>
+            <h6>
+              <span style="font-weight: bold;">
+                🏷️ #AI #Anime #News #Articles #DailyImage #AnimeAI #AIArt #WeeklyDigest #Comics #Trevorion #AnimeStyle #Highlights
+              </span>
+            </h6>
+        </div>
     <hr/><br/>      
       <xsl:for-each select="rss/channel/item">
         <div class="item">
