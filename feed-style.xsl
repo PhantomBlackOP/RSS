@@ -5,7 +5,7 @@
   <xsl:template match="/">
     <html>
     <head>
-      <title>Trevorion Weekly Anime/AI RSS Feed</title>
+      <title>Trevorion Anime/AI RSS Feed</title>
       <style>
         body { font-family: sans-serif; line-height: 1.6; padding: 20px; background: #f8f8f8; color: #222; }
         h1 { color: #000; }
@@ -19,7 +19,7 @@
     <body>
         <div style="text-align: left;">
             <img src="/assets/Anime%20AIS.jpg" alt="Trevorion Avatar" style="with: 100px; height: 100px; float: left; margin-right:10px;" />
-            <h1>📰 Trevorion Weekly Anime/AI RSS Feed
+            <h1>📰 Trevorion Anime/AI RSS Feed
               <xsl:if test="/rss/channel/lastBuildDate">
                 <br/>
                 <span style="font-weight: normal;">
