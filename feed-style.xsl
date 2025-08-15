@@ -27,7 +27,7 @@
     </h1>
     <h6>
       <span style="font-weight: bold;">
-        🏷️ #AI #Anime #News #Articles #DailyImage #AnimeAI #AIArt #WeeklyDigest #Trevorion #AnimeStyle #Highlights
+        🏷️ #AI #Anime #News #Articles #DailyImage #AnimeAI #AIArt #WeeklyDigest #Comics #Trevorion #AnimeStyle #Highlights
       </span>
     </h6>
     <hr/><br/>      
