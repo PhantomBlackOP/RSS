@@ -11,10 +11,10 @@ permalink: /feed.xml
     <link>{{ site.url }}</link>
     <description>{{ site.description | xml_escape }}</description>
 
-    <!-- SEO-friendly tags -->
-    {% for tag in site.tags %}
-      <category>{{ tag[0] | xml_escape }}</category>
-    {% endfor %}
+     <!-- SEO-friendly tags -->
+     {% for tag in site.tags %}
+       <category>{{ tag | xml_escape }}</category>
+     {% endfor %}
        
     <language>en-uk</language>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
