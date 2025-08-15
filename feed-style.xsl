@@ -32,8 +32,9 @@
                 <hr/>
                 <h3>
                   <span style="font-weight: normal; width: 800px; height: auto;">
-                    From anime-style AI art to sharp cultural insights, the Trevorion Weekly Feed delivers a handpicked blend of daily visuals, memes, tech news, and original articles. Updated every Monday, it's your portal to a vibrant intersection of art, AI, and storytelling.</h3>
-                  </span>
+                    From anime-style AI art to sharp cultural insights, the Trevorion Weekly Feed delivers a handpicked blend of daily visuals, memes, tech news, and original articles. Updated every Monday, it's your portal to a vibrant intersection of art, AI, and storytelling.
+                  </span>                      
+                </h3>
                 <h6>
                   <span style="font-weight: bold;">
                     🏷️ #AI #Anime #News #Articles #DailyImage #AnimeAI #AIArt #WeeklyDigest #Comics #Trevorion #AnimeStyle #Highlights
