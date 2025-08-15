@@ -25,15 +25,15 @@
         <div style="text-align: left; overflow: hidden;">
             <a href="https://trevorion.io"><img src="/assets/Anime%20AIS.jpg" alt="Trevorion Avatar" style="width: 100px; height: 100px; float: left; margin-right:10px;" /></a>
             <div style="overflow: hidden;">
-                <h1>📰 Trevorion Anime/AI RSS Feed
+                <h1 style="margin: 0; padding-top: 0;">📰 Trevorion Anime/AI RSS Feed
                   <xsl:if test="/rss/channel/lastBuildDate">
                     <br/>
-                    <span style="font-weight: normal;">
+                    <span style="margin: 0; font-weight: normal;">
                       📅 <em><xsl:value-of select="/rss/channel/lastBuildDate"/></em>
                     </span>
                   </xsl:if>
                 </h1>
-            </div>                
+            </div>
         </div>
         <div style="text-align: left; width: 640px; height: auto;">
                 <hr/>
