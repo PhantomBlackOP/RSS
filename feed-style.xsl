@@ -23,7 +23,7 @@
       </style>
     </head>
     <body>
-        <div style="text-align: left;">
+        <div style="vertical-align: middle; text-align: left;">
             <a href="https://trevorion.io"><img src="/assets/Anime%20AIS.jpg" alt="Trevorion Avatar" style="width: 100px; height: 100px; float: left; margin-right:10px;" /></a>
             <div style="overflow: hidden;">
                 <h1>📰 Trevorion Anime/AI RSS Feed
@@ -34,6 +34,7 @@
                     </span>
                   </xsl:if>
                 </h1>
+            </div>                
         </div>
         <div style="text-align: left; width: 640px; height: auto;">
                 <hr/>
@@ -47,7 +48,6 @@
                     🏷️ #AI #Anime #News #Articles #DailyImage #AnimeAI #AIArt #WeeklyDigest #Comics #Trevorion #AnimeStyle #Highlights
                   </span>
                 </h6>
-            </div>
         </div>
     <hr/><br/>      
       <xsl:for-each select="rss/channel/item">
