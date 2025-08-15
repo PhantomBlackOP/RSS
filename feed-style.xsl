@@ -17,7 +17,7 @@
       </style>
     </head>
     <body>
-    <img src="/assets/Anime%20AIS.jpg" alt="Trevorion Avatar" style="with: 100px; height: 100px; object-fit: cover; margin-left:100px;" />
+    <img src="/assets/Anime%20AIS.jpg" alt="Trevorion Avatar" style="with: 100px; height: 100px; float: left; margin-left:50px;" />
     <h1>📰 Trevorion Weekly Anime/AI RSS Feed
       <xsl:if test="/rss/channel/lastBuildDate">
         <br/>
