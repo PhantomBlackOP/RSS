@@ -18,7 +18,7 @@
     </head>
     <body>
         <div style="text-align: left;">
-            <img src="/assets/Anime%20AIS.jpg" alt="Trevorion Avatar" style="with: 100px; height: 100px; float: left; margin-right:10px;" />
+            <a href="{{ site.home_url }}"><img src="/assets/Anime%20AIS.jpg" alt="Trevorion Avatar" style="with: 100px; height: 100px; float: left; margin-right:10px;" /></a>
             <h1>📰 Trevorion Anime/AI RSS Feed
               <xsl:if test="/rss/channel/lastBuildDate">
                 <br/>
