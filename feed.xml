@@ -12,7 +12,7 @@ permalink: /feed.xml
     <description>{{ site.description | xml_escape }}</description>
 
      <!-- SEO-friendly tags -->
-     {% for tag in site.tags %}
+     {% for tag in site.rss_tags %}
        <category>{{ tag | xml_escape }}</category>
      {% endfor %}
        
