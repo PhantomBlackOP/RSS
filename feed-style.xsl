@@ -5,7 +5,7 @@
   <xsl:template match="/">
     <html>
     <head>
-      <title>Trevorion Weekly RSS Feed</title>
+      <title>Trevorion Weekly Anime/AI RSS Feed</title>
       <style>
         body { font-family: sans-serif; line-height: 1.6; padding: 20px; background: #f8f8f8; color: #222; }
         h1 { color: #000; }
