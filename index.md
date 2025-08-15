@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trevorion Anime/AI RSS Feed
+title: Trevorion Weekly RSS Feed
 permalink: /
 show_title: true
 page_type: index
@@ -20,7 +20,7 @@ Built for long-term readers, indie web fans, and curious minds.
 📰 **RSS Feed**: [RSS is active](/feed.xml)<br/>
 ---
 
-_Last updated: Aug 14, 2025 15:53 UTC_
+_Last updated: Aug 15, 2025 23:06 UTC_
 
 
 Follow [@Trevorion](https://x.com/Trevorion)  
