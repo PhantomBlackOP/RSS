@@ -19,19 +19,21 @@
     <body>
         <div style="text-align: left;">
             <a href="https://trevorion.io"><img src="/assets/Anime%20AIS.jpg" alt="Trevorion Avatar" style="width: 100px; height: 100px; float: left; margin-right:10px;" /></a>
-            <h1>📰 Trevorion Anime/AI RSS Feed
-              <xsl:if test="/rss/channel/lastBuildDate">
-                <br/>
-                <span style="font-weight: normal;">
-                  📅 <em><xsl:value-of select="/rss/channel/lastBuildDate"/></em>
-                </span>
-              </xsl:if>
-            </h1>
-            <h6>
-              <span style="font-weight: bold;">
-                🏷️ #AI #Anime #News #Articles #DailyImage #AnimeAI #AIArt #WeeklyDigest #Comics #Trevorion #AnimeStyle #Highlights
-              </span>
-            </h6>
+            <div style="overflow: hidden;">
+                <h1>📰 Trevorion Anime/AI RSS Feed
+                  <xsl:if test="/rss/channel/lastBuildDate">
+                    <br/>
+                    <span style="font-weight: normal;">
+                      📅 <em><xsl:value-of select="/rss/channel/lastBuildDate"/></em>
+                    </span>
+                  </xsl:if>
+                </h1>
+                <h6>
+                  <span style="font-weight: bold;">
+                    🏷️ #AI #Anime #News #Articles #DailyImage #AnimeAI #AIArt #WeeklyDigest #Comics #Trevorion #AnimeStyle #Highlights
+                  </span>
+                </h6>
+            </div>
         </div>
     <hr/><br/>      
       <xsl:for-each select="rss/channel/item">
