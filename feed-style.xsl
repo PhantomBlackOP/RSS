@@ -47,8 +47,8 @@
                     🏷️ #AI #Anime #News #Articles #DailyImage #AnimeAI #AIArt #WeeklyDigest #Comics #Trevorion #AnimeStyle #Highlights
                   </span>
                 </h6>
-        </div>
-    <hr/><br/>      
+                <hr/>
+        </div><br/>      
       <xsl:for-each select="rss/channel/item">
         <div class="item">
           <div class="title">
