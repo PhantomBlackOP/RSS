@@ -19,7 +19,7 @@
         .link { color: navy; text-decoration: none; }
         .date { color: #444; font-size: 0.9em; }
         .header {
-            max-width: 640px;
+            max-width: 800px;
             height: auto;
             text-align: left;
             overflow: hidden;          
@@ -29,7 +29,7 @@
             text-decoration: none;
         }
         .description { 
-            max-width: 640px;
+            max-width: 800;
             height: auto;
         }
         img {
