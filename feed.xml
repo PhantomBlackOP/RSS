@@ -24,7 +24,7 @@ permalink: /feed.xml
     <item>
       <title>{{ post.title | xml_escape }}</title>
       <link>{{ site.url }}{{ post.url }}</link>
-      <guid isPermaLink="true">{{ site.url }}{{ post.url }}?v={{ site.time | date: "%Y%m%d%H%M" }}</guid>
+      <guid isPermaLink="true">{{ site.url }}{{ post.url }}?v=2.{{ site.time | date: "%Y%m%d%H%M" }}</guid>
 
       <description><![CDATA[
         {{ post.content | markdownify }}
