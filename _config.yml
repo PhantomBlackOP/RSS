@@ -4,6 +4,7 @@ baseurl: ""
 url: "https://rss.trevorion.io"
 home_url: "https://trevorion.io"
 rss_url: "https://rss.trevorion.io/feed.xml"
+full_rss: "https://rss.trevorion.io/full-feed.xml"
 rss_tags:
   - AI
   - Anime
