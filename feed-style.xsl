@@ -22,7 +22,7 @@
             color: navy; 
             text-decoration: none;
         }
-        .description a { 
+        .description { 
             max-width: 800px;
             height: auto;
         }
