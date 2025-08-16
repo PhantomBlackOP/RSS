@@ -29,7 +29,7 @@
             text-decoration: none;
         }
         .description { 
-            max-width: 800;
+            max-width: 800px;
             height: auto;
         }
         img {
