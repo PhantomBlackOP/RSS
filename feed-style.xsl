@@ -41,11 +41,10 @@
             height: auto;
         }
         img {
-            max-width: 640px;
+            max-width: 800px;
             height: auto;
             display: block;
             margin-top: 10px;
-            text-align: center;
         }
       </style>
     </head>
