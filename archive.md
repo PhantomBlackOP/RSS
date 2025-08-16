@@ -11,6 +11,7 @@ page_type: archive
 Explore all past weekly digests (newest first):
 
 
+- 📅 [Week 33 – Dailies & Highlights](/2025/08/11/week-33.html) (Aug 11, 2025)
 - 📅 [Week 32 – Dailies & Highlights](/2025/08/04/week-32.html) (Aug 04, 2025)
 - 📅 [Week 31 – Dailies & Highlights](/2025/07/28/week-31.html) (Jul 28, 2025)
 - 📅 [Week 30 – Dailies & Highlights](/2025/07/21/week-30.html) (Jul 21, 2025)
@@ -44,7 +45,7 @@ Explore all past weekly digests (newest first):
 - 📅 [Week 02 – Dailies & Highlights](/2025/01/06/week-02.html) (Jan 06, 2025)
 - 📅 [Week 01 – Dailies & Highlights](/2024/12/30/week-01.html) (Dec 30, 2024)
 
-_Last updated: Aug 16, 2025 05:05 UTC_
+_Last updated: Aug 16, 2025 05:16 UTC_
 ---
 Follow [@Trevorion](https://x.com/Trevorion)
 
