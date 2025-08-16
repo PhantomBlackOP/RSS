@@ -12,7 +12,15 @@
       <meta property="og:image" content="/assets/RSSFeed.png" />
       <meta name="twitter:image" content="/assets/RSSFeed.png" />
       <style>
-        body { font-family: sans-serif; line-height: 1.6; padding: 20px; background: #f8f8f8; color: #222; }
+        body {
+          font-family: sans-serif;
+          line-height: 1.6;
+          padding: 20px;
+          background: #f8f8f8;
+          color: #222;
+          max-width: 960px;
+          margin: 0 auto;
+        }
         h1 { color: #000; }
         .item { margin-bottom: 30px; padding-bottom: 15px; border-bottom: 1px solid #ccc; }
         .title { font-size: 1.2em; font-weight: bold; }
