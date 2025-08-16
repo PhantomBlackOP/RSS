@@ -19,10 +19,12 @@
         .link { color: navy; text-decoration: none; }
         .date { color: #444; font-size: 0.9em; }
         .description a { 
-            max-width: 800px;
-            height: auto;
             color: navy; 
             text-decoration: none;
+        }
+        .description a { 
+            max-width: 800px;
+            height: auto;
         }
         img {
             max-width: 640px;
