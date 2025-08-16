@@ -45,7 +45,7 @@
             <a href="https://trevorion.io"><img src="/assets/Anime%20AIS.jpg" alt="Trevorion Avatar" style="width: 100px; height: 100px; float: left; margin-right:10px;" /></a>
             <div style="overflow: hidden;">
                 <h1 style="margin: 0; padding-top: 0;">📰 Trevorion Anime/AI RSS Feed
-                    <br>
+                    <br/>
                   <xsl:if test="/rss/channel/lastBuildDate">
                     <span style="margin: 0; font-weight: normal;">
                       📅 <em><xsl:value-of select="/rss/channel/lastBuildDate"/></em>
@@ -67,7 +67,7 @@
                   </span>
                 </h6>
                 <hr/>
-        </div><br>      
+        </div><br/>      
       <xsl:for-each select="rss/channel/item">
         <div class="item">
           <div class="title">
