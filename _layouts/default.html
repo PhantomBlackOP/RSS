@@ -38,6 +38,8 @@
       color: #fff;
       height: 300px;
       text-align: center;
+      max-width: 100%;
+      margin: 0 auto;
     }
     header h1 {
       margin: 0;
@@ -87,8 +89,8 @@
     }
     main {
       padding: 40px 20px;
-      max-width: 960px;
-      margin: auto;
+      max-width: 100%;
+      margin: 0 auto;
       line-height: 1.8;
       text-align: center;
       text-decoration: none;
@@ -167,14 +169,16 @@
       <a href="https://www.trevorion.io/contact">Contact</a></B>
     </div>
   </nav>
+</div>
+
 <header>
    <br><br><br>
     <h1>@Trevorion</h1><br>
     <h2>RSS Feed - Weekly Digest</h2>
    <br><br>
  </header>
-</div>
-  <main>
+  
+ <main>
     {% if page.show_title and page.title %}
         <h1 style="text-align: left;">{{ page.title }}</h1>
     {% endif %}
@@ -203,6 +207,7 @@
       {% endif %}
     </div>
   </main>
+  
   <footer>
     <div style="text-align: left;">
       <img src="/assets/Assistant.jpg" alt="Assistant" width=150px height=150px style="object-fit: cover; margin-left:100px; margin-right:10px;">
