@@ -18,7 +18,7 @@
         .title { font-size: 1.2em; font-weight: bold; }
         .link { color: navy; text-decoration: none; }
         .date { color: #444; font-size: 0.9em; }
-        .header, header-text {
+        .header, .header-text {
             max-width: 800px;
             height: auto;
             text-align: left;
