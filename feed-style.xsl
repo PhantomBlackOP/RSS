@@ -18,7 +18,7 @@
         .title { font-size: 1.2em; font-weight: bold; }
         .link { color: navy; text-decoration: none; }
         .date { color: #444; font-size: 0.9em; }
-        .header {
+        .header, header-text {
             max-width: 800px;
             height: auto;
             text-align: left;
@@ -43,7 +43,7 @@
     <body>
         <div class="header">
             <a href="https://trevorion.io"><img src="/assets/Anime%20AIS.jpg" alt="Trevorion Avatar" style="width: 100px; height: 100px; float: left; margin-right:10px;" /></a>
-            <div style="overflow: hidden;">
+            <div class="header-text">
                 <h1 style="margin: 0; padding-top: 0;">📰 Trevorion Anime/AI RSS Feed
                   <xsl:if test="/rss/channel/lastBuildDate">
                     <br/>
@@ -54,7 +54,7 @@
                 </h1>
             </div>
         </div>
-        <div style="text-align: left;">
+        <div class="header-text">
                 <hr/>
                 <h3>
                   <span style="font-weight: normal;">
