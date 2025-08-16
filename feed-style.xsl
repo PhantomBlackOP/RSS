@@ -23,11 +23,11 @@
             text-decoration: none;
         }
         .description { 
-            max-width: 800px;
+            max-width: 640px;
             height: auto;
         }
         img {
-            max-width: 800px;
+            max-width: 640px;
             height: auto;
             display: block;
             margin-top: 10px;
