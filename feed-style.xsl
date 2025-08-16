@@ -18,7 +18,7 @@
           padding: 20px;
           background: #f8f8f8;
           color: #222;
-          max-width: 960px;
+          max-width: 800px;
           margin: 0 auto;
         }
         h1 { color: #000; }
