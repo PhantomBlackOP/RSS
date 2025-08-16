@@ -27,7 +27,7 @@
             height: auto;
         }
         img {
-            max-width: 640px;
+            max-width: 800px;
             height: auto;
             display: block;
             margin-top: 10px;
@@ -48,7 +48,7 @@
                 </h1>
             </div>
         </div>
-        <div style="text-align: left; width: 640px; height: auto;">
+        <div style="text-align: left;">
                 <hr/>
                 <h3>
                   <span style="font-weight: normal;">
