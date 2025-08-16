@@ -36,6 +36,9 @@
             color: navy; 
             text-decoration: none;
         }
+        .description img { 
+            text-align: center;
+        }
         .description { 
             max-width: 800px;
             height: auto;
