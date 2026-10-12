@@ -24,7 +24,7 @@ jobs:
       - name: Attach unmodified canonical artwork
         uses: actions/upload-artifact@v4
         with:
-          name: trevorion-zine-shortlist-canonical-medium
-          path: daily-shortlist-assets/
+          name: trevorion-zine-top-original-dimension-checks
+          path: daily-original-checks/
           if-no-files-found: error
           retention-days: 1
