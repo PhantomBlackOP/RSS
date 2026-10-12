@@ -7,6 +7,8 @@ on:
       - main
     paths:
       - 'scripts/rebuild_from_sitemap.py'
+      - 'scripts/rank_dailies.py'
+      - 'data/daily_reviews.json'
       - 'README.md'
       - '.github/workflows/rebuild-rss.yml'
   schedule:
@@ -40,7 +42,7 @@ jobs:
           set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A _posts monthly gallery _includes/zine-hero.html index.md archive.md monthly_index.md
+          git add -A _posts monthly gallery top20 _includes/zine-hero.html index.md archive.md monthly_index.md
           if git diff --cached --quiet; then
             echo 'Sitemap unchanged; RSS archives already current.'
             exit 0
