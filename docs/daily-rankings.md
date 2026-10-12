@@ -2,7 +2,7 @@
 
 ## Coverage and editorial status (12 October 2026)
 
-**669/669 published Daily artworks** were individually examined in the original Sitemap order: 649 numbered Dailies, Daily 000, and 20 special editions. No artistic or popularity shortlisting occurred before the first pass. Every artwork received a first-pass visual-impact, style, story, and originality score. After the full first pass, higher-ranked images received a second visual calibration. The resulting 669 reviews are individually bound to the canonical published image URL in `data/daily_visual_reviews.json`.
+**669/669 published Daily artworks** were individually examined in the original Sitemap order: the 000–649 numbered sequence and the remaining unnumbered specials. No artistic or popularity shortlisting occurred before the first pass. Every artwork received a first-pass visual-impact, style, story, and originality score. After the full first pass, higher-ranked images received a second visual calibration. The resulting 669 reviews are individually bound to the canonical published image URL in `data/daily_visual_reviews.json`.
 
 **Limitations:** Most of this full-archive assessment was performed using the **published Sitemap artwork mosaic previews (225×150)**. An 81-image subset was inspected at medium resolution, and 44 original published files had full-resolution verification in an earlier audit. Therefore the first-pass visual scores are preliminary, especially for fine anatomy, perspective, and execution. **Do not claim 669 full-resolution originals were reviewed.** Creator approval is pending.
 
