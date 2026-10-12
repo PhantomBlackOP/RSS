@@ -681,4 +681,4 @@ Every reviewed Daily, without genre, date, or aspect-ratio exclusions. The artis
 | 668 | [004: Gamer Forever! 🕶️🎮](https://zine.trevorion.io/20250104-1/) | 54.00 | 3.38 |
 | 669 | [002: How it all began 📺🏎️](https://zine.trevorion.io/20250102-1/) | 51.00 | 3.38 |
 
-[View complete criterion-by-criterion evaluation JSON](https://github.com/PhantomBlackOP/RSS/blob/main/data/daily_reviews.json).
+[Scoring methodology and limitations](/top20/methodology/) · [Full criterion-by-criterion scores (XML)](/top20/scores.xml).
