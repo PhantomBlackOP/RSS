@@ -1,0 +1,1151 @@
+{
+  "schema_version": 1,
+  "rubric_version": "2026-10-12-v1",
+  "assessment_note": "Provisional AI-assisted editorial scorecards. All 669 published Dailies were visually screened; 44 finalists were reviewed with published 960px medium images and original published files confirmed at 1536×1024. Theme interest is a qualitative subject-appeal estimate, not actual image engagement. Not yet creator-approved.",
+  "reviews": [
+    {
+      "url": "https://zine.trevorion.io/20250616-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/02/167.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 8.5,
+        "style": 9,
+        "story": 9,
+        "originality": 9,
+        "execution": 8.5,
+        "editorial_value": 8.5,
+        "zine_identity": 9,
+        "banner_suitability": 8.5
+      },
+      "theme_appeal": {
+        "reach": 3.5,
+        "recognition": 2.5,
+        "cross_audience": 3.5,
+        "evergreen": 4
+      },
+      "reasoning": "An ethereal singer links music, mythology and a luminous cityscape; the atmosphere implies a powerful unseen ritual."
+    },
+    {
+      "url": "https://zine.trevorion.io/20250630-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/02/181.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9,
+        "style": 9,
+        "story": 8,
+        "originality": 8,
+        "execution": 9,
+        "editorial_value": 7.5,
+        "zine_identity": 9,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 4,
+        "recognition": 3,
+        "cross_audience": 4,
+        "evergreen": 4
+      },
+      "reasoning": "The blazing volcanic throne and dragon sovereign establish scale, menace and a strongly unified palette."
+    },
+    {
+      "url": "https://zine.trevorion.io/20250814-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2025/08/226-The-Wanderer-🏜🏺.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9,
+        "style": 9,
+        "story": 9.5,
+        "originality": 9,
+        "execution": 9,
+        "editorial_value": 8,
+        "zine_identity": 9,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 4,
+        "recognition": 2.5,
+        "cross_audience": 4,
+        "evergreen": 4
+      },
+      "reasoning": "The lone wanderer against ruined columns gives a journey, emotional isolation and distinctive sunset silhouette."
+    },
+    {
+      "url": "https://zine.trevorion.io/20250816-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2025/08/228-The-Gate-🔘🥬.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9,
+        "style": 9,
+        "story": 9,
+        "originality": 9,
+        "execution": 9,
+        "editorial_value": 8.5,
+        "zine_identity": 9,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 3.5,
+        "recognition": 2.5,
+        "cross_audience": 4,
+        "evergreen": 4
+      },
+      "reasoning": "A moss-grown stone ring frames an inviting unknown destination; landscape composition carries the mystery."
+    },
+    {
+      "url": "https://zine.trevorion.io/20250824-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2025/08/236-Fenrir-🐺❄️.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 9.5,
+        "originality": 9,
+        "execution": 9.5,
+        "editorial_value": 8.5,
+        "zine_identity": 9.5,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 4,
+        "recognition": 4.5,
+        "cross_audience": 3.5,
+        "evergreen": 4.5
+      },
+      "reasoning": "The immense spectral wolf and tiny witness create extraordinary scale, Norse symbolism and memorable auroral atmosphere."
+    },
+    {
+      "url": "https://zine.trevorion.io/20251006-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2025/10/279-Odyssey-Citadel-🛰️🌍.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9,
+        "style": 9,
+        "story": 8.5,
+        "originality": 8.5,
+        "execution": 9,
+        "editorial_value": 8,
+        "zine_identity": 9,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 4,
+        "recognition": 3,
+        "cross_audience": 4,
+        "evergreen": 4
+      },
+      "reasoning": "A constructed orbital citadel over Earth establishes science-fiction scope with clear spatial storytelling."
+    },
+    {
+      "url": "https://zine.trevorion.io/20251024-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2025/10/297-Queen-of-Winter-❄️🔥.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9,
+        "style": 9,
+        "story": 9.5,
+        "originality": 8.5,
+        "execution": 9,
+        "editorial_value": 8.5,
+        "zine_identity": 9,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 4.5,
+        "recognition": 4,
+        "cross_audience": 4.5,
+        "evergreen": 4.5
+      },
+      "reasoning": "A winter queen faces her supplicant beneath the aurora, conveying status, restraint and the tension of an encounter."
+    },
+    {
+      "url": "https://zine.trevorion.io/20251026-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2025/10/299-Streetcar-🚋🍁.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9,
+        "story": 9,
+        "originality": 9,
+        "execution": 9,
+        "editorial_value": 8.5,
+        "zine_identity": 9,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 3.5,
+        "recognition": 3.5,
+        "cross_audience": 4,
+        "evergreen": 4.5
+      },
+      "reasoning": "The red streetcar punctuates a misty autumn corridor with controlled light, perspective and nostalgia."
+    },
+    {
+      "url": "https://zine.trevorion.io/20251027-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2025/10/300-Milestone-🏮🌸.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9,
+        "style": 9,
+        "story": 10,
+        "originality": 9.5,
+        "execution": 9,
+        "editorial_value": 8.5,
+        "zine_identity": 9,
+        "banner_suitability": 8.5
+      },
+      "theme_appeal": {
+        "reach": 3,
+        "recognition": 2,
+        "cross_audience": 3.5,
+        "evergreen": 4
+      },
+      "reasoning": "A solitary figure beside floating lanterns tells a quiet milestone story through reflection and warm light."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260104-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/01/369-Yggdrasil-🌳🍃.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 9,
+        "originality": 9,
+        "execution": 9.5,
+        "editorial_value": 9,
+        "zine_identity": 9.5,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 4.5,
+        "recognition": 4.5,
+        "cross_audience": 4,
+        "evergreen": 5
+      },
+      "reasoning": "The monumental world-tree makes myth tangible through architecture-like roots, cascading water and a vast luminous landscape."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260106-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/01/371-La-Befana-🧙‍♀️🧹.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 9.5,
+        "originality": 9,
+        "execution": 9,
+        "editorial_value": 9.5,
+        "zine_identity": 9.5,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 3.5,
+        "recognition": 4,
+        "cross_audience": 3.5,
+        "evergreen": 4.5
+      },
+      "reasoning": "La Befana crossing a snowy village combines folklore, motion and festive storytelling in one frame."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260217-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/02/413-Agartha-🌞💎.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 9,
+        "originality": 9.5,
+        "execution": 9.5,
+        "editorial_value": 9,
+        "zine_identity": 9.5,
+        "banner_suitability": 9.5
+      },
+      "theme_appeal": {
+        "reach": 4,
+        "recognition": 3.5,
+        "cross_audience": 4,
+        "evergreen": 4.5
+      },
+      "reasoning": "A radiant subterranean world layers crystalline architecture, waterfalls and a central sun into a visual myth."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260225-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/02/421-Triskelion-🌊🌀.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 8,
+        "originality": 9.5,
+        "execution": 9,
+        "editorial_value": 9,
+        "zine_identity": 9,
+        "banner_suitability": 8.5
+      },
+      "theme_appeal": {
+        "reach": 3,
+        "recognition": 3.5,
+        "cross_audience": 4,
+        "evergreen": 4.5
+      },
+      "reasoning": "The weathered triskelion merges Celtic symbolism with dramatic coastal geology and textured environmental art."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260226-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/02/422-Festival-💃🌅.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 9.5,
+        "originality": 9,
+        "execution": 9,
+        "editorial_value": 8.5,
+        "zine_identity": 9,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 4.5,
+        "recognition": 4,
+        "cross_audience": 4.5,
+        "evergreen": 4.5
+      },
+      "reasoning": "A dancer anchors a bustling celebration; movement and the crowded street create energy and coherent storytelling."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260228-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/02/424-Knights-Helmet-🛡️🗡.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 8.5,
+        "originality": 9,
+        "execution": 9.5,
+        "editorial_value": 8.5,
+        "zine_identity": 9,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 4,
+        "recognition": 4,
+        "cross_audience": 4,
+        "evergreen": 4.5
+      },
+      "reasoning": "Decorative armour, crimson plumage and warm metalwork make a static helmet feel regal and dramatically inhabited."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260305-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/03/429-Alectryomancy-🐓🌅.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9,
+        "style": 9,
+        "story": 10,
+        "originality": 9.5,
+        "execution": 9,
+        "editorial_value": 9.5,
+        "zine_identity": 9,
+        "banner_suitability": 8.5
+      },
+      "theme_appeal": {
+        "reach": 2.5,
+        "recognition": 2,
+        "cross_audience": 3,
+        "evergreen": 4
+      },
+      "reasoning": "A rooster observed around an ancient divination table turns a rare historical practice into a vivid collective narrative."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260306-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/03/430-Tea-Party-☕💀.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 10,
+        "originality": 9.5,
+        "execution": 9,
+        "editorial_value": 8.5,
+        "zine_identity": 9.5,
+        "banner_suitability": 8.5
+      },
+      "theme_appeal": {
+        "reach": 4,
+        "recognition": 4,
+        "cross_audience": 4,
+        "evergreen": 4.5
+      },
+      "reasoning": "A calm tea guest among elegantly dressed skeletons is instantly legible, macabre and witty, with rich gothic detail."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260309-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/03/433-Jardiniere-🌸🪴.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 8.5,
+        "originality": 9,
+        "execution": 9.5,
+        "editorial_value": 8.5,
+        "zine_identity": 9,
+        "banner_suitability": 9.5
+      },
+      "theme_appeal": {
+        "reach": 3.5,
+        "recognition": 3,
+        "cross_audience": 4,
+        "evergreen": 4.5
+      },
+      "reasoning": "A monumental floral vessel in a sunlit conservatory balances scale, colour and intimate human attention."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260311-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/03/435-Awen-Gathering-📜🎶.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9,
+        "style": 9.5,
+        "story": 9.5,
+        "originality": 9,
+        "execution": 9,
+        "editorial_value": 9,
+        "zine_identity": 9.5,
+        "banner_suitability": 8.5
+      },
+      "theme_appeal": {
+        "reach": 3,
+        "recognition": 2.5,
+        "cross_audience": 4,
+        "evergreen": 4.5
+      },
+      "reasoning": "A bard holding a circle's attention evokes a Celtic tale through warm lamplight, listeners and a clear focal event."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260317-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/03/441-Armored-Destrier-🐎🛡.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9,
+        "story": 9.5,
+        "originality": 8.5,
+        "execution": 9.5,
+        "editorial_value": 9.5,
+        "zine_identity": 9,
+        "banner_suitability": 8.5
+      },
+      "theme_appeal": {
+        "reach": 4,
+        "recognition": 4,
+        "cross_audience": 4,
+        "evergreen": 5
+      },
+      "reasoning": "Horse, harness, knight and attendants create a convincing historical action scene with impressive material detail."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260326-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/03/450-Nobles-Duty-️🔥⚔.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9,
+        "style": 9.5,
+        "story": 10,
+        "originality": 9.5,
+        "execution": 9,
+        "editorial_value": 9,
+        "zine_identity": 9.5,
+        "banner_suitability": 8.5
+      },
+      "theme_appeal": {
+        "reach": 3.5,
+        "recognition": 2.5,
+        "cross_audience": 4,
+        "evergreen": 4.5
+      },
+      "reasoning": "An elder fastening a young warrior's armour captures duty, mentorship and impending departure in a quiet intimate moment."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260404-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/04/459-Blazing-Meteor-☄️🌄.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 8.5,
+        "originality": 9,
+        "execution": 9,
+        "editorial_value": 8.5,
+        "zine_identity": 9,
+        "banner_suitability": 9.5
+      },
+      "theme_appeal": {
+        "reach": 4,
+        "recognition": 4,
+        "cross_audience": 4.5,
+        "evergreen": 4.5
+      },
+      "reasoning": "A fireball over a scarred landscape has immediate scale and urgency, with strong atmospheric contrast."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260405-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/04/460-Easter-Sunday-Procession-✝️🎺.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 9.5,
+        "originality": 9,
+        "execution": 9.5,
+        "editorial_value": 9.5,
+        "zine_identity": 9.5,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 4.5,
+        "recognition": 4.5,
+        "cross_audience": 4,
+        "evergreen": 5
+      },
+      "reasoning": "The Easter procession builds a complex civic tableau with Maltese festival atmosphere, movement and rich colour."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260415-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/04/470-The-Caravan-🐘🏜️.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9,
+        "story": 9,
+        "originality": 9,
+        "execution": 9,
+        "editorial_value": 8.5,
+        "zine_identity": 9,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 3.5,
+        "recognition": 3.5,
+        "cross_audience": 4,
+        "evergreen": 4.5
+      },
+      "reasoning": "The elephant caravan advances across luminous dunes, uniting rich decoration with a clear sense of journey."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260528-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/05/513-Neon-Redemption-💜🌃.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 8.5,
+        "originality": 9,
+        "execution": 9,
+        "editorial_value": 8,
+        "zine_identity": 9,
+        "banner_suitability": 9.5
+      },
+      "theme_appeal": {
+        "reach": 4.5,
+        "recognition": 3.5,
+        "cross_audience": 4.5,
+        "evergreen": 4
+      },
+      "reasoning": "A low action pose amid neon rain gives the character immediacy, cyberpunk texture and a strong colour identity."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260529-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/05/514-Rootbound-Apsara-🌿🛕.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 9.5,
+        "originality": 9.5,
+        "execution": 9.5,
+        "editorial_value": 9,
+        "zine_identity": 9.5,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 3,
+        "recognition": 2.5,
+        "cross_audience": 4,
+        "evergreen": 4.5
+      },
+      "reasoning": "A sacred dancer's face emerges from living roots, blending archaeology, nature and melancholy into a singular image."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260604-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/06/520-Wyvern-Watch-🐉🌋.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 9,
+        "originality": 9,
+        "execution": 9,
+        "editorial_value": 8.5,
+        "zine_identity": 9,
+        "banner_suitability": 9.5
+      },
+      "theme_appeal": {
+        "reach": 4.5,
+        "recognition": 4.5,
+        "cross_audience": 4,
+        "evergreen": 4.5
+      },
+      "reasoning": "The winged beast perches over a violent coastline; rough weather and lighting imply a looming threat."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260614-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/06/530-Fandango-🕺💃.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 9.5,
+        "originality": 9,
+        "execution": 9.5,
+        "editorial_value": 9,
+        "zine_identity": 9.5,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 4,
+        "recognition": 4,
+        "cross_audience": 4.5,
+        "evergreen": 5
+      },
+      "reasoning": "Two performers animate a flamenco street gathering; movement, faces and fabric produce strong narrative rhythm."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260618-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/06/534-Jormungandr-🌊🐍.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 9.5,
+        "originality": 9,
+        "execution": 9,
+        "editorial_value": 9,
+        "zine_identity": 9.5,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 4,
+        "recognition": 4.5,
+        "cross_audience": 3.5,
+        "evergreen": 4.5
+      },
+      "reasoning": "The colossal serpent coils across a lightning-swept sea, with mythic menace and a forceful landscape silhouette."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260714-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/07/560-Nadira-🧞‍♀️💎.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9,
+        "style": 9.5,
+        "story": 10,
+        "originality": 9,
+        "execution": 9,
+        "editorial_value": 9,
+        "zine_identity": 9.5,
+        "banner_suitability": 8.5
+      },
+      "theme_appeal": {
+        "reach": 3,
+        "recognition": 2.5,
+        "cross_audience": 4,
+        "evergreen": 4
+      },
+      "reasoning": "A blue apparition reaches a solitary man in a dark cavern; the encounter is emotionally charged and mysterious."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260716-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/07/562-Ventriloquist-🎭🪵.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9,
+        "style": 9.5,
+        "story": 10,
+        "originality": 9.5,
+        "execution": 9.5,
+        "editorial_value": 9,
+        "zine_identity": 9.5,
+        "banner_suitability": 8.5
+      },
+      "theme_appeal": {
+        "reach": 4,
+        "recognition": 4,
+        "cross_audience": 4,
+        "evergreen": 4
+      },
+      "reasoning": "A Victorian ventriloquist performs for an intent audience, blending uncanny character work and stage storytelling."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260823-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/08/600-Seicento-🎭🕯.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9,
+        "style": 9.5,
+        "story": 9,
+        "originality": 9,
+        "execution": 9.5,
+        "editorial_value": 9,
+        "zine_identity": 9,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 3,
+        "recognition": 3,
+        "cross_audience": 4,
+        "evergreen": 4.5
+      },
+      "reasoning": "A finely dressed figure at a moonlit Venetian balcony blends historical costume and storytelling through poise."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260827-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/08/604-Beast-Kin-Warrior-🐾🗡️.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 9.5,
+        "originality": 9,
+        "execution": 9.5,
+        "editorial_value": 8.5,
+        "zine_identity": 9.5,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 4.5,
+        "recognition": 3.5,
+        "cross_audience": 4.5,
+        "evergreen": 4.5
+      },
+      "reasoning": "A white-haired beast-kin warrior lunges through jungle; dynamic anatomy and a natural setting anchor the action."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260828-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/08/605-Scheherazade-📖🌙.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 9.5,
+        "originality": 9,
+        "execution": 9,
+        "editorial_value": 9.5,
+        "zine_identity": 9.5,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 4.5,
+        "recognition": 4.5,
+        "cross_audience": 4,
+        "evergreen": 5
+      },
+      "reasoning": "Scheherazade's furnished moonlit chamber invokes the enduring stories within stories of the Arabian Nights."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260911-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/09/619-Court-Dancer-💃🏽🪔.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 9,
+        "originality": 9,
+        "execution": 9,
+        "editorial_value": 9,
+        "zine_identity": 9,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 3.5,
+        "recognition": 3.5,
+        "cross_audience": 4,
+        "evergreen": 4.5
+      },
+      "reasoning": "An expressive classical dancer performs before musicians and an intimate court, rich in gesture and warm lighting."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260915-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/09/623-Royal-Assassination-👑🗡️.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9,
+        "style": 9.5,
+        "story": 10,
+        "originality": 9,
+        "execution": 9.5,
+        "editorial_value": 9,
+        "zine_identity": 9.5,
+        "banner_suitability": 8.5
+      },
+      "theme_appeal": {
+        "reach": 4,
+        "recognition": 3,
+        "cross_audience": 4,
+        "evergreen": 4.5
+      },
+      "reasoning": "A masked assailant confronts a royal victim in a candlelit passage, making motive and jeopardy readable at once."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260917-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/09/625-Lucia-Valleran-Daughter-of-Light-⚔️🏰.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 8.5,
+        "originality": 8.5,
+        "execution": 9.5,
+        "editorial_value": 8.5,
+        "zine_identity": 9.5,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 4,
+        "recognition": 3.5,
+        "cross_audience": 4.5,
+        "evergreen": 4.5
+      },
+      "reasoning": "Lucia's luminous armour against a disciplined castle garrison offers a finished high-fantasy heroic portrait."
+    },
+    {
+      "url": "https://zine.trevorion.io/20260923-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/09/631-The-Glance-🍺️❤️.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9,
+        "style": 9.5,
+        "story": 10,
+        "originality": 9,
+        "execution": 9,
+        "editorial_value": 9,
+        "zine_identity": 9.5,
+        "banner_suitability": 8.5
+      },
+      "theme_appeal": {
+        "reach": 3.5,
+        "recognition": 3,
+        "cross_audience": 4.5,
+        "evergreen": 4.5
+      },
+      "reasoning": "A couple's exchanged glance under warm village light conveys an intimate story through posture and expression."
+    },
+    {
+      "url": "https://zine.trevorion.io/20261004-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/10/642-Babylonian-Princess-👑☀️.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 9,
+        "originality": 9,
+        "execution": 9.5,
+        "editorial_value": 9.5,
+        "zine_identity": 9.5,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 4,
+        "recognition": 4,
+        "cross_audience": 4.5,
+        "evergreen": 4.5
+      },
+      "reasoning": "The Babylonian princess stands in an ancient royal world, balancing ornate dress with architectural context."
+    },
+    {
+      "url": "https://zine.trevorion.io/20261005-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/10/643-Rite-of-Renewal-💦🌿.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 9.5,
+        "originality": 9,
+        "execution": 9.5,
+        "editorial_value": 9,
+        "zine_identity": 9.5,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 4,
+        "recognition": 3,
+        "cross_audience": 4.5,
+        "evergreen": 4.5
+      },
+      "reasoning": "The waterfall ritual integrates figure, spray and forest illumination into an immersive narrative of renewal."
+    },
+    {
+      "url": "https://zine.trevorion.io/20261007-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/10/645-Moonlit-Revenant-💀🌕.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 9,
+        "originality": 8.5,
+        "execution": 9.5,
+        "editorial_value": 8.5,
+        "zine_identity": 9.5,
+        "banner_suitability": 9.5
+      },
+      "theme_appeal": {
+        "reach": 4.5,
+        "recognition": 4,
+        "cross_audience": 4,
+        "evergreen": 4.5
+      },
+      "reasoning": "A skeletal revenant strides above gothic ruins in a full-moon scene with imposing scale and dark-fantasy palette."
+    },
+    {
+      "url": "https://zine.trevorion.io/20261008-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/10/646-Master-of-the-Rift-🎸🌀.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9,
+        "story": 9.5,
+        "originality": 9,
+        "execution": 9.5,
+        "editorial_value": 9.5,
+        "zine_identity": 10,
+        "banner_suitability": 8.5
+      },
+      "theme_appeal": {
+        "reach": 4.5,
+        "recognition": 4,
+        "cross_audience": 4,
+        "evergreen": 4.5
+      },
+      "reasoning": "The Zine's band performs amid rift lighting; complex group staging gives this a distinctive personal identity."
+    },
+    {
+      "url": "https://zine.trevorion.io/20261010-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/10/648-Throne-of-Naggaroth-👑🌩️.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9.5,
+        "story": 9.5,
+        "originality": 9.5,
+        "execution": 9.5,
+        "editorial_value": 9.5,
+        "zine_identity": 9.5,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 4,
+        "recognition": 4.5,
+        "cross_audience": 3.5,
+        "evergreen": 4.5
+      },
+      "reasoning": "A dark-elf throne court uses disciplined staging, court hierarchy and Gothic architecture for deep worldbuilding."
+    },
+    {
+      "url": "https://zine.trevorion.io/20261011-1/",
+      "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/10/649-Artemis-Goddess-of-the-Hunt-🏹🌙.png",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "review_type": "AI-assisted editorial assessment",
+      "scores": {
+        "visual_impact": 9.5,
+        "style": 9,
+        "story": 9,
+        "originality": 8.5,
+        "execution": 9,
+        "editorial_value": 9.5,
+        "zine_identity": 9.5,
+        "banner_suitability": 9
+      },
+      "theme_appeal": {
+        "reach": 4.5,
+        "recognition": 4.5,
+        "cross_audience": 4.5,
+        "evergreen": 5
+      },
+      "reasoning": "Artemis stands with her sacred stag against mountains at night, combining mythology, landscape and character."
+    }
+  ]
+}
