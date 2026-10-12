@@ -19,7 +19,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 from urllib.request import Request, urlopen
 
-from rank_dailies import audit_json, build_page, full_catalog, ranked
+from rank_dailies import audit_json, audit_xml, build_page, full_catalog, methodology_page, ranked
 
 ROOT = Path(__file__).resolve().parents[1]
 SITEMAP_ROOT = "https://sitemap.trevorion.io"
@@ -375,6 +375,15 @@ def generate(entries: list[Entry]) -> dict[Path, str]:
         complete_ranking, frontmatter(
             layout="page", title="Complete Daily rankings", permalink="/top20/all/"
         )
+    )
+    outputs[Path("top20/methodology.html")] = methodology_page(
+        frontmatter(layout="page", title="Daily scoring methodology",
+                    permalink="/top20/methodology/"),
+        len(complete_ranking), len(dailies)
+    )
+    outputs[Path("top20/scores.xml")] = (
+        "---\nlayout: null\npermalink: /top20/scores.xml\n---\n"
+        + audit_xml(complete_ranking, len(dailies))
     )
     outputs[Path("data/daily_reviews.json")] = audit_json(
         complete_ranking, len(dailies)

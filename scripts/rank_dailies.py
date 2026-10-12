@@ -15,6 +15,7 @@ import json
 import math
 import re
 from dataclasses import dataclass
+from xml.etree import ElementTree as ET
 from pathlib import Path
 from typing import Any
 
@@ -277,8 +278,7 @@ def build_page(entries: list[Any], header: str) -> tuple[str, list[RankedDaily]]
         lines.append('</ol>')
     lines.append(
         '<p><a href="/top20/all/">Complete scored ranking →</a> · '
-        '<a href="https://github.com/PhantomBlackOP/RSS/blob/main/docs/daily-rankings.md">'
-        'Rubric and limitations ↗</a></p>'
+        '<a href="/top20/methodology/">Scoring methodology and limitations →</a></p>'
     )
     return "\n".join(lines) + "\n", items
 
@@ -298,10 +298,124 @@ def full_catalog(ranking: list[RankedDaily], header: str) -> str:
         label = post.title.replace("|", r"\|").replace("\n", " ")
         lines.append(f"| {i} | [{label}]({post.url}) | {entry.artistic_score:.2f} | {entry.theme_appeal:.2f} |")
     lines.append(
-        "\n[View complete criterion-by-criterion evaluation JSON]"
-        "(https://github.com/PhantomBlackOP/RSS/blob/main/data/daily_reviews.json)."
+        "\n[Scoring methodology and limitations](/top20/methodology/) · "
+        "[Full criterion-by-criterion scores (XML)](/top20/scores.xml)."
     )
     return "\n".join(lines) + "\n"
+
+
+def methodology_page(header: str, reviewed_count: int, published_count: int) -> str:
+    """Public HTML explanation, not a link to repository source Markdown."""
+    lines = [
+        header,
+        '<section class="ranking-methodology">',
+        '<h1>How the Dailies are ranked</h1>',
+        f'<p class="ranking-coverage"><strong>{reviewed_count} of {published_count} '
+        'published Dailies evaluated.</strong> These are provisional AI-assisted '
+        'first-pass editorial scores, not objective quality measures or a '
+        'creator-approved final ranking.</p>',
+        '<h2>Artistic merit: 100-point scale</h2>',
+        '<p>Each criterion is scored from 0–10 and weighted as follows. '
+        'The artistic score is the sum of each rating multiplied by its '
+        'weight divided by 10.</p>',
+        '<table class="ranking-rubric"><thead><tr><th>Criterion</th>'
+        '<th>Weight</th><th>Evidence</th></tr></thead><tbody>',
+    ]
+    method = {
+        "visual_impact": "Individually assessed from each published image preview: lighting, composition, impact, atmosphere.",
+        "style": "Individually assessed from each published image preview: visual language, cohesion, palette and treatment.",
+        "story": "Individually assessed from each published image preview: emotion, implied action, character and narrative.",
+        "originality": "Individually assessed from each published image preview: inventive concepts and interpretation.",
+        "execution": "Calculated estimate from the visual-impact and style ratings; not a separate high-resolution inspection.",
+        "editorial_value": "Calculated estimate from story, originality and subject classifications from the Sitemap.",
+        "zine_identity": "Calculated estimate from style, originality, story and subject metadata.",
+        "banner_suitability": "Calculated estimate from impact, style and story; there is no aspect-ratio exclusion in the Top 20.",
+    }
+    for key, weight in WEIGHTS.items():
+        lines.append(
+            f'<tr><th scope="row">{html.escape(LABELS[key])}</th>'
+            f'<td>{weight}%</td><td>{html.escape(method[key])}</td></tr>'
+        )
+    lines += [
+        '</tbody></table>',
+        '<h2>Popularity means popularity of the theme</h2>',
+        '<p>Theme appeal is a separate 0–5 editorial estimate of a subject’s '
+        'general audience reach, cultural recognition, cross-audience interest '
+        'and evergreen value. It is <strong>not</strong> the number of views or '
+        'reactions for an artwork. It never increases artistic merit and is '
+        'used only to break exact artistic-score ties. No audience analytics '
+        'are claimed.</p>',
+        '<h2>Sources and limitations</h2>',
+        '<p>Publication metadata, titles, tags, post links and image URLs come '
+        'exclusively from the public Zine Sitemap. All original 669 Dailies '
+        'were considered without an artistic shortlist. The four individually '
+        'assessed criteria were judged from the published 225 × 150 previews. '
+        'An earlier subset of 81 was inspected at medium size and 44 published '
+        'originals were independently checked, but not all 669 full-size '
+        'images underwent technical review. Other criterion scores are clearly '
+        'identified as estimates, and creator review is still pending.</p>',
+        '<p>Older 4:3 work and special Dailies are eligible for this ranking. '
+        'The separate YouTube-banner requirement for 3:2 artwork does '
+        'not affect the Top 20.</p>',
+        '<h2>Updates and reproducibility</h2>',
+        '<p>Each assessment is associated with its canonical Zine post and '
+        'published original image URL. A replaced image does not automatically '
+        'inherit an old score. New entries are not silently assigned scores. '
+        'The same scoring formula is applied to every reviewed Daily.</p>',
+        '<p><a href="/top20/">Top 20 artwork gallery →</a> · '
+        '<a href="/top20/all/">Complete ranked catalogue →</a> · '
+        '<a href="/top20/scores.xml">All individual scores (XML) →</a></p>',
+        '</section>',
+    ]
+    return "\n".join(lines) + "\n"
+
+
+def audit_xml(ranking: list[RankedDaily], n_published: int) -> str:
+    """Human-accessible public XML rather than links to internal data files."""
+    root = ET.Element("daily-rankings", {
+        "rubric-version": "2026-10-12-v2",
+        "status": "provisional-ai-assisted-first-pass",
+        "published-count": str(n_published),
+        "reviewed-count": str(len(ranking)),
+    })
+    ET.SubElement(root, "methodology").text = "https://rss.trevorion.io/top20/methodology/"
+    ET.SubElement(root, "limitations").text = (
+        "Four criteria assessed individually from published small preview images. "
+        "Execution, editorial value, Zine identity and banner suitability are "
+        "consistent derived estimates, not independent full-resolution reviews. "
+        "Theme appeal measures estimated general subject interest, not an image's "
+        "views or reactions. Creator approval remains outstanding."
+    )
+    for rank, record in enumerate(ranking, 1):
+        post = record.post
+        daily = ET.SubElement(root, "daily", {"rank": str(rank)})
+        for name, value in (
+            ("title", post.title), ("post-url", post.url),
+            ("published-image-url", post.image or ""),
+            ("published", post.date.isoformat()),
+            ("artistic-merit", f"{record.artistic_score:.2f}"),
+            ("theme-appeal", f"{record.theme_appeal:.2f}"),
+            ("reasoning", record.reasoning),
+            ("review-basis", record.inspected_basis),
+        ):
+            ET.SubElement(daily, name).text = value
+        art = ET.SubElement(daily, "artistic-criteria")
+        for key, weight in WEIGHTS.items():
+            criterion = ET.SubElement(art, "criterion", {
+                "name": key,
+                "weight-percent": str(weight),
+                "assessment": "individual-visual-review" if key in DIRECT else "calculated-estimate",
+            })
+            criterion.text = f"{record.scores[key]:g}"
+        themes = ET.SubElement(daily, "theme-criteria")
+        for key in DIMENSIONS:
+            ET.SubElement(themes, "criterion", {"name": key}).text = f"{record.theme_scores[key]:g}"
+        tags = ET.SubElement(daily, "tags")
+        for tag in post.tags:
+            ET.SubElement(tags, "tag").text = tag
+    ET.indent(root, space="  ")
+    return "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" + ET.tostring(root, encoding="unicode") + "\n"
+
 
 def audit_json(ranking: list[RankedDaily], n_published: int) -> str:
     payload = {
