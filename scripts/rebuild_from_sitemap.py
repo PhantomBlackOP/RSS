@@ -185,18 +185,47 @@ def generate(entries: list[Entry]) -> dict[Path, str]:
     for entry in entries:
         weeks[week_start(entry)].append(entry)
 
+    # The header mosaic uses only canonical Daily thumbnails and refreshes every run.
+    # Interleave a cross-archive selection with recent releases, including specials.
+    spread = [dailies[round(i * (len(dailies) - 1) / 31)] for i in range(32)]
+    newest = list(reversed(dailies[-32:]))
+    chosen: list[Entry] = []
+    seen: set[str] = set()
+    for older, newer in zip(spread, newest):
+        for item in (older, newer):
+            if item.url not in seen and item.image:
+                chosen.append(item)
+                seen.add(item.url)
+    for item in reversed(dailies):
+        if len(chosen) >= 64:
+            break
+        if item.url not in seen and item.image:
+            chosen.append(item)
+            seen.add(item.url)
+    outputs[Path("_includes/zine-hero.html")] = "\n".join(
+        f'<a href="{html.escape(item.url, quote=True)}" title="{html.escape(item.title, quote=True)}">'
+        f'<img src="{html.escape(item.thumbnail or item.image or "", quote=True)}" alt="" '
+        f'loading="{"eager" if i < 16 else "lazy"}" decoding="async"></a>'
+        for i, item in enumerate(chosen[:64])
+    ) + "\n"
+
     # Each yearly gallery provides image links and the historical 50px thumbnail strip.
     for year, rows in sorted(years.items()):
         rows = sorted(rows, key=lambda e: (e.date, e.url))
         outputs[Path(f"gallery/{year}-gallery.md")] = (
             frontmatter(layout="page", title=f"Daily Images Gallery {year}", permalink=f"/gallery/{year}/")
-            + f"# 🖼️ Daily Images Gallery {year}\n\n"
+            + f"# Daily Image Gallery {year}\n\n"
+            + f"<p>{len(rows)} Daily artworks and special editions. Select any image to view its original Zine post.</p>\n\n"
+            + '<div class="gallery-grid">\n'
+            + "\n".join(gallery_html(e) for e in rows if e.image)
+            + '\n</div>\n\n'
+            + '<details class="archive-list"><summary>Browse all artwork titles</summary>\n\n'
             + "\n".join(
-                f'- {daily_label(e)}: <a href="{html.escape(e.url, quote=True)}">View Daily</a>'
-                + (f' | <a href="{html.escape(e.image, quote=True)}">Artwork</a>' if e.image else "")
+                f'- {html.escape(daily_label(e))}: <a href="{html.escape(e.url, quote=True)}">View Daily</a>'
+                + (f' | <a href="{html.escape(e.image, quote=True)}">Full artwork</a>' if e.image else "")
                 for e in rows
             )
-            + "\n"
+            + "\n\n</details>\n"
         )
         outputs[Path(f"gallery/{year}-gallery-thumbs.md")] = (
             "\n".join(gallery_html(e) for e in rows if e.image) + "\n"
@@ -209,18 +238,25 @@ def generate(entries: list[Entry]) -> dict[Path, str]:
         frontmatter(layout="page", title="Daily Images Gallery", permalink="/gallery/")
         + "# 🖼️ Daily Images Gallery\n\n"
         + "\n".join(
-            f"- [{year}](/gallery/{year}/) | [Thumbnail mosaic](/gallery/{year}-gallery-thumbs.md)"
+            f"- [{year} Daily artwork mosaic](/gallery/{year}/)"
             for year in sorted(years, reverse=True)
         )
-        + "\n\n" + outputs[Path("gallery/gallery-thumbs.md")]
+        + "\n\n" + '<div class="gallery-grid">\n' + outputs[Path("gallery/gallery-thumbs.md")] + '</div>\n'
     )
 
     # Preserve the original monthly-digest structure and statistics.
+    month_order = sorted(months)
     for month, rows in sorted(months.items()):
         rows = sorted(rows, key=lambda e: (e.date, e.url))
         tags = Counter(t for e in rows for t in e.tags)
         outputs[Path(f"monthly/{month}.md")] = (
-            frontmatter(layout="page", title=f"Monthly Digest {month}", permalink=f"/monthly/{month}.html")
+            frontmatter(layout="page", title=f"Monthly Digest {month}", permalink=f"/monthly/{month}.html").replace(
+                "show_title: false\n",
+                "page_type: monthly\n"
+                + (f"prev_url: /monthly/{month_order[month_order.index(month) - 1]}.html\n" if month_order.index(month) > 0 else "")
+                + (f"next_url: /monthly/{month_order[month_order.index(month) + 1]}.html\n" if month_order.index(month) < len(month_order) - 1 else "")
+                + "show_title: false\n",
+            )
             + f"# 📅 Monthly Digest – {month_label(month)}\n\n"
             + "\n".join(f"- {format_link(e)}" for e in rows)
             + f"\n\n🖼️ Total days: {len(rows)} | 🏷️ Unique tags: {len(tags)}\n\n"
@@ -281,17 +317,48 @@ def generate(entries: list[Entry]) -> dict[Path, str]:
         )
         + "\n"
     )
-    outputs[Path("index.md")] = (
-        frontmatter(layout="page", title="Trevorion Weekly RSS Feed", permalink="/")
-        + '<img src="/assets/Banner.png" alt="Trevorion Weekly Digest" style="max-width:365px;width:100%;height:auto;float:left;margin-right:24px;">\n\n'
-        + "# Trevorion Zine RSS\n\n"
-        + "The weekly digest of Trevorion's published Dailies, news, articles, comics and creative work, "
-          "sourced exclusively from the [Trevorion Sitemap](https://sitemap.trevorion.io/).\n\n"
-        + f"📅 **Latest Week:** [{latest[0]} Week {latest[1]:02d} – Dailies & Highlights]({latest[3]})\n\n"
-        + "📚 [Full weekly archive](/archive/) | 🗓️ [Monthly Dailies](/monthly/) | "
-          "🖼️ [Gallery](/gallery/) | 📰 [RSS Feed](/feed.xml)\n\n"
-        + "Visit [Trevorion Zine](https://zine.trevorion.io/).\n"
+    # The RSS homepage uses the same Daily inventory as the main gallery.
+    # This entire section is regenerated from Sitemap, not edited by hand.
+    recent = list(reversed(dailies[-6:]))
+    recent_html = "\n".join(
+        f'<a href="{html.escape(e.url, quote=True)}">'
+        f'<img src="{html.escape(e.thumbnail or e.image or "", quote=True)}" alt="" loading="lazy" decoding="async">'
+        f'<span>{html.escape(e.title)}</span></a>'
+        for e in recent
     )
+    outputs[Path("index.md")] = (
+        frontmatter(layout="page", title="Trevorion Zine RSS", permalink="/")
+        + '<h1 class="home-heading">The Zine, one week at a time.</h1>\n'
+        + '<p class="home-lead">Original Dailies, occasional special editions, '
+          'news, articles and creative work. A weekly record of the Trevorion Zine, '
+          'preserved and linked directly to each published post.</p>\n'
+        + '<section class="feature" aria-labelledby="latest-title">\n'
+        + '  <div><div class="kicker">Latest weekly digest</div>\n'
+        + f'    <h2 id="latest-title">{latest[0]} · Week {latest[1]:02d}</h2>\n'
+        + '    <p>Published Dailies, stories and highlights from this week.</p></div>\n'
+        + f'  <a class="action" href="{latest[3]}">Read latest digest →</a>\n'
+        + '</section>\n'
+        + '<section class="portal-grid" aria-label="Browse the Zine RSS archive">\n'
+        + '  <a class="portal-card" href="/archive/"><span class="card-icon">▤</span>'
+          '<strong>Weekly archive</strong><span>Browse every digest, newest first.</span></a>\n'
+        + '  <a class="portal-card" href="/monthly/"><span class="card-icon">▦</span>'
+          '<strong>Monthly Dailies</strong><span>Artwork titles, dates, and subjects by month.</span></a>\n'
+        + '  <a class="portal-card" href="/gallery/"><span class="card-icon">▧</span>'
+          '<strong>Image gallery</strong><span>See your Dailies and special releases together.</span></a>\n'
+        + '</section>\n'
+        + '<section aria-labelledby="recent-title">\n'
+        + ' <div class="section-header"><h2 id="recent-title">Latest Daily artwork</h2>'
+          '<a href="/gallery/">All Dailies →</a></div>\n'
+        + ' <div class="recent-art">\n' + recent_html + '\n</div>\n'
+        + '</section>\n'
+        + '<nav class="feed-strip" aria-label="RSS subscriptions">\n'
+        + ' <strong>Subscribe:</strong> <a href="/feed.xml">Weekly RSS feed</a> '
+          '<a href="/full-feed.xml">Complete feed</a> '
+          '<a href="https://sitemap.trevorion.io/">Source sitemap ↗</a> '
+          '<a href="https://zine.trevorion.io/">Visit the Zine ↗</a>\n'
+        + '</nav>\n'
+    )
+
     return outputs
 
 
