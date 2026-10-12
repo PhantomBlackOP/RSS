@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - 'scripts/rebuild_from_sitemap.py'
+      - 'README.md'
       - '.github/workflows/rebuild-rss.yml'
   schedule:
     - cron: '0 6 * * *' # after the 03:00 UTC Sitemap refresh
