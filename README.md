@@ -9,7 +9,7 @@ This repository republishes the Trevorion Zine's published work as a weekly RSS 
 All post metadata comes **exclusively from** the public [Trevorion Sitemap](https://sitemap.trevorion.io/index.xml), maintained in [PhantomBlackOP/Sitemap](https://github.com/PhantomBlackOP/Sitemap).
 
 - The Sitemap handles WordPress retrieval, anti-bot clearance, post titles, publication dates, tags and image extraction.
-- Per-post Sitemap XML carries `meta:og_image` and standard `image:image/image:loc` URLs.
+- Per-post Sitemap XML carries `meta:og_image`, standard `image:image/image:loc` (original media) and `meta:thumbnail_image` (WordPress-sized alternative where available). RSS uses the latter for artwork mosaics and retains original image links.
 - The RSS repository **never calls WordPress or X**. It fetches only Sitemap XML.
 - Published gallery thumbnails link to the canonical **Zine posts**, not to a suspended X account.
 
