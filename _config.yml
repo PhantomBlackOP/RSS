@@ -1,8 +1,8 @@
-title: "Trevorion Anime/AI RSS Feed"
-description: "A weekly digest of anime AI dailies, news, comics, and articles."
+title: "Trevorion Zine RSS"
+description: "Trevorion Zine: curated Dailies, special editions, news, articles and comics in a weekly RSS archive."
 baseurl: ""
 url: "https://rss.trevorion.io"
-home_url: "https://trevorion.io"
+home_url: "https://zine.trevorion.io"
 rss_url: "https://rss.trevorion.io/feed.xml"
 full_rss: "https://rss.trevorion.io/full-feed.xml"
 rss_tags:
