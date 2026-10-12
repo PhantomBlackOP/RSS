@@ -1,231 +1,184 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }} | @Trevorion</title>
+  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title | escape }} | {% endif %}Trevorion Zine RSS</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | escape }}">
   <link rel="icon" href="{{ '/favicon.ico' | relative_url }}">
-  <link rel="alternate" type="application/rss+xml" title="Trevorion Weekly Feed" href="/feed.xml" />
-
-{% if page.image %}
-  <meta property="og:image" content="{{ page.image | relative_url }}" />
-  <meta name="twitter:image" content="{{ page.image | relative_url }}" />
-{% endif %}
-{% if page.excerpt %}
-  <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines }}" />
-  <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines }}" />
-{% endif %}
-
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="Trevorion Zine Weekly Digest" href="{{ '/feed.xml' | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Trevorion Zine RSS">
+  <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+  <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | escape }}">
+  {% if page.image %}
+  <meta property="og:image" content="{{ page.image | absolute_url }}">
+  {% else %}
+  <meta property="og:image" content="{{ '/assets/Banner.png' | absolute_url }}">
+  {% endif %}
   <style>
-    body {
-      margin: 0;
-      font-family: Roboto, Helvetica, Arial, sans-serif;
-      background: #fff;
-      color: #222;
+    :root{
+      color-scheme:dark;--bg:#0c1420;--surface:#131f2e;--surface2:#1b2b40;
+      --line:#33465e;--text:#edf4fc;--muted:#afc1d5;--accent:#83bbf9;
+      --blue:#78b7fa;--focus:#ffd37d;
     }
-    .backIMG{
-      margin: 0;
-      background-color: #000;
-      height: 350px;
-      width: 100%;
-      background-image: url('/assets/Back.jpg');
-      background-size: cover;
-      background-position: center;
-      text-align: center;
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
+    a{color:var(--accent);text-underline-offset:3px}
+    a:hover{color:#c1e0ff}
+    a:focus-visible{outline:3px solid var(--focus);outline-offset:4px}
+    img{max-width:100%}
+    .site-header{position:relative;z-index:5;background:#0b1625;border-bottom:1px solid #203450}
+    .site-nav{max-width:1330px;padding:12px 24px;margin:auto;display:flex;align-items:center;justify-content:space-between;gap:22px}
+    .identity{display:flex;align-items:center;gap:12px;min-width:0;text-decoration:none;color:#fff;line-height:1.1}
+    .identity img{width:43px;height:43px;object-fit:cover;border-radius:6px;border:1px solid var(--line)}
+    .identity strong{display:block;font-size:1.03rem;letter-spacing:.055em}
+    .identity small{display:block;margin-top:4px;font-size:.66rem;letter-spacing:.16em;color:var(--muted)}
+    .site-links{display:flex;flex-wrap:wrap;justify-content:flex-end;align-items:center;gap:4px 18px}
+    .site-links a{color:#dce7f5;text-decoration:none;font-size:.91rem;font-weight:600}
+    .site-links .zine-link{color:var(--accent)}
+    .site-links a:hover{color:#fff}
+    .zine-hero{height:350px;isolation:isolate;position:relative;overflow:hidden;background:#0c1c30;border-bottom:2px solid #2a4465}
+    .zine-mosaic{position:absolute;inset:0;display:grid;grid-template-columns:repeat(16,minmax(0,1fr));grid-template-rows:repeat(4,minmax(0,1fr));gap:5px;padding:5px;z-index:-2}
+    .zine-mosaic a{overflow:hidden;display:block;min-height:0}
+    .zine-mosaic img{width:100%;height:100%;display:block;object-fit:cover;filter:saturate(.89)}
+    .zine-hero:before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(7,16,30,.67),rgba(6,13,25,.42) 42%,rgba(7,17,31,.72)),linear-gradient(0deg,rgba(6,13,27,.52),transparent 45%);z-index:-1;pointer-events:none}
+    .hero-copy{position:absolute;inset:0;display:flex;justify-content:center;align-items:center;flex-direction:column;text-align:center;pointer-events:none;padding:20px}
+    .hero-copy .eyebrow{color:#fff;font-weight:800;letter-spacing:.23em;text-shadow:0 2px 9px #050b15;font-size:.75rem}
+    .hero-copy h1{font-size:clamp(5rem,14vw,10.5rem);line-height:.95;margin:9px 0 4px;font-weight:1000;letter-spacing:.035em;color:var(--blue);-webkit-text-stroke:3px #050b15;text-shadow:5px 7px 0 #050b15,0 0 26px #091529}
+    .hero-copy p{margin:0;background:rgba(7,17,30,.9);border:1px solid #4276ad;border-radius:3px;padding:5px 19px;color:#eff7ff;font-size:clamp(.8rem,1.6vw,1.18rem);font-weight:750;letter-spacing:.15em}
+    .page-shell{width:min(1100px,calc(100% - 38px));margin:0 auto;padding:42px 0 56px}
+    .page-content{min-width:0;line-height:1.7;overflow-wrap:anywhere}
+    .page-content h1,.page-content h2,.page-content h3{line-height:1.25;color:#f7fbff}
+    .page-content h1{font-size:clamp(1.7rem,3.2vw,2.5rem)}
+    .page-content h2{font-size:1.45rem;margin-top:1.5em}
+    .page-content a{color:#a2d0ff}
+    .page-content img{max-width:100%;height:auto}
+    .page-content hr{border:0;border-top:1px solid var(--line);margin:27px 0}
+    .page-content li{margin:.36em 0}
+    .page-content li img{width:66px;height:48px;object-fit:cover;display:inline-block;vertical-align:middle;border-radius:4px;margin:0 12px 0 0}
+    .date-line{color:var(--muted);margin:0 0 12px;font-size:.9rem}
+    .home-heading{margin:0 0 10px;font-size:clamp(1.7rem,3.3vw,2.8rem);letter-spacing:-.03em}
+    .home-lead{font-size:1.05rem;color:var(--muted);max-width:760px;margin:0 0 30px}
+    .feature{border:1px solid #355278;background:linear-gradient(118deg,#1b324e,#142238 72%);border-radius:12px;padding:30px;margin-bottom:30px;display:flex;justify-content:space-between;align-items:center;gap:26px;flex-wrap:wrap}
+    .feature .kicker{font-size:.73rem;letter-spacing:.16em;text-transform:uppercase;color:#a8cef8;font-weight:800}
+    .feature h2{margin:9px 0;font-size:1.65rem}
+    .feature p{color:var(--muted);margin:0}
+    .action{display:inline-flex;align-items:center;justify-content:center;padding:10px 16px;text-decoration:none;border-radius:7px;font-weight:750;font-size:.91rem;background:var(--accent);color:#08182b!important;white-space:nowrap}
+    .action:hover{background:#c6e4ff}
+    .portal-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:0 0 28px}
+    .portal-card{display:flex;flex-direction:column;gap:8px;background:var(--surface);border:1px solid var(--line);border-radius:11px;padding:24px;text-decoration:none!important;transition:background .15s,border-color .15s}
+    .portal-card:hover{background:var(--surface2);border-color:var(--accent)}
+    .portal-card .card-icon{font-size:1.55rem}
+    .portal-card strong{color:#fff;font-size:1.13rem}
+    .portal-card span:last-child{color:var(--muted);font-size:.9rem}
+    .section-header{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:30px 0 15px}
+    .section-header h2{margin:0}
+    .recent-art{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:11px}
+    .recent-art a{background:var(--surface);border:1px solid var(--line);border-radius:6px;overflow:hidden;display:block;text-decoration:none!important}
+    .recent-art img{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:cover;max-width:none}
+    .recent-art span{display:block;padding:9px 10px;color:#e8f3ff;font-size:.73rem;line-height:1.45}
+    .feed-strip{margin-top:25px;display:flex;flex-wrap:wrap;gap:12px;align-items:center;font-size:.93rem}
+    .feed-strip a{padding:8px 12px;border:1px solid var(--line);border-radius:6px;text-decoration:none}
+    .gallery-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(78px,1fr));gap:5px;margin:20px 0}
+    .gallery-grid a{aspect-ratio:4/3;display:block;overflow:hidden;background:#18283d}
+    .gallery-grid img,.page-content .gallery-grid img{display:block;width:100%;height:100%;object-fit:cover;max-width:none}
+    .post-nav{padding:20px 0;border-top:1px solid var(--line);margin-top:35px}
+    .post-nav nav{display:flex;align-items:center;gap:12px;flex-wrap:wrap;justify-content:center}
+    .post-nav a{color:#d8e9fc;text-decoration:none;padding:7px 10px;border-radius:5px;border:1px solid #385169;font-size:.86rem}
+    .post-nav a:hover{background:#213653}
+    .site-footer{border-top:1px solid var(--line);background:#09121e}
+    .footer-inner{width:min(1100px,calc(100% - 38px));margin:auto;padding:29px 0;display:flex;justify-content:space-between;flex-wrap:wrap;gap:24px;color:var(--muted);font-size:.88rem}
+    .footer-inner strong{display:block;color:#eef5ff;letter-spacing:.07em}
+    .footer-inner p{margin:.3rem 0}
+    .footer-inner .footer-links{display:flex;flex-wrap:wrap;gap:12px 18px;align-content:center}
+    .footer-inner a{color:#aac9ec}
+    @media(max-width:840px){
+      .site-nav{flex-direction:column;align-items:stretch;gap:12px}
+      .site-links{justify-content:flex-start}
+      .zine-mosaic{grid-template-columns:repeat(12,minmax(0,1fr));grid-template-rows:repeat(6,minmax(0,1fr))}
+      .zine-hero{height:310px}
+      .recent-art{grid-template-columns:repeat(3,minmax(0,1fr))}
     }
-    header {
-      background-color: transparent;
-      color: #fff;
-      height: 300px;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0;
-      font-family: Roboto, Helvetica, Arial, sans-serif;
-      font-size: 64pt;
-      font-weight: 900;
-    }
-    header h2 {
-      margin: 0;
-      font-family: Roboto, Helvetica, Arial, sans-serif;
-      font-size: 32pt;
-      font-weight: 300;
-    }
-    header p {
-      margin: 0;
-      font-size: 16pt;
-      font-weight: 400;
-    }
-    nav {
-      background-color: transparent;
-      padding: 10px;
-      text-align: center;
-      vertical-align: middle;
-    }
-    .nav-left, .nav-right {
-      flex: 1 1 300px;
-      margin: 10px;
-    }
-    .nav-left {
-      text-align: left;
-      float: left;
-      vertical-align: middle;
-    }
-    .nav-right {
-      text-align: right;
-      float: right;
-      vertical-align: middle;
-    }
-    nav a {
-      color: #d4d4d4;
-      text-decoration: none;
-      margin: 0 10px;
-      font-weight: 500;
-    }
-    nav a: hover {
-       color: #ffffff;
-    }
-    main {
-      padding: 40px 20px;
-      max-width: 800px;
-      margin: 0 auto;
-      line-height: 1.8;
-      text-align: center;
-      text-decoration: none;
-    }
-    main a {
-      color: navy;
-      text-decoration: none;
-    }
-
-    .post-content {
-      text-align: left;
-      max-width: 800px;
-      height: auto;      
-    }
-    
-    .post-content img {
-      max-width: 800px;
-      height: auto;
-      display: block;
-      margin-top: 10px;
-    }
-    
-    footer {
-      background-color: #000;
-      color: #fff;
-      padding: 20px;
-      background-image: url('/assets/Fiery.png');
-      background-size: cover;
-      background-position: center;
-      font-family: Arial, Roboto, Helvetica, sans-serif;
-      font-size: 12pt;
-      font-weight: 400;
-      text-align: center;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-between;
-      align-items: center;
-    }
-    .footer-left, .footer-right {
-      flex: 1 1 300px;
-      margin: 20px;
-    }
-    .footer-left {
-      text-align: left;
-    }
-    .footer-left p {
-      margin: 20px;
-      font-family: Arial, Roboto, Helvetica, sans-serif;
-      font-size: 11pt;
-      font-weight: 400;
-      text-align: left;
-    }
-    .footer-right {
-      text-align: right;
-    }
-    .footer-icons {
-      width: auto;
-      height: 35px;
+    @media(max-width:590px){
+      .site-nav{padding:12px 16px}
+      .site-links{gap:9px 15px}
+      .site-links a{font-size:.84rem}
+      .zine-hero{height:245px}
+      .zine-mosaic{grid-template-columns:repeat(10,minmax(0,1fr));grid-template-rows:repeat(7,minmax(0,1fr));gap:3px;padding:3px}
+      .hero-copy .eyebrow{font-size:.61rem}
+      .hero-copy h1{-webkit-text-stroke:2px #050b15;text-shadow:3px 4px 0 #050b15;font-size:clamp(4.25rem,18vw,6.5rem)}
+      .hero-copy p{font-size:.66rem;letter-spacing:.07em;padding:5px 9px}
+      .page-shell{padding-top:25px}
+      .feature{padding:21px}
+      .portal-grid{grid-template-columns:1fr}
+      .recent-art{grid-template-columns:repeat(2,minmax(0,1fr))}
     }
   </style>
 </head>
-<body>
-  <div class="backIMG">
-  <nav> 
-    <div class="nav-left">
-      <a href="https://www.trevorion.io/home"><IMG src="/assets/Anime AIS.jpg"  alt="Avatar" width=40px style="float: left;"></a>
-      <a href="https://www.trevorion.io/home"><B>TREVOR GRECH - MALTA</B></a>
+<body class="{% if page.url == '/' %}is-home{% endif %}">
+  <div class="site-header">
+    <nav class="site-nav" aria-label="Main navigation">
+      <a class="identity" href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/Anime AIS.jpg' | relative_url }}" alt="">
+        <span><strong>TREVORION</strong><small>ZINE · RSS</small></span>
+      </a>
+      <div class="site-links">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/archive/' | relative_url }}">Weekly</a>
+        <a href="{{ '/monthly/' | relative_url }}">Monthly</a>
+        <a href="{{ '/gallery/' | relative_url }}">Gallery</a>
+        <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+        <a href="https://zine.trevorion.io/archive/">Dailies</a>
+        <a href="https://zine.trevorion.io/news/">News</a>
+        <a href="https://zine.trevorion.io/articles/">Articles</a>
+        <a href="https://zine.trevorion.io/comics/">Comics</a>
+        <a class="zine-link" href="https://zine.trevorion.io/">Zine ↗</a>
+      </div>
+    </nav>
+  </div>
+  <header class="zine-hero" aria-label="Trevorion Zine artwork archive">
+    <div class="zine-mosaic" aria-hidden="true">
+      {% include zine-hero.html %}
     </div>
-    <div class="nav-right"><B>
-      <a href="https://www.trevorion.io/home">Home</a>
-      <a href="https://www.trevorion.io/dailies">Dailies</a>
-      <a href="https://www.trevorion.io/puzzles">Puzzles</a>
-      <a href="https://www.trevorion.io/comics">Comics</a>
-      <a href="https://www.trevorion.io/articles">Articles</a>
-      <a href="https://www.trevorion.io/news">News</a>
-      <a href="https://www.trevorion.io/contact">Contact</a></B>
+    <div class="hero-copy">
+      <span class="eyebrow">TREVORION'S DAILY ARTWORK</span>
+      <h1>ZINE</h1>
+      <p>RSS · WEEKLY DIGEST · GALLERY</p>
     </div>
-  </nav>
-<header>
-   <br><br><br>
-    <h1>@Trevorion</h1><br>
-    <h2>RSS Feed - Weekly Digest</h2>
-   <br><br>
- </header>
- </div>
- <main>
+  </header>
+  <main class="page-shell">
     {% if page.show_title and page.title %}
-        <h1 style="text-align: left;">{{ page.title }}</h1>
+      <h1>{{ page.title | escape }}</h1>
     {% endif %}
     {% if page.date %}
-        <p style="text-align: left; font-size: 12pt; color: gray;">
-          <em>Published on {{ page.date | date: "%-d %B %Y" }}</em>
-        </p>
-    {% endif %}   
-   <div  class="post-content">    
-    {{ content }}</div>
-    <hr>
-    <div class="post-nav">
-      {% if page.layout == "post" %}
-        {%- comment -%} Weekly post: prev/next from page.previous/page.next {%- endcomment -%}
-        {% assign prev = page.previous %}
-        {% assign next = page.next %}
-        {% assign prev_url = prev.url %}
-        {% assign next_url = next.url %}
-        {% include navbar.html prev_url=prev_url next_url=next_url %}
-      {% elsif page.page_type == "archive" %}
-        {%- comment -%} Archive: no prev/next {%- endcomment -%}
-        {% include navbar.html %}
-      {% elsif page.page_type == "monthly" %}
-        {%- comment -%} Monthly: prev/next from front matter {%- endcomment -%}
-        {% include navbar.html prev_url=page.prev_url next_url=page.next_url %}
-      {% endif %}
-    </div>
+      <p class="date-line">Published {{ page.date | date: "%-d %B %Y" }}</p>
+    {% endif %}
+    <div class="page-content">{{ content }}</div>
+    {% if page.layout == "post" %}
+      <div class="post-nav">{% include navbar.html prev_url=page.previous.url next_url=page.next.url %}</div>
+    {% elsif page.page_type == "monthly" %}
+      <div class="post-nav">{% include navbar.html prev_url=page.prev_url next_url=page.next_url %}</div>
+    {% else %}
+      <div class="post-nav">{% include navbar.html %}</div>
+    {% endif %}
   </main>
-  
-  <footer>
-    <div style="text-align: left;">
-      <img src="/assets/Assistant.jpg" alt="Assistant" width=150px height=150px style="object-fit: cover; margin-left:100px; margin-right:10px;">
-    </div>
-    <div class="footer-left;">
-      <p style="text-align: left; font-size: 11pt;">This is not a brand. It is not monetized.<br>
-      But cosmic art as a means of survival;<br>
-      Broadcast straight from the void.<br></p>
-      <p style="text-align: left; font-size: 11pt;"><strong>Email:</strong> <a href="mailto:info@trevorion.io" style="color:#fff; text-decoration:none;"><i>info@trevorion.io</i></a></p>
-      <p style="text-align: left; font-size: 8pt;"><a href="https://www.trevorion.io/sitemap" style="color:#fff; text-decoration:none;">SITEMAP</a> | <a href="https://rss.trevorion.io/feed.xml" target="_blank" style="color:#fff; text-decoration:none;">RSS</a></p>
-    </div>
-    <div class="footer-right" style="margin-right:100px;">
-      <p style="font-size: 12pt;"><strong>Elsewhere, in the Void</strong><br><br></p>
+  <footer class="site-footer">
+    <div class="footer-inner">
       <div>
-        <a href="https://zine.trevorion.io/"><img class="footer-icons" src="/assets/Anime AIS.jpg" alt="Trevorion Zine"></a>
-        <a href="https://www.linkedin.com/in/trevorgrech/"><img class="footer-icons" src="/assets/li.png" alt="LinkedIn"></a>
-        <a href="https://www.anime-planet.com/users/MuLaFlaga"><img class="footer-icons" src="/assets/ap3.png" alt="Anime-Planet"></a>
-        <a href="https://www.tiktok.com/@trevor_grech"><img class="footer-icons" src="/assets/tt.png" alt="TikTok"></a>
-        <a href="https://bsky.app/profile/trevorion.io"><img class="footer-icons" src="/assets/bs.png" alt="Blue Sky"></a>
-        <a href="https://rss.trevorion.io/feed.xml"><img class="footer-icons" src="/assets/rss.png" alt="RSS Feed"></a>
+        <strong>TREVORION ZINE</strong>
+        <p>Daily art. Weekly digests. An archive of creative work.</p>
+        <p>© Trevor Grech {{ site.time | date: "%Y" }}</p>
       </div>
-      <p style="font-size: 8pt;"><br><br><a href="https://zine.trevorion.io/" style="color:#fff; text-decoration:none;">&copy; TREVOR GRECH / @TREVORION {{ site.time | date: "%Y" }}</a></p>
+      <div class="footer-links">
+        <a href="https://zine.trevorion.io/">Zine</a>
+        <a href="https://sitemap.trevorion.io/">Sitemap</a>
+        <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+        <a href="{{ '/full-feed.xml' | relative_url }}">Full feed</a>
+        <a href="mailto:info@trevorion.io">Contact</a>
+      </div>
     </div>
   </footer>
 </body>
