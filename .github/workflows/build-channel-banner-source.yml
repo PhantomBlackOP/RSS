@@ -1,0 +1,28 @@
+name: Temporary verified Zine banner sources
+on:
+  push:
+    branches:
+      - youtube-banner-canonical-artwork-20261012
+    paths:
+      - scripts/download_youtube_banner_source.py
+      - .github/workflows/build-channel-banner-source.yml
+permissions:
+  contents: read
+jobs:
+  fetch-published-art:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install requests pillow
+      - name: Download and verify only published artwork
+        run: python scripts/download_youtube_banner_source.py
+      - name: Attach unmodified canonical artwork
+        uses: actions/upload-artifact@v4
+        with:
+          name: trevorion-zine-verified-banner-sources
+          path: banner-canonical-assets/
+          if-no-files-found: error
+          retention-days: 1
