@@ -1,0 +1,55 @@
+name: Validate public ranking HTML and XML
+on:
+  push:
+    branches:
+      - fix/public-html-xml-resources
+    paths:
+      - scripts/rank_dailies.py
+      - scripts/rebuild_from_sitemap.py
+      - .github/workflows/validate-public-html-xml.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate public HTML and XML from canonical Sitemap
+        run: |
+          python -m py_compile scripts/rank_dailies.py scripts/rebuild_from_sitemap.py
+          python scripts/rebuild_from_sitemap.py
+      - name: Assert all public documentation links target HTML/XML
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from xml.etree import ElementTree as ET
+          import re
+          sources=[Path('top20/index.md').read_text(), Path('top20/all.md').read_text(), Path('top20/methodology.html').read_text(), Path('index.md').read_text()]
+          for p in sources:
+              assert not re.search(r'href\s*=\s*["\x27][^"\x27]*\.md(?:[#?][^"\x27]*)?["\x27]',p), 'Direct .md link'
+              assert not re.search(r'\]\([^)]*\.md(?:[#?][^)]*)?\)',p), 'Markdown link to .md'
+              assert '/blob/main/' not in p, 'Internal repository URL'
+          top,catalog,method,*_=sources
+          assert '/top20/methodology/' in top and '/top20/methodology/' in catalog
+          assert '/top20/scores.xml' in catalog and '/top20/scores.xml' in method
+          assert '<table class="ranking-rubric">' in method
+          assert method.startswith('---\nlayout: page\n')
+          xml_source=Path('top20/scores.xml').read_text()
+          assert xml_source.startswith('---\nlayout: null\npermalink: /top20/scores.xml\n---\n<?xml')
+          raw=xml_source.split('---\n',2)[2]
+          root=ET.fromstring(raw)
+          assert root.tag=='daily-rankings'
+          assert root.attrib['published-count']=='669'
+          assert root.attrib['reviewed-count']=='669'
+          arts=root.findall('daily')
+          assert len(arts)==669
+          assert len({x.findtext('post-url') for x in arts})==669
+          assert all(len(x.findall('./artistic-criteria/criterion'))==8 for x in arts)
+          assert all(len(x.findall('./theme-criteria/criterion'))==4 for x in arts)
+          assert all(x.findtext('published-image-url','').startswith('https://zine.trevorion.io/') for x in arts)
+          print('PASS: no site links to internal Markdown or GitHub sources; 669 valid public XML score records; HTML methodology generated.')
+          PY
