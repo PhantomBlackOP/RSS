@@ -29,7 +29,7 @@ WEIGHTS = {
     "execution": 15,
     "editorial_value": 10,
     "zine_identity": 5,
-    "banner_suitability": 5,
+    "presentation_clarity": 5,
 }
 DIMENSIONS = ("reach", "recognition", "cross_audience", "evergreen")
 assert sum(WEIGHTS.values()) == 100
@@ -41,7 +41,7 @@ LABELS = {
     "execution": "Execution estimate",
     "editorial_value": "Editorial value estimate",
     "zine_identity": "Zine identity estimate",
-    "banner_suitability": "Banner suitability estimate",
+    "presentation_clarity": "Presentation clarity estimate",
 }
 DIRECT = frozenset(("visual_impact", "style", "story", "originality"))
 GROUP_TERMS = {
@@ -209,7 +209,7 @@ def ranked(entries: list[Any]) -> tuple[list[RankedDaily], int]:
         scores["editorial_value"] = half(editorial)
         scores["zine_identity"] = half(.40 * st + .35 * orig + .25 * story +
                                       (.5 if "personal" in groups else 0))
-        scores["banner_suitability"] = half(.55 * vi + .30 * st + .15 * story)
+        scores["presentation_clarity"] = half(.55 * vi + .30 * st + .15 * story)
         artistic = round(sum(scores[k] * weight / 10 for k, weight in WEIGHTS.items()), 2)
         themed = theme_scores(groups)
         appeal = round(sum(themed.values()) / len(themed), 2)
@@ -241,8 +241,8 @@ def build_page(entries: list[Any], header: str) -> tuple[str, list[RankedDaily]]
         'originality and visual impact. Subject-theme appeal is a separate estimate '
         'used only to break artistic-score ties.</p>',
         f'<p class="ranking-coverage"><strong>{n} of {published_count} published Dailies evaluated.</strong> '
-        'Complete archive first-pass assessment; scores remain provisional and '
-        'await creator review. Four visual criteria were judged individually from '
+        'Complete-archive first-pass assessment; scores remain provisional. '
+        'Four visual criteria were judged individually from '
         'published preview images, with the four remaining criteria calculated '
         'consistently from those observations and Sitemap metadata. '
         'Original-resolution detail has not been inspected for every entry.'
@@ -312,8 +312,7 @@ def methodology_page(header: str, reviewed_count: int, published_count: int) -> 
         '<h1>How the Dailies are ranked</h1>',
         f'<p class="ranking-coverage"><strong>{reviewed_count} of {published_count} '
         'published Dailies evaluated.</strong> These are provisional AI-assisted '
-        'first-pass editorial scores, not objective quality measures or a '
-        'creator-approved final ranking.</p>',
+        'first-pass editorial scores, not objective measures of artistic quality.</p>',
         '<h2>Artistic merit: 100-point scale</h2>',
         '<p>Each criterion is scored from 0–10 and weighted as follows. '
         'The artistic score is the sum of each rating multiplied by its '
@@ -329,7 +328,7 @@ def methodology_page(header: str, reviewed_count: int, published_count: int) -> 
         "execution": "Calculated estimate from the visual-impact and style ratings; not a separate high-resolution inspection.",
         "editorial_value": "Calculated estimate from story, originality and subject classifications from the Sitemap.",
         "zine_identity": "Calculated estimate from style, originality, story and subject metadata.",
-        "banner_suitability": "Calculated estimate from impact, style and story; there is no aspect-ratio exclusion in the Top 20.",
+        "presentation_clarity": "Estimated small-format legibility from impact, style and storytelling. All published aspect ratios are eligible.",
     }
     for key, weight in WEIGHTS.items():
         lines.append(
@@ -346,17 +345,13 @@ def methodology_page(header: str, reviewed_count: int, published_count: int) -> 
         'used only to break exact artistic-score ties. No audience analytics '
         'are claimed.</p>',
         '<h2>Sources and limitations</h2>',
-        '<p>Publication metadata, titles, tags, post links and image URLs come '
-        'exclusively from the public Zine Sitemap. All original 669 Dailies '
-        'were considered without an artistic shortlist. The four individually '
-        'assessed criteria were judged from the published 225 × 150 previews. '
-        'An earlier subset of 81 was inspected at medium size and 44 published '
-        'originals were independently checked, but not all 669 full-size '
-        'images underwent technical review. Other criterion scores are clearly '
-        'identified as estimates, and creator review is still pending.</p>',
-        '<p>Older 4:3 work and special Dailies are eligible for this ranking. '
-        'The separate YouTube-banner requirement for 3:2 artwork does '
-        'not affect the Top 20.</p>',
+        '<p>Titles, tags, publication details and artwork URLs come from '
+        'the Zine Sitemap. All published Dailies, including special editions '
+        'and older formats, are included. The four individually assessed '
+        'criteria use published image previews; fine details visible only at '
+        'full resolution may not be fully represented. The other four '
+        'criteria are explicitly labelled as calculated estimates. '
+        'Results are provisional.</p>',
         '<h2>Updates and reproducibility</h2>',
         '<p>Each assessment is associated with its canonical Zine post and '
         'published original image URL. A replaced image does not automatically '
@@ -384,7 +379,7 @@ def audit_xml(ranking: list[RankedDaily], n_published: int) -> str:
         "Execution, editorial value, Zine identity and banner suitability are "
         "consistent derived estimates, not independent full-resolution reviews. "
         "Theme appeal measures estimated general subject interest, not an image's "
-        "views or reactions. Creator approval remains outstanding."
+        "views or reactions. Results are provisional."
     )
     for rank, record in enumerate(ranking, 1):
         post = record.post
@@ -421,7 +416,7 @@ def audit_json(ranking: list[RankedDaily], n_published: int) -> str:
     payload = {
         "schema_version": 3,
         "rubric_version": "2026-10-12-v2",
-        "assessment_status": "Provisional AI-assisted whole-archive visual review; creator approval pending.",
+        "assessment_status": "Provisional AI-assisted whole-archive visual review.",
         "published_daily_count": n_published,
         "reviewed_daily_count": len(ranking),
         "review_limitations": (
