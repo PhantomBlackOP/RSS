@@ -9,6 +9,7 @@ from urllib.parse import urlparse
 import requests
 import xml.etree.ElementTree as ET
 from PIL import Image
+from playwright.sync_api import sync_playwright
 
 OUT=Path("banner-canonical-assets")
 OUT.mkdir(exist_ok=True)
@@ -19,6 +20,31 @@ NUMBERS=[9,24,62,68,153,159,181,245,270,273,344,352,368,374,441,452,502,513,570,
 assert len(NUMBERS)==30 and len(set(NUMBERS))==30
 sess=requests.Session()
 sess.headers.update({"User-Agent":"Mozilla/5.0 (compatible; TrevorionBanner/1.0; published-images-only)","Accept":"image/avif,image/webp,image/apng,image/*,*/*;q=0.8"})
+def establish_clearance():
+    probe="https://zine.trevorion.io/wp-json/wp/v2/categories?per_page=1"
+    print("Establishing SiteGround clearance with Chromium...",flush=True)
+    with sync_playwright() as p:
+        browser=p.chromium.launch(headless=True)
+        ctx=browser.new_context(locale="en-US")
+        page=ctx.new_page()
+        try:
+            page.goto(probe,wait_until="domcontentloaded",timeout=120000)
+            deadline=time.monotonic()+90
+            while time.monotonic()<deadline:
+                body=page.locator("body").inner_text(timeout=5000).strip()
+                if page.url.startswith(probe.split("?")[0]) and body[:1] in {"[","{"}:
+                    break
+                page.wait_for_timeout(1000)
+            else:raise RuntimeError("SiteGround clearance not established")
+            sess.headers["User-Agent"]=page.evaluate("navigator.userAgent")
+            for cookie in ctx.cookies():
+                sess.cookies.set(cookie["name"],cookie["value"],domain=cookie.get("domain") or "zine.trevorion.io",path=cookie.get("path") or "/")
+        finally:browser.close()
+    trial=sess.get(probe,timeout=30,headers={"Accept":"application/json"})
+    if trial.status_code!=200 or trial.text.lstrip()[:1] not in ("[","{"):
+        raise RuntimeError("WordPress probe did not survive SiteGround clearance: "+str(trial.status_code))
+    print("Clearance OK.",flush=True)
+
 def get(url):
     last=None
     for i in range(4):
@@ -53,11 +79,15 @@ for link in child_paths:
         selected[number]={"number":number,"title":title,"post_url":post,"published_image_url":image,"sitemap_xml":link}
 miss=set(NUMBERS)-set(selected)
 if miss:raise RuntimeError(f"Missing published Daily numbers: {sorted(miss)}")
+establish_clearance()
 manifest=[]
 for number in NUMBERS:
     info=selected[number]
     raw=get(info["published_image_url"])
-    mime=Image.open(io.BytesIO(raw))
+    try:
+        mime=Image.open(io.BytesIO(raw))
+    except Exception as exc:
+        raise RuntimeError(f"Published image download returned non-image for {number}: {info['published_image_url']}; first bytes={raw[:170]!r}") from exc
     mime.verify()
     with Image.open(io.BytesIO(raw)) as im:
         dimensions=list(im.size)
