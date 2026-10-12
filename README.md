@@ -1,31 +1,41 @@
-# rss.trevorion.io
+# Trevorion Zine RSS
 
-📰 **Weekly Anime + AI Digest by @Trevorion**
+**https://rss.trevorion.io/**
 
-<img src="/assets/Banner.png" alt="Trevorion Weekly Digest Banner" style="width: 640px; height: auto;" />
+This repository republishes the Trevorion Zine's published work as a weekly RSS digest, monthly Daily archives, and an image gallery.
 
-This is the source for [https://rss.trevorion.io](https://rss.trevorion.io) — a weekly digest feed of curated anime-inspired AI dailies, memes, polls, articles, and creative content.
+## Canonical source
 
-## 📡 About
+All post metadata comes **exclusively from** the public [Trevorion Sitemap](https://sitemap.trevorion.io/index.xml), maintained in [PhantomBlackOP/Sitemap](https://github.com/PhantomBlackOP/Sitemap).
 
-Trevorion posts AI-powered anime visuals and original theme-based content every day. This site collects the best of each week and delivers it in a simple, feed-compatible format.
+- The Sitemap handles WordPress retrieval, anti-bot clearance, post titles, publication dates, tags and image extraction.
+- Per-post Sitemap XML carries `meta:og_image` and standard `image:image/image:loc` URLs.
+- The RSS repository **never calls WordPress or X**. It fetches only Sitemap XML.
+- Published gallery thumbnails link to the canonical **Zine posts**, not to a suspended X account.
 
-- **RSS Feed:** https://rss.trevorion.io/feed.xml
-- **Homepage:** https://rss.trevorion.io
-- **Main Archive:** [https://trevorion.io](https://trevorion.io)
+## Published outputs
 
-## 💡 How It Works
+- [Weekly RSS](https://rss.trevorion.io/feed.xml), latest 20 weekly digests
+- [Full RSS](https://rss.trevorion.io/full-feed.xml), complete weekly history
+- [Weekly archive](https://rss.trevorion.io/archive/)
+- [Monthly Daily digests](https://rss.trevorion.io/monthly/)
+- [Daily gallery and thumbnail mosaics](https://rss.trevorion.io/gallery/)
 
-This site runs on GitHub Pages with Jekyll + jekyll-feed to auto-generate RSS output. Weekly posts live in the `_posts/` directory.
+Generated source files live in `_posts/`, `monthly/`, `gallery/`, plus `index.md`, `archive.md` and `monthly_index.md`. Original X-derived content was replaced from the Zine's canonical post inventory; Git history retains the previous versions.
 
-## 📁 Structure
+## Scheduled rebuilding
 
-- `_posts/` — Weekly content entries
-- `_config.yml` — Site configuration + RSS plugin
-- `index.md` — Homepage text
+`.github/workflows/rebuild-rss.yml` executes at **06:00 UTC daily**, after the Sitemap's **03:00 UTC** update. Manual workflow dispatch is also available.
 
-## 🔥 Credits
+The build performs full validation of all referenced Sitemap monthly XML before it writes anything. It **requires image metadata for every indexed Daily** and fails closed if a feed is missing, corrupt, inaccessible or incomplete. Rebuilt files are only changed when their content changes.
 
-Created and curated by **Trevor Grech (@Trevorion)**  
-Home of the mythkeeper’s flame, daily experiments, and structured defiance.
+```bash
+python scripts/rebuild_from_sitemap.py --check  # validate, no writes
+python scripts/rebuild_from_sitemap.py          # regenerate and clean old archives
+```
 
+No Twitter/X credentials or WordPress credentials are needed.
+
+## Credits
+
+Created and curated by **Trevor Grech (@Trevorion)**.
