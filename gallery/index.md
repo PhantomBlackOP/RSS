@@ -7,9 +7,10 @@ show_title: false
 
 # 🖼️ Daily Images Gallery
 
-- [2026](/gallery/2026/) | [Thumbnail mosaic](/gallery/2026-gallery-thumbs.md)
-- [2025](/gallery/2025/) | [Thumbnail mosaic](/gallery/2025-gallery-thumbs.md)
+- [2026 Daily artwork mosaic](/gallery/2026/)
+- [2025 Daily artwork mosaic](/gallery/2025/)
 
+<div class="gallery-grid">
 <a href="https://zine.trevorion.io/20250101-0/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/02/000-853x640.png" alt="000: USS Grok 🛸🌌" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20250101-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2025/01/1-Back-in-the-day-854x640.png" alt="001: Back in the day 🎣🌊" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20250102-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2025/01/2-How-it-all-began-📺🏎️-853x640.png" alt="002: How it all began 📺🏎️" loading="lazy" style="width:50px;height:auto;"></a>
@@ -679,3 +680,4 @@ show_title: false
 <a href="https://zine.trevorion.io/20261009-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/647-Nixie-Tubes-🔢💡-960x640.png" alt="647: Nixie Tubes 🔢💡" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261010-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/648-Throne-of-Naggaroth-👑🌩️-960x640.png" alt="648: Throne of Naggaroth 👑🌩️" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261011-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/649-Artemis-Goddess-of-the-Hunt-🏹🌙-960x640.png" alt="649: Artemis, Goddess of the Hunt 🏹🌙" loading="lazy" style="width:50px;height:auto;"></a>
+</div>
