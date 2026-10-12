@@ -44,6 +44,7 @@ class Entry:
     category: str
     image: str | None
     thumbnail: str | None
+    mosaic: str | None
     tags: tuple[str, ...]
 
 
@@ -90,6 +91,7 @@ def gather() -> list[Entry]:
                 category = value(node, META + "category")
                 image_url = value(node, META + "og_image")
                 thumbnail_url = value(node, META + "thumbnail_image")
+                mosaic_url = value(node, META + "mosaic_image")
                 if not image_url:
                     image_node = node.find(IMAGE + "image")
                     if image_node is not None:
@@ -103,6 +105,8 @@ def gather() -> list[Entry]:
                     raise ValueError(f"Non-HTTPS image for {link}")
                 if thumbnail_url and not thumbnail_url.startswith("https://"):
                     raise ValueError(f"Non-HTTPS thumbnail for {link}")
+                if mosaic_url and not mosaic_url.startswith("https://"):
+                    raise ValueError(f"Non-HTTPS mosaic image for {link}")
                 try:
                     published_dt = datetime.fromisoformat(published.replace("Z", "+00:00"))
                     if published_dt.tzinfo is None:
@@ -112,7 +116,7 @@ def gather() -> list[Entry]:
                         raise ValueError("Malformed tag metadata")
                 except (ValueError, TypeError) as exc:
                     raise ValueError(f"Invalid metadata for {link}: {exc}") from exc
-                entry = Entry(link, title, published_dt, category, image_url or None, thumbnail_url or None, tags)
+                entry = Entry(link, title, published_dt, category, image_url or None, thumbnail_url or None, mosaic_url or None, tags)
                 prior = result.get(link)
                 if prior and prior != entry:
                     raise ValueError(f"Conflicting duplicate post URL: {link}")
@@ -163,7 +167,7 @@ def gallery_html(entry: Entry) -> str:
     if not entry.image:
         return ""
     target = html.escape(entry.url, quote=True)
-    src = html.escape(entry.thumbnail or entry.image, quote=True)
+    src = html.escape(entry.mosaic or entry.thumbnail or entry.image, quote=True)
     alt = html.escape(entry.title, quote=True)
     return f'<a href="{target}"><img src="{src}" alt="{alt}" loading="lazy" style="width:50px;height:auto;"></a>'
 
@@ -203,9 +207,9 @@ def generate(entries: list[Entry]) -> dict[Path, str]:
             chosen.append(item)
             seen.add(item.url)
     outputs[Path("_includes/zine-hero.html")] = "\n".join(
-        f'<a href="{html.escape(item.url, quote=True)}" title="{html.escape(item.title, quote=True)}">'
-        f'<img src="{html.escape(item.thumbnail or item.image or "", quote=True)}" alt="" '
-        f'loading="{"eager" if i < 16 else "lazy"}" decoding="async"></a>'
+        f'<div class="tile">'
+        f'<img src="{html.escape(item.mosaic or item.thumbnail or item.image or "", quote=True)}" alt="" '
+        f'loading="{"eager" if i < 16 else "lazy"}" decoding="async"></div>'
         for i, item in enumerate(chosen[:64])
     ) + "\n"
 
@@ -219,13 +223,14 @@ def generate(entries: list[Entry]) -> dict[Path, str]:
             + '<div class="gallery-grid">\n'
             + "\n".join(gallery_html(e) for e in rows if e.image)
             + '\n</div>\n\n'
-            + '<details class="archive-list"><summary>Browse all artwork titles</summary>\n\n'
+            + '<details class="archive-list"><summary>Browse all artwork titles</summary><ul>\n'
             + "\n".join(
-                f'- {html.escape(daily_label(e))}: <a href="{html.escape(e.url, quote=True)}">View Daily</a>'
+                f'<li>{html.escape(daily_label(e))}: <a href="{html.escape(e.url, quote=True)}">View Daily</a>'
                 + (f' | <a href="{html.escape(e.image, quote=True)}">Full artwork</a>' if e.image else "")
+                + "</li>"
                 for e in rows
             )
-            + "\n\n</details>\n"
+            + "\n</ul></details>\n"
         )
         outputs[Path(f"gallery/{year}-gallery-thumbs.md")] = (
             "\n".join(gallery_html(e) for e in rows if e.image) + "\n"
