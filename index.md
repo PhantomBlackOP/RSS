@@ -17,6 +17,7 @@ show_title: false
   <a class="portal-card" href="/archive/"><span class="card-icon">▤</span><strong>Weekly archive</strong><span>Browse every digest, newest first.</span></a>
   <a class="portal-card" href="/monthly/"><span class="card-icon">▦</span><strong>Monthly Dailies</strong><span>Artwork titles, dates, and subjects by month.</span></a>
   <a class="portal-card" href="/gallery/"><span class="card-icon">▧</span><strong>Image gallery</strong><span>See your Dailies and special releases together.</span></a>
+  <a class="portal-card" href="/top20/"><span class="card-icon">★</span><strong>Top 20 Dailies</strong><span>Published artwork ranked by artistic merit.</span></a>
 </section>
 <section aria-labelledby="recent-title">
  <div class="section-header"><h2 id="recent-title">Latest Daily artwork</h2><a href="/gallery/">All Dailies →</a></div>
