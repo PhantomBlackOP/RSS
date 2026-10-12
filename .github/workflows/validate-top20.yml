@@ -1,0 +1,48 @@
+name: Validate Top 20 preview
+on:
+  push:
+    branches:
+      - feature/top20-editorial-rankings
+    paths:
+      - .github/workflows/validate-top20.yml
+      - scripts/rank_dailies.py
+      - scripts/rebuild_from_sitemap.py
+      - data/daily_reviews.json
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Compile ranked generator and validate live Sitemap
+        run: |
+          python -m py_compile scripts/rank_dailies.py scripts/rebuild_from_sitemap.py
+          python scripts/rebuild_from_sitemap.py
+      - name: Verify ranked page and published originals
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          page=Path('top20/index.md').read_text(encoding='utf8')
+          assert 'Top 20 Dailies' in page
+          assert '44 of 669' in page, 'Coverage changed; inspect before publishing'
+          assert page.count('class="top20-item"') == 20, page.count('class="top20-item"')
+          assert page.count('class="top20-scores"') == 20
+          assert 'theme popularity' not in page.lower() or 'separate' in page.lower()
+          assert 'object-fit:contain' in Path('_layouts/default.html').read_text(encoding='utf8')
+          assert '/top20/' in Path('index.md').read_text(encoding='utf8')
+          print('Validated 20 unique ranked artwork tiles; preview is provisional.')
+          PY
+      - name: Upload preview source
+        uses: actions/upload-artifact@v4
+        with:
+          name: provisional-top20-source
+          path: |
+            top20/index.md
+            index.md
+          retention-days: 7
