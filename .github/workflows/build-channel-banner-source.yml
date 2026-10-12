@@ -5,6 +5,7 @@ on:
       - youtube-banner-canonical-artwork-20261012
     paths:
       - scripts/download_youtube_banner_source.py
+      - scripts/daily_visual_audit.py
       - .github/workflows/build-channel-banner-source.yml
 permissions:
   contents: read
@@ -19,11 +20,11 @@ jobs:
       - run: python -m pip install requests pillow playwright
       - run: python -m playwright install --with-deps chromium
       - name: Download and verify only published artwork
-        run: python scripts/download_youtube_banner_source.py
+        run: python scripts/daily_visual_audit.py
       - name: Attach unmodified canonical artwork
         uses: actions/upload-artifact@v4
         with:
-          name: trevorion-zine-verified-banner-sources
-          path: banner-canonical-assets/
+          name: trevorion-zine-all-dailies-review-sheets
+          path: daily-review-inventory/
           if-no-files-found: error
           retention-days: 1
