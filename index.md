@@ -1,29 +1,18 @@
 ---
 layout: page
-title: Trevorion Weekly RSS Feed
+title: "Trevorion Weekly RSS Feed"
 permalink: /
-show_title: true
-page_type: index
----
-<img src="/assets/Banner.png" alt="Trevorion Weekly Digest Banner" style="width: 365px; height: auto; float: left; margin-bottom: 50px; margin-right: 24px;" />
-
-Welcome to the official archive of [@Trevorion](https://x.com/Trevorion)'s AI Anime Daily Images.
-
-Each week captures 7 unique daily posts — a blend of tech, fantasy, sci-fi, nostalgia, and slice-of-life.  
-Built for long-term readers, indie web fans, and curious minds.
-
+show_title: false
 ---
 
-📅 **Latest Week**: [Week 33 – Dailies & Highlights](/2025/08/11/week-33.html)<br />
-📚 **Full Archive**: [View All Weeks](/archive/)<br/>
-🗓️ **Monthly Recap**: [All Months](/monthly/)<br/>
-📰 **RSS Feed**: [RSS is active](/feed.xml)<br/>
----
+<img src="/assets/Banner.png" alt="Trevorion Weekly Digest" style="max-width:365px;width:100%;height:auto;float:left;margin-right:24px;">
 
-_Last updated: Aug 18, 2025 05:15 UTC_
+# Trevorion Zine RSS
 
+The weekly digest of Trevorion's published Dailies, news, articles, comics and creative work, sourced exclusively from the [Trevorion Sitemap](https://sitemap.trevorion.io/).
 
-Follow [@Trevorion](https://x.com/Trevorion)  
+📅 **Latest Week:** [2026 Week 41 – Dailies & Highlights](/2026/10/05/week-41.html)
 
-Stay lit. 🔥
+📚 [Full weekly archive](/archive/) | 🗓️ [Monthly Dailies](/monthly/) | 🖼️ [Gallery](/gallery/) | 📰 [RSS Feed](/feed.xml)
 
+Visit [Trevorion Zine](https://zine.trevorion.io/).
