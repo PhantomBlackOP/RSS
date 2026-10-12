@@ -1,0 +1,49 @@
+name: Validate complete Daily rankings
+on:
+  push:
+    branches:
+      - feature/full-669-daily-evaluation
+    paths:
+      - scripts/rank_dailies.py
+      - scripts/rebuild_from_sitemap.py
+      - data/daily_visual_reviews.json
+      - .github/workflows/validate-full-dailies.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  full-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate complete published archive and generate pages
+        run: |
+          python -m py_compile scripts/rank_dailies.py scripts/rebuild_from_sitemap.py
+          python scripts/rebuild_from_sitemap.py
+      - name: Assert all 669 were evaluated with no arbitrary exclusions
+        run: |
+          python - <<'PY'
+          import json, re
+          from pathlib import Path
+          raw=json.loads(Path('data/daily_visual_reviews.json').read_text())
+          data=json.loads(Path('data/daily_reviews.json').read_text())
+          assert len(raw['reviews'])==669
+          assert data['published_daily_count']==669
+          assert data['reviewed_daily_count']==669
+          ranked=data['rankings']
+          assert len(ranked)==669
+          assert len({r['url'] for r in ranked})==669
+          assert len({r['image_url'] for r in ranked})>=640
+          assert set(range(1,670))=={r['rank'] for r in ranked}
+          assert all(set(r['scores'])==set(data['weights']) for r in ranked)
+          assert all(set(r['theme_scores'])=={'reach','recognition','cross_audience','evergreen'} for r in ranked)
+          assert all(r['artistic_merit']<=100 for r in ranked)
+          assert sum(1 for line in Path('top20/all.md').read_text().splitlines() if line.startswith('| ') and re.match(r'\| \d+ \|',line))==669
+          page=Path('top20/index.md').read_text()
+          assert page.count('class="top20-item"')==20
+          assert '669 of 669 published Dailies evaluated' in page
+          print('PASS: 669 unique published-image-bound scorecards; 669 catalogue rows; 20 ranked artwork tiles.')
+          PY
