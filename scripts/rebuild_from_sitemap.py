@@ -43,6 +43,7 @@ class Entry:
     date: datetime
     category: str
     image: str | None
+    thumbnail: str | None
     tags: tuple[str, ...]
 
 
@@ -88,6 +89,7 @@ def gather() -> list[Entry]:
                 published = value(node, META + "published")
                 category = value(node, META + "category")
                 image_url = value(node, META + "og_image")
+                thumbnail_url = value(node, META + "thumbnail_image")
                 if not image_url:
                     image_node = node.find(IMAGE + "image")
                     if image_node is not None:
@@ -99,6 +101,8 @@ def gather() -> list[Entry]:
                     raise ValueError(f"Missing post metadata in {child}: {link}")
                 if image_url and not image_url.startswith("https://"):
                     raise ValueError(f"Non-HTTPS image for {link}")
+                if thumbnail_url and not thumbnail_url.startswith("https://"):
+                    raise ValueError(f"Non-HTTPS thumbnail for {link}")
                 try:
                     published_dt = datetime.fromisoformat(published.replace("Z", "+00:00"))
                     if published_dt.tzinfo is None:
@@ -108,7 +112,7 @@ def gather() -> list[Entry]:
                         raise ValueError("Malformed tag metadata")
                 except (ValueError, TypeError) as exc:
                     raise ValueError(f"Invalid metadata for {link}: {exc}") from exc
-                entry = Entry(link, title, published_dt, category, image_url or None, tags)
+                entry = Entry(link, title, published_dt, category, image_url or None, thumbnail_url or None, tags)
                 prior = result.get(link)
                 if prior and prior != entry:
                     raise ValueError(f"Conflicting duplicate post URL: {link}")
@@ -159,7 +163,7 @@ def gallery_html(entry: Entry) -> str:
     if not entry.image:
         return ""
     target = html.escape(entry.url, quote=True)
-    src = html.escape(entry.image, quote=True)
+    src = html.escape(entry.thumbnail or entry.image, quote=True)
     alt = html.escape(entry.title, quote=True)
     return f'<a href="{target}"><img src="{src}" alt="{alt}" loading="lazy" style="width:50px;height:auto;"></a>'
 
