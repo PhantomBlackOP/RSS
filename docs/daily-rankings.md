@@ -1,41 +1,45 @@
-# Trevorion Zine Daily rankings
+# Daily artwork scoring — complete archive
 
-## Status
+## Coverage and editorial status (12 October 2026)
 
-These are **provisional AI-assisted editorial assessments**, not creator-approved final rankings or measures of post engagement.
+**669/669 published Daily artworks** were individually examined in the original Sitemap order: 649 numbered Dailies, Daily 000, and 20 special editions. No artistic or popularity shortlisting occurred before the first pass. Every artwork received a first-pass visual-impact, style, story, and originality score. After the full first pass, higher-ranked images received a second visual calibration. The resulting 669 reviews are individually bound to the canonical published image URL in `data/daily_visual_reviews.json`.
 
-All **669** published Dailies (including the special releases) were visually screened at thumbnail size on 12 October 2026. An 81-image shortlist was inspected using the WordPress-sized images referenced in the Sitemap. The **44** finalists in `data/daily_reviews.json` were also checked against their **actual published originals**, all 1536 × 1024 (3:2). Only these 44 have detailed scorecards. The other Dailies are unscored, not scored zero. No weak or missing image is to be assigned a fabricated rating.
+**Limitations:** Most of this full-archive assessment was performed using the **published Sitemap artwork mosaic previews (225×150)**. An 81-image subset was inspected at medium resolution, and 44 original published files had full-resolution verification in an earlier audit. Therefore the first-pass visual scores are preliminary, especially for fine anatomy, perspective, and execution. **Do not claim 669 full-resolution originals were reviewed.** Creator approval is pending.
 
-## Artistic scoring — 100 points
+The full archive is **eligible** for Top 20 ranking, including 4:3 older images. The independent 3:2-only restriction is for the YouTube banner, not this ranking.
 
-| Criterion | Weight | Evaluate |
+## Weights and scoring
+
+| Dimension | Weight | Basis |
 |---|---:|---|
-| Visual impact | 20 | Immediate visual force, lighting, composition, memorability |
-| Style | 15 | Consistent aesthetic language, distinctive treatment, palette and texture |
-| Story | 15 | Emotion, implication, action, mystery, visual sequence or character relationships |
-| Originality | 15 | Fresh concept and interpretation, avoidance of generic formula |
-| Execution | 15 | Perspective, anatomy, anatomy-dependent detail, finish and technical consistency |
-| Editorial value | 10 | Cultural, educational, historical, scientific, symbolic or thematic substance |
-| Zine identity | 5 | Fit with Trevorion’s creative collection and distinctive authorial identity |
-| Banner suitability | 5 | Readability at reduced size and visual clarity, **without cropping or editing** |
+| Visual impact | 20 | Individually assessed from each published artwork: composition, impact, atmosphere and legibility |
+| Style | 15 | Individually assessed: treatment, colour, style coherence and distinction |
+| Story | 15 | Individually assessed: depicted action, emotion, narrative or suggested world |
+| Originality | 15 | Individually assessed: subject interpretation and visual inventiveness |
+| Execution | 15 | **Estimated** from the first two visually assessed ratings (their mean), not independent full-resolution technical inspection |
+| Editorial value | 10 | **Estimated** using story/originality and topic classifications derived from the Sitemap title/tags |
+| Zine identity | 5 | **Estimated** using style/originality/story, with an explicit author-identity signal in Sitemap metadata |
+| Banner suitability | 5 | **Estimated** using visual impact/style/story. The Top 20 does not exclude any aspect ratio |
+| **Total** | **100** |  |
 
-Each rating is from 0 to 10 in increments of 0.5. Anchors: 0–2 weak/absent; 3–4 below standard; 5–6 competent; 7–8 strong; 9 exceptional; 10 exemplary. Weighted artistic score = sum of (rating × weight / 10).
+First four criteria are recorded explicitly, 1–10 including exceptional 10s, in `data/daily_visual_reviews.json`. The calculated four criteria are transparently produced in `scripts/rank_dailies.py` on **exactly the same formula for every Daily** and rounded to the nearest half point. These derived scores are *proxies*, not claims of an additional independent human review. The top 20 and complete score ledger are recomputed from the current Sitemap metadata at each RSS rebuild.
 
-## Theme popularity — separate 0–5 rating
+## Subject-theme appeal (separate)
 
-This describes the inherent audience reach of the **theme**, not the performance of the image. Rate each of `reach`, `recognition`, `cross_audience`, `evergreen` from 0–5 in half points; average them. Theme popularity is displayed next to artistic merit and used **only for an exact artistic-score tie**, never added to the artistic score. These are editorial estimates informed by the subject and Sitemap tags, not invented analytics. Do not claim actual audience views.
+Theme appeal is **not a post's popularity or an image's engagement**. It is an explicitly estimated general-audience-interest profile for the subject, derived from the Sitemap title and tags. Four 0–5 components describe estimated audience reach, cultural recognition, cross-audience appeal and evergreen value. Their mean is displayed as `theme_appeal`, **not added** to artistic merit, and used **only to break artistic-score ties**.
 
-## Source-of-truth safeguards
+Classifiers are defined and auditable in `scripts/rank_dailies.py`. They are editorial heuristics, not external trend/search analytics. Actual popularity should not be claimed without independent evidence.
 
-1. The only metadata input to the RSS generator is Sitemap XML. The generator does not download WordPress images, use Library assets, or regenerate artwork.
-2. Each review stores the Zine post URL, published original image URL, actual checked original dimensions, individual ratings, and specific rationale.
-3. If a published image URL changes, its old review is automatically excluded as stale. If the original ratio is not 3:2, the image must not enter this eligible set.
-4. Missing, incomplete, malformed, duplicate, or nonfinite scores abort the regeneration.
-5. The **Top 20** is the top 20 **among explicitly reviewed, eligible Dailies**, not an assertion that every Daily received an individual score. Coverage and provisional status are visible on the page.
-6. New Dailies remain unscored until visually assessed. Rebuilding RSS does not fabricate new scores or automatically improve old scores.
+## Identity, validation and regeneration
 
-## Publishing
+- WordPress handles publication; Sitemap contains **the authoritative published original image URL**. RSS reads only Sitemap XML. Library images, unapproved variants and AI regeneration are not sources.
+- Reviews use canonical post **URL and exact published original image URL** as identifiers. A changed original image URL invalidates an old review rather than silently transferring it to new artwork.
+- Missing future Dailies are marked unscored until explicitly evaluated. RSS continues serving the existing reviews and openly displays `scored / published` coverage.
+- A duplicate, malformed, or nonnumeric source review aborts regeneration. The input archive must contain all 669 initial reviews; no score defaults or fillers are manufactured for absent records.
+- `data/daily_reviews.json` is the **generated full record** (scores, tags, image, reasoning and provenance). `top20/all.md` presents the entire scored catalogue by rank.
+- Top 20 gallery tiles use `object-fit:contain` so artwork is never cropped.
+- The YouTube banner requires a **separate** selection stage with published originals and 3:2 images only.
 
-Edit `data/daily_reviews.json` with documented reviews and the actual published original image URL. The `Rebuild RSS from Sitemap` workflow regenerates `top20/index.md` from these reviews and the live Sitemap, updating titles, tags, links and display images automatically. The page uses `object-fit: contain` to show 3:2 artworks without cropping. The ranking remains provisional until broader archival evaluation and Trevorion’s approval.
+### Next quality pass
 
-`python scripts/rebuild_from_sitemap.py` validates both sources before writing outputs.
+Full-resolution inspection and substantive individual critiques for all 669 would improve this preliminary numerical catalogue. Until then, the page must remain labelled **AI-assisted first-pass assessment**. The numeric ranks should never be presented as objectively definitive or already endorsed by the creator.
