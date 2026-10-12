@@ -29,15 +29,24 @@ jobs:
           import re
           pages=[Path(p).read_text(encoding="utf8") for p in
             ["top20/index.md","top20/all.md","top20/methodology.html","top20/scores.xml"]]
-          for name,p in zip(["top20","full","methodology","xml"],pages):
+          top, full, methodology, xmlfile=pages
+          # Published titles, tags and image URLs are user-authored content.
+          # Scan the site's own prose, not the content of 669 artworks.
+          site_prose=[
+              top.split('<ol class="top20-grid">',1)[0],
+              full.split('| Rank |',1)[0],
+              methodology,
+          ]
+          for name,p in zip(["top20-intro","catalog-intro","methodology"],site_prose):
               assert not re.search(r'(?i)youtube|you-tube|banner|earlier subset of|44 published originals|creator approval|await creator review',p), f"Internal production information leaked into {name}"
               assert not re.search(r'github\.com/PhantomBlackOP/RSS/blob/main',p)
-          top, full, methodology, xmlfile=pages
           assert "Presentation clarity" in top and methodology
           assert len(re.findall('class="top20-item"',top))==20
           assert "669 of 669" in top
           assert "Presentation clarity" in methodology
           root=ET.fromstring(xmlfile.split('---\n',2)[2])
+          limitations=root.findtext('limitations','')
+          assert not re.search(r'(?i)youtube|you-tube|banner|earlier subset of|creator approval',limitations)
           assert len(root.findall("daily"))==669
           assert all(len(x.findall("./artistic-criteria/criterion"))==8 for x in root.findall("daily"))
           assert all(any(c.attrib.get("name")=="presentation_clarity" for c in x.findall("./artistic-criteria/criterion")) for x in root.findall("daily"))
