@@ -32,7 +32,7 @@ SECTION_HEADERS = {
     "comics": "Comics",
     "shop": "Shop",
 }
-MIN_GALLERY_IMAGE_COVERAGE = 0.80
+MIN_GALLERY_IMAGE_COVERAGE = 1.00
 DATE_RE = re.compile(r"^\d{4}-\d{2}$")
 
 
@@ -249,7 +249,8 @@ def generate(entries: list[Entry]) -> dict[Path, str]:
                 continue
             sections.append(f"## {SECTION_HEADERS[key]}\n\n")
             for entry in relevant:
-                sections.append(f"- {format_link(entry)}\n")
+                thumbnail = (gallery_html(entry) + " ") if key == "archive" and entry.image else ""
+                sections.append(f"- {thumbnail}{format_link(entry)}\n")
             sections.append("\n")
         outputs[Path(filename)] = (
             frontmatter(
