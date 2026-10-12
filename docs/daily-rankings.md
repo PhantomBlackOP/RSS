@@ -4,9 +4,9 @@
 
 **669/669 published Daily artworks** were individually examined in the original Sitemap order: the 000–649 numbered sequence and the remaining unnumbered specials. No artistic or popularity shortlisting occurred before the first pass. Every artwork received a first-pass visual-impact, style, story, and originality score. After the full first pass, higher-ranked images received a second visual calibration. The resulting 669 reviews are individually bound to the canonical published image URL in `data/daily_visual_reviews.json`.
 
-**Limitations:** Most of this full-archive assessment was performed using the **published Sitemap artwork mosaic previews (225×150)**. An 81-image subset was inspected at medium resolution, and 44 original published files had full-resolution verification in an earlier audit. Therefore the first-pass visual scores are preliminary, especially for fine anatomy, perspective, and execution. **Do not claim 669 full-resolution originals were reviewed.** Creator approval is pending.
+**Limitations:** Most of this full-archive assessment was performed using the **published Sitemap artwork mosaic previews (225×150)**. An 81-image subset was inspected at medium resolution, and 44 original published files had full-resolution verification in an earlier audit. Therefore the first-pass visual scores are preliminary, especially for fine anatomy, perspective, and execution. **Do not claim 669 full-resolution originals were reviewed.** Scores are provisional.
 
-The full archive is **eligible** for Top 20 ranking, including 4:3 older images. The independent 3:2-only restriction is for the YouTube banner, not this ranking.
+The full archive is **eligible** for Top 20 ranking, including 4:3 older images. No aspect ratio is excluded from the published artwork rankings.
 
 ## Weights and scoring
 
@@ -19,7 +19,7 @@ The full archive is **eligible** for Top 20 ranking, including 4:3 older images.
 | Execution | 15 | **Estimated** from the first two visually assessed ratings (their mean), not independent full-resolution technical inspection |
 | Editorial value | 10 | **Estimated** using story/originality and topic classifications derived from the Sitemap title/tags |
 | Zine identity | 5 | **Estimated** using style/originality/story, with an explicit author-identity signal in Sitemap metadata |
-| Banner suitability | 5 | **Estimated** using visual impact/style/story. The Top 20 does not exclude any aspect ratio |
+| Presentation clarity | 5 | **Estimated** small-format legibility using visual impact/style/story; all aspect ratios remain eligible |
 | **Total** | **100** |  |
 
 First four criteria are recorded explicitly, 1–10 including exceptional 10s, in `data/daily_visual_reviews.json`. The calculated four criteria are transparently produced in `scripts/rank_dailies.py` on **exactly the same formula for every Daily** and rounded to the nearest half point. These derived scores are *proxies*, not claims of an additional independent human review. The top 20 and complete score ledger are recomputed from the current Sitemap metadata at each RSS rebuild.
@@ -38,7 +38,6 @@ Classifiers are defined and auditable in `scripts/rank_dailies.py`. They are edi
 - A duplicate, malformed, or nonnumeric source review aborts regeneration. The input archive must contain all 669 initial reviews; no score defaults or fillers are manufactured for absent records.
 - `data/daily_reviews.json` is the **generated full record** (scores, tags, image, reasoning and provenance). `top20/all.md` presents the entire scored catalogue by rank.
 - Top 20 gallery tiles use `object-fit:contain` so artwork is never cropped.
-- The YouTube banner requires a **separate** selection stage with published originals and 3:2 images only.
 
 ### Next quality pass
 
