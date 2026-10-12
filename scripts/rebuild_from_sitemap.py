@@ -19,7 +19,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 from urllib.request import Request, urlopen
 
-from rank_dailies import build_page
+from rank_dailies import audit_json, build_page, full_catalog, ranked
 
 ROOT = Path(__file__).resolve().parents[1]
 SITEMAP_ROOT = "https://sitemap.trevorion.io"
@@ -368,9 +368,18 @@ def generate(entries: list[Entry]) -> dict[Path, str]:
         + '</nav>\n'
     )
 
-    outputs[Path("top20/index.md")], _ranked = build_page(
+    outputs[Path("top20/index.md")], complete_ranking = build_page(
         entries, frontmatter(layout="page", title="Top 20 Dailies", permalink="/top20/")
     )
+    outputs[Path("top20/all.md")] = full_catalog(
+        complete_ranking, frontmatter(
+            layout="page", title="Complete Daily rankings", permalink="/top20/all/"
+        )
+    )
+    outputs[Path("data/daily_reviews.json")] = audit_json(
+        complete_ranking, len(dailies)
+    )
+    print(f"Evaluated {len(complete_ranking)}/{len(dailies)} published Daily artworks.")
 
     return outputs
 
@@ -414,7 +423,10 @@ def main() -> int:
     args = parser.parse_args()
     entries = gather()
     if args.check:
-        print("Sitemap passed validation; dry run complete.")
+        ratings, outdated = ranked(entries)
+        print(f"Sitemap and full-archive scoring passed validation: "
+              f"{len(ratings)} reviewed Dailies; {outdated} outdated reviews. "
+              "Dry run complete.")
     else:
         write_outputs(generate(entries))
     return 0
