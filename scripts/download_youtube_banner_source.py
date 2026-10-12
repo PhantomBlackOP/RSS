@@ -11,13 +11,13 @@ import xml.etree.ElementTree as ET
 from PIL import Image
 from playwright.sync_api import sync_playwright
 
-OUT=Path("daily-shortlist-assets")
+OUT=Path("daily-original-checks")
 OUT.mkdir(exist_ok=True)
 SM="{http://www.sitemaps.org/schemas/sitemap/0.9}"
 META="{https://sitemap.trevorion.io/ns/meta}"
 BASE="https://raw.githubusercontent.com/PhantomBlackOP/Sitemap/main"
-NUMBERS=[127,150,167,171,181,203,209,222,224,226,228,236,239,251,270,279,285,297,299,300,319,369,371,398,413,421,422,424,429,430,433,435,439,441,449,450,459,460,470,493,497,505,513,514,518,520,526,530,534,538,540,542,554,560,561,562,575,587,589,596,598,600,604,605,606,608,613,617,619,623,625,628,631,633,639,642,643,645,646,648,649]
-assert len(NUMBERS)==81 and len(set(NUMBERS))==81
+NUMBERS=[167,181,226,228,236,279,297,299,300,369,371,413,421,422,424,429,430,433,435,441,450,459,460,470,513,514,520,530,534,560,562,600,604,605,619,623,625,631,642,643,645,646,648,649]
+assert len(NUMBERS)==44 and len(set(NUMBERS))==44
 sess=requests.Session()
 sess.headers.update({"User-Agent":"Mozilla/5.0 (compatible; TrevorionBanner/1.0; published-images-only)","Accept":"image/avif,image/webp,image/apng,image/*,*/*;q=0.8"})
 def establish_clearance():
@@ -71,7 +71,7 @@ for link in child_paths:
         number=int(m.group(1))
         if number not in NUMBERS:continue
         post=node.findtext(SM+"loc") or ""
-        image=node.findtext(META+"thumbnail_image") or ""
+        image=node.findtext(META+"og_image") or ""
         original_image=node.findtext(META+"og_image") or ""
         if not post.startswith("https://zine.trevorion.io/") or not image.startswith("https://zine.trevorion.io/wp-content/uploads/"):
             raise ValueError("Unverified media source for "+str(number))
