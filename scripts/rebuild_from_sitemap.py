@@ -294,7 +294,7 @@ def generate(entries: list[Entry]) -> dict[Path, str]:
                 continue
             sections.append(f"## {SECTION_HEADERS[key]}\n\n")
             for entry in relevant:
-                thumbnail = (gallery_html(entry) + " ") if key == "archive" and entry.image else ""
+                thumbnail = (gallery_html(entry) + " ") if entry.image else ""
                 sections.append(f"- {thumbnail}{format_link(entry)}\n")
             sections.append("\n")
         outputs[Path(filename)] = (
