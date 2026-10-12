@@ -68,7 +68,7 @@
     .feature p{color:var(--muted);margin:0}
     .action{display:inline-flex;align-items:center;justify-content:center;padding:10px 16px;text-decoration:none;border-radius:7px;font-weight:750;font-size:.91rem;background:var(--accent);color:#08182b!important;white-space:nowrap}
     .action:hover{background:#c6e4ff}
-    .portal-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:0 0 28px}
+    .portal-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px;margin:0 0 28px}
     .portal-card{display:flex;flex-direction:column;gap:8px;background:var(--surface);border:1px solid var(--line);border-radius:11px;padding:24px;text-decoration:none!important;transition:background .15s,border-color .15s}
     .portal-card:hover{background:var(--surface2);border-color:var(--accent)}
     .portal-card .card-icon{font-size:1.55rem}
@@ -85,6 +85,21 @@
     .gallery-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(78px,1fr));gap:5px;margin:20px 0}
     .gallery-grid a{aspect-ratio:4/3;display:block;overflow:hidden;background:#18283d}
     .gallery-grid img,.page-content .gallery-grid img{display:block;width:100%!important;height:100%!important;object-fit:cover;max-width:none}
+    .ranking-coverage{color:var(--muted);padding:12px 16px;background:#12233a;border-left:3px solid var(--accent);border-radius:4px;font-size:.92rem}
+    .top20-grid{list-style:none;counter-reset:top20;margin:28px 0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+    .top20-item{counter-increment:top20;margin:0!important;display:flex;flex-direction:column;border:1px solid var(--line);border-radius:11px;background:var(--surface);overflow:hidden}
+    .top20-art{display:block;position:relative;background:#091525;aspect-ratio:3/2}
+    .top20-art::before{content:"# " counter(top20);position:absolute;top:12px;left:13px;z-index:2;color:#fff;background:rgba(3,14,27,.89);border:1px solid #79b4f0;border-radius:5px;padding:2px 12px;font-weight:850;font-size:1.2rem}
+    .top20-art img,.page-content .top20-art img{width:100%!important;height:100%!important;object-fit:contain;display:block}
+    .top20-info{padding:18px 19px}
+    .top20-scores{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;color:var(--muted);font-size:.82rem}
+    .top20-scores strong{font-size:1.55rem;color:#aed8ff;line-height:1}
+    .top20-scores strong span{font-size:.75rem;color:var(--muted);margin-left:4px}
+    .top20-info h2{margin:11px 0 6px;font-size:1.12rem;line-height:1.35}
+    .top20-info p{color:#d6e4f2;margin:5px 0 9px;font-size:.9rem}
+    .top20-tags{color:var(--muted);font-size:.76rem;overflow-wrap:anywhere;margin:8px 0}
+    .top20-info details{border-top:1px solid var(--line);padding-top:8px;font-size:.82rem}
+    .top20-info summary{cursor:pointer;color:#acd3fe;font-weight:700}
     .post-nav{padding:20px 0;border-top:1px solid var(--line);margin-top:35px}
     .post-nav nav{display:flex;align-items:center;gap:12px;flex-wrap:wrap;justify-content:center}
     .post-nav a{color:#d8e9fc;text-decoration:none;padding:7px 10px;border-radius:5px;border:1px solid #385169;font-size:.86rem}
@@ -101,6 +116,7 @@
       .zine-mosaic{grid-template-columns:repeat(8,minmax(0,1fr));grid-template-rows:repeat(8,minmax(0,1fr))}
       .zine-hero{height:310px}
       .recent-art{grid-template-columns:repeat(3,minmax(0,1fr))}
+      .portal-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
     }
     @media(max-width:590px){
       .site-nav{padding:12px 16px}
@@ -113,7 +129,7 @@
       .hero-copy p{font-size:.66rem;letter-spacing:.07em;padding:5px 9px}
       .page-shell{padding-top:25px}
       .feature{padding:21px}
-      .portal-grid{grid-template-columns:1fr}
+      .portal-grid,.top20-grid{grid-template-columns:1fr}
       .recent-art{grid-template-columns:repeat(2,minmax(0,1fr))}
     }
   </style>
@@ -130,6 +146,7 @@
         <a href="{{ '/archive/' | relative_url }}">Weekly</a>
         <a href="{{ '/monthly/' | relative_url }}">Monthly</a>
         <a href="{{ '/gallery/' | relative_url }}">Gallery</a>
+        <a href="{{ '/top20/' | relative_url }}">Top 20</a>
         <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
         <a href="https://zine.trevorion.io/archive/">Dailies</a>
         <a href="https://zine.trevorion.io/news/">News</a>

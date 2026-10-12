@@ -20,14 +20,15 @@ All post metadata comes **exclusively from** the public [Trevorion Sitemap](http
 - [Weekly archive](https://rss.trevorion.io/archive/)
 - [Monthly Daily digests](https://rss.trevorion.io/monthly/)
 - [Daily gallery and thumbnail mosaics](https://rss.trevorion.io/gallery/)
+- [Provisional Top 20 Dailies](https://rss.trevorion.io/top20/), based on documented 100-point artistic reviews with separately displayed theme appeal
 
-Generated source files live in `_posts/`, `monthly/`, `gallery/`, plus `index.md`, `archive.md` and `monthly_index.md`. Original X-derived content was replaced from the Zine's canonical post inventory; Git history retains the previous versions.
+Generated source files live in `_posts/`, `monthly/`, `gallery/`, plus `index.md`, `archive.md`, `monthly_index.md`, and `top20/index.md`. Detailed artwork review records are stored in `data/daily_reviews.json` and the [rubric](docs/daily-rankings.md). Only reviewed Dailies are eligible for the Top 20, and the page states its review coverage. Original X-derived content was replaced from the Zine's canonical post inventory; Git history retains the previous versions.
 
 ## Scheduled rebuilding
 
 `.github/workflows/rebuild-rss.yml` executes at **06:00 UTC daily**, after the Sitemap's **03:00 UTC** update. Manual workflow dispatch is also available.
 
-The build performs full validation of all referenced Sitemap monthly XML before it writes anything. It **requires image metadata for every indexed Daily** and fails closed if a feed is missing, corrupt, inaccessible or incomplete. Rebuilt files are only changed when their content changes.
+The build performs full validation of all referenced Sitemap monthly XML and audited ranking records before it writes anything. It **requires image metadata for every indexed Daily** and fails closed if a feed is missing, corrupt, inaccessible or incomplete. Rebuilt files are only changed when their content changes.
 
 ```bash
 python scripts/rebuild_from_sitemap.py --check  # validate, no writes
