@@ -1,19 +1,16 @@
-<nav style="display: flex; justify-content: space-between; padding-top: 20px; text-align: center;">
-  <div style="text-align: left; width: 20%;">
-      {% if include.prev_url %}
-        <a href="{{ include.prev_url }}">👈 PREVIOUS </a>
-      {% endif %}
-  </div>
-  <div style="text-align: center;">
-    {% assign latest_week = site.posts | first %}
-    <a href="{{ latest_week.url }}" style="margin: 0 0.7em;"> 🗞️WEEKLY </a>
-    <a href="/archive/" style="margin: 0 0.7em;"> 📚 ARCHIVE </a>
-    <a href="/monthly/" style="margin: 0 0.7em;"> 🗓️ MONTHLY </a>
-    <a href="/feed.xml" style="margin: 0 0.7em;"> 📰 RSS </a>
-  </div>
-  <div style="text-align: right; width: 20%;">
-    {% if include.next_url %}
-      <a href="{{ include.next_url }}"> NEXT 👉</a>
-    {% endif %}  
-  </div>
+<nav aria-label="Archive navigation">
+  {% if include.prev_url %}
+    <a href="{{ include.prev_url | relative_url }}">← Previous</a>
+  {% endif %}
+  {% assign latest_week = site.posts | first %}
+  {% if latest_week %}
+    <a href="{{ latest_week.url | relative_url }}">Latest weekly</a>
+  {% endif %}
+  <a href="{{ '/archive/' | relative_url }}">Weekly archive</a>
+  <a href="{{ '/monthly/' | relative_url }}">Monthly Dailies</a>
+  <a href="{{ '/gallery/' | relative_url }}">Art gallery</a>
+  <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+  {% if include.next_url %}
+    <a href="{{ include.next_url | relative_url }}">Next →</a>
+  {% endif %}
 </nav>
