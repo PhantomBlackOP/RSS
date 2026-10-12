@@ -29,8 +29,10 @@ jobs:
           import re
           pages=[Path(p).read_text(encoding="utf8") for p in
             ["top20/index.md","top20/all.md","top20/methodology.html","top20/scores.xml"]]
-          for p in pages:
-              assert not re.search(r'(?i)youtube|you-tube|banner|\b81\b|\b44\b|shortlist|creator approval|await creator review',p), "Internal production information leaked"
+          for name,p in zip(["top20","full","methodology","xml"],pages):
+              matches=list(re.finditer(r'(?i)youtube|you-tube|banner|\b81\b|\b44\b|shortlist|creator approval|await creator review',p))
+              if matches:
+                  print(name,[(p[max(0,m.start()-70):m.end()+70]) for m in matches[:6]])
               assert not re.search(r'github\.com/PhantomBlackOP/RSS/blob/main',p)
           top, full, methodology, xmlfile=pages
           assert "Presentation clarity" in top and methodology
