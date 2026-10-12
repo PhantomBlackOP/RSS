@@ -19,6 +19,8 @@ from pathlib import Path
 from urllib.parse import urlparse
 from urllib.request import Request, urlopen
 
+from rank_dailies import build_page
+
 ROOT = Path(__file__).resolve().parents[1]
 SITEMAP_ROOT = "https://sitemap.trevorion.io"
 SM = "{http://www.sitemaps.org/schemas/sitemap/0.9}"
@@ -350,6 +352,8 @@ def generate(entries: list[Entry]) -> dict[Path, str]:
           '<strong>Monthly Dailies</strong><span>Artwork titles, dates, and subjects by month.</span></a>\n'
         + '  <a class="portal-card" href="/gallery/"><span class="card-icon">▧</span>'
           '<strong>Image gallery</strong><span>See your Dailies and special releases together.</span></a>\n'
+        + '  <a class="portal-card" href="/top20/"><span class="card-icon">★</span>'
+          '<strong>Top 20 Dailies</strong><span>Published artwork ranked by artistic merit.</span></a>\n'
         + '</section>\n'
         + '<section aria-labelledby="recent-title">\n'
         + ' <div class="section-header"><h2 id="recent-title">Latest Daily artwork</h2>'
@@ -362,6 +366,10 @@ def generate(entries: list[Entry]) -> dict[Path, str]:
           '<a href="https://sitemap.trevorion.io/">Source sitemap ↗</a> '
           '<a href="https://zine.trevorion.io/">Visit the Zine ↗</a>\n'
         + '</nav>\n'
+    )
+
+    outputs[Path("top20/index.md")], _ranked = build_page(
+        entries, frontmatter(layout="page", title="Top 20 Dailies", permalink="/top20/")
     )
 
     return outputs
