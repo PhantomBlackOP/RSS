@@ -376,7 +376,7 @@ def audit_xml(ranking: list[RankedDaily], n_published: int) -> str:
     ET.SubElement(root, "methodology").text = "https://rss.trevorion.io/top20/methodology/"
     ET.SubElement(root, "limitations").text = (
         "Four criteria assessed individually from published small preview images. "
-        "Execution, editorial value, Zine identity and banner suitability are "
+        "Execution, editorial value, Zine identity and presentation clarity are "
         "consistent derived estimates, not independent full-resolution reviews. "
         "Theme appeal measures estimated general subject interest, not an image's "
         "views or reactions. Results are provisional."
@@ -421,7 +421,7 @@ def audit_json(ranking: list[RankedDaily], n_published: int) -> str:
         "reviewed_daily_count": len(ranking),
         "review_limitations": (
             "Four visual criteria judged at published small-preview scale. "
-            "Execution, editorial value, Zine identity and banner suitability "
+            "Execution, editorial value, Zine identity and presentation clarity "
             "are reproducible estimates, not independent high-resolution reviews. "
             "Theme appeal is a subject-interest estimate, never actual engagement."
         ),
