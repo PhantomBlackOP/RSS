@@ -3,6 +3,8 @@ name: Rebuild RSS from Sitemap
 on:
   workflow_dispatch:
   push:
+    branches:
+      - main
     paths:
       - 'scripts/rebuild_from_sitemap.py'
       - 'README.md'
@@ -19,6 +21,7 @@ concurrency:
 
 jobs:
   rebuild:
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout RSS
