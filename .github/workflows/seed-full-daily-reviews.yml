@@ -1,0 +1,30 @@
+name: Seed complete Daily visual reviews
+on:
+  push:
+    branches:
+      - feature/full-669-daily-evaluation
+    paths:
+      - scripts/seed_all_daily_visual_reviews.py
+      - .github/workflows/seed-full-daily-reviews.yml
+permissions:
+  contents: write
+jobs:
+  seed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Bind all 669 ratings to exact Sitemap artworks
+        run: python scripts/seed_all_daily_visual_reviews.py
+      - name: Persist and check source mapping
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/daily_visual_reviews.json
+          git diff --cached --quiet && exit 0
+          git commit -m 'Record all 669 published Daily visual reviews'
+          git push origin HEAD:feature/full-669-daily-evaluation
