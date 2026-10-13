@@ -9,9 +9,9 @@ show_title: false
 <p class="home-lead">Original Dailies, occasional special editions, news, articles and creative work. A weekly record of the Trevorion Zine, preserved and linked directly to each published post.</p>
 <section class="feature" aria-labelledby="latest-title">
   <div><div class="kicker">Latest weekly digest</div>
-    <h2 id="latest-title">2026 · Week 41</h2>
+    <h2 id="latest-title">2026 · Week 42</h2>
     <p>Published Dailies, stories and highlights from this week.</p></div>
-  <a class="action" href="/2026/10/05/week-41.html">Read latest digest →</a>
+  <a class="action" href="/2026/10/12/week-42.html">Read latest digest →</a>
 </section>
 <section class="portal-grid" aria-label="Browse the Zine RSS archive">
   <a class="portal-card" href="/archive/"><span class="card-icon">▤</span><strong>Weekly archive</strong><span>Browse every digest, newest first.</span></a>
@@ -22,12 +22,12 @@ show_title: false
 <section aria-labelledby="recent-title">
  <div class="section-header"><h2 id="recent-title">Latest Daily artwork</h2><a href="/gallery/">All Dailies →</a></div>
  <div class="recent-art">
+<a href="https://zine.trevorion.io/20261012-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/650-Opah-🐟🌊-960x640.png" alt="" loading="lazy" decoding="async"><span>650: Opah 🐟🌊</span></a>
 <a href="https://zine.trevorion.io/20261011-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/649-Artemis-Goddess-of-the-Hunt-🏹🌙-960x640.png" alt="" loading="lazy" decoding="async"><span>649: Artemis, Goddess of the Hunt 🏹🌙</span></a>
 <a href="https://zine.trevorion.io/20261010-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/648-Throne-of-Naggaroth-👑🌩️-960x640.png" alt="" loading="lazy" decoding="async"><span>648: Throne of Naggaroth 👑🌩️</span></a>
 <a href="https://zine.trevorion.io/20261009-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/647-Nixie-Tubes-🔢💡-960x640.png" alt="" loading="lazy" decoding="async"><span>647: Nixie Tubes 🔢💡</span></a>
 <a href="https://zine.trevorion.io/20261008-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/646-Master-of-the-Rift-🎸🌀-960x640.png" alt="" loading="lazy" decoding="async"><span>646: Master of the Rift 🎸🌀</span></a>
 <a href="https://zine.trevorion.io/20261007-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/645-Moonlit-Revenant-💀🌕-960x640.png" alt="" loading="lazy" decoding="async"><span>645: Moonlit Revenant 💀🌕</span></a>
-<a href="https://zine.trevorion.io/20261006-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/644-Caravanette-Coffee-☕🚐-960x640.png" alt="" loading="lazy" decoding="async"><span>644: Caravanette Coffee ☕🚐</span></a>
 </div>
 </section>
 <nav class="feed-strip" aria-label="RSS subscriptions">
