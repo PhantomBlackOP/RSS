@@ -7,7 +7,7 @@ show_title: false
 
 # Daily Image Gallery 2026
 
-<p>298 Daily artworks and special editions. Select any image to view its original Zine post.</p>
+<p>299 Daily artworks and special editions. Select any image to view its original Zine post.</p>
 
 <div class="gallery-grid">
 <a href="https://zine.trevorion.io/20260101-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/01/366-Champagne-🥂🍾-225x150.png" alt="366: Champagne 🥂🍾" loading="lazy" style="width:50px;height:auto;"></a>
@@ -308,6 +308,7 @@ show_title: false
 <a href="https://zine.trevorion.io/20261010-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/648-Throne-of-Naggaroth-👑🌩️-225x150.png" alt="648: Throne of Naggaroth 👑🌩️" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261011-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/649-Artemis-Goddess-of-the-Hunt-🏹🌙-225x150.png" alt="649: Artemis, Goddess of the Hunt 🏹🌙" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261012-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/650-Opah-🐟🌊-225x150.png" alt="650: Opah 🐟🌊" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261013-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/651-Misa-Hayase-🌅🌊-225x150.png" alt="651: Misa Hayase 🌅🌊" loading="lazy" style="width:50px;height:auto;"></a>
 </div>
 
 <details class="archive-list"><summary>Browse all artwork titles</summary><ul>
@@ -609,4 +610,5 @@ show_title: false
 <li>648: Throne of Naggaroth 👑🌩️: <a href="https://zine.trevorion.io/20261010-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/648-Throne-of-Naggaroth-👑🌩️.png">Full artwork</a></li>
 <li>649: Artemis, Goddess of the Hunt 🏹🌙: <a href="https://zine.trevorion.io/20261011-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/649-Artemis-Goddess-of-the-Hunt-🏹🌙.png">Full artwork</a></li>
 <li>650: Opah 🐟🌊: <a href="https://zine.trevorion.io/20261012-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/650-Opah-🐟🌊.png">Full artwork</a></li>
+<li>651: Misa Hayase 🌅🌊: <a href="https://zine.trevorion.io/20261013-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/651-Misa-Hayase-🌅🌊.png">Full artwork</a></li>
 </ul></details>

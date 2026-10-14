@@ -296,3 +296,4 @@
 <a href="https://zine.trevorion.io/20261010-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/648-Throne-of-Naggaroth-👑🌩️-225x150.png" alt="648: Throne of Naggaroth 👑🌩️" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261011-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/649-Artemis-Goddess-of-the-Hunt-🏹🌙-225x150.png" alt="649: Artemis, Goddess of the Hunt 🏹🌙" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261012-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/650-Opah-🐟🌊-225x150.png" alt="650: Opah 🐟🌊" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261013-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/651-Misa-Hayase-🌅🌊-225x150.png" alt="651: Misa Hayase 🌅🌊" loading="lazy" style="width:50px;height:auto;"></a>
