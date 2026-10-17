@@ -22,12 +22,12 @@ show_title: false
 <section aria-labelledby="recent-title">
  <div class="section-header"><h2 id="recent-title">Latest Daily artwork</h2><a href="/gallery/">All Dailies →</a></div>
  <div class="recent-art">
+<a href="https://zine.trevorion.io/20261016-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/654-Takeda-Thunder-🐎🏯-960x640.png" alt="" loading="lazy" decoding="async"><span>654: Takeda Thunder 🐎🏯</span></a>
 <a href="https://zine.trevorion.io/20261015-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/653-Faith-in-Ruins-💀✠-960x640.png" alt="" loading="lazy" decoding="async"><span>653: Faith in Ruins 💀✠</span></a>
 <a href="https://zine.trevorion.io/20261014-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/652-Blade-Dancer-⚔️🌅-960x640.png" alt="" loading="lazy" decoding="async"><span>652: Blade Dancer ⚔️🌅</span></a>
 <a href="https://zine.trevorion.io/20261013-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/651-Misa-Hayase-🌅🌊-1-960x640.png" alt="" loading="lazy" decoding="async"><span>651: Misa Hayase 🌅🌊</span></a>
 <a href="https://zine.trevorion.io/20261012-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/650-Opah-🐟🌊-960x640.png" alt="" loading="lazy" decoding="async"><span>650: Opah 🐟🌊</span></a>
 <a href="https://zine.trevorion.io/20261011-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/649-Artemis-Goddess-of-the-Hunt-🏹🌙-960x640.png" alt="" loading="lazy" decoding="async"><span>649: Artemis, Goddess of the Hunt 🏹🌙</span></a>
-<a href="https://zine.trevorion.io/20261010-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/648-Throne-of-Naggaroth-👑🌩️-960x640.png" alt="" loading="lazy" decoding="async"><span>648: Throne of Naggaroth 👑🌩️</span></a>
 </div>
 </section>
 <nav class="feed-strip" aria-label="RSS subscriptions">
