@@ -7,7 +7,7 @@ show_title: false
 
 # Daily Image Gallery 2026
 
-<p>302 Daily artworks and special editions. Select any image to view its original Zine post.</p>
+<p>304 Daily artworks and special editions. Select any image to view its original Zine post.</p>
 
 <div class="gallery-grid">
 <a href="https://zine.trevorion.io/20260101-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/01/366-Champagne-🥂🍾-225x150.png" alt="366: Champagne 🥂🍾" loading="lazy" style="width:50px;height:auto;"></a>
@@ -312,6 +312,8 @@ show_title: false
 <a href="https://zine.trevorion.io/20261014-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/652-Blade-Dancer-⚔️🌅-225x150.png" alt="652: Blade Dancer ⚔️🌅" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261015-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/653-Faith-in-Ruins-💀✠-225x150.png" alt="653: Faith in Ruins 💀✠" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261016-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/654-Takeda-Thunder-🐎🏯-225x150.png" alt="654: Takeda Thunder 🐎🏯" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261017-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/655-The-Last-Draw-🏜⚰-225x150.png" alt="655: The Last Draw 🏜⚰" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261018-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/656-Ayaka-Sato-💄💼-225x150.png" alt="656: Ayaka Sato 💄💼." loading="lazy" style="width:50px;height:auto;"></a>
 </div>
 
 <details class="archive-list"><summary>Browse all artwork titles</summary><ul>
@@ -617,4 +619,6 @@ show_title: false
 <li>652: Blade Dancer ⚔️🌅: <a href="https://zine.trevorion.io/20261014-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/652-Blade-Dancer-⚔️🌅.png">Full artwork</a></li>
 <li>653: Faith in Ruins 💀✠: <a href="https://zine.trevorion.io/20261015-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/653-Faith-in-Ruins-💀✠.png">Full artwork</a></li>
 <li>654: Takeda Thunder 🐎🏯: <a href="https://zine.trevorion.io/20261016-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/654-Takeda-Thunder-🐎🏯.png">Full artwork</a></li>
+<li>655: The Last Draw 🏜⚰: <a href="https://zine.trevorion.io/20261017-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/655-The-Last-Draw-🏜⚰.png">Full artwork</a></li>
+<li>656: Ayaka Sato 💄💼.: <a href="https://zine.trevorion.io/20261018-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/656-Ayaka-Sato-💄💼.png">Full artwork</a></li>
 </ul></details>
