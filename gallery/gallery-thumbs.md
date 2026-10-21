@@ -674,3 +674,5 @@
 <a href="https://zine.trevorion.io/20261016-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/654-Takeda-Thunder-🐎🏯-225x150.png" alt="654: Takeda Thunder 🐎🏯" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261017-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/655-The-Last-Draw-🏜⚰-225x150.png" alt="655: The Last Draw 🏜⚰" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261018-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/656-Ayaka-Sato-💄💼-225x150.png" alt="656: Ayaka Sato 💄💼." loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261019-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/657-Barn-Find-🚘🔧-225x150.png" alt="657: Barn Find 🚘🔧" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261020-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/658-Battlefield-Priestess-🩸🙏-225x150.png" alt="658: Battlefield Priestess 🩸🙏" loading="lazy" style="width:50px;height:auto;"></a>

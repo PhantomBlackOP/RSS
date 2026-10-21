@@ -9,9 +9,9 @@ show_title: false
 <p class="home-lead">Original Dailies, occasional special editions, news, articles and creative work. A weekly record of the Trevorion Zine, preserved and linked directly to each published post.</p>
 <section class="feature" aria-labelledby="latest-title">
   <div><div class="kicker">Latest weekly digest</div>
-    <h2 id="latest-title">2026 · Week 42</h2>
+    <h2 id="latest-title">2026 · Week 43</h2>
     <p>Published Dailies, stories and highlights from this week.</p></div>
-  <a class="action" href="/2026/10/12/week-42.html">Read latest digest →</a>
+  <a class="action" href="/2026/10/19/week-43.html">Read latest digest →</a>
 </section>
 <section class="portal-grid" aria-label="Browse the Zine RSS archive">
   <a class="portal-card" href="/archive/"><span class="card-icon">▤</span><strong>Weekly archive</strong><span>Browse every digest, newest first.</span></a>
@@ -22,12 +22,12 @@ show_title: false
 <section aria-labelledby="recent-title">
  <div class="section-header"><h2 id="recent-title">Latest Daily artwork</h2><a href="/gallery/">All Dailies →</a></div>
  <div class="recent-art">
+<a href="https://zine.trevorion.io/20261020-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/658-Battlefield-Priestess-🩸🙏-960x640.png" alt="" loading="lazy" decoding="async"><span>658: Battlefield Priestess 🩸🙏</span></a>
+<a href="https://zine.trevorion.io/20261019-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/657-Barn-Find-🚘🔧-960x640.png" alt="" loading="lazy" decoding="async"><span>657: Barn Find 🚘🔧</span></a>
 <a href="https://zine.trevorion.io/20261018-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/656-Ayaka-Sato-💄💼-960x640.png" alt="" loading="lazy" decoding="async"><span>656: Ayaka Sato 💄💼.</span></a>
 <a href="https://zine.trevorion.io/20261017-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/655-The-Last-Draw-🏜⚰-960x640.png" alt="" loading="lazy" decoding="async"><span>655: The Last Draw 🏜⚰</span></a>
 <a href="https://zine.trevorion.io/20261016-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/654-Takeda-Thunder-🐎🏯-960x640.png" alt="" loading="lazy" decoding="async"><span>654: Takeda Thunder 🐎🏯</span></a>
 <a href="https://zine.trevorion.io/20261015-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/653-Faith-in-Ruins-💀✠-960x640.png" alt="" loading="lazy" decoding="async"><span>653: Faith in Ruins 💀✠</span></a>
-<a href="https://zine.trevorion.io/20261014-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/652-Blade-Dancer-⚔️🌅-960x640.png" alt="" loading="lazy" decoding="async"><span>652: Blade Dancer ⚔️🌅</span></a>
-<a href="https://zine.trevorion.io/20261013-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/651-Misa-Hayase-🌅🌊-1-960x640.png" alt="" loading="lazy" decoding="async"><span>651: Misa Hayase 🌅🌊</span></a>
 </div>
 </section>
 <nav class="feed-strip" aria-label="RSS subscriptions">
