@@ -689,4 +689,5 @@ show_title: false
 <a href="https://zine.trevorion.io/20261018-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/656-Ayaka-Sato-💄💼-225x150.png" alt="656: Ayaka Sato 💄💼." loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261019-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/657-Barn-Find-🚘🔧-225x150.png" alt="657: Barn Find 🚘🔧" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261020-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/658-Battlefield-Priestess-🩸🙏-225x150.png" alt="658: Battlefield Priestess 🩸🙏" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261021-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/659-Sirens-🎶🪽-225x150.png" alt="659: Sirens 🎶🪽" loading="lazy" style="width:50px;height:auto;"></a>
 </div>
