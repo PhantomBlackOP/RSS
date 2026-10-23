@@ -22,12 +22,12 @@ show_title: false
 <section aria-labelledby="recent-title">
  <div class="section-header"><h2 id="recent-title">Latest Daily artwork</h2><a href="/gallery/">All Dailies →</a></div>
  <div class="recent-art">
+<a href="https://zine.trevorion.io/20261022-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/660-Woodland-Fairy-🧚‍♀️🌿-960x640.png" alt="" loading="lazy" decoding="async"><span>660: Woodland Fairy 🧚‍♀️🌿</span></a>
 <a href="https://zine.trevorion.io/20261021-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/659-Sirens-🎶🪽-960x640.png" alt="" loading="lazy" decoding="async"><span>659: Sirens 🎶🪽</span></a>
 <a href="https://zine.trevorion.io/20261020-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/658-Battlefield-Priestess-🩸🙏-960x640.png" alt="" loading="lazy" decoding="async"><span>658: Battlefield Priestess 🩸🙏</span></a>
 <a href="https://zine.trevorion.io/20261019-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/657-Barn-Find-🚘🔧-960x640.png" alt="" loading="lazy" decoding="async"><span>657: Barn Find 🚘🔧</span></a>
 <a href="https://zine.trevorion.io/20261018-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/656-Ayaka-Sato-💄💼-960x640.png" alt="" loading="lazy" decoding="async"><span>656: Ayaka Sato 💄💼.</span></a>
 <a href="https://zine.trevorion.io/20261017-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/655-The-Last-Draw-🏜⚰-960x640.png" alt="" loading="lazy" decoding="async"><span>655: The Last Draw 🏜⚰</span></a>
-<a href="https://zine.trevorion.io/20261016-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/654-Takeda-Thunder-🐎🏯-960x640.png" alt="" loading="lazy" decoding="async"><span>654: Takeda Thunder 🐎🏯</span></a>
 </div>
 </section>
 <nav class="feed-strip" aria-label="RSS subscriptions">

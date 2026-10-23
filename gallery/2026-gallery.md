@@ -7,7 +7,7 @@ show_title: false
 
 # Daily Image Gallery 2026
 
-<p>307 Daily artworks and special editions. Select any image to view its original Zine post.</p>
+<p>308 Daily artworks and special editions. Select any image to view its original Zine post.</p>
 
 <div class="gallery-grid">
 <a href="https://zine.trevorion.io/20260101-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/01/366-Champagne-🥂🍾-225x150.png" alt="366: Champagne 🥂🍾" loading="lazy" style="width:50px;height:auto;"></a>
@@ -317,6 +317,7 @@ show_title: false
 <a href="https://zine.trevorion.io/20261019-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/657-Barn-Find-🚘🔧-225x150.png" alt="657: Barn Find 🚘🔧" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261020-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/658-Battlefield-Priestess-🩸🙏-225x150.png" alt="658: Battlefield Priestess 🩸🙏" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261021-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/659-Sirens-🎶🪽-225x150.png" alt="659: Sirens 🎶🪽" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261022-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/660-Woodland-Fairy-🧚‍♀️🌿-225x150.png" alt="660: Woodland Fairy 🧚‍♀️🌿" loading="lazy" style="width:50px;height:auto;"></a>
 </div>
 
 <details class="archive-list"><summary>Browse all artwork titles</summary><ul>
@@ -627,4 +628,5 @@ show_title: false
 <li>657: Barn Find 🚘🔧: <a href="https://zine.trevorion.io/20261019-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/657-Barn-Find-🚘🔧.png">Full artwork</a></li>
 <li>658: Battlefield Priestess 🩸🙏: <a href="https://zine.trevorion.io/20261020-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/658-Battlefield-Priestess-🩸🙏.png">Full artwork</a></li>
 <li>659: Sirens 🎶🪽: <a href="https://zine.trevorion.io/20261021-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/659-Sirens-🎶🪽.png">Full artwork</a></li>
+<li>660: Woodland Fairy 🧚‍♀️🌿: <a href="https://zine.trevorion.io/20261022-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/660-Woodland-Fairy-🧚‍♀️🌿.png">Full artwork</a></li>
 </ul></details>
