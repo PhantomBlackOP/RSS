@@ -678,3 +678,4 @@
 <a href="https://zine.trevorion.io/20261020-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/658-Battlefield-Priestess-🩸🙏-225x150.png" alt="658: Battlefield Priestess 🩸🙏" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261021-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/659-Sirens-🎶🪽-225x150.png" alt="659: Sirens 🎶🪽" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261022-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/660-Woodland-Fairy-🧚‍♀️🌿-225x150.png" alt="660: Woodland Fairy 🧚‍♀️🌿" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261023-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/661-Farewell-at-Dusk-🌇💔-225x150.png" alt="661: Farewell at Dusk 🌇💔" loading="lazy" style="width:50px;height:auto;"></a>
