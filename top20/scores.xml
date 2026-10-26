@@ -3,7 +3,7 @@ layout: null
 permalink: /top20/scores.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<daily-rankings rubric-version="2026-10-12-v2" status="provisional-ai-assisted-first-pass" published-count="682" reviewed-count="669">
+<daily-rankings rubric-version="2026-10-12-v2" status="provisional-ai-assisted-first-pass" published-count="683" reviewed-count="669">
   <methodology>https://rss.trevorion.io/top20/methodology/</methodology>
   <limitations>Four criteria assessed individually from published small preview images. Execution, editorial value, Zine identity and presentation clarity are consistent derived estimates, not independent full-resolution reviews. Theme appeal measures estimated general subject interest, not an image's views or reactions. Results are provisional.</limitations>
   <daily rank="1">

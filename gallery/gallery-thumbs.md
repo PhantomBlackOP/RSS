@@ -680,3 +680,4 @@
 <a href="https://zine.trevorion.io/20261022-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/660-Woodland-Fairy-🧚‍♀️🌿-225x150.png" alt="660: Woodland Fairy 🧚‍♀️🌿" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261023-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/661-Farewell-at-Dusk-🌇💔-225x150.png" alt="661: Farewell at Dusk 🌇💔" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261024-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/662-Nissen-Hut-🛖🌤-225x150.png" alt="662: Nissen Hut 🛖🌤️" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261025-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/663-Court-Gavotte-💃🕺-225x150.png" alt="663: Court Gavotte 💃🕺" loading="lazy" style="width:50px;height:auto;"></a>
