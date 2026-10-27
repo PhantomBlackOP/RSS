@@ -9,9 +9,9 @@ show_title: false
 <p class="home-lead">Original Dailies, occasional special editions, news, articles and creative work. A weekly record of the Trevorion Zine, preserved and linked directly to each published post.</p>
 <section class="feature" aria-labelledby="latest-title">
   <div><div class="kicker">Latest weekly digest</div>
-    <h2 id="latest-title">2026 · Week 43</h2>
+    <h2 id="latest-title">2026 · Week 44</h2>
     <p>Published Dailies, stories and highlights from this week.</p></div>
-  <a class="action" href="/2026/10/19/week-43.html">Read latest digest →</a>
+  <a class="action" href="/2026/10/26/week-44.html">Read latest digest →</a>
 </section>
 <section class="portal-grid" aria-label="Browse the Zine RSS archive">
   <a class="portal-card" href="/archive/"><span class="card-icon">▤</span><strong>Weekly archive</strong><span>Browse every digest, newest first.</span></a>
@@ -22,12 +22,12 @@ show_title: false
 <section aria-labelledby="recent-title">
  <div class="section-header"><h2 id="recent-title">Latest Daily artwork</h2><a href="/gallery/">All Dailies →</a></div>
  <div class="recent-art">
+<a href="https://zine.trevorion.io/20261026-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/664-Royal-Concubine-🪷💖-960x640.png" alt="" loading="lazy" decoding="async"><span>664: Royal Concubine 🪷💖</span></a>
 <a href="https://zine.trevorion.io/20261025-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/663-Court-Gavotte-💃🕺-960x640.png" alt="" loading="lazy" decoding="async"><span>663: Court Gavotte 💃🕺</span></a>
 <a href="https://zine.trevorion.io/20261024-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/662-Nissen-Hut-🛖🌤-960x640.png" alt="" loading="lazy" decoding="async"><span>662: Nissen Hut 🛖🌤️</span></a>
 <a href="https://zine.trevorion.io/20261023-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/661-Farewell-at-Dusk-🌇💔-960x640.png" alt="" loading="lazy" decoding="async"><span>661: Farewell at Dusk 🌇💔</span></a>
 <a href="https://zine.trevorion.io/20261022-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/660-Woodland-Fairy-🧚‍♀️🌿-960x640.png" alt="" loading="lazy" decoding="async"><span>660: Woodland Fairy 🧚‍♀️🌿</span></a>
 <a href="https://zine.trevorion.io/20261021-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/659-Sirens-🎶🪽-960x640.png" alt="" loading="lazy" decoding="async"><span>659: Sirens 🎶🪽</span></a>
-<a href="https://zine.trevorion.io/20261020-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/658-Battlefield-Priestess-🩸🙏-960x640.png" alt="" loading="lazy" decoding="async"><span>658: Battlefield Priestess 🩸🙏</span></a>
 </div>
 </section>
 <nav class="feed-strip" aria-label="RSS subscriptions">

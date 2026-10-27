@@ -7,7 +7,7 @@ show_title: false
 
 # Daily Image Gallery 2026
 
-<p>311 Daily artworks and special editions. Select any image to view its original Zine post.</p>
+<p>312 Daily artworks and special editions. Select any image to view its original Zine post.</p>
 
 <div class="gallery-grid">
 <a href="https://zine.trevorion.io/20260101-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/01/366-Champagne-🥂🍾-225x150.png" alt="366: Champagne 🥂🍾" loading="lazy" style="width:50px;height:auto;"></a>
@@ -321,6 +321,7 @@ show_title: false
 <a href="https://zine.trevorion.io/20261023-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/661-Farewell-at-Dusk-🌇💔-225x150.png" alt="661: Farewell at Dusk 🌇💔" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261024-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/662-Nissen-Hut-🛖🌤-225x150.png" alt="662: Nissen Hut 🛖🌤️" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261025-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/663-Court-Gavotte-💃🕺-225x150.png" alt="663: Court Gavotte 💃🕺" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261026-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/664-Royal-Concubine-🪷💖-225x150.png" alt="664: Royal Concubine 🪷💖" loading="lazy" style="width:50px;height:auto;"></a>
 </div>
 
 <details class="archive-list"><summary>Browse all artwork titles</summary><ul>
@@ -635,4 +636,5 @@ show_title: false
 <li>661: Farewell at Dusk 🌇💔: <a href="https://zine.trevorion.io/20261023-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/661-Farewell-at-Dusk-🌇💔.png">Full artwork</a></li>
 <li>662: Nissen Hut 🛖🌤️: <a href="https://zine.trevorion.io/20261024-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/662-Nissen-Hut-🛖🌤.png">Full artwork</a></li>
 <li>663: Court Gavotte 💃🕺: <a href="https://zine.trevorion.io/20261025-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/663-Court-Gavotte-💃🕺.png">Full artwork</a></li>
+<li>664: Royal Concubine 🪷💖: <a href="https://zine.trevorion.io/20261026-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/664-Royal-Concubine-🪷💖.png">Full artwork</a></li>
 </ul></details>
