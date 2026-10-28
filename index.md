@@ -22,12 +22,12 @@ show_title: false
 <section aria-labelledby="recent-title">
  <div class="section-header"><h2 id="recent-title">Latest Daily artwork</h2><a href="/gallery/">All Dailies →</a></div>
  <div class="recent-art">
+<a href="https://zine.trevorion.io/20261027-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/665-Sunny-Stroll-🌼☀️-960x640.png" alt="" loading="lazy" decoding="async"><span>665: Sunny Stroll 🌼☀️</span></a>
 <a href="https://zine.trevorion.io/20261026-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/664-Royal-Concubine-🪷💖-960x640.png" alt="" loading="lazy" decoding="async"><span>664: Royal Concubine 🪷💖</span></a>
 <a href="https://zine.trevorion.io/20261025-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/663-Court-Gavotte-💃🕺-960x640.png" alt="" loading="lazy" decoding="async"><span>663: Court Gavotte 💃🕺</span></a>
 <a href="https://zine.trevorion.io/20261024-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/662-Nissen-Hut-🛖🌤-960x640.png" alt="" loading="lazy" decoding="async"><span>662: Nissen Hut 🛖🌤️</span></a>
 <a href="https://zine.trevorion.io/20261023-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/661-Farewell-at-Dusk-🌇💔-960x640.png" alt="" loading="lazy" decoding="async"><span>661: Farewell at Dusk 🌇💔</span></a>
 <a href="https://zine.trevorion.io/20261022-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/660-Woodland-Fairy-🧚‍♀️🌿-960x640.png" alt="" loading="lazy" decoding="async"><span>660: Woodland Fairy 🧚‍♀️🌿</span></a>
-<a href="https://zine.trevorion.io/20261021-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/659-Sirens-🎶🪽-960x640.png" alt="" loading="lazy" decoding="async"><span>659: Sirens 🎶🪽</span></a>
 </div>
 </section>
 <nav class="feed-strip" aria-label="RSS subscriptions">
