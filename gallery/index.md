@@ -696,4 +696,5 @@ show_title: false
 <a href="https://zine.trevorion.io/20261025-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/663-Court-Gavotte-💃🕺-225x150.png" alt="663: Court Gavotte 💃🕺" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261026-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/664-Royal-Concubine-🪷💖-225x150.png" alt="664: Royal Concubine 🪷💖" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261027-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/665-Sunny-Stroll-🌼☀️-225x150.png" alt="665: Sunny Stroll 🌼☀️" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261028-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/666-Vespera-Blood-Sovereign-🦇🩸-225x150.png" alt="666: Vespera, Blood Sovereign 🦇🩸" loading="lazy" style="width:50px;height:auto;"></a>
 </div>
