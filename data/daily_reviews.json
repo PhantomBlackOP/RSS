@@ -2,7 +2,7 @@
   "schema_version": 3,
   "rubric_version": "2026-10-12-v2",
   "assessment_status": "Provisional AI-assisted whole-archive visual review.",
-  "published_daily_count": 686,
+  "published_daily_count": 687,
   "reviewed_daily_count": 669,
   "review_limitations": "Four visual criteria judged at published small-preview scale. Execution, editorial value, Zine identity and presentation clarity are reproducible estimates, not independent high-resolution reviews. Theme appeal is a subject-interest estimate, never actual engagement.",
   "weights": {
@@ -31,8 +31,8 @@
       "artistic_merit": 97.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 10.0,
         "style": 10.0,
+        "visual_impact": 10.0,
         "originality": 10.0,
         "story": 9.0,
         "execution": 10.0,
@@ -76,8 +76,8 @@
       "artistic_merit": 96.0,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 10.0,
         "style": 10.0,
+        "visual_impact": 10.0,
         "originality": 9.0,
         "story": 9.0,
         "execution": 10.0,
@@ -120,8 +120,8 @@
       "artistic_merit": 95.0,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 10.0,
         "style": 10.0,
+        "visual_impact": 10.0,
         "originality": 8.0,
         "story": 9.0,
         "execution": 10.0,
@@ -164,8 +164,8 @@
       "artistic_merit": 95.0,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 10.0,
         "style": 10.0,
+        "visual_impact": 10.0,
         "originality": 8.0,
         "story": 9.0,
         "execution": 10.0,
@@ -209,8 +209,8 @@
       "artistic_merit": 94.75,
       "theme_appeal": 4.62,
       "scores": {
-        "visual_impact": 10.0,
         "style": 10.0,
+        "visual_impact": 10.0,
         "originality": 8.0,
         "story": 9.0,
         "execution": 10.0,
@@ -253,8 +253,8 @@
       "artistic_merit": 94.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 10.0,
         "style": 10.0,
+        "visual_impact": 10.0,
         "originality": 9.0,
         "story": 9.0,
         "execution": 10.0,
@@ -297,8 +297,8 @@
       "artistic_merit": 94.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 10.0,
         "style": 10.0,
+        "visual_impact": 10.0,
         "originality": 9.0,
         "story": 9.0,
         "execution": 10.0,
@@ -340,8 +340,8 @@
       "artistic_merit": 93.5,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 10.0,
         "style": 9.0,
+        "visual_impact": 10.0,
         "originality": 9.0,
         "story": 9.0,
         "execution": 9.5,
@@ -384,8 +384,8 @@
       "artistic_merit": 93.0,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 10.0,
         "style": 10.0,
+        "visual_impact": 10.0,
         "originality": 8.0,
         "story": 9.0,
         "execution": 10.0,
@@ -427,8 +427,8 @@
       "artistic_merit": 93.0,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 10.0,
         "style": 10.0,
+        "visual_impact": 10.0,
         "originality": 8.0,
         "story": 9.0,
         "execution": 10.0,
@@ -470,8 +470,8 @@
       "artistic_merit": 92.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 10.0,
         "style": 10.0,
+        "visual_impact": 10.0,
         "originality": 9.0,
         "story": 7.0,
         "execution": 10.0,
@@ -516,8 +516,8 @@
       "artistic_merit": 92.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 10.0,
         "style": 10.0,
+        "visual_impact": 10.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 10.0,
@@ -559,8 +559,8 @@
       "artistic_merit": 92.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 10.0,
         "style": 10.0,
+        "visual_impact": 10.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 10.0,
@@ -601,8 +601,8 @@
       "artistic_merit": 92.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 10.0,
         "execution": 9.0,
@@ -644,8 +644,8 @@
       "artistic_merit": 91.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 10.0,
         "style": 10.0,
+        "visual_impact": 10.0,
         "originality": 9.0,
         "story": 7.0,
         "execution": 10.0,
@@ -688,8 +688,8 @@
       "artistic_merit": 91.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 10.0,
         "execution": 9.0,
@@ -731,8 +731,8 @@
       "artistic_merit": 90.75,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 10.0,
         "style": 9.0,
+        "visual_impact": 10.0,
         "originality": 8.0,
         "story": 9.0,
         "execution": 9.5,
@@ -774,8 +774,8 @@
       "artistic_merit": 90.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 9.0,
         "execution": 9.0,
@@ -818,8 +818,8 @@
       "artistic_merit": 90.5,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 9.0,
         "execution": 9.0,
@@ -862,8 +862,8 @@
       "artistic_merit": 90.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 10.0,
         "execution": 9.0,
@@ -901,8 +901,8 @@
       "artistic_merit": 90.0,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 9.0,
         "execution": 9.0,
@@ -943,8 +943,8 @@
       "artistic_merit": 89.5,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 9.0,
@@ -988,8 +988,8 @@
       "artistic_merit": 89.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 9.0,
@@ -1033,8 +1033,8 @@
       "artistic_merit": 89.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 10.0,
         "execution": 9.0,
@@ -1074,8 +1074,8 @@
       "artistic_merit": 88.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 9.0,
@@ -1116,8 +1116,8 @@
       "artistic_merit": 88.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 9.0,
         "execution": 9.0,
@@ -1157,8 +1157,8 @@
       "artistic_merit": 88.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 9.0,
         "execution": 9.0,
@@ -1199,8 +1199,8 @@
       "artistic_merit": 88.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 9.0,
         "execution": 9.0,
@@ -1241,8 +1241,8 @@
       "artistic_merit": 87.75,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 9.0,
         "execution": 9.0,
@@ -1283,8 +1283,8 @@
       "artistic_merit": 87.5,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 9.0,
@@ -1327,8 +1327,8 @@
       "artistic_merit": 87.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 9.0,
@@ -1368,8 +1368,8 @@
       "artistic_merit": 87.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 9.0,
@@ -1407,8 +1407,8 @@
       "artistic_merit": 87.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 9.0,
@@ -1447,8 +1447,8 @@
       "artistic_merit": 86.75,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 8.5,
@@ -1492,8 +1492,8 @@
       "artistic_merit": 86.75,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 9.0,
@@ -1537,8 +1537,8 @@
       "artistic_merit": 86.75,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 9.0,
@@ -1583,8 +1583,8 @@
       "artistic_merit": 86.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 9.0,
@@ -1627,8 +1627,8 @@
       "artistic_merit": 86.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 9.0,
         "execution": 9.0,
@@ -1669,8 +1669,8 @@
       "artistic_merit": 86.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 9.0,
         "execution": 9.0,
@@ -1709,8 +1709,8 @@
       "artistic_merit": 86.25,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 8.5,
@@ -1753,8 +1753,8 @@
       "artistic_merit": 86.25,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 8.5,
@@ -1798,8 +1798,8 @@
       "artistic_merit": 86.25,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 9.0,
@@ -1841,8 +1841,8 @@
       "artistic_merit": 86.25,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 7.0,
         "story": 9.0,
         "execution": 9.0,
@@ -1884,8 +1884,8 @@
       "artistic_merit": 85.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 8.5,
@@ -1928,8 +1928,8 @@
       "artistic_merit": 85.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 8.5,
@@ -1972,8 +1972,8 @@
       "artistic_merit": 85.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 8.5,
@@ -2016,8 +2016,8 @@
       "artistic_merit": 85.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 9.0,
@@ -2060,8 +2060,8 @@
       "artistic_merit": 85.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 9.0,
@@ -2105,8 +2105,8 @@
       "artistic_merit": 85.75,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 9.0,
@@ -2149,8 +2149,8 @@
       "artistic_merit": 85.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 9.0,
@@ -2191,8 +2191,8 @@
       "artistic_merit": 85.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 7.0,
         "execution": 9.0,
@@ -2235,8 +2235,8 @@
       "artistic_merit": 85.25,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 8.5,
@@ -2279,8 +2279,8 @@
       "artistic_merit": 85.25,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 8.5,
@@ -2321,8 +2321,8 @@
       "artistic_merit": 85.0,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -2367,8 +2367,8 @@
       "artistic_merit": 85.0,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 7.0,
         "story": 8.0,
         "execution": 9.0,
@@ -2413,8 +2413,8 @@
       "artistic_merit": 84.75,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -2460,8 +2460,8 @@
       "artistic_merit": 84.75,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -2504,8 +2504,8 @@
       "artistic_merit": 84.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 8.5,
@@ -2546,8 +2546,8 @@
       "artistic_merit": 84.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 9.0,
@@ -2588,8 +2588,8 @@
       "artistic_merit": 84.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 8.5,
@@ -2631,8 +2631,8 @@
       "artistic_merit": 84.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 8.5,
@@ -2675,8 +2675,8 @@
       "artistic_merit": 84.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 8.5,
@@ -2718,8 +2718,8 @@
       "artistic_merit": 84.75,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 8.5,
@@ -2759,8 +2759,8 @@
       "artistic_merit": 84.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 9.0,
@@ -2799,8 +2799,8 @@
       "artistic_merit": 84.5,
       "theme_appeal": 4.62,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -2845,8 +2845,8 @@
       "artistic_merit": 84.5,
       "theme_appeal": 4.62,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -2890,8 +2890,8 @@
       "artistic_merit": 84.25,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -2935,8 +2935,8 @@
       "artistic_merit": 84.25,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -2977,8 +2977,8 @@
       "artistic_merit": 84.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3015,8 +3015,8 @@
       "artistic_merit": 84.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3055,8 +3055,8 @@
       "artistic_merit": 84.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3096,8 +3096,8 @@
       "artistic_merit": 84.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3138,8 +3138,8 @@
       "artistic_merit": 84.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3180,8 +3180,8 @@
       "artistic_merit": 84.0,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3225,8 +3225,8 @@
       "artistic_merit": 84.0,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3268,8 +3268,8 @@
       "artistic_merit": 84.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3312,8 +3312,8 @@
       "artistic_merit": 84.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3355,8 +3355,8 @@
       "artistic_merit": 84.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3399,8 +3399,8 @@
       "artistic_merit": 84.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3443,8 +3443,8 @@
       "artistic_merit": 84.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3487,8 +3487,8 @@
       "artistic_merit": 84.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3533,8 +3533,8 @@
       "artistic_merit": 84.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3578,8 +3578,8 @@
       "artistic_merit": 83.75,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 9.0,
@@ -3624,8 +3624,8 @@
       "artistic_merit": 83.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3670,8 +3670,8 @@
       "artistic_merit": 83.75,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3714,8 +3714,8 @@
       "artistic_merit": 83.75,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 9.0,
@@ -3757,8 +3757,8 @@
       "artistic_merit": 83.5,
       "theme_appeal": 4.5,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 7.0,
         "story": 8.0,
         "execution": 9.0,
@@ -3800,8 +3800,8 @@
       "artistic_merit": 83.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3845,8 +3845,8 @@
       "artistic_merit": 83.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3890,8 +3890,8 @@
       "artistic_merit": 83.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3933,8 +3933,8 @@
       "artistic_merit": 83.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -3975,8 +3975,8 @@
       "artistic_merit": 83.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4017,8 +4017,8 @@
       "artistic_merit": 83.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4060,8 +4060,8 @@
       "artistic_merit": 83.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4102,8 +4102,8 @@
       "artistic_merit": 83.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4144,8 +4144,8 @@
       "artistic_merit": 83.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4187,8 +4187,8 @@
       "artistic_merit": 83.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4231,8 +4231,8 @@
       "artistic_merit": 83.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4274,8 +4274,8 @@
       "artistic_merit": 83.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4316,8 +4316,8 @@
       "artistic_merit": 83.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4359,8 +4359,8 @@
       "artistic_merit": 83.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4402,8 +4402,8 @@
       "artistic_merit": 83.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4447,8 +4447,8 @@
       "artistic_merit": 83.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4491,8 +4491,8 @@
       "artistic_merit": 83.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4535,8 +4535,8 @@
       "artistic_merit": 83.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4579,8 +4579,8 @@
       "artistic_merit": 83.25,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4623,8 +4623,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.5,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4665,8 +4665,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4708,8 +4708,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4750,8 +4750,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4792,8 +4792,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4834,8 +4834,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4877,8 +4877,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4920,8 +4920,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -4963,8 +4963,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -5006,8 +5006,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -5049,8 +5049,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -5094,8 +5094,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -5138,8 +5138,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -5183,8 +5183,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -5228,8 +5228,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -5270,8 +5270,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -5315,8 +5315,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -5359,8 +5359,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -5401,8 +5401,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -5444,8 +5444,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -5488,8 +5488,8 @@
       "artistic_merit": 83.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -5530,8 +5530,8 @@
       "artistic_merit": 82.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 5.0,
         "execution": 9.0,
@@ -5574,8 +5574,8 @@
       "artistic_merit": 82.25,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 9.0,
@@ -5618,8 +5618,8 @@
       "artistic_merit": 82.25,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 9.0,
@@ -5660,8 +5660,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 8.0,
@@ -5704,8 +5704,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -5749,8 +5749,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -5792,8 +5792,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -5836,8 +5836,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -5879,8 +5879,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -5922,8 +5922,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -5965,8 +5965,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6007,8 +6007,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6051,8 +6051,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6094,8 +6094,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6139,8 +6139,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6183,8 +6183,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6224,8 +6224,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6264,8 +6264,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6303,8 +6303,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6343,8 +6343,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 9.0,
         "story": 7.0,
         "execution": 8.5,
@@ -6383,8 +6383,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6423,8 +6423,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6465,8 +6465,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6507,8 +6507,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6547,8 +6547,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6587,8 +6587,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6627,8 +6627,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6668,8 +6668,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6709,8 +6709,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6750,8 +6750,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6791,8 +6791,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6834,8 +6834,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6877,8 +6877,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6918,8 +6918,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -6959,8 +6959,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -7000,8 +7000,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -7041,8 +7041,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -7083,8 +7083,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -7124,8 +7124,8 @@
       "artistic_merit": 82.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.5,
@@ -7165,8 +7165,8 @@
       "artistic_merit": 81.25,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.0,
@@ -7209,8 +7209,8 @@
       "artistic_merit": 81.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.5,
@@ -7252,8 +7252,8 @@
       "artistic_merit": 81.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.0,
@@ -7294,8 +7294,8 @@
       "artistic_merit": 80.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.0,
@@ -7338,8 +7338,8 @@
       "artistic_merit": 80.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 5.0,
         "execution": 9.0,
@@ -7380,8 +7380,8 @@
       "artistic_merit": 80.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.0,
@@ -7425,8 +7425,8 @@
       "artistic_merit": 80.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.0,
@@ -7467,8 +7467,8 @@
       "artistic_merit": 80.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.0,
@@ -7510,8 +7510,8 @@
       "artistic_merit": 80.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.0,
@@ -7553,8 +7553,8 @@
       "artistic_merit": 80.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.5,
@@ -7594,8 +7594,8 @@
       "artistic_merit": 80.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.5,
@@ -7635,8 +7635,8 @@
       "artistic_merit": 80.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.0,
@@ -7679,8 +7679,8 @@
       "artistic_merit": 80.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 9.0,
         "style": 8.0,
+        "visual_impact": 9.0,
         "originality": 7.0,
         "story": 8.0,
         "execution": 8.5,
@@ -7720,8 +7720,8 @@
       "artistic_merit": 80.0,
       "theme_appeal": 4.62,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 8.0,
         "execution": 8.0,
@@ -7765,8 +7765,8 @@
       "artistic_merit": 80.0,
       "theme_appeal": 4.5,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 7.0,
         "story": 6.0,
         "execution": 9.0,
@@ -7809,8 +7809,8 @@
       "artistic_merit": 80.0,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 8.0,
         "execution": 8.0,
@@ -7855,8 +7855,8 @@
       "artistic_merit": 80.0,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.0,
@@ -7900,8 +7900,8 @@
       "artistic_merit": 80.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.0,
@@ -7943,8 +7943,8 @@
       "artistic_merit": 80.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 7.0,
         "story": 6.0,
         "execution": 9.0,
@@ -7986,8 +7986,8 @@
       "artistic_merit": 80.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.0,
@@ -8029,8 +8029,8 @@
       "artistic_merit": 80.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.0,
@@ -8074,8 +8074,8 @@
       "artistic_merit": 80.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 8.0,
         "story": 5.0,
         "execution": 9.0,
@@ -8116,8 +8116,8 @@
       "artistic_merit": 79.75,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 8.0,
         "execution": 8.0,
@@ -8162,8 +8162,8 @@
       "artistic_merit": 79.5,
       "theme_appeal": 4.5,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.0,
@@ -8205,8 +8205,8 @@
       "artistic_merit": 79.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -8247,8 +8247,8 @@
       "artistic_merit": 79.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 8.0,
         "execution": 8.0,
@@ -8292,8 +8292,8 @@
       "artistic_merit": 79.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 8.0,
         "execution": 8.0,
@@ -8334,8 +8334,8 @@
       "artistic_merit": 79.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 9.0,
         "story": 8.0,
         "execution": 7.5,
@@ -8377,8 +8377,8 @@
       "artistic_merit": 79.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -8421,8 +8421,8 @@
       "artistic_merit": 79.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -8466,8 +8466,8 @@
       "artistic_merit": 79.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.0,
@@ -8509,8 +8509,8 @@
       "artistic_merit": 79.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.0,
@@ -8550,8 +8550,8 @@
       "artistic_merit": 79.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.0,
@@ -8592,8 +8592,8 @@
       "artistic_merit": 79.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.0,
@@ -8632,8 +8632,8 @@
       "artistic_merit": 79.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 8.0,
@@ -8673,8 +8673,8 @@
       "artistic_merit": 78.5,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -8716,8 +8716,8 @@
       "artistic_merit": 78.5,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -8757,8 +8757,8 @@
       "artistic_merit": 78.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -8799,8 +8799,8 @@
       "artistic_merit": 78.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -8841,8 +8841,8 @@
       "artistic_merit": 78.25,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 7.5,
@@ -8885,8 +8885,8 @@
       "artistic_merit": 78.25,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -8930,8 +8930,8 @@
       "artistic_merit": 78.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 7.5,
@@ -8974,8 +8974,8 @@
       "artistic_merit": 78.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 7.5,
@@ -9016,8 +9016,8 @@
       "artistic_merit": 78.25,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 8.0,
         "execution": 8.0,
@@ -9057,8 +9057,8 @@
       "artistic_merit": 78.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -9101,8 +9101,8 @@
       "artistic_merit": 78.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -9145,8 +9145,8 @@
       "artistic_merit": 78.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -9188,8 +9188,8 @@
       "artistic_merit": 78.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -9232,8 +9232,8 @@
       "artistic_merit": 78.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -9274,8 +9274,8 @@
       "artistic_merit": 78.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -9317,8 +9317,8 @@
       "artistic_merit": 78.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -9360,8 +9360,8 @@
       "artistic_merit": 77.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 7.5,
@@ -9404,8 +9404,8 @@
       "artistic_merit": 77.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 9.0,
@@ -9445,8 +9445,8 @@
       "artistic_merit": 77.75,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 7.5,
@@ -9486,8 +9486,8 @@
       "artistic_merit": 77.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -9527,8 +9527,8 @@
       "artistic_merit": 77.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -9570,8 +9570,8 @@
       "artistic_merit": 77.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -9614,8 +9614,8 @@
       "artistic_merit": 77.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -9657,8 +9657,8 @@
       "artistic_merit": 77.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -9702,8 +9702,8 @@
       "artistic_merit": 77.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -9743,8 +9743,8 @@
       "artistic_merit": 77.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -9783,8 +9783,8 @@
       "artistic_merit": 77.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -9821,8 +9821,8 @@
       "artistic_merit": 77.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -9861,8 +9861,8 @@
       "artistic_merit": 77.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -9903,8 +9903,8 @@
       "artistic_merit": 77.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -9945,8 +9945,8 @@
       "artistic_merit": 77.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -9987,8 +9987,8 @@
       "artistic_merit": 77.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -10027,8 +10027,8 @@
       "artistic_merit": 77.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 8.0,
@@ -10066,8 +10066,8 @@
       "artistic_merit": 77.25,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 7.5,
@@ -10109,8 +10109,8 @@
       "artistic_merit": 77.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 7.5,
@@ -10152,8 +10152,8 @@
       "artistic_merit": 77.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 7.5,
@@ -10194,8 +10194,8 @@
       "artistic_merit": 77.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 7.5,
@@ -10237,8 +10237,8 @@
       "artistic_merit": 77.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -10282,8 +10282,8 @@
       "artistic_merit": 77.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 7.5,
@@ -10325,8 +10325,8 @@
       "artistic_merit": 77.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -10369,8 +10369,8 @@
       "artistic_merit": 77.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -10413,8 +10413,8 @@
       "artistic_merit": 77.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 7.5,
@@ -10459,8 +10459,8 @@
       "artistic_merit": 77.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -10502,8 +10502,8 @@
       "artistic_merit": 76.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -10546,8 +10546,8 @@
       "artistic_merit": 76.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -10590,8 +10590,8 @@
       "artistic_merit": 76.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -10630,8 +10630,8 @@
       "artistic_merit": 76.75,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -10672,8 +10672,8 @@
       "artistic_merit": 76.75,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -10714,8 +10714,8 @@
       "artistic_merit": 76.75,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -10757,8 +10757,8 @@
       "artistic_merit": 76.75,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -10800,8 +10800,8 @@
       "artistic_merit": 76.75,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -10842,8 +10842,8 @@
       "artistic_merit": 76.75,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -10886,8 +10886,8 @@
       "artistic_merit": 76.75,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -10930,8 +10930,8 @@
       "artistic_merit": 76.75,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -10975,8 +10975,8 @@
       "artistic_merit": 76.5,
       "theme_appeal": 4.62,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 8.0,
         "execution": 7.5,
@@ -11019,8 +11019,8 @@
       "artistic_merit": 76.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 8.0,
         "execution": 7.5,
@@ -11064,8 +11064,8 @@
       "artistic_merit": 76.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 8.0,
         "execution": 7.5,
@@ -11109,8 +11109,8 @@
       "artistic_merit": 76.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -11151,8 +11151,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -11193,8 +11193,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -11235,8 +11235,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 7.5,
@@ -11277,8 +11277,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 7.5,
@@ -11320,8 +11320,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -11362,8 +11362,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -11405,8 +11405,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -11449,8 +11449,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -11492,8 +11492,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -11537,8 +11537,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -11581,8 +11581,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -11625,8 +11625,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -11668,8 +11668,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -11712,8 +11712,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -11756,8 +11756,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -11797,8 +11797,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 7.5,
@@ -11838,8 +11838,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 7.5,
@@ -11878,8 +11878,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 7.5,
@@ -11918,8 +11918,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 7.5,
@@ -11959,8 +11959,8 @@
       "artistic_merit": 76.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 8.0,
         "execution": 7.5,
@@ -12000,8 +12000,8 @@
       "artistic_merit": 76.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -12045,8 +12045,8 @@
       "artistic_merit": 76.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 7.0,
         "story": 4.0,
         "execution": 9.0,
@@ -12088,8 +12088,8 @@
       "artistic_merit": 76.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -12132,8 +12132,8 @@
       "artistic_merit": 76.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 9.0,
         "style": 9.0,
+        "visual_impact": 9.0,
         "originality": 7.0,
         "story": 4.0,
         "execution": 9.0,
@@ -12175,8 +12175,8 @@
       "artistic_merit": 76.0,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 8.0,
         "execution": 7.5,
@@ -12217,8 +12217,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 4.5,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -12261,8 +12261,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -12305,8 +12305,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -12350,8 +12350,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -12391,8 +12391,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -12432,8 +12432,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -12474,8 +12474,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -12518,8 +12518,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -12562,8 +12562,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -12605,8 +12605,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -12647,8 +12647,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -12691,8 +12691,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -12733,8 +12733,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -12772,8 +12772,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -12813,8 +12813,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -12854,8 +12854,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -12895,8 +12895,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -12935,8 +12935,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -12976,8 +12976,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -13018,8 +13018,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -13060,8 +13060,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -13101,8 +13101,8 @@
       "artistic_merit": 75.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 8.0,
@@ -13143,8 +13143,8 @@
       "artistic_merit": 75.5,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -13188,8 +13188,8 @@
       "artistic_merit": 75.25,
       "theme_appeal": 4.62,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -13234,8 +13234,8 @@
       "artistic_merit": 75.25,
       "theme_appeal": 4.5,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -13276,8 +13276,8 @@
       "artistic_merit": 75.25,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -13323,8 +13323,8 @@
       "artistic_merit": 75.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -13367,8 +13367,8 @@
       "artistic_merit": 75.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -13408,8 +13408,8 @@
       "artistic_merit": 75.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 8.0,
         "execution": 7.5,
@@ -13449,8 +13449,8 @@
       "artistic_merit": 75.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 8.0,
         "execution": 7.5,
@@ -13492,8 +13492,8 @@
       "artistic_merit": 75.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 8.0,
         "execution": 7.5,
@@ -13536,8 +13536,8 @@
       "artistic_merit": 75.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 8.0,
         "execution": 7.5,
@@ -13579,8 +13579,8 @@
       "artistic_merit": 75.0,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -13623,8 +13623,8 @@
       "artistic_merit": 74.75,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -13668,8 +13668,8 @@
       "artistic_merit": 74.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -13709,8 +13709,8 @@
       "artistic_merit": 74.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -13748,8 +13748,8 @@
       "artistic_merit": 74.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -13787,8 +13787,8 @@
       "artistic_merit": 74.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -13828,8 +13828,8 @@
       "artistic_merit": 74.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -13869,8 +13869,8 @@
       "artistic_merit": 74.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -13911,8 +13911,8 @@
       "artistic_merit": 74.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -13953,8 +13953,8 @@
       "artistic_merit": 74.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.5,
@@ -13996,8 +13996,8 @@
       "artistic_merit": 74.5,
       "theme_appeal": 4.62,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14043,8 +14043,8 @@
       "artistic_merit": 74.5,
       "theme_appeal": 4.62,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14086,8 +14086,8 @@
       "artistic_merit": 74.5,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.0,
@@ -14131,8 +14131,8 @@
       "artistic_merit": 74.5,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14174,8 +14174,8 @@
       "artistic_merit": 74.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14217,8 +14217,8 @@
       "artistic_merit": 74.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14262,8 +14262,8 @@
       "artistic_merit": 74.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14305,8 +14305,8 @@
       "artistic_merit": 74.5,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 8.0,
         "execution": 7.5,
@@ -14348,8 +14348,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 4.62,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14392,8 +14392,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 4.5,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14436,8 +14436,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 4.5,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14480,8 +14480,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 4.5,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14523,8 +14523,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14565,8 +14565,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14609,8 +14609,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14652,8 +14652,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14696,8 +14696,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14739,8 +14739,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14780,8 +14780,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14822,8 +14822,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14866,8 +14866,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14909,8 +14909,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14952,8 +14952,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -14996,8 +14996,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15039,8 +15039,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15081,8 +15081,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15123,8 +15123,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15166,8 +15166,8 @@
       "artistic_merit": 74.0,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15211,8 +15211,8 @@
       "artistic_merit": 73.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15254,8 +15254,8 @@
       "artistic_merit": 73.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15299,8 +15299,8 @@
       "artistic_merit": 73.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15344,8 +15344,8 @@
       "artistic_merit": 73.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15387,8 +15387,8 @@
       "artistic_merit": 73.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15432,8 +15432,8 @@
       "artistic_merit": 73.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15473,8 +15473,8 @@
       "artistic_merit": 73.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15515,8 +15515,8 @@
       "artistic_merit": 73.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15557,8 +15557,8 @@
       "artistic_merit": 73.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 8.0,
         "execution": 7.5,
@@ -15598,8 +15598,8 @@
       "artistic_merit": 73.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15640,8 +15640,8 @@
       "artistic_merit": 73.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15684,8 +15684,8 @@
       "artistic_merit": 73.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15727,8 +15727,8 @@
       "artistic_merit": 73.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15770,8 +15770,8 @@
       "artistic_merit": 73.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15813,8 +15813,8 @@
       "artistic_merit": 73.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15856,8 +15856,8 @@
       "artistic_merit": 73.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 8.0,
@@ -15901,8 +15901,8 @@
       "artistic_merit": 73.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15946,8 +15946,8 @@
       "artistic_merit": 73.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -15991,8 +15991,8 @@
       "artistic_merit": 73.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16034,8 +16034,8 @@
       "artistic_merit": 73.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16078,8 +16078,8 @@
       "artistic_merit": 73.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16121,8 +16121,8 @@
       "artistic_merit": 73.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16164,8 +16164,8 @@
       "artistic_merit": 73.5,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 8.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 8.0,
@@ -16208,8 +16208,8 @@
       "artistic_merit": 73.25,
       "theme_appeal": 4.62,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16251,8 +16251,8 @@
       "artistic_merit": 73.25,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.0,
@@ -16294,8 +16294,8 @@
       "artistic_merit": 73.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 8.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16336,8 +16336,8 @@
       "artistic_merit": 73.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.0,
@@ -16380,8 +16380,8 @@
       "artistic_merit": 73.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16425,8 +16425,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16468,8 +16468,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16513,8 +16513,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16557,8 +16557,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16600,8 +16600,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16644,8 +16644,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16685,8 +16685,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16726,8 +16726,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16769,8 +16769,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16813,8 +16813,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16857,8 +16857,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16899,8 +16899,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16938,8 +16938,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -16977,8 +16977,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 8.0,
         "story": 6.0,
         "execution": 7.5,
@@ -17016,8 +17016,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -17056,8 +17056,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -17096,8 +17096,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -17135,8 +17135,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -17177,8 +17177,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -17219,8 +17219,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 8.0,
         "execution": 7.5,
@@ -17261,8 +17261,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -17304,8 +17304,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -17345,8 +17345,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -17387,8 +17387,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -17429,8 +17429,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -17470,8 +17470,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -17512,8 +17512,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -17553,8 +17553,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -17595,8 +17595,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -17637,8 +17637,8 @@
       "artistic_merit": 73.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.5,
@@ -17677,8 +17677,8 @@
       "artistic_merit": 72.25,
       "theme_appeal": 4.5,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -17719,8 +17719,8 @@
       "artistic_merit": 72.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.0,
@@ -17762,8 +17762,8 @@
       "artistic_merit": 72.25,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -17808,8 +17808,8 @@
       "artistic_merit": 72.25,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -17849,8 +17849,8 @@
       "artistic_merit": 72.25,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -17891,8 +17891,8 @@
       "artistic_merit": 72.25,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -17936,8 +17936,8 @@
       "artistic_merit": 72.0,
       "theme_appeal": 4.62,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -17981,8 +17981,8 @@
       "artistic_merit": 71.75,
       "theme_appeal": 4.62,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -18027,8 +18027,8 @@
       "artistic_merit": 71.75,
       "theme_appeal": 4.5,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -18069,8 +18069,8 @@
       "artistic_merit": 71.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -18112,8 +18112,8 @@
       "artistic_merit": 71.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -18155,8 +18155,8 @@
       "artistic_merit": 71.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -18198,8 +18198,8 @@
       "artistic_merit": 71.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -18242,8 +18242,8 @@
       "artistic_merit": 71.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -18286,8 +18286,8 @@
       "artistic_merit": 71.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -18329,8 +18329,8 @@
       "artistic_merit": 71.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -18370,8 +18370,8 @@
       "artistic_merit": 71.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.0,
@@ -18411,8 +18411,8 @@
       "artistic_merit": 71.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.0,
@@ -18454,8 +18454,8 @@
       "artistic_merit": 71.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -18497,8 +18497,8 @@
       "artistic_merit": 71.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.0,
@@ -18539,8 +18539,8 @@
       "artistic_merit": 71.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 7.0,
@@ -18578,8 +18578,8 @@
       "artistic_merit": 71.5,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -18621,8 +18621,8 @@
       "artistic_merit": 71.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -18663,8 +18663,8 @@
       "artistic_merit": 71.25,
       "theme_appeal": 4.5,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -18707,8 +18707,8 @@
       "artistic_merit": 71.25,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -18752,8 +18752,8 @@
       "artistic_merit": 71.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -18795,8 +18795,8 @@
       "artistic_merit": 71.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -18839,8 +18839,8 @@
       "artistic_merit": 71.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -18882,8 +18882,8 @@
       "artistic_merit": 71.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -18924,8 +18924,8 @@
       "artistic_merit": 71.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -18965,8 +18965,8 @@
       "artistic_merit": 71.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -19009,8 +19009,8 @@
       "artistic_merit": 71.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 6.0,
         "execution": 7.5,
@@ -19053,8 +19053,8 @@
       "artistic_merit": 71.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -19094,8 +19094,8 @@
       "artistic_merit": 71.0,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -19137,8 +19137,8 @@
       "artistic_merit": 71.0,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -19180,8 +19180,8 @@
       "artistic_merit": 71.0,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -19223,8 +19223,8 @@
       "artistic_merit": 71.0,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -19265,8 +19265,8 @@
       "artistic_merit": 71.0,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -19306,8 +19306,8 @@
       "artistic_merit": 71.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 6.0,
         "execution": 7.5,
@@ -19346,8 +19346,8 @@
       "artistic_merit": 71.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 7.0,
         "story": 6.0,
         "execution": 7.5,
@@ -19385,8 +19385,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -19428,8 +19428,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -19471,8 +19471,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -19515,8 +19515,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -19557,8 +19557,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -19598,8 +19598,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -19640,8 +19640,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -19685,8 +19685,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -19726,8 +19726,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -19766,8 +19766,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -19806,8 +19806,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -19849,8 +19849,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -19889,8 +19889,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -19930,8 +19930,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -19971,8 +19971,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -20014,8 +20014,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -20055,8 +20055,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -20090,8 +20090,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -20131,8 +20131,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.5,
@@ -20172,8 +20172,8 @@
       "artistic_merit": 70.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -20213,8 +20213,8 @@
       "artistic_merit": 70.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -20254,8 +20254,8 @@
       "artistic_merit": 70.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 8.0,
         "story": 6.0,
         "execution": 7.0,
@@ -20295,8 +20295,8 @@
       "artistic_merit": 70.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -20337,8 +20337,8 @@
       "artistic_merit": 70.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -20379,8 +20379,8 @@
       "artistic_merit": 70.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -20420,8 +20420,8 @@
       "artistic_merit": 70.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 8.0,
         "story": 6.0,
         "execution": 7.0,
@@ -20462,8 +20462,8 @@
       "artistic_merit": 70.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 8.0,
         "story": 6.0,
         "execution": 7.0,
@@ -20504,8 +20504,8 @@
       "artistic_merit": 70.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -20547,8 +20547,8 @@
       "artistic_merit": 70.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -20588,8 +20588,8 @@
       "artistic_merit": 70.5,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -20629,8 +20629,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -20670,8 +20670,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -20711,8 +20711,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -20754,8 +20754,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -20796,8 +20796,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -20838,8 +20838,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -20879,8 +20879,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -20922,8 +20922,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -20966,8 +20966,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21007,8 +21007,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21046,8 +21046,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21085,8 +21085,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21124,8 +21124,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21163,8 +21163,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21202,8 +21202,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21241,8 +21241,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21280,8 +21280,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21319,8 +21319,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21358,8 +21358,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21398,8 +21398,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21437,8 +21437,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 8.0,
         "story": 6.0,
         "execution": 7.0,
@@ -21478,8 +21478,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21520,8 +21520,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21561,8 +21561,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21603,8 +21603,8 @@
       "artistic_merit": 70.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21645,8 +21645,8 @@
       "artistic_merit": 69.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 5.0,
         "story": 7.0,
         "execution": 7.5,
@@ -21689,8 +21689,8 @@
       "artistic_merit": 69.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 8.0,
         "style": 7.0,
+        "visual_impact": 8.0,
         "originality": 5.0,
         "story": 7.0,
         "execution": 7.5,
@@ -21731,8 +21731,8 @@
       "artistic_merit": 69.25,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21773,8 +21773,8 @@
       "artistic_merit": 69.25,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21815,8 +21815,8 @@
       "artistic_merit": 69.25,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21858,8 +21858,8 @@
       "artistic_merit": 69.25,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21901,8 +21901,8 @@
       "artistic_merit": 69.25,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -21944,8 +21944,8 @@
       "artistic_merit": 69.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 6.0,
         "execution": 7.0,
@@ -21985,8 +21985,8 @@
       "artistic_merit": 69.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 6.0,
         "execution": 7.0,
@@ -22027,8 +22027,8 @@
       "artistic_merit": 69.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 8.0,
         "story": 7.0,
         "execution": 6.5,
@@ -22066,8 +22066,8 @@
       "artistic_merit": 68.75,
       "theme_appeal": 4.5,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -22108,8 +22108,8 @@
       "artistic_merit": 68.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -22149,8 +22149,8 @@
       "artistic_merit": 68.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -22191,8 +22191,8 @@
       "artistic_merit": 68.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -22232,8 +22232,8 @@
       "artistic_merit": 68.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -22274,8 +22274,8 @@
       "artistic_merit": 68.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -22318,8 +22318,8 @@
       "artistic_merit": 68.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -22363,8 +22363,8 @@
       "artistic_merit": 68.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -22407,8 +22407,8 @@
       "artistic_merit": 68.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -22449,8 +22449,8 @@
       "artistic_merit": 68.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -22491,8 +22491,8 @@
       "artistic_merit": 68.75,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -22532,8 +22532,8 @@
       "artistic_merit": 68.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -22574,8 +22574,8 @@
       "artistic_merit": 68.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -22615,8 +22615,8 @@
       "artistic_merit": 68.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 6.0,
         "execution": 7.0,
@@ -22656,8 +22656,8 @@
       "artistic_merit": 68.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 7.0,
@@ -22698,8 +22698,8 @@
       "artistic_merit": 68.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -22739,8 +22739,8 @@
       "artistic_merit": 68.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 6.5,
@@ -22781,8 +22781,8 @@
       "artistic_merit": 68.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -22822,8 +22822,8 @@
       "artistic_merit": 68.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -22863,8 +22863,8 @@
       "artistic_merit": 68.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -22904,8 +22904,8 @@
       "artistic_merit": 68.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -22945,8 +22945,8 @@
       "artistic_merit": 68.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -22986,8 +22986,8 @@
       "artistic_merit": 68.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 6.0,
         "execution": 7.0,
@@ -23027,8 +23027,8 @@
       "artistic_merit": 68.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 6.0,
         "execution": 7.0,
@@ -23068,8 +23068,8 @@
       "artistic_merit": 68.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 6.0,
         "execution": 7.0,
@@ -23107,8 +23107,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23148,8 +23148,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23190,8 +23190,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23232,8 +23232,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23273,8 +23273,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23317,8 +23317,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23359,8 +23359,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 7.0,
@@ -23401,8 +23401,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23443,8 +23443,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23484,8 +23484,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23523,8 +23523,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23562,8 +23562,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23601,8 +23601,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23640,8 +23640,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23679,8 +23679,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23717,8 +23717,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23756,8 +23756,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23795,8 +23795,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23834,8 +23834,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23874,8 +23874,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23913,8 +23913,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23952,8 +23952,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -23993,8 +23993,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -24034,8 +24034,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -24075,8 +24075,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -24116,8 +24116,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -24157,8 +24157,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -24198,8 +24198,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -24239,8 +24239,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -24280,8 +24280,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -24324,8 +24324,8 @@
       "artistic_merit": 67.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 7.0,
@@ -24365,8 +24365,8 @@
       "artistic_merit": 67.5,
       "theme_appeal": 4.62,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 7.0,
@@ -24408,8 +24408,8 @@
       "artistic_merit": 67.25,
       "theme_appeal": 4.5,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 7.0,
         "execution": 6.5,
@@ -24451,8 +24451,8 @@
       "artistic_merit": 67.25,
       "theme_appeal": 4.5,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 7.0,
@@ -24496,8 +24496,8 @@
       "artistic_merit": 67.25,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 7.0,
         "execution": 7.0,
@@ -24537,8 +24537,8 @@
       "artistic_merit": 67.25,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 7.0,
@@ -24578,8 +24578,8 @@
       "artistic_merit": 67.25,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 7.0,
@@ -24620,8 +24620,8 @@
       "artistic_merit": 67.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 7.0,
@@ -24661,8 +24661,8 @@
       "artistic_merit": 66.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 7.0,
         "execution": 7.0,
@@ -24704,8 +24704,8 @@
       "artistic_merit": 66.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 7.0,
@@ -24746,8 +24746,8 @@
       "artistic_merit": 66.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 7.0,
@@ -24788,8 +24788,8 @@
       "artistic_merit": 66.75,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 7.0,
@@ -24830,8 +24830,8 @@
       "artistic_merit": 66.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 7.0,
@@ -24871,8 +24871,8 @@
       "artistic_merit": 66.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 7.0,
         "execution": 7.0,
@@ -24912,8 +24912,8 @@
       "artistic_merit": 66.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 7.0,
         "execution": 7.0,
@@ -24954,8 +24954,8 @@
       "artistic_merit": 66.25,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 7.0,
@@ -24997,8 +24997,8 @@
       "artistic_merit": 66.25,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 7.0,
         "execution": 7.0,
@@ -25040,8 +25040,8 @@
       "artistic_merit": 66.25,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 7.0,
@@ -25081,8 +25081,8 @@
       "artistic_merit": 66.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 7.0,
@@ -25120,8 +25120,8 @@
       "artistic_merit": 66.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 7.0,
@@ -25159,8 +25159,8 @@
       "artistic_merit": 66.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 7.0,
         "execution": 7.0,
@@ -25199,8 +25199,8 @@
       "artistic_merit": 66.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 7.0,
         "execution": 7.0,
@@ -25238,8 +25238,8 @@
       "artistic_merit": 66.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 7.0,
@@ -25278,8 +25278,8 @@
       "artistic_merit": 66.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 7.0,
@@ -25317,8 +25317,8 @@
       "artistic_merit": 66.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 7.0,
@@ -25358,8 +25358,8 @@
       "artistic_merit": 66.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 7.0,
@@ -25399,8 +25399,8 @@
       "artistic_merit": 66.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 7.0,
@@ -25440,8 +25440,8 @@
       "artistic_merit": 66.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 7.0,
         "execution": 7.0,
@@ -25479,8 +25479,8 @@
       "artistic_merit": 65.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 7.0,
@@ -25521,8 +25521,8 @@
       "artistic_merit": 65.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 7.0,
@@ -25563,8 +25563,8 @@
       "artistic_merit": 65.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 6.0,
         "execution": 6.5,
@@ -25604,8 +25604,8 @@
       "artistic_merit": 65.0,
       "theme_appeal": 4.5,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 7.0,
@@ -25646,8 +25646,8 @@
       "artistic_merit": 65.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 7.0,
@@ -25690,8 +25690,8 @@
       "artistic_merit": 65.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 7.0,
@@ -25735,8 +25735,8 @@
       "artistic_merit": 65.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 7.0,
@@ -25776,8 +25776,8 @@
       "artistic_merit": 65.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 6.5,
@@ -25817,8 +25817,8 @@
       "artistic_merit": 64.5,
       "theme_appeal": 4.5,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 7.0,
@@ -25858,8 +25858,8 @@
       "artistic_merit": 64.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 7.0,
@@ -25900,8 +25900,8 @@
       "artistic_merit": 64.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 7.0,
@@ -25941,8 +25941,8 @@
       "artistic_merit": 64.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 7.0,
@@ -25983,8 +25983,8 @@
       "artistic_merit": 64.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 7.0,
@@ -26028,8 +26028,8 @@
       "artistic_merit": 64.5,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 7.0,
@@ -26072,8 +26072,8 @@
       "artistic_merit": 64.5,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 6.5,
@@ -26113,8 +26113,8 @@
       "artistic_merit": 64.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 7.0,
         "story": 5.0,
         "execution": 6.5,
@@ -26154,8 +26154,8 @@
       "artistic_merit": 64.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 7.0,
         "execution": 6.5,
@@ -26195,8 +26195,8 @@
       "artistic_merit": 64.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 7.0,
@@ -26234,8 +26234,8 @@
       "artistic_merit": 64.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 7.0,
@@ -26273,8 +26273,8 @@
       "artistic_merit": 64.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 7.0,
@@ -26312,8 +26312,8 @@
       "artistic_merit": 64.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 7.0,
@@ -26353,8 +26353,8 @@
       "artistic_merit": 64.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 7.0,
@@ -26394,8 +26394,8 @@
       "artistic_merit": 64.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 7.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 7.0,
@@ -26433,8 +26433,8 @@
       "artistic_merit": 64.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 7.0,
         "execution": 6.5,
@@ -26475,8 +26475,8 @@
       "artistic_merit": 64.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 6.5,
@@ -26516,8 +26516,8 @@
       "artistic_merit": 64.0,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 6.5,
@@ -26558,8 +26558,8 @@
       "artistic_merit": 64.0,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 6.5,
@@ -26603,8 +26603,8 @@
       "artistic_merit": 63.5,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 6.5,
@@ -26644,8 +26644,8 @@
       "artistic_merit": 63.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 6.5,
@@ -26683,8 +26683,8 @@
       "artistic_merit": 63.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 6.5,
@@ -26722,8 +26722,8 @@
       "artistic_merit": 63.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 6.5,
@@ -26761,8 +26761,8 @@
       "artistic_merit": 63.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 6.5,
@@ -26805,8 +26805,8 @@
       "artistic_merit": 63.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 6.5,
@@ -26846,8 +26846,8 @@
       "artistic_merit": 62.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 6.5,
@@ -26890,8 +26890,8 @@
       "artistic_merit": 62.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 6.5,
@@ -26933,8 +26933,8 @@
       "artistic_merit": 62.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 5.0,
         "execution": 6.5,
@@ -26975,8 +26975,8 @@
       "artistic_merit": 62.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 6.5,
@@ -27016,8 +27016,8 @@
       "artistic_merit": 62.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 6.0,
         "story": 5.0,
         "execution": 6.5,
@@ -27057,8 +27057,8 @@
       "artistic_merit": 61.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 6.5,
@@ -27098,8 +27098,8 @@
       "artistic_merit": 61.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 6.5,
@@ -27137,8 +27137,8 @@
       "artistic_merit": 60.5,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 6.0,
         "style": 5.0,
+        "visual_impact": 6.0,
         "originality": 7.0,
         "story": 6.0,
         "execution": 5.5,
@@ -27178,8 +27178,8 @@
       "artistic_merit": 60.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 6.0,
         "style": 6.0,
+        "visual_impact": 6.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 6.0,
@@ -27217,8 +27217,8 @@
       "artistic_merit": 60.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 6.0,
         "style": 6.0,
+        "visual_impact": 6.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 6.0,
@@ -27256,8 +27256,8 @@
       "artistic_merit": 60.5,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 6.0,
         "style": 6.0,
+        "visual_impact": 6.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 6.0,
@@ -27295,8 +27295,8 @@
       "artistic_merit": 59.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 7.0,
         "style": 6.0,
+        "visual_impact": 7.0,
         "originality": 5.0,
         "story": 5.0,
         "execution": 6.5,
@@ -27334,8 +27334,8 @@
       "artistic_merit": 59.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 6.0,
         "style": 6.0,
+        "visual_impact": 6.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 6.0,
@@ -27375,8 +27375,8 @@
       "artistic_merit": 59.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 6.0,
         "style": 6.0,
+        "visual_impact": 6.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 6.0,
@@ -27417,8 +27417,8 @@
       "artistic_merit": 59.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 6.0,
         "style": 6.0,
+        "visual_impact": 6.0,
         "originality": 6.0,
         "story": 5.0,
         "execution": 6.0,
@@ -27456,8 +27456,8 @@
       "artistic_merit": 59.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 6.0,
         "style": 6.0,
+        "visual_impact": 6.0,
         "originality": 6.0,
         "story": 5.0,
         "execution": 6.0,
@@ -27495,8 +27495,8 @@
       "artistic_merit": 58.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 6.0,
         "style": 5.0,
+        "visual_impact": 6.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 5.5,
@@ -27536,8 +27536,8 @@
       "artistic_merit": 58.5,
       "theme_appeal": 3.88,
       "scores": {
-        "visual_impact": 6.0,
         "style": 5.0,
+        "visual_impact": 6.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 5.5,
@@ -27578,8 +27578,8 @@
       "artistic_merit": 58.0,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 6.0,
         "style": 6.0,
+        "visual_impact": 6.0,
         "originality": 5.0,
         "story": 5.0,
         "execution": 6.0,
@@ -27620,8 +27620,8 @@
       "artistic_merit": 58.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 6.0,
         "style": 6.0,
+        "visual_impact": 6.0,
         "originality": 5.0,
         "story": 5.0,
         "execution": 6.0,
@@ -27661,8 +27661,8 @@
       "artistic_merit": 57.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 6.0,
         "style": 6.0,
+        "visual_impact": 6.0,
         "originality": 5.0,
         "story": 5.0,
         "execution": 6.0,
@@ -27703,8 +27703,8 @@
       "artistic_merit": 57.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 5.0,
         "style": 5.0,
+        "visual_impact": 5.0,
         "originality": 6.0,
         "story": 7.0,
         "execution": 5.0,
@@ -27744,8 +27744,8 @@
       "artistic_merit": 57.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 6.0,
         "style": 5.0,
+        "visual_impact": 6.0,
         "originality": 6.0,
         "story": 6.0,
         "execution": 5.5,
@@ -27783,8 +27783,8 @@
       "artistic_merit": 57.25,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 6.0,
         "style": 6.0,
+        "visual_impact": 6.0,
         "originality": 5.0,
         "story": 5.0,
         "execution": 6.0,
@@ -27827,8 +27827,8 @@
       "artistic_merit": 57.0,
       "theme_appeal": 4.38,
       "scores": {
-        "visual_impact": 6.0,
         "style": 5.0,
+        "visual_impact": 6.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 5.5,
@@ -27870,8 +27870,8 @@
       "artistic_merit": 56.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 6.0,
         "style": 5.0,
+        "visual_impact": 6.0,
         "originality": 6.0,
         "story": 5.0,
         "execution": 5.5,
@@ -27911,8 +27911,8 @@
       "artistic_merit": 56.75,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 6.0,
         "style": 6.0,
+        "visual_impact": 6.0,
         "originality": 5.0,
         "story": 5.0,
         "execution": 6.0,
@@ -27952,8 +27952,8 @@
       "artistic_merit": 56.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 6.0,
         "style": 6.0,
+        "visual_impact": 6.0,
         "originality": 5.0,
         "story": 5.0,
         "execution": 6.0,
@@ -27993,8 +27993,8 @@
       "artistic_merit": 56.75,
       "theme_appeal": 4.0,
       "scores": {
-        "visual_impact": 6.0,
         "style": 6.0,
+        "visual_impact": 6.0,
         "originality": 5.0,
         "story": 5.0,
         "execution": 6.0,
@@ -28034,8 +28034,8 @@
       "artistic_merit": 56.75,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 6.0,
         "style": 6.0,
+        "visual_impact": 6.0,
         "originality": 5.0,
         "story": 5.0,
         "execution": 6.0,
@@ -28073,8 +28073,8 @@
       "artistic_merit": 56.25,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 6.0,
         "style": 5.0,
+        "visual_impact": 6.0,
         "originality": 6.0,
         "story": 5.0,
         "execution": 5.5,
@@ -28112,8 +28112,8 @@
       "artistic_merit": 56.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 6.0,
         "style": 5.0,
+        "visual_impact": 6.0,
         "originality": 5.0,
         "story": 6.0,
         "execution": 5.5,
@@ -28151,8 +28151,8 @@
       "artistic_merit": 55.0,
       "theme_appeal": 4.12,
       "scores": {
-        "visual_impact": 6.0,
         "style": 5.0,
+        "visual_impact": 6.0,
         "originality": 5.0,
         "story": 5.0,
         "execution": 5.5,
@@ -28193,8 +28193,8 @@
       "artistic_merit": 54.0,
       "theme_appeal": 4.25,
       "scores": {
-        "visual_impact": 6.0,
         "style": 5.0,
+        "visual_impact": 6.0,
         "originality": 5.0,
         "story": 5.0,
         "execution": 5.5,
@@ -28234,8 +28234,8 @@
       "artistic_merit": 54.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 6.0,
         "style": 5.0,
+        "visual_impact": 6.0,
         "originality": 5.0,
         "story": 5.0,
         "execution": 5.5,
@@ -28273,8 +28273,8 @@
       "artistic_merit": 51.0,
       "theme_appeal": 3.38,
       "scores": {
-        "visual_impact": 5.0,
         "style": 5.0,
+        "visual_impact": 5.0,
         "originality": 5.0,
         "story": 5.0,
         "execution": 5.0,
