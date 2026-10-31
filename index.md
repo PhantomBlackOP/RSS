@@ -22,12 +22,12 @@ show_title: false
 <section aria-labelledby="recent-title">
  <div class="section-header"><h2 id="recent-title">Latest Daily artwork</h2><a href="/gallery/">All Dailies →</a></div>
  <div class="recent-art">
+<a href="https://zine.trevorion.io/20261030-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/668-Sir-Patrick-Stewart-1940–2026-🖖🌌-960x640.png" alt="" loading="lazy" decoding="async"><span>668: Sir Patrick Stewart (1940–2026) 🖖🌌</span></a>
 <a href="https://zine.trevorion.io/20261029-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/667-Arcane-Familiar-🔮🐈‍⬛-960x640.png" alt="" loading="lazy" decoding="async"><span>667: Arcane Familiar 🔮🐈‍⬛</span></a>
 <a href="https://zine.trevorion.io/20261028-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/666-Vespera-Blood-Sovereign-🦇🩸-960x640.png" alt="" loading="lazy" decoding="async"><span>666: Vespera, Blood Sovereign 🦇🩸</span></a>
 <a href="https://zine.trevorion.io/20261027-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/665-Sunny-Stroll-🌼☀️-960x640.png" alt="" loading="lazy" decoding="async"><span>665: Sunny Stroll 🌼☀️</span></a>
 <a href="https://zine.trevorion.io/20261026-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/664-Royal-Concubine-🪷💖-960x640.png" alt="" loading="lazy" decoding="async"><span>664: Royal Concubine 🪷💖</span></a>
 <a href="https://zine.trevorion.io/20261025-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/663-Court-Gavotte-💃🕺-960x640.png" alt="" loading="lazy" decoding="async"><span>663: Court Gavotte 💃🕺</span></a>
-<a href="https://zine.trevorion.io/20261024-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/662-Nissen-Hut-🛖🌤-960x640.png" alt="" loading="lazy" decoding="async"><span>662: Nissen Hut 🛖🌤️</span></a>
 </div>
 </section>
 <nav class="feed-strip" aria-label="RSS subscriptions">

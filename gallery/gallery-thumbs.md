@@ -685,3 +685,4 @@
 <a href="https://zine.trevorion.io/20261027-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/665-Sunny-Stroll-🌼☀️-225x150.png" alt="665: Sunny Stroll 🌼☀️" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261028-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/666-Vespera-Blood-Sovereign-🦇🩸-225x150.png" alt="666: Vespera, Blood Sovereign 🦇🩸" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261029-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/667-Arcane-Familiar-🔮🐈‍⬛-225x150.png" alt="667: Arcane Familiar 🔮🐈‍⬛" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261030-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/668-Sir-Patrick-Stewart-1940–2026-🖖🌌-225x150.png" alt="668: Sir Patrick Stewart (1940–2026) 🖖🌌" loading="lazy" style="width:50px;height:auto;"></a>
