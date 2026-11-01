@@ -7,7 +7,7 @@ show_title: false
 
 # Daily Image Gallery 2026
 
-<p>316 Daily artworks and special editions. Select any image to view its original Zine post.</p>
+<p>317 Daily artworks and special editions. Select any image to view its original Zine post.</p>
 
 <div class="gallery-grid">
 <a href="https://zine.trevorion.io/20260101-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/01/366-Champagne-🥂🍾-225x150.png" alt="366: Champagne 🥂🍾" loading="lazy" style="width:50px;height:auto;"></a>
@@ -326,6 +326,7 @@ show_title: false
 <a href="https://zine.trevorion.io/20261028-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/666-Vespera-Blood-Sovereign-🦇🩸-225x150.png" alt="666: Vespera, Blood Sovereign 🦇🩸" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261029-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/667-Arcane-Familiar-🔮🐈‍⬛-225x150.png" alt="667: Arcane Familiar 🔮🐈‍⬛" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261030-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/668-Sir-Patrick-Stewart-1940–2026-🖖🌌-225x150.png" alt="668: Sir Patrick Stewart (1940–2026) 🖖🌌" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261031-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/669-Headless-Horseman-🎃🐎-225x150.png" alt="669: Headless Horseman 🎃🐎" loading="lazy" style="width:50px;height:auto;"></a>
 </div>
 
 <details class="archive-list"><summary>Browse all artwork titles</summary><ul>
@@ -645,4 +646,5 @@ show_title: false
 <li>666: Vespera, Blood Sovereign 🦇🩸: <a href="https://zine.trevorion.io/20261028-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/666-Vespera-Blood-Sovereign-🦇🩸.png">Full artwork</a></li>
 <li>667: Arcane Familiar 🔮🐈‍⬛: <a href="https://zine.trevorion.io/20261029-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/667-Arcane-Familiar-🔮🐈‍⬛.png">Full artwork</a></li>
 <li>668: Sir Patrick Stewart (1940–2026) 🖖🌌: <a href="https://zine.trevorion.io/20261030-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/668-Sir-Patrick-Stewart-1940–2026-🖖🌌.png">Full artwork</a></li>
+<li>669: Headless Horseman 🎃🐎: <a href="https://zine.trevorion.io/20261031-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/669-Headless-Horseman-🎃🐎.png">Full artwork</a></li>
 </ul></details>
