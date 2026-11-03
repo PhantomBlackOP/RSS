@@ -9,6 +9,7 @@ show_title: false
 
 ## 2026
 
+- [November 2026](/monthly/2026-11.html)
 - [October 2026](/monthly/2026-10.html)
 - [September 2026](/monthly/2026-09.html)
 - [August 2026](/monthly/2026-08.html)

@@ -7,7 +7,7 @@ show_title: false
 
 # Daily Image Gallery 2026
 
-<p>317 Daily artworks and special editions. Select any image to view its original Zine post.</p>
+<p>319 Daily artworks and special editions. Select any image to view its original Zine post.</p>
 
 <div class="gallery-grid">
 <a href="https://zine.trevorion.io/20260101-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/01/366-Champagne-🥂🍾-225x150.png" alt="366: Champagne 🥂🍾" loading="lazy" style="width:50px;height:auto;"></a>
@@ -327,6 +327,8 @@ show_title: false
 <a href="https://zine.trevorion.io/20261029-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/667-Arcane-Familiar-🔮🐈‍⬛-225x150.png" alt="667: Arcane Familiar 🔮🐈‍⬛" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261030-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/668-Sir-Patrick-Stewart-1940–2026-🖖🌌-225x150.png" alt="668: Sir Patrick Stewart (1940–2026) 🖖🌌" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261031-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/669-Headless-Horseman-🎃🐎-225x150.png" alt="669: Headless Horseman 🎃🐎" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261101-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/670-Restless-Spirit-🪦🏛️-225x150.png" alt="670: Restless Spirit 🪦🏛️" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261102-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/671-Haunted-Manor-🏚️🌕-225x150.png" alt="671: Haunted Manor 🏚️🌕" loading="lazy" style="width:50px;height:auto;"></a>
 </div>
 
 <details class="archive-list"><summary>Browse all artwork titles</summary><ul>
@@ -647,4 +649,6 @@ show_title: false
 <li>667: Arcane Familiar 🔮🐈‍⬛: <a href="https://zine.trevorion.io/20261029-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/667-Arcane-Familiar-🔮🐈‍⬛.png">Full artwork</a></li>
 <li>668: Sir Patrick Stewart (1940–2026) 🖖🌌: <a href="https://zine.trevorion.io/20261030-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/668-Sir-Patrick-Stewart-1940–2026-🖖🌌.png">Full artwork</a></li>
 <li>669: Headless Horseman 🎃🐎: <a href="https://zine.trevorion.io/20261031-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/10/669-Headless-Horseman-🎃🐎.png">Full artwork</a></li>
+<li>670: Restless Spirit 🪦🏛️: <a href="https://zine.trevorion.io/20261101-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/11/670-Restless-Spirit-🪦🏛️.png">Full artwork</a></li>
+<li>671: Haunted Manor 🏚️🌕: <a href="https://zine.trevorion.io/20261102-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/11/671-Haunted-Manor-🏚️🌕.png">Full artwork</a></li>
 </ul></details>
