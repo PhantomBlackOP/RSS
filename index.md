@@ -22,12 +22,12 @@ show_title: false
 <section aria-labelledby="recent-title">
  <div class="section-header"><h2 id="recent-title">Latest Daily artwork</h2><a href="/gallery/">All Dailies →</a></div>
  <div class="recent-art">
+<a href="https://zine.trevorion.io/20261104-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/673-Leopard-2A8-🐆🛡-960x640.png" alt="" loading="lazy" decoding="async"><span>673: Leopard 2A8 🐆🛡</span></a>
 <a href="https://zine.trevorion.io/20261103-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/672-Black-Seadevil-🐟🌑-960x640.png" alt="" loading="lazy" decoding="async"><span>672: Black Seadevil 🐟🌑</span></a>
 <a href="https://zine.trevorion.io/20261102-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/671-Haunted-Manor-🏚️🌕-960x640.png" alt="" loading="lazy" decoding="async"><span>671: Haunted Manor 🏚️🌕</span></a>
 <a href="https://zine.trevorion.io/20261101-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/670-Restless-Spirit-🪦🏛️-960x640.png" alt="" loading="lazy" decoding="async"><span>670: Restless Spirit 🪦🏛️</span></a>
 <a href="https://zine.trevorion.io/20261031-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/669-Headless-Horseman-🎃🐎-960x640.png" alt="" loading="lazy" decoding="async"><span>669: Headless Horseman 🎃🐎</span></a>
 <a href="https://zine.trevorion.io/20261030-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/668-Sir-Patrick-Stewart-1940–2026-🖖🌌-960x640.png" alt="" loading="lazy" decoding="async"><span>668: Sir Patrick Stewart (1940–2026) 🖖🌌</span></a>
-<a href="https://zine.trevorion.io/20261029-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/10/667-Arcane-Familiar-🔮🐈‍⬛-960x640.png" alt="" loading="lazy" decoding="async"><span>667: Arcane Familiar 🔮🐈‍⬛</span></a>
 </div>
 </section>
 <nav class="feed-strip" aria-label="RSS subscriptions">

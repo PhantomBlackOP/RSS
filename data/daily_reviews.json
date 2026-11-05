@@ -2,7 +2,7 @@
   "schema_version": 3,
   "rubric_version": "2026-10-12-v2",
   "assessment_status": "Provisional AI-assisted whole-archive visual review.",
-  "published_daily_count": 692,
+  "published_daily_count": 693,
   "reviewed_daily_count": 669,
   "review_limitations": "Four visual criteria judged at published small-preview scale. Execution, editorial value, Zine identity and presentation clarity are reproducible estimates, not independent high-resolution reviews. Theme appeal is a subject-interest estimate, never actual engagement.",
   "weights": {
@@ -32,8 +32,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 9.0,
-        "style": 10.0,
         "visual_impact": 10.0,
+        "style": 10.0,
         "originality": 10.0,
         "execution": 10.0,
         "editorial_value": 9.0,
@@ -77,8 +77,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 9.0,
-        "style": 10.0,
         "visual_impact": 10.0,
+        "style": 10.0,
         "originality": 9.0,
         "execution": 10.0,
         "editorial_value": 9.0,
@@ -121,8 +121,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 9.0,
-        "style": 10.0,
         "visual_impact": 10.0,
+        "style": 10.0,
         "originality": 8.0,
         "execution": 10.0,
         "editorial_value": 10.0,
@@ -165,8 +165,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 9.0,
-        "style": 10.0,
         "visual_impact": 10.0,
+        "style": 10.0,
         "originality": 8.0,
         "execution": 10.0,
         "editorial_value": 10.0,
@@ -210,8 +210,8 @@
       "theme_appeal": 4.62,
       "scores": {
         "story": 9.0,
-        "style": 10.0,
         "visual_impact": 10.0,
+        "style": 10.0,
         "originality": 8.0,
         "execution": 10.0,
         "editorial_value": 9.5,
@@ -254,8 +254,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 9.0,
-        "style": 10.0,
         "visual_impact": 10.0,
+        "style": 10.0,
         "originality": 9.0,
         "execution": 10.0,
         "editorial_value": 8.0,
@@ -298,8 +298,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 9.0,
-        "style": 10.0,
         "visual_impact": 10.0,
+        "style": 10.0,
         "originality": 9.0,
         "execution": 10.0,
         "editorial_value": 8.0,
@@ -341,8 +341,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 9.0,
-        "style": 9.0,
         "visual_impact": 10.0,
+        "style": 9.0,
         "originality": 9.0,
         "execution": 9.5,
         "editorial_value": 9.5,
@@ -385,8 +385,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 9.0,
-        "style": 10.0,
         "visual_impact": 10.0,
+        "style": 10.0,
         "originality": 8.0,
         "execution": 10.0,
         "editorial_value": 8.0,
@@ -428,8 +428,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 9.0,
-        "style": 10.0,
         "visual_impact": 10.0,
+        "style": 10.0,
         "originality": 8.0,
         "execution": 10.0,
         "editorial_value": 8.0,
@@ -471,8 +471,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 10.0,
         "visual_impact": 10.0,
+        "style": 10.0,
         "originality": 9.0,
         "execution": 10.0,
         "editorial_value": 9.5,
@@ -517,8 +517,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 10.0,
         "visual_impact": 10.0,
+        "style": 10.0,
         "originality": 9.0,
         "execution": 10.0,
         "editorial_value": 8.0,
@@ -560,8 +560,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 10.0,
         "visual_impact": 10.0,
+        "style": 10.0,
         "originality": 9.0,
         "execution": 10.0,
         "editorial_value": 7.5,
@@ -602,8 +602,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 10.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 9.5,
@@ -645,8 +645,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 10.0,
         "visual_impact": 10.0,
+        "style": 10.0,
         "originality": 9.0,
         "execution": 10.0,
         "editorial_value": 8.5,
@@ -689,8 +689,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 10.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 8.5,
@@ -732,8 +732,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 9.0,
-        "style": 9.0,
         "visual_impact": 10.0,
+        "style": 9.0,
         "originality": 8.0,
         "execution": 9.5,
         "editorial_value": 8.5,
@@ -775,8 +775,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 9.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 9.5,
@@ -819,8 +819,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 9.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 9.5,
@@ -863,8 +863,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 10.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 8.0,
@@ -902,8 +902,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 9.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 9.0,
@@ -944,8 +944,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 8.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 10.0,
@@ -989,8 +989,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 10.0,
@@ -1034,8 +1034,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 10.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 8.0,
@@ -1075,8 +1075,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 9.0,
@@ -1117,8 +1117,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 9.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 7.5,
@@ -1158,8 +1158,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 9.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 7.5,
@@ -1200,8 +1200,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 9.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 9.0,
@@ -1242,8 +1242,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 9.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 8.5,
@@ -1284,8 +1284,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 8.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 8.0,
@@ -1328,8 +1328,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 7.5,
@@ -1369,8 +1369,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 7.5,
@@ -1408,8 +1408,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 7.5,
@@ -1448,8 +1448,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 10.0,
@@ -1493,8 +1493,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 8.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 9.0,
@@ -1538,8 +1538,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 8.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 9.0,
@@ -1584,8 +1584,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 9.0,
@@ -1628,8 +1628,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 9.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 7.5,
@@ -1670,8 +1670,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 9.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 7.5,
@@ -1710,8 +1710,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 9.5,
@@ -1754,8 +1754,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 9.5,
@@ -1799,8 +1799,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 8.5,
@@ -1842,8 +1842,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 9.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 8.5,
@@ -1885,8 +1885,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 9.0,
@@ -1929,8 +1929,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 9.0,
@@ -1973,8 +1973,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 9.0,
@@ -2017,8 +2017,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 8.0,
@@ -2061,8 +2061,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 8.0,
@@ -2106,8 +2106,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 8.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 8.0,
@@ -2150,8 +2150,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 8.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 8.0,
@@ -2192,8 +2192,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 8.0,
@@ -2236,8 +2236,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -2280,8 +2280,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -2322,8 +2322,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 10.0,
@@ -2368,8 +2368,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 8.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 9.0,
@@ -2414,8 +2414,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.5,
@@ -2461,8 +2461,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.5,
@@ -2505,8 +2505,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -2547,8 +2547,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 7.0,
@@ -2589,8 +2589,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -2632,8 +2632,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -2676,8 +2676,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -2719,8 +2719,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -2760,8 +2760,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 7.0,
@@ -2800,8 +2800,8 @@
       "theme_appeal": 4.62,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.5,
@@ -2846,8 +2846,8 @@
       "theme_appeal": 4.62,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.5,
@@ -2891,8 +2891,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
@@ -2936,8 +2936,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
@@ -2978,8 +2978,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 7.5,
@@ -3016,8 +3016,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 7.5,
@@ -3056,8 +3056,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 7.5,
@@ -3097,8 +3097,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 7.5,
@@ -3139,8 +3139,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 7.5,
@@ -3181,8 +3181,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
@@ -3226,8 +3226,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
@@ -3269,8 +3269,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
@@ -3313,8 +3313,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
@@ -3356,8 +3356,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
@@ -3400,8 +3400,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
@@ -3444,8 +3444,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
@@ -3488,8 +3488,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
@@ -3534,8 +3534,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
@@ -3579,8 +3579,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 7.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 9.5,
@@ -3625,8 +3625,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -3671,8 +3671,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -3715,8 +3715,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 8.0,
@@ -3758,8 +3758,8 @@
       "theme_appeal": 4.5,
       "scores": {
         "story": 8.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 7.5,
@@ -3801,8 +3801,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -3846,8 +3846,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -3891,8 +3891,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -3934,8 +3934,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -3976,8 +3976,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -4018,8 +4018,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -4061,8 +4061,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -4103,8 +4103,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -4145,8 +4145,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -4188,8 +4188,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -4232,8 +4232,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -4275,8 +4275,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -4317,8 +4317,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -4360,8 +4360,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -4403,8 +4403,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -4448,8 +4448,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -4492,8 +4492,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -4536,8 +4536,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
@@ -4580,8 +4580,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -4624,8 +4624,8 @@
       "theme_appeal": 4.5,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -4666,8 +4666,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -4709,8 +4709,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -4751,8 +4751,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -4793,8 +4793,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -4835,8 +4835,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -4878,8 +4878,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -4921,8 +4921,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -4964,8 +4964,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -5007,8 +5007,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -5050,8 +5050,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -5095,8 +5095,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -5139,8 +5139,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -5184,8 +5184,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -5229,8 +5229,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -5271,8 +5271,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -5316,8 +5316,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -5360,8 +5360,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -5402,8 +5402,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -5445,8 +5445,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -5489,8 +5489,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
@@ -5531,8 +5531,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 5.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 8.5,
@@ -5575,8 +5575,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 8.0,
@@ -5619,8 +5619,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 8.0,
@@ -5661,8 +5661,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -5705,8 +5705,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -5750,8 +5750,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -5793,8 +5793,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -5837,8 +5837,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -5880,8 +5880,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -5923,8 +5923,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -5966,8 +5966,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6008,8 +6008,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6052,8 +6052,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6095,8 +6095,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6140,8 +6140,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6184,8 +6184,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6225,8 +6225,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6265,8 +6265,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6304,8 +6304,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6344,8 +6344,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6384,8 +6384,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6424,8 +6424,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6466,8 +6466,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6508,8 +6508,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6548,8 +6548,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6588,8 +6588,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6628,8 +6628,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6669,8 +6669,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6710,8 +6710,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6751,8 +6751,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6792,8 +6792,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6835,8 +6835,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6878,8 +6878,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6919,8 +6919,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -6960,8 +6960,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -7001,8 +7001,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -7042,8 +7042,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -7084,8 +7084,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -7125,8 +7125,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -7166,8 +7166,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 9.0,
@@ -7210,8 +7210,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.5,
@@ -7253,8 +7253,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 9.0,
@@ -7295,8 +7295,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.5,
@@ -7339,8 +7339,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 5.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 8.0,
@@ -7381,8 +7381,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.5,
@@ -7426,8 +7426,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.5,
@@ -7468,8 +7468,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.5,
@@ -7511,8 +7511,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.5,
@@ -7554,8 +7554,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -7595,8 +7595,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -7636,8 +7636,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -7680,8 +7680,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 9.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.5,
         "editorial_value": 7.0,
@@ -7721,8 +7721,8 @@
       "theme_appeal": 4.62,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 9.5,
@@ -7766,8 +7766,8 @@
       "theme_appeal": 4.5,
       "scores": {
         "story": 6.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 7.5,
@@ -7810,8 +7810,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 9.5,
@@ -7856,8 +7856,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -7901,8 +7901,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -7944,8 +7944,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 7.5,
@@ -7987,8 +7987,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -8030,8 +8030,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -8075,8 +8075,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 5.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 7.5,
@@ -8117,8 +8117,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 9.5,
@@ -8163,8 +8163,8 @@
       "theme_appeal": 4.5,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.5,
@@ -8206,8 +8206,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 9.0,
@@ -8248,8 +8248,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 9.0,
@@ -8293,8 +8293,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 9.0,
@@ -8335,8 +8335,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 9.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -8378,8 +8378,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.5,
@@ -8422,8 +8422,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.5,
@@ -8467,8 +8467,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -8510,8 +8510,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -8551,8 +8551,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -8593,8 +8593,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -8633,8 +8633,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -8674,8 +8674,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -8717,8 +8717,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -8758,8 +8758,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -8800,8 +8800,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -8842,8 +8842,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 9.0,
@@ -8886,8 +8886,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 9.5,
@@ -8931,8 +8931,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 9.0,
@@ -8975,8 +8975,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 9.0,
@@ -9017,8 +9017,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 8.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -9058,8 +9058,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.5,
@@ -9102,8 +9102,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.5,
@@ -9146,8 +9146,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.5,
@@ -9189,8 +9189,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.5,
@@ -9233,8 +9233,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.5,
@@ -9275,8 +9275,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.5,
@@ -9318,8 +9318,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 9.0,
@@ -9361,8 +9361,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.5,
@@ -9405,8 +9405,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 6.0,
         "execution": 9.0,
         "editorial_value": 7.0,
@@ -9446,8 +9446,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.5,
@@ -9487,8 +9487,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -9528,8 +9528,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -9571,8 +9571,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -9615,8 +9615,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.5,
@@ -9658,8 +9658,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.5,
@@ -9703,8 +9703,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -9744,8 +9744,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -9784,8 +9784,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -9822,8 +9822,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -9862,8 +9862,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -9904,8 +9904,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -9946,8 +9946,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -9988,8 +9988,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -10028,8 +10028,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -10067,8 +10067,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -10110,8 +10110,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -10153,8 +10153,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -10195,8 +10195,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -10238,8 +10238,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 9.5,
@@ -10283,8 +10283,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -10326,8 +10326,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.5,
@@ -10370,8 +10370,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.5,
@@ -10414,8 +10414,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -10460,8 +10460,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.5,
@@ -10503,8 +10503,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -10547,8 +10547,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -10591,8 +10591,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -10631,8 +10631,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -10673,8 +10673,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -10715,8 +10715,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -10758,8 +10758,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -10801,8 +10801,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -10843,8 +10843,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -10887,8 +10887,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -10931,8 +10931,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
@@ -10976,8 +10976,8 @@
       "theme_appeal": 4.62,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 9.0,
@@ -11020,8 +11020,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 9.0,
@@ -11065,8 +11065,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 9.0,
@@ -11110,8 +11110,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.5,
@@ -11152,8 +11152,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
@@ -11194,8 +11194,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
@@ -11236,8 +11236,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -11278,8 +11278,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -11321,8 +11321,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
@@ -11363,8 +11363,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
@@ -11406,8 +11406,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.5,
@@ -11450,8 +11450,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
@@ -11493,8 +11493,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
@@ -11538,8 +11538,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
@@ -11582,8 +11582,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
@@ -11626,8 +11626,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
@@ -11669,8 +11669,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
@@ -11713,8 +11713,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
@@ -11757,8 +11757,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
@@ -11798,8 +11798,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -11839,8 +11839,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -11879,8 +11879,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -11919,8 +11919,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -11960,8 +11960,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -12001,8 +12001,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -12046,8 +12046,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 4.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 7.0,
@@ -12089,8 +12089,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -12133,8 +12133,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 4.0,
-        "style": 9.0,
         "visual_impact": 9.0,
+        "style": 9.0,
         "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 7.0,
@@ -12176,8 +12176,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.5,
@@ -12218,8 +12218,8 @@
       "theme_appeal": 4.5,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -12262,8 +12262,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -12306,8 +12306,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -12351,8 +12351,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -12392,8 +12392,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -12433,8 +12433,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -12475,8 +12475,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -12519,8 +12519,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -12563,8 +12563,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -12606,8 +12606,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -12648,8 +12648,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -12692,8 +12692,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -12734,8 +12734,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -12773,8 +12773,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -12814,8 +12814,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -12855,8 +12855,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -12896,8 +12896,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -12936,8 +12936,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -12977,8 +12977,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -13019,8 +13019,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -13061,8 +13061,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -13102,8 +13102,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
@@ -13144,8 +13144,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 9.5,
@@ -13189,8 +13189,8 @@
       "theme_appeal": 4.62,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 9.0,
@@ -13235,8 +13235,8 @@
       "theme_appeal": 4.5,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -13277,8 +13277,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 9.0,
@@ -13324,8 +13324,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -13368,8 +13368,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -13409,8 +13409,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -13450,8 +13450,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -13493,8 +13493,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -13537,8 +13537,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -13580,8 +13580,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 9.0,
@@ -13624,8 +13624,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.5,
@@ -13669,8 +13669,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -13710,8 +13710,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -13749,8 +13749,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -13788,8 +13788,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -13829,8 +13829,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -13870,8 +13870,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -13912,8 +13912,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -13954,8 +13954,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -13997,8 +13997,8 @@
       "theme_appeal": 4.62,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.5,
@@ -14044,8 +14044,8 @@
       "theme_appeal": 4.62,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.5,
@@ -14087,8 +14087,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 9.5,
@@ -14132,8 +14132,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.5,
@@ -14175,8 +14175,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.5,
@@ -14218,8 +14218,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.5,
@@ -14263,8 +14263,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.5,
@@ -14306,8 +14306,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -14349,8 +14349,8 @@
       "theme_appeal": 4.62,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -14393,8 +14393,8 @@
       "theme_appeal": 4.5,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -14437,8 +14437,8 @@
       "theme_appeal": 4.5,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -14481,8 +14481,8 @@
       "theme_appeal": 4.5,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -14524,8 +14524,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -14566,8 +14566,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -14610,8 +14610,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -14653,8 +14653,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -14697,8 +14697,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -14740,8 +14740,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -14781,8 +14781,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -14823,8 +14823,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -14867,8 +14867,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -14910,8 +14910,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -14953,8 +14953,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -14997,8 +14997,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -15040,8 +15040,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -15082,8 +15082,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -15124,8 +15124,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -15167,8 +15167,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -15212,8 +15212,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -15255,8 +15255,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -15300,8 +15300,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -15345,8 +15345,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -15388,8 +15388,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -15433,8 +15433,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -15474,8 +15474,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -15516,8 +15516,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -15558,8 +15558,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -15599,8 +15599,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -15641,8 +15641,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -15685,8 +15685,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -15728,8 +15728,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -15771,8 +15771,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -15814,8 +15814,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -15857,8 +15857,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 6.0,
         "execution": 8.0,
         "editorial_value": 6.5,
@@ -15902,8 +15902,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -15947,8 +15947,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -15992,8 +15992,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -16035,8 +16035,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -16079,8 +16079,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -16122,8 +16122,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -16165,8 +16165,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 8.0,
+        "style": 8.0,
         "originality": 6.0,
         "execution": 8.0,
         "editorial_value": 6.5,
@@ -16209,8 +16209,8 @@
       "theme_appeal": 4.62,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 9.0,
@@ -16252,8 +16252,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 8.5,
@@ -16295,8 +16295,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 8.0,
         "visual_impact": 7.0,
+        "style": 8.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -16337,8 +16337,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 8.5,
@@ -16381,8 +16381,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 9.0,
@@ -16426,8 +16426,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -16469,8 +16469,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -16514,8 +16514,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -16558,8 +16558,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -16601,8 +16601,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -16645,8 +16645,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -16686,8 +16686,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -16727,8 +16727,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -16770,8 +16770,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -16814,8 +16814,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -16858,8 +16858,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -16900,8 +16900,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -16939,8 +16939,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -16978,8 +16978,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -17017,8 +17017,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -17057,8 +17057,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -17097,8 +17097,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -17136,8 +17136,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -17178,8 +17178,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -17220,8 +17220,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 8.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -17262,8 +17262,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -17305,8 +17305,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -17346,8 +17346,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -17388,8 +17388,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -17430,8 +17430,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -17471,8 +17471,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -17513,8 +17513,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -17554,8 +17554,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -17596,8 +17596,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -17638,8 +17638,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -17678,8 +17678,8 @@
       "theme_appeal": 4.5,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -17720,8 +17720,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -17763,8 +17763,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 9.0,
@@ -17809,8 +17809,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -17850,8 +17850,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -17892,8 +17892,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 8.0,
@@ -17937,8 +17937,8 @@
       "theme_appeal": 4.62,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 9.0,
@@ -17982,8 +17982,8 @@
       "theme_appeal": 4.62,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -18028,8 +18028,8 @@
       "theme_appeal": 4.5,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -18070,8 +18070,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -18113,8 +18113,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -18156,8 +18156,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -18199,8 +18199,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -18243,8 +18243,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -18287,8 +18287,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -18330,8 +18330,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -18371,8 +18371,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -18412,8 +18412,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -18455,8 +18455,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
@@ -18498,8 +18498,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -18540,8 +18540,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -18579,8 +18579,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.5,
@@ -18622,8 +18622,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.5,
@@ -18664,8 +18664,8 @@
       "theme_appeal": 4.5,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -18708,8 +18708,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -18753,8 +18753,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -18796,8 +18796,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -18840,8 +18840,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -18883,8 +18883,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.0,
@@ -18925,8 +18925,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.0,
@@ -18966,8 +18966,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.0,
@@ -19010,8 +19010,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -19054,8 +19054,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.0,
@@ -19095,8 +19095,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.0,
@@ -19138,8 +19138,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.0,
@@ -19181,8 +19181,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.0,
@@ -19224,8 +19224,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.0,
@@ -19266,8 +19266,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.0,
@@ -19307,8 +19307,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -19347,8 +19347,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -19386,8 +19386,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -19429,8 +19429,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -19472,8 +19472,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -19516,8 +19516,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -19558,8 +19558,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -19599,8 +19599,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -19641,8 +19641,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -19686,8 +19686,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -19727,8 +19727,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -19767,8 +19767,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -19807,8 +19807,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -19850,8 +19850,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -19890,8 +19890,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -19931,8 +19931,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -19972,8 +19972,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -20015,8 +20015,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -20056,8 +20056,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -20091,8 +20091,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -20132,8 +20132,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -20173,8 +20173,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -20214,8 +20214,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -20255,8 +20255,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -20296,8 +20296,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -20338,8 +20338,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -20380,8 +20380,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -20421,8 +20421,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -20463,8 +20463,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -20505,8 +20505,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -20548,8 +20548,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -20589,8 +20589,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -20630,8 +20630,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -20671,8 +20671,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -20712,8 +20712,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -20755,8 +20755,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -20797,8 +20797,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -20839,8 +20839,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -20880,8 +20880,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -20923,8 +20923,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -20967,8 +20967,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -21008,8 +21008,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -21047,8 +21047,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -21086,8 +21086,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -21125,8 +21125,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -21164,8 +21164,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -21203,8 +21203,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -21242,8 +21242,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -21281,8 +21281,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -21320,8 +21320,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -21359,8 +21359,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -21399,8 +21399,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -21438,8 +21438,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -21479,8 +21479,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -21521,8 +21521,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -21562,8 +21562,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -21604,8 +21604,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -21646,8 +21646,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.5,
         "editorial_value": 7.0,
@@ -21690,8 +21690,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 8.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.5,
         "editorial_value": 6.5,
@@ -21732,8 +21732,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 8.0,
@@ -21774,8 +21774,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 8.0,
@@ -21816,8 +21816,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 8.0,
@@ -21859,8 +21859,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 8.0,
@@ -21902,8 +21902,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 8.0,
@@ -21945,8 +21945,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -21986,8 +21986,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -22028,8 +22028,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 8.0,
         "execution": 6.5,
         "editorial_value": 7.0,
@@ -22067,8 +22067,8 @@
       "theme_appeal": 4.5,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -22109,8 +22109,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -22150,8 +22150,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -22192,8 +22192,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -22233,8 +22233,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -22275,8 +22275,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -22319,8 +22319,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -22364,8 +22364,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -22408,8 +22408,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -22450,8 +22450,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -22492,8 +22492,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -22533,8 +22533,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -22575,8 +22575,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -22616,8 +22616,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -22657,8 +22657,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 8.5,
@@ -22699,8 +22699,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -22740,8 +22740,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 7.0,
         "execution": 6.5,
         "editorial_value": 8.0,
@@ -22782,8 +22782,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -22823,8 +22823,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -22864,8 +22864,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -22905,8 +22905,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -22946,8 +22946,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -22987,8 +22987,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23028,8 +23028,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23069,8 +23069,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23108,8 +23108,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23149,8 +23149,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23191,8 +23191,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23233,8 +23233,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23274,8 +23274,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23318,8 +23318,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23360,8 +23360,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 8.0,
@@ -23402,8 +23402,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23444,8 +23444,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23485,8 +23485,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23524,8 +23524,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23563,8 +23563,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23602,8 +23602,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23641,8 +23641,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23680,8 +23680,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23718,8 +23718,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23757,8 +23757,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23796,8 +23796,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23835,8 +23835,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23875,8 +23875,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23914,8 +23914,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23953,8 +23953,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -23994,8 +23994,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -24035,8 +24035,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -24076,8 +24076,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -24117,8 +24117,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -24158,8 +24158,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -24199,8 +24199,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -24240,8 +24240,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -24281,8 +24281,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -24325,8 +24325,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -24366,8 +24366,8 @@
       "theme_appeal": 4.62,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -24409,8 +24409,8 @@
       "theme_appeal": 4.5,
       "scores": {
         "story": 7.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 7.0,
         "execution": 6.5,
         "editorial_value": 7.0,
@@ -24452,8 +24452,8 @@
       "theme_appeal": 4.5,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -24497,8 +24497,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -24538,8 +24538,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -24579,8 +24579,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -24621,8 +24621,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -24662,8 +24662,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -24705,8 +24705,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -24747,8 +24747,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -24789,8 +24789,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 8.5,
@@ -24831,8 +24831,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -24872,8 +24872,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -24913,8 +24913,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -24955,8 +24955,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -24998,8 +24998,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -25041,8 +25041,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -25082,8 +25082,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -25121,8 +25121,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -25160,8 +25160,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -25200,8 +25200,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -25239,8 +25239,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -25279,8 +25279,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -25318,8 +25318,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -25359,8 +25359,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -25400,8 +25400,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -25441,8 +25441,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 7.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -25480,8 +25480,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -25522,8 +25522,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 7.5,
@@ -25564,8 +25564,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 7.0,
         "execution": 6.5,
         "editorial_value": 6.5,
@@ -25605,8 +25605,8 @@
       "theme_appeal": 4.5,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -25647,8 +25647,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -25691,8 +25691,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -25736,8 +25736,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 7.0,
@@ -25777,8 +25777,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 6.5,
@@ -25818,8 +25818,8 @@
       "theme_appeal": 4.5,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -25859,8 +25859,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -25901,8 +25901,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -25942,8 +25942,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -25984,8 +25984,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -26029,8 +26029,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -26073,8 +26073,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 7.5,
@@ -26114,8 +26114,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 5.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 7.0,
         "execution": 6.5,
         "editorial_value": 7.5,
@@ -26155,8 +26155,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 7.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 5.0,
         "execution": 6.5,
         "editorial_value": 7.5,
@@ -26196,8 +26196,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -26235,8 +26235,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -26274,8 +26274,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -26313,8 +26313,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -26354,8 +26354,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -26395,8 +26395,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 7.0,
         "visual_impact": 7.0,
+        "style": 7.0,
         "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
@@ -26434,8 +26434,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 7.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 5.0,
         "execution": 6.5,
         "editorial_value": 7.0,
@@ -26476,8 +26476,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 7.0,
@@ -26517,8 +26517,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 7.0,
@@ -26559,8 +26559,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 5.0,
         "execution": 6.5,
         "editorial_value": 8.5,
@@ -26604,8 +26604,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 6.5,
@@ -26645,8 +26645,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 6.5,
@@ -26684,8 +26684,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 6.5,
@@ -26723,8 +26723,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 6.5,
@@ -26762,8 +26762,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 6.5,
@@ -26806,8 +26806,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 6.5,
@@ -26847,8 +26847,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 5.0,
         "execution": 6.5,
         "editorial_value": 7.5,
@@ -26891,8 +26891,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 5.0,
         "execution": 6.5,
         "editorial_value": 7.5,
@@ -26934,8 +26934,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 5.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 7.0,
@@ -26976,8 +26976,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 5.0,
         "execution": 6.5,
         "editorial_value": 7.0,
@@ -27017,8 +27017,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 5.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 6.5,
@@ -27058,8 +27058,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 5.0,
         "execution": 6.5,
         "editorial_value": 6.5,
@@ -27099,8 +27099,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 5.0,
         "execution": 6.5,
         "editorial_value": 6.5,
@@ -27138,8 +27138,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 6.0,
-        "style": 5.0,
         "visual_impact": 6.0,
+        "style": 5.0,
         "originality": 7.0,
         "execution": 5.5,
         "editorial_value": 7.5,
@@ -27179,8 +27179,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 6.0,
+        "style": 6.0,
         "originality": 6.0,
         "execution": 6.0,
         "editorial_value": 6.5,
@@ -27218,8 +27218,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 6.0,
+        "style": 6.0,
         "originality": 6.0,
         "execution": 6.0,
         "editorial_value": 6.5,
@@ -27257,8 +27257,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 6.0,
+        "style": 6.0,
         "originality": 6.0,
         "execution": 6.0,
         "editorial_value": 6.5,
@@ -27296,8 +27296,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 5.0,
-        "style": 6.0,
         "visual_impact": 7.0,
+        "style": 6.0,
         "originality": 5.0,
         "execution": 6.5,
         "editorial_value": 6.0,
@@ -27335,8 +27335,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 6.0,
+        "style": 6.0,
         "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 7.0,
@@ -27376,8 +27376,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 6.0,
-        "style": 6.0,
         "visual_impact": 6.0,
+        "style": 6.0,
         "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 7.0,
@@ -27418,8 +27418,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 5.0,
-        "style": 6.0,
         "visual_impact": 6.0,
+        "style": 6.0,
         "originality": 6.0,
         "execution": 6.0,
         "editorial_value": 6.5,
@@ -27457,8 +27457,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 5.0,
-        "style": 6.0,
         "visual_impact": 6.0,
+        "style": 6.0,
         "originality": 6.0,
         "execution": 6.0,
         "editorial_value": 6.5,
@@ -27496,8 +27496,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 6.0,
-        "style": 5.0,
         "visual_impact": 6.0,
+        "style": 5.0,
         "originality": 6.0,
         "execution": 5.5,
         "editorial_value": 7.5,
@@ -27537,8 +27537,8 @@
       "theme_appeal": 3.88,
       "scores": {
         "story": 6.0,
-        "style": 5.0,
         "visual_impact": 6.0,
+        "style": 5.0,
         "originality": 5.0,
         "execution": 5.5,
         "editorial_value": 8.5,
@@ -27579,8 +27579,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 5.0,
-        "style": 6.0,
         "visual_impact": 6.0,
+        "style": 6.0,
         "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 7.0,
@@ -27621,8 +27621,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 5.0,
-        "style": 6.0,
         "visual_impact": 6.0,
+        "style": 6.0,
         "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 7.0,
@@ -27662,8 +27662,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 5.0,
-        "style": 6.0,
         "visual_impact": 6.0,
+        "style": 6.0,
         "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 7.0,
@@ -27704,8 +27704,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 7.0,
-        "style": 5.0,
         "visual_impact": 5.0,
+        "style": 5.0,
         "originality": 6.0,
         "execution": 5.0,
         "editorial_value": 7.5,
@@ -27745,8 +27745,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 5.0,
         "visual_impact": 6.0,
+        "style": 5.0,
         "originality": 6.0,
         "execution": 5.5,
         "editorial_value": 6.5,
@@ -27784,8 +27784,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 5.0,
-        "style": 6.0,
         "visual_impact": 6.0,
+        "style": 6.0,
         "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 6.5,
@@ -27828,8 +27828,8 @@
       "theme_appeal": 4.38,
       "scores": {
         "story": 6.0,
-        "style": 5.0,
         "visual_impact": 6.0,
+        "style": 5.0,
         "originality": 5.0,
         "execution": 5.5,
         "editorial_value": 7.0,
@@ -27871,8 +27871,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 5.0,
-        "style": 5.0,
         "visual_impact": 6.0,
+        "style": 5.0,
         "originality": 6.0,
         "execution": 5.5,
         "editorial_value": 7.0,
@@ -27912,8 +27912,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 5.0,
-        "style": 6.0,
         "visual_impact": 6.0,
+        "style": 6.0,
         "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 6.0,
@@ -27953,8 +27953,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 5.0,
-        "style": 6.0,
         "visual_impact": 6.0,
+        "style": 6.0,
         "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 6.0,
@@ -27994,8 +27994,8 @@
       "theme_appeal": 4.0,
       "scores": {
         "story": 5.0,
-        "style": 6.0,
         "visual_impact": 6.0,
+        "style": 6.0,
         "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 6.0,
@@ -28035,8 +28035,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 5.0,
-        "style": 6.0,
         "visual_impact": 6.0,
+        "style": 6.0,
         "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 6.0,
@@ -28074,8 +28074,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 5.0,
-        "style": 5.0,
         "visual_impact": 6.0,
+        "style": 5.0,
         "originality": 6.0,
         "execution": 5.5,
         "editorial_value": 6.5,
@@ -28113,8 +28113,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 6.0,
-        "style": 5.0,
         "visual_impact": 6.0,
+        "style": 5.0,
         "originality": 5.0,
         "execution": 5.5,
         "editorial_value": 6.5,
@@ -28152,8 +28152,8 @@
       "theme_appeal": 4.12,
       "scores": {
         "story": 5.0,
-        "style": 5.0,
         "visual_impact": 6.0,
+        "style": 5.0,
         "originality": 5.0,
         "execution": 5.5,
         "editorial_value": 7.0,
@@ -28194,8 +28194,8 @@
       "theme_appeal": 4.25,
       "scores": {
         "story": 5.0,
-        "style": 5.0,
         "visual_impact": 6.0,
+        "style": 5.0,
         "originality": 5.0,
         "execution": 5.5,
         "editorial_value": 6.0,
@@ -28235,8 +28235,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 5.0,
-        "style": 5.0,
         "visual_impact": 6.0,
+        "style": 5.0,
         "originality": 5.0,
         "execution": 5.5,
         "editorial_value": 6.0,
@@ -28274,8 +28274,8 @@
       "theme_appeal": 3.38,
       "scores": {
         "story": 5.0,
-        "style": 5.0,
         "visual_impact": 5.0,
+        "style": 5.0,
         "originality": 5.0,
         "execution": 5.0,
         "editorial_value": 6.0,
