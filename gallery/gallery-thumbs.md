@@ -691,3 +691,4 @@
 <a href="https://zine.trevorion.io/20261102-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/671-Haunted-Manor-🏚️🌕-225x150.png" alt="671: Haunted Manor 🏚️🌕" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261103-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/672-Black-Seadevil-🐟🌑-225x150.png" alt="672: Black Seadevil 🐟🌑" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261104-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/673-Leopard-2A8-🐆🛡-225x150.png" alt="673: Leopard 2A8 🐆🛡" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261105-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/674-Lady-Melantha-Sapphyros-💙🌹-225x150.png" alt="674: Lady Melantha Sapphyros 💙🌹" loading="lazy" style="width:50px;height:auto;"></a>

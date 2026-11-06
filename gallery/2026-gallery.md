@@ -7,7 +7,7 @@ show_title: false
 
 # Daily Image Gallery 2026
 
-<p>321 Daily artworks and special editions. Select any image to view its original Zine post.</p>
+<p>322 Daily artworks and special editions. Select any image to view its original Zine post.</p>
 
 <div class="gallery-grid">
 <a href="https://zine.trevorion.io/20260101-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/01/366-Champagne-🥂🍾-225x150.png" alt="366: Champagne 🥂🍾" loading="lazy" style="width:50px;height:auto;"></a>
@@ -331,6 +331,7 @@ show_title: false
 <a href="https://zine.trevorion.io/20261102-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/671-Haunted-Manor-🏚️🌕-225x150.png" alt="671: Haunted Manor 🏚️🌕" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261103-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/672-Black-Seadevil-🐟🌑-225x150.png" alt="672: Black Seadevil 🐟🌑" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261104-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/673-Leopard-2A8-🐆🛡-225x150.png" alt="673: Leopard 2A8 🐆🛡" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261105-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/674-Lady-Melantha-Sapphyros-💙🌹-225x150.png" alt="674: Lady Melantha Sapphyros 💙🌹" loading="lazy" style="width:50px;height:auto;"></a>
 </div>
 
 <details class="archive-list"><summary>Browse all artwork titles</summary><ul>
@@ -655,4 +656,5 @@ show_title: false
 <li>671: Haunted Manor 🏚️🌕: <a href="https://zine.trevorion.io/20261102-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/11/671-Haunted-Manor-🏚️🌕.png">Full artwork</a></li>
 <li>672: Black Seadevil 🐟🌑: <a href="https://zine.trevorion.io/20261103-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/11/672-Black-Seadevil-🐟🌑.png">Full artwork</a></li>
 <li>673: Leopard 2A8 🐆🛡: <a href="https://zine.trevorion.io/20261104-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/11/673-Leopard-2A8-🐆🛡.png">Full artwork</a></li>
+<li>674: Lady Melantha Sapphyros 💙🌹: <a href="https://zine.trevorion.io/20261105-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/11/674-Lady-Melantha-Sapphyros-💙🌹.png">Full artwork</a></li>
 </ul></details>
