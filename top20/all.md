@@ -349,80 +349,80 @@ Every reviewed Daily, without genre, date, or aspect-ratio exclusions. The artis
 | 336 | [266: Garden Maze 🌿👫](https://zine.trevorion.io/20250923-1/) | 74.00 | 4.50 |
 | 337 | [302: Jack-O’-Lantern 🕯🎃](https://zine.trevorion.io/20251029-1/) | 74.00 | 4.50 |
 | 338 | [365: Christmas Lights ✨🎄](https://zine.trevorion.io/20251231-1/) | 74.00 | 4.50 |
-| 339 | [232: Kitsune(狐) 🦊⛩️](https://zine.trevorion.io/20250820-1/) | 74.00 | 4.25 |
-| 340 | [095: Star Child 🌠✨](https://zine.trevorion.io/20250405-1/) | 74.00 | 4.00 |
-| 341 | [308: The Signal 📡🌌](https://zine.trevorion.io/20251104-1/) | 74.00 | 4.00 |
-| 342 | [402: Stone Quarry ⛏️🪨](https://zine.trevorion.io/20260206-1/) | 74.00 | 4.00 |
-| 343 | [508: Cybernetic Commander 🤖💙](https://zine.trevorion.io/20260523-1/) | 74.00 | 4.00 |
-| 344 | [537: Chinook 🚁🏔️](https://zine.trevorion.io/20260621-1/) | 74.00 | 4.00 |
-| 345 | [198: Giant Tortoise 🐢🌿](https://zine.trevorion.io/20250717-1/) | 74.00 | 3.88 |
-| 346 | [269: The Chimney Sweeper 👣🔥](https://zine.trevorion.io/20250926-1/) | 74.00 | 3.88 |
-| 347 | [382: Rural Brick Kiln 🔥🧱](https://zine.trevorion.io/20260117-1/) | 74.00 | 3.88 |
-| 348 | [🏛️ Rome CD AD – The Fall of an Empire 🔥](https://zine.trevorion.io/20260204-3/) | 74.00 | 3.88 |
-| 349 | [403: Ancient Dolmen 🪨🌿](https://zine.trevorion.io/20260207-1/) | 74.00 | 3.88 |
-| 350 | [406: Palisade 🪵🏰](https://zine.trevorion.io/20260210-1/) | 74.00 | 3.88 |
-| 351 | [438: Ushabti Figurine 🏺𓂀](https://zine.trevorion.io/20260314-1/) | 74.00 | 3.88 |
-| 352 | [462: Kudurru Stone 🪨📜](https://zine.trevorion.io/20260407-1/) | 74.00 | 3.88 |
-| 353 | [474: Keffiyeh 🏜🧕](https://zine.trevorion.io/20260419-1/) | 74.00 | 3.88 |
-| 354 | [499: Royal Tiara 👑💎](https://zine.trevorion.io/20260514-1/) | 74.00 | 3.88 |
-| 355 | [479: Happy Birthday 🎂🎁](https://zine.trevorion.io/20260424-1/) | 73.75 | 4.00 |
-| 356 | [496: The 72nd Toast 🥃🎂](https://zine.trevorion.io/20260511-1/) | 73.75 | 4.00 |
-| 357 | [580: 80s Summer Drive ☀🚗️](https://zine.trevorion.io/20260803-1/) | 73.75 | 4.00 |
-| 358 | [301: Supermarine Spitfire Mk IX 🌊🛩](https://zine.trevorion.io/20251028-1/) | 73.75 | 3.38 |
-| 359 | [572: Awwista 🦞🌊](https://zine.trevorion.io/20260726-1/) | 73.75 | 3.38 |
-| 360 | [577: Paraglider 🪂☀️](https://zine.trevorion.io/20260731-1/) | 73.75 | 3.38 |
-| 361 | [119: The Demon Princess 🔥🩸](https://zine.trevorion.io/20250429-1/) | 73.50 | 4.25 |
-| 362 | [194: Scarlet Macaw ✨🦜](https://zine.trevorion.io/20250713-1/) | 73.50 | 4.25 |
-| 363 | [209: Noriel, Seraph of Valor 🔥🛡️](https://zine.trevorion.io/20250728-1/) | 73.50 | 4.25 |
-| 364 | [214: Mofumofu Kyūto 🐱🦋](https://zine.trevorion.io/20250802-1/) | 73.50 | 4.25 |
-| 365 | [238: Grim Reaper 💀🪦](https://zine.trevorion.io/20250826-1/) | 73.50 | 4.25 |
-| 366 | [367: Winter Evergreen 🌲❄](https://zine.trevorion.io/20260102-1/) | 73.50 | 4.25 |
-| 367 | [416: Heraldic Shield 🛡️🌲](https://zine.trevorion.io/20260220-1/) | 73.50 | 4.25 |
-| 368 | [426: Beach Sunset 🌊🌅](https://zine.trevorion.io/20260302-1/) | 73.50 | 4.25 |
-| 369 | [490: Aegagropila Linnaei 🌿🟢](https://zine.trevorion.io/20260505-1/) | 73.50 | 4.25 |
-| 370 | [521: Glamorous Arena Presenter 💥🎤](https://zine.trevorion.io/20260605-1/) | 73.50 | 4.25 |
-| 371 | [558: Dawn Alone 🤍🌅](https://zine.trevorion.io/20260712-1/) | 73.50 | 4.25 |
-| 372 | [579: L-Aħħar Sajda 🌅⚓](https://zine.trevorion.io/20260802-1/) | 73.50 | 4.25 |
-| 373 | [592: Tsuba 🌸🎋](https://zine.trevorion.io/20260815-1/) | 73.50 | 4.25 |
-| 374 | [622: Riverside Bento 🌿🍱](https://zine.trevorion.io/20260914-1/) | 73.50 | 4.25 |
-| 375 | [634: White-Faced Capuchin 🐒🌿](https://zine.trevorion.io/20260926-1/) | 73.50 | 4.25 |
-| 376 | [378: Markhor 📸🐐](https://zine.trevorion.io/378-markhor-%f0%9f%93%b8%f0%9f%90%90/) | 73.50 | 4.25 |
-| 377 | [567: The Jacal 🛖🌵](https://zine.trevorion.io/20260721-1/) | 73.50 | 4.00 |
-| 378 | [357: Christmas Stockings 🧦🔥](https://zine.trevorion.io/20251223-1/) | 73.25 | 4.62 |
-| 379 | [085: Tori 🕊️⚙️](https://zine.trevorion.io/20250326-1/) | 73.25 | 4.38 |
-| 380 | [014: Carrier 🚢🌅](https://zine.trevorion.io/20250114-1-2/) | 73.25 | 4.25 |
-| 381 | [061: Mecha-Tiger 🐯⚙️](https://zine.trevorion.io/20250302-1/) | 73.25 | 4.25 |
-| 382 | [497: Reenactment ⚔️🛡](https://zine.trevorion.io/20260512-1/) | 73.25 | 4.25 |
-| 383 | [191: Ignarion 🔥⚔️](https://zine.trevorion.io/20250710-1/) | 73.00 | 4.25 |
-| 384 | [509: The Heiress 🃏🥂](https://zine.trevorion.io/20260524-1/) | 73.00 | 4.25 |
-| 385 | [519: Vault 88 💛☢️](https://zine.trevorion.io/20260603-1/) | 73.00 | 4.25 |
-| 386 | [620: Midnight Chat 🛏️💻](https://zine.trevorion.io/20260912-1/) | 73.00 | 4.25 |
-| 387 | [626: Gym Workout 💪🏋️‍♀️](https://zine.trevorion.io/20260918-1/) | 73.00 | 4.25 |
-| 388 | [629: Fashion Photoshoot 📸✨](https://zine.trevorion.io/20260921-1/) | 73.00 | 4.25 |
-| 389 | [067: Penelope 𓆩ꨄ︎𓆪](https://zine.trevorion.io/20250308-1/) | 73.00 | 4.00 |
-| 390 | [155: Lost Child 🌃🧸](https://zine.trevorion.io/20250604-1/) | 73.00 | 4.00 |
-| 391 | [440: Dark Emperor 🔥👑](https://zine.trevorion.io/20260316-1/) | 73.00 | 4.00 |
-| 392 | [500: Fiat 500 🚗🇮🇹](https://zine.trevorion.io/20260515-1/) | 73.00 | 4.00 |
-| 393 | [581: Chocolate Chip Cookies 🍪🥛](https://zine.trevorion.io/20260804-1/) | 73.00 | 4.00 |
-| 394 | [451: Village Hydria 🏺☀️](https://zine.trevorion.io/20230327-1/) | 73.00 | 3.38 |
-| 395 | [030: The Map 🗺️🧭](https://zine.trevorion.io/20250130-1/) | 73.00 | 3.38 |
-| 396 | [134: Ember Remains 🌿🖤](https://zine.trevorion.io/20250514-1/) | 73.00 | 3.38 |
-| 397 | [163: Costly Mistake 🖤🌙](https://zine.trevorion.io/20250612-1/) | 73.00 | 3.38 |
-| 398 | [175: Queen Selyra Ardentis 👑🪷](https://zine.trevorion.io/20250624-1/) | 73.00 | 3.38 |
-| 399 | [199: Faye Valentine 💔🔫](https://zine.trevorion.io/20250718-1/) | 73.00 | 3.38 |
-| 400 | [220: Moonlight Prowler 🐾🌙](https://zine.trevorion.io/20250808-1/) | 73.00 | 3.38 |
-| 401 | [🔥 The Spartan Way ⚔️](https://zine.trevorion.io/20251027-2/) | 73.00 | 3.38 |
-| 402 | [💫 The 300th Chronicle 🌆](https://zine.trevorion.io/20251027-3/) | 73.00 | 3.38 |
-| 403 | [305: All Saints ✨⛪](https://zine.trevorion.io/20251101-1/) | 73.00 | 3.38 |
-| 404 | [314: 静かな調和 ✨🪴](https://zine.trevorion.io/20251110-1/) | 73.00 | 3.38 |
-| 405 | [366: Champagne 🥂🍾](https://zine.trevorion.io/20260101-1/) | 73.00 | 3.38 |
-| 406 | [443: Jacinth Gemstone 🔶✨](https://zine.trevorion.io/20260319-1/) | 73.00 | 3.38 |
-| 407 | [📈 S&P 500 💼](https://zine.trevorion.io/20260515-3/) | 73.00 | 3.38 |
-| 408 | [569: Sicilian Cassata 🍰🍊](https://zine.trevorion.io/20260723-1/) | 73.00 | 3.38 |
-| 409 | [585: Lungeing Cavesson 🐴🪢](https://zine.trevorion.io/20260808-1/) | 73.00 | 3.38 |
-| 410 | [609: Rondavel 🛖🌅](https://zine.trevorion.io/20260901-1/) | 73.00 | 3.38 |
-| 411 | [615: Joint Light Tactical Vehicle ⚔️🚙](https://zine.trevorion.io/20260907-1/) | 73.00 | 3.38 |
-| 412 | [617: Saeko Nogami 🌃🚓](https://zine.trevorion.io/20260909-1/) | 73.00 | 3.38 |
+| 339 | [095: Star Child 🌠✨](https://zine.trevorion.io/20250405-1/) | 74.00 | 4.00 |
+| 340 | [308: The Signal 📡🌌](https://zine.trevorion.io/20251104-1/) | 74.00 | 4.00 |
+| 341 | [402: Stone Quarry ⛏️🪨](https://zine.trevorion.io/20260206-1/) | 74.00 | 4.00 |
+| 342 | [508: Cybernetic Commander 🤖💙](https://zine.trevorion.io/20260523-1/) | 74.00 | 4.00 |
+| 343 | [537: Chinook 🚁🏔️](https://zine.trevorion.io/20260621-1/) | 74.00 | 4.00 |
+| 344 | [198: Giant Tortoise 🐢🌿](https://zine.trevorion.io/20250717-1/) | 74.00 | 3.88 |
+| 345 | [269: The Chimney Sweeper 👣🔥](https://zine.trevorion.io/20250926-1/) | 74.00 | 3.88 |
+| 346 | [382: Rural Brick Kiln 🔥🧱](https://zine.trevorion.io/20260117-1/) | 74.00 | 3.88 |
+| 347 | [403: Ancient Dolmen 🪨🌿](https://zine.trevorion.io/20260207-1/) | 74.00 | 3.88 |
+| 348 | [406: Palisade 🪵🏰](https://zine.trevorion.io/20260210-1/) | 74.00 | 3.88 |
+| 349 | [438: Ushabti Figurine 🏺𓂀](https://zine.trevorion.io/20260314-1/) | 74.00 | 3.88 |
+| 350 | [462: Kudurru Stone 🪨📜](https://zine.trevorion.io/20260407-1/) | 74.00 | 3.88 |
+| 351 | [474: Keffiyeh 🏜🧕](https://zine.trevorion.io/20260419-1/) | 74.00 | 3.88 |
+| 352 | [499: Royal Tiara 👑💎](https://zine.trevorion.io/20260514-1/) | 74.00 | 3.88 |
+| 353 | [479: Happy Birthday 🎂🎁](https://zine.trevorion.io/20260424-1/) | 73.75 | 4.00 |
+| 354 | [496: The 72nd Toast 🥃🎂](https://zine.trevorion.io/20260511-1/) | 73.75 | 4.00 |
+| 355 | [580: 80s Summer Drive ☀🚗️](https://zine.trevorion.io/20260803-1/) | 73.75 | 4.00 |
+| 356 | [301: Supermarine Spitfire Mk IX 🌊🛩](https://zine.trevorion.io/20251028-1/) | 73.75 | 3.38 |
+| 357 | [572: Awwista 🦞🌊](https://zine.trevorion.io/20260726-1/) | 73.75 | 3.38 |
+| 358 | [577: Paraglider 🪂☀️](https://zine.trevorion.io/20260731-1/) | 73.75 | 3.38 |
+| 359 | [119: The Demon Princess 🔥🩸](https://zine.trevorion.io/20250429-1/) | 73.50 | 4.25 |
+| 360 | [194: Scarlet Macaw ✨🦜](https://zine.trevorion.io/20250713-1/) | 73.50 | 4.25 |
+| 361 | [209: Noriel, Seraph of Valor 🔥🛡️](https://zine.trevorion.io/20250728-1/) | 73.50 | 4.25 |
+| 362 | [214: Mofumofu Kyūto 🐱🦋](https://zine.trevorion.io/20250802-1/) | 73.50 | 4.25 |
+| 363 | [232: Kitsune(狐) 🦊⛩️](https://zine.trevorion.io/20250820-1/) | 73.50 | 4.25 |
+| 364 | [238: Grim Reaper 💀🪦](https://zine.trevorion.io/20250826-1/) | 73.50 | 4.25 |
+| 365 | [367: Winter Evergreen 🌲❄](https://zine.trevorion.io/20260102-1/) | 73.50 | 4.25 |
+| 366 | [416: Heraldic Shield 🛡️🌲](https://zine.trevorion.io/20260220-1/) | 73.50 | 4.25 |
+| 367 | [426: Beach Sunset 🌊🌅](https://zine.trevorion.io/20260302-1/) | 73.50 | 4.25 |
+| 368 | [490: Aegagropila Linnaei 🌿🟢](https://zine.trevorion.io/20260505-1/) | 73.50 | 4.25 |
+| 369 | [521: Glamorous Arena Presenter 💥🎤](https://zine.trevorion.io/20260605-1/) | 73.50 | 4.25 |
+| 370 | [558: Dawn Alone 🤍🌅](https://zine.trevorion.io/20260712-1/) | 73.50 | 4.25 |
+| 371 | [579: L-Aħħar Sajda 🌅⚓](https://zine.trevorion.io/20260802-1/) | 73.50 | 4.25 |
+| 372 | [592: Tsuba 🌸🎋](https://zine.trevorion.io/20260815-1/) | 73.50 | 4.25 |
+| 373 | [622: Riverside Bento 🌿🍱](https://zine.trevorion.io/20260914-1/) | 73.50 | 4.25 |
+| 374 | [634: White-Faced Capuchin 🐒🌿](https://zine.trevorion.io/20260926-1/) | 73.50 | 4.25 |
+| 375 | [378: Markhor 📸🐐](https://zine.trevorion.io/378-markhor-%f0%9f%93%b8%f0%9f%90%90/) | 73.50 | 4.25 |
+| 376 | [567: The Jacal 🛖🌵](https://zine.trevorion.io/20260721-1/) | 73.50 | 4.00 |
+| 377 | [357: Christmas Stockings 🧦🔥](https://zine.trevorion.io/20251223-1/) | 73.25 | 4.62 |
+| 378 | [085: Tori 🕊️⚙️](https://zine.trevorion.io/20250326-1/) | 73.25 | 4.38 |
+| 379 | [061: Mecha-Tiger 🐯⚙️](https://zine.trevorion.io/20250302-1/) | 73.25 | 4.25 |
+| 380 | [497: Reenactment ⚔️🛡](https://zine.trevorion.io/20260512-1/) | 73.25 | 4.25 |
+| 381 | [191: Ignarion 🔥⚔️](https://zine.trevorion.io/20250710-1/) | 73.00 | 4.25 |
+| 382 | [509: The Heiress 🃏🥂](https://zine.trevorion.io/20260524-1/) | 73.00 | 4.25 |
+| 383 | [519: Vault 88 💛☢️](https://zine.trevorion.io/20260603-1/) | 73.00 | 4.25 |
+| 384 | [620: Midnight Chat 🛏️💻](https://zine.trevorion.io/20260912-1/) | 73.00 | 4.25 |
+| 385 | [626: Gym Workout 💪🏋️‍♀️](https://zine.trevorion.io/20260918-1/) | 73.00 | 4.25 |
+| 386 | [629: Fashion Photoshoot 📸✨](https://zine.trevorion.io/20260921-1/) | 73.00 | 4.25 |
+| 387 | [067: Penelope 𓆩ꨄ︎𓆪](https://zine.trevorion.io/20250308-1/) | 73.00 | 4.00 |
+| 388 | [155: Lost Child 🌃🧸](https://zine.trevorion.io/20250604-1/) | 73.00 | 4.00 |
+| 389 | [440: Dark Emperor 🔥👑](https://zine.trevorion.io/20260316-1/) | 73.00 | 4.00 |
+| 390 | [500: Fiat 500 🚗🇮🇹](https://zine.trevorion.io/20260515-1/) | 73.00 | 4.00 |
+| 391 | [581: Chocolate Chip Cookies 🍪🥛](https://zine.trevorion.io/20260804-1/) | 73.00 | 4.00 |
+| 392 | [451: Village Hydria 🏺☀️](https://zine.trevorion.io/20230327-1/) | 73.00 | 3.38 |
+| 393 | [030: The Map 🗺️🧭](https://zine.trevorion.io/20250130-1/) | 73.00 | 3.38 |
+| 394 | [134: Ember Remains 🌿🖤](https://zine.trevorion.io/20250514-1/) | 73.00 | 3.38 |
+| 395 | [163: Costly Mistake 🖤🌙](https://zine.trevorion.io/20250612-1/) | 73.00 | 3.38 |
+| 396 | [175: Queen Selyra Ardentis 👑🪷](https://zine.trevorion.io/20250624-1/) | 73.00 | 3.38 |
+| 397 | [199: Faye Valentine 💔🔫](https://zine.trevorion.io/20250718-1/) | 73.00 | 3.38 |
+| 398 | [220: Moonlight Prowler 🐾🌙](https://zine.trevorion.io/20250808-1/) | 73.00 | 3.38 |
+| 399 | [🔥 The Spartan Way ⚔️](https://zine.trevorion.io/20251027-2/) | 73.00 | 3.38 |
+| 400 | [💫 The 300th Chronicle 🌆](https://zine.trevorion.io/20251027-3/) | 73.00 | 3.38 |
+| 401 | [305: All Saints ✨⛪](https://zine.trevorion.io/20251101-1/) | 73.00 | 3.38 |
+| 402 | [314: 静かな調和 ✨🪴](https://zine.trevorion.io/20251110-1/) | 73.00 | 3.38 |
+| 403 | [366: Champagne 🥂🍾](https://zine.trevorion.io/20260101-1/) | 73.00 | 3.38 |
+| 404 | [🏛️ Rome CD AD – The Fall of an Empire 🔥](https://zine.trevorion.io/20260204-3/) | 73.00 | 3.38 |
+| 405 | [443: Jacinth Gemstone 🔶✨](https://zine.trevorion.io/20260319-1/) | 73.00 | 3.38 |
+| 406 | [📈 S&P 500 💼](https://zine.trevorion.io/20260515-3/) | 73.00 | 3.38 |
+| 407 | [569: Sicilian Cassata 🍰🍊](https://zine.trevorion.io/20260723-1/) | 73.00 | 3.38 |
+| 408 | [585: Lungeing Cavesson 🐴🪢](https://zine.trevorion.io/20260808-1/) | 73.00 | 3.38 |
+| 409 | [609: Rondavel 🛖🌅](https://zine.trevorion.io/20260901-1/) | 73.00 | 3.38 |
+| 410 | [615: Joint Light Tactical Vehicle ⚔️🚙](https://zine.trevorion.io/20260907-1/) | 73.00 | 3.38 |
+| 411 | [617: Saeko Nogami 🌃🚓](https://zine.trevorion.io/20260909-1/) | 73.00 | 3.38 |
+| 412 | [014: Carrier 🚢🌅](https://zine.trevorion.io/20250114-1-2/) | 72.75 | 4.00 |
 | 413 | [350: Advent Candles 🕯️✨](https://zine.trevorion.io/20251216-1/) | 72.25 | 4.50 |
 | 414 | [086: Sylphie 🧝🍃](https://zine.trevorion.io/20250327-1/) | 72.25 | 4.25 |
 | 415 | [411: Qagħqa tal-Appostli 🥯🌾](https://zine.trevorion.io/20260215-1/) | 72.25 | 4.00 |
@@ -661,21 +661,21 @@ Every reviewed Daily, without genre, date, or aspect-ratio exclusions. The artis
 | 648 | [005: Latest Insanity 💻💸](https://zine.trevorion.io/20250105-1/) | 59.00 | 3.38 |
 | 649 | [087: The Boss 😎👨🏻‍💼](https://zine.trevorion.io/20250328-1/) | 59.00 | 3.38 |
 | 650 | [011: Doomsday 🤖💀](https://zine.trevorion.io/20250111-1/) | 58.75 | 4.00 |
-| 651 | [006: Foot Soldier ⚔️🔥](https://zine.trevorion.io/20250106-1/) | 58.50 | 3.88 |
-| 652 | [114: Happy Birthday 🎉🎂](https://zine.trevorion.io/20250424-1/) | 58.00 | 4.00 |
-| 653 | [120: Wind Chimes 🎐🇲🇹](https://zine.trevorion.io/20250430-1/) | 58.00 | 3.38 |
-| 654 | [021: Noah 🌧️🚢](https://zine.trevorion.io/20250121-1/) | 57.75 | 4.25 |
-| 655 | [000: USS Grok 🛸🌌](https://zine.trevorion.io/20250101-0/) | 57.75 | 4.00 |
-| 656 | [017: Those ASML shares … 📈🏭](https://zine.trevorion.io/20250117-1/) | 57.75 | 3.38 |
-| 657 | [035: Manga 📖🖊️](https://zine.trevorion.io/20250204-1/) | 57.25 | 4.25 |
-| 658 | [116: Pastizzi 👩‍🍳🇲🇹](https://zine.trevorion.io/20250426-1/) | 57.00 | 4.38 |
-| 659 | [001: Back in the day 🎣🌊](https://zine.trevorion.io/20250101-1/) | 56.75 | 4.25 |
-| 660 | [056: Tablet 📱💻](https://zine.trevorion.io/20250225-1/) | 56.75 | 4.25 |
-| 661 | [029: Spaghetti 🍝🍅](https://zine.trevorion.io/20250129-1/) | 56.75 | 4.00 |
-| 662 | [047: Pizza 🍕🔥](https://zine.trevorion.io/20250216-1/) | 56.75 | 4.00 |
-| 663 | [025: Golf ⛳🏌️](https://zine.trevorion.io/20250125-1/) | 56.75 | 3.38 |
-| 664 | [113: Death Note 📖💀](https://zine.trevorion.io/20250423-1/) | 56.25 | 3.38 |
-| 665 | [003: Missing the glory days! ⚽🏆](https://zine.trevorion.io/20250103-1/) | 56.00 | 3.38 |
+| 651 | [114: Happy Birthday 🎉🎂](https://zine.trevorion.io/20250424-1/) | 58.00 | 4.00 |
+| 652 | [120: Wind Chimes 🎐🇲🇹](https://zine.trevorion.io/20250430-1/) | 58.00 | 3.38 |
+| 653 | [021: Noah 🌧️🚢](https://zine.trevorion.io/20250121-1/) | 57.75 | 4.25 |
+| 654 | [000: USS Grok 🛸🌌](https://zine.trevorion.io/20250101-0/) | 57.75 | 4.00 |
+| 655 | [017: Those ASML shares … 📈🏭](https://zine.trevorion.io/20250117-1/) | 57.75 | 3.38 |
+| 656 | [035: Manga 📖🖊️](https://zine.trevorion.io/20250204-1/) | 57.25 | 4.25 |
+| 657 | [116: Pastizzi 👩‍🍳🇲🇹](https://zine.trevorion.io/20250426-1/) | 57.00 | 4.38 |
+| 658 | [001: Back in the day 🎣🌊](https://zine.trevorion.io/20250101-1/) | 56.75 | 4.25 |
+| 659 | [056: Tablet 📱💻](https://zine.trevorion.io/20250225-1/) | 56.75 | 4.25 |
+| 660 | [029: Spaghetti 🍝🍅](https://zine.trevorion.io/20250129-1/) | 56.75 | 4.00 |
+| 661 | [047: Pizza 🍕🔥](https://zine.trevorion.io/20250216-1/) | 56.75 | 4.00 |
+| 662 | [025: Golf ⛳🏌️](https://zine.trevorion.io/20250125-1/) | 56.75 | 3.38 |
+| 663 | [113: Death Note 📖💀](https://zine.trevorion.io/20250423-1/) | 56.25 | 3.38 |
+| 664 | [003: Missing the glory days! ⚽🏆](https://zine.trevorion.io/20250103-1/) | 56.00 | 3.38 |
+| 665 | [006: Foot Soldier ⚔️🔥](https://zine.trevorion.io/20250106-1/) | 56.00 | 3.38 |
 | 666 | [058: Old Petrol Station ⛽🏚️](https://zine.trevorion.io/20250227-1/) | 55.00 | 4.12 |
 | 667 | [015: Doctor🧑‍⚕️🩺](https://zine.trevorion.io/20250115-1-2/) | 54.00 | 4.25 |
 | 668 | [004: Gamer Forever! 🕶️🎮](https://zine.trevorion.io/20250104-1/) | 54.00 | 3.38 |
