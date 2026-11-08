@@ -42,3 +42,7 @@ No Twitter/X credentials or WordPress credentials are needed.
 ## Credits
 
 Created and curated by **Trevor Grech (@Trevorion)**.
+
+## Refresh after a Zine News archive replacement
+
+When the Zine News archive is replaced or posts are removed, run a **full reconciliation** of [PhantomBlackOP/Sitemap](https://github.com/PhantomBlackOP/Sitemap) first. Only after the refreshed Sitemap XML is committed and published should this RSS rebuild run, because RSS reads Sitemap XML exclusively. The normal daily schedule covers routine updates; for an immediate refresh, use the `Rebuild RSS from Sitemap` workflow's manual dispatch. Never rebuild RSS against the obsolete Sitemap dataset.
