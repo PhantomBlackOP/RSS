@@ -7,7 +7,7 @@ show_title: false
 
 # Daily Image Gallery 2026
 
-<p>324 Daily artworks and special editions. Select any image to view its original Zine post.</p>
+<p>325 Daily artworks and special editions. Select any image to view its original Zine post.</p>
 
 <div class="gallery-grid">
 <a href="https://zine.trevorion.io/20260101-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/01/366-Champagne-🥂🍾-225x150.png" alt="366: Champagne 🥂🍾" loading="lazy" style="width:50px;height:auto;"></a>
@@ -334,6 +334,7 @@ show_title: false
 <a href="https://zine.trevorion.io/20261105-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/674-Lady-Melantha-Sapphyros-💙🌹-225x150.png" alt="674: Lady Melantha Sapphyros 💙🌹" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261106-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/675-La-Resistance-☕🥀-225x150.png" alt="675: La Résistance ☕🥀" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261107-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/676-A-World-of-Wonder-🌍🗺️-1-225x150.png" alt="676: A World of Wonder 🌍🗺️" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261108-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/677-Bike-Trail-🚵‍♀️🏔-225x150.png" alt="677: Bike Trail 🚵‍♀️🏔️" loading="lazy" style="width:50px;height:auto;"></a>
 </div>
 
 <details class="archive-list"><summary>Browse all artwork titles</summary><ul>
@@ -661,4 +662,5 @@ show_title: false
 <li>674: Lady Melantha Sapphyros 💙🌹: <a href="https://zine.trevorion.io/20261105-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/11/674-Lady-Melantha-Sapphyros-💙🌹.png">Full artwork</a></li>
 <li>675: La Résistance ☕🥀: <a href="https://zine.trevorion.io/20261106-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/11/675-La-Resistance-☕🥀.png">Full artwork</a></li>
 <li>676: A World of Wonder 🌍🗺️: <a href="https://zine.trevorion.io/20261107-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/11/676-A-World-of-Wonder-🌍🗺️-1.png">Full artwork</a></li>
+<li>677: Bike Trail 🚵‍♀️🏔️: <a href="https://zine.trevorion.io/20261108-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/11/677-Bike-Trail-🚵‍♀️🏔.png">Full artwork</a></li>
 </ul></details>

@@ -322,3 +322,4 @@
 <a href="https://zine.trevorion.io/20261105-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/674-Lady-Melantha-Sapphyros-💙🌹-225x150.png" alt="674: Lady Melantha Sapphyros 💙🌹" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261106-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/675-La-Resistance-☕🥀-225x150.png" alt="675: La Résistance ☕🥀" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261107-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/676-A-World-of-Wonder-🌍🗺️-1-225x150.png" alt="676: A World of Wonder 🌍🗺️" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261108-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/677-Bike-Trail-🚵‍♀️🏔-225x150.png" alt="677: Bike Trail 🚵‍♀️🏔️" loading="lazy" style="width:50px;height:auto;"></a>
