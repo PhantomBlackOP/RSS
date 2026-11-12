@@ -7,7 +7,7 @@ show_title: false
 
 # Daily Image Gallery 2026
 
-<p>327 Daily artworks and special editions. Select any image to view its original Zine post.</p>
+<p>328 Daily artworks and special editions. Select any image to view its original Zine post.</p>
 
 <div class="gallery-grid">
 <a href="https://zine.trevorion.io/20260101-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/01/366-Champagne-🥂🍾-225x150.png" alt="366: Champagne 🥂🍾" loading="lazy" style="width:50px;height:auto;"></a>
@@ -337,6 +337,7 @@ show_title: false
 <a href="https://zine.trevorion.io/20261108-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/677-Bike-Trail-🚵‍♀️🏔-225x150.png" alt="677: Bike Trail 🚵‍♀️🏔️" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261109-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/678-Corporate-Heir-🖤🌇-225x150.png" alt="678: Corporate Heir 🖤🌇" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261110-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/679-Awaiting-Departure-✈💕-225x150.png" alt="679: Awaiting Departure ✈💕" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261111-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/680-Shield-of-Isis-🛡️☀️-225x150.png" alt="680: Shield of Isis 🛡️☀️" loading="lazy" style="width:50px;height:auto;"></a>
 </div>
 
 <details class="archive-list"><summary>Browse all artwork titles</summary><ul>
@@ -667,4 +668,5 @@ show_title: false
 <li>677: Bike Trail 🚵‍♀️🏔️: <a href="https://zine.trevorion.io/20261108-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/11/677-Bike-Trail-🚵‍♀️🏔.png">Full artwork</a></li>
 <li>678: Corporate Heir 🖤🌇: <a href="https://zine.trevorion.io/20261109-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/11/678-Corporate-Heir-🖤🌇.png">Full artwork</a></li>
 <li>679: Awaiting Departure ✈💕: <a href="https://zine.trevorion.io/20261110-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/11/679-Awaiting-Departure-✈💕.png">Full artwork</a></li>
+<li>680: Shield of Isis 🛡️☀️: <a href="https://zine.trevorion.io/20261111-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/11/680-Shield-of-Isis-🛡️☀️.png">Full artwork</a></li>
 </ul></details>
