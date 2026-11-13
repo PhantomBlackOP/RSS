@@ -22,12 +22,12 @@ show_title: false
 <section aria-labelledby="recent-title">
  <div class="section-header"><h2 id="recent-title">Latest Daily artwork</h2><a href="/gallery/">All Dailies →</a></div>
  <div class="recent-art">
+<a href="https://zine.trevorion.io/20261112-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/681-Lone-Star-Belle-🤠🐎-960x640.png" alt="" loading="lazy" decoding="async"><span>681: Lone Star Belle 🤠🐎</span></a>
 <a href="https://zine.trevorion.io/20261111-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/680-Shield-of-Isis-🛡️☀️-960x640.png" alt="" loading="lazy" decoding="async"><span>680: Shield of Isis 🛡️☀️</span></a>
 <a href="https://zine.trevorion.io/20261110-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/679-Awaiting-Departure-✈💕-960x640.png" alt="" loading="lazy" decoding="async"><span>679: Awaiting Departure ✈💕</span></a>
 <a href="https://zine.trevorion.io/20261109-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/678-Corporate-Heir-🖤🌇-960x640.png" alt="" loading="lazy" decoding="async"><span>678: Corporate Heir 🖤🌇</span></a>
 <a href="https://zine.trevorion.io/20261108-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/677-Bike-Trail-🚵‍♀️🏔-960x640.png" alt="" loading="lazy" decoding="async"><span>677: Bike Trail 🚵‍♀️🏔️</span></a>
 <a href="https://zine.trevorion.io/20261107-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/676-A-World-of-Wonder-🌍🗺️-1-960x640.png" alt="" loading="lazy" decoding="async"><span>676: A World of Wonder 🌍🗺️</span></a>
-<a href="https://zine.trevorion.io/20261106-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/675-La-Resistance-☕🥀-960x640.png" alt="" loading="lazy" decoding="async"><span>675: La Résistance ☕🥀</span></a>
 </div>
 </section>
 <nav class="feed-strip" aria-label="RSS subscriptions">
