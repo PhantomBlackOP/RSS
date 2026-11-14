@@ -327,3 +327,4 @@
 <a href="https://zine.trevorion.io/20261110-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/679-Awaiting-Departure-✈💕-225x150.png" alt="679: Awaiting Departure ✈💕" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261111-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/680-Shield-of-Isis-🛡️☀️-225x150.png" alt="680: Shield of Isis 🛡️☀️" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261112-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/681-Lone-Star-Belle-🤠🐎-225x150.png" alt="681: Lone Star Belle 🤠🐎" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261113-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/682-Silver-Enchantment-✨🥂-225x150.png" alt="682: Silver Enchantment ✨🥂" loading="lazy" style="width:50px;height:auto;"></a>

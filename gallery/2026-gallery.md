@@ -7,7 +7,7 @@ show_title: false
 
 # Daily Image Gallery 2026
 
-<p>329 Daily artworks and special editions. Select any image to view its original Zine post.</p>
+<p>330 Daily artworks and special editions. Select any image to view its original Zine post.</p>
 
 <div class="gallery-grid">
 <a href="https://zine.trevorion.io/20260101-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/01/366-Champagne-🥂🍾-225x150.png" alt="366: Champagne 🥂🍾" loading="lazy" style="width:50px;height:auto;"></a>
@@ -339,6 +339,7 @@ show_title: false
 <a href="https://zine.trevorion.io/20261110-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/679-Awaiting-Departure-✈💕-225x150.png" alt="679: Awaiting Departure ✈💕" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261111-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/680-Shield-of-Isis-🛡️☀️-225x150.png" alt="680: Shield of Isis 🛡️☀️" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261112-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/681-Lone-Star-Belle-🤠🐎-225x150.png" alt="681: Lone Star Belle 🤠🐎" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261113-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/682-Silver-Enchantment-✨🥂-225x150.png" alt="682: Silver Enchantment ✨🥂" loading="lazy" style="width:50px;height:auto;"></a>
 </div>
 
 <details class="archive-list"><summary>Browse all artwork titles</summary><ul>
@@ -671,4 +672,5 @@ show_title: false
 <li>679: Awaiting Departure ✈💕: <a href="https://zine.trevorion.io/20261110-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/11/679-Awaiting-Departure-✈💕.png">Full artwork</a></li>
 <li>680: Shield of Isis 🛡️☀️: <a href="https://zine.trevorion.io/20261111-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/11/680-Shield-of-Isis-🛡️☀️.png">Full artwork</a></li>
 <li>681: Lone Star Belle 🤠🐎: <a href="https://zine.trevorion.io/20261112-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/11/681-Lone-Star-Belle-🤠🐎.png">Full artwork</a></li>
+<li>682: Silver Enchantment ✨🥂: <a href="https://zine.trevorion.io/20261113-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/11/682-Silver-Enchantment-✨🥂.png">Full artwork</a></li>
 </ul></details>
