@@ -9,9 +9,9 @@ show_title: false
 <p class="home-lead">Original Dailies, occasional special editions, news, articles and creative work. A weekly record of the Trevorion Zine, preserved and linked directly to each published post.</p>
 <section class="feature" aria-labelledby="latest-title">
   <div><div class="kicker">Latest weekly digest</div>
-    <h2 id="latest-title">2026 · Week 46</h2>
+    <h2 id="latest-title">2026 · Week 47</h2>
     <p>Published Dailies, stories and highlights from this week.</p></div>
-  <a class="action" href="/2026/11/09/week-46.html">Read latest digest →</a>
+  <a class="action" href="/2026/11/16/week-47.html">Read latest digest →</a>
 </section>
 <section class="portal-grid" aria-label="Browse the Zine RSS archive">
   <a class="portal-card" href="/archive/"><span class="card-icon">▤</span><strong>Weekly archive</strong><span>Browse every digest, newest first.</span></a>
@@ -22,12 +22,12 @@ show_title: false
 <section aria-labelledby="recent-title">
  <div class="section-header"><h2 id="recent-title">Latest Daily artwork</h2><a href="/gallery/">All Dailies →</a></div>
  <div class="recent-art">
+<a href="https://zine.trevorion.io/20261116-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/685-Red-Orbit-🪀☀️-960x640.png" alt="" loading="lazy" decoding="async"><span>685: Red Orbit 🪀☀️</span></a>
 <a href="https://zine.trevorion.io/20261115-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/684-Golden-Strings-🎶🪉-960x640.png" alt="" loading="lazy" decoding="async"><span>684: Golden Strings 🎶🪉</span></a>
 <a href="https://zine.trevorion.io/20261114-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/683-Igloo-❄️🧭-960x640.png" alt="" loading="lazy" decoding="async"><span>683: Igloo ❄️🧭</span></a>
 <a href="https://zine.trevorion.io/20261113-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/682-Silver-Enchantment-✨🥂-960x640.png" alt="" loading="lazy" decoding="async"><span>682: Silver Enchantment ✨🥂</span></a>
 <a href="https://zine.trevorion.io/20261112-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/681-Lone-Star-Belle-🤠🐎-960x640.png" alt="" loading="lazy" decoding="async"><span>681: Lone Star Belle 🤠🐎</span></a>
 <a href="https://zine.trevorion.io/20261111-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/680-Shield-of-Isis-🛡️☀️-960x640.png" alt="" loading="lazy" decoding="async"><span>680: Shield of Isis 🛡️☀️</span></a>
-<a href="https://zine.trevorion.io/20261110-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/679-Awaiting-Departure-✈💕-960x640.png" alt="" loading="lazy" decoding="async"><span>679: Awaiting Departure ✈💕</span></a>
 </div>
 </section>
 <nav class="feed-strip" aria-label="RSS subscriptions">
