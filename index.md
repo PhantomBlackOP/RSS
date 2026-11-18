@@ -22,12 +22,12 @@ show_title: false
 <section aria-labelledby="recent-title">
  <div class="section-header"><h2 id="recent-title">Latest Daily artwork</h2><a href="/gallery/">All Dailies →</a></div>
  <div class="recent-art">
+<a href="https://zine.trevorion.io/20261117-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/686-Jukebox-Serenade-🎶💿-960x640.png" alt="" loading="lazy" decoding="async"><span>686: Jukebox Serenade 🎶💿</span></a>
 <a href="https://zine.trevorion.io/20261116-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/685-Red-Orbit-🪀☀️-960x640.png" alt="" loading="lazy" decoding="async"><span>685: Red Orbit 🪀☀️</span></a>
 <a href="https://zine.trevorion.io/20261115-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/684-Golden-Strings-🎶🪉-960x640.png" alt="" loading="lazy" decoding="async"><span>684: Golden Strings 🎶🪉</span></a>
 <a href="https://zine.trevorion.io/20261114-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/683-Igloo-❄️🧭-960x640.png" alt="" loading="lazy" decoding="async"><span>683: Igloo ❄️🧭</span></a>
 <a href="https://zine.trevorion.io/20261113-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/682-Silver-Enchantment-✨🥂-960x640.png" alt="" loading="lazy" decoding="async"><span>682: Silver Enchantment ✨🥂</span></a>
 <a href="https://zine.trevorion.io/20261112-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/681-Lone-Star-Belle-🤠🐎-960x640.png" alt="" loading="lazy" decoding="async"><span>681: Lone Star Belle 🤠🐎</span></a>
-<a href="https://zine.trevorion.io/20261111-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/680-Shield-of-Isis-🛡️☀️-960x640.png" alt="" loading="lazy" decoding="async"><span>680: Shield of Isis 🛡️☀️</span></a>
 </div>
 </section>
 <nav class="feed-strip" aria-label="RSS subscriptions">
