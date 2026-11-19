@@ -717,4 +717,5 @@ show_title: false
 <a href="https://zine.trevorion.io/20261115-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/684-Golden-Strings-🎶🪉-225x150.png" alt="684: Golden Strings 🎶🪉" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261116-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/685-Red-Orbit-🪀☀️-225x150.png" alt="685: Red Orbit 🪀☀️" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261117-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/686-Jukebox-Serenade-🎶💿-225x150.png" alt="686: Jukebox Serenade 🎶💿" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261118-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/687-Golden-Twist-🥨☀-225x150.png" alt="687: Golden Twist 🥨☀" loading="lazy" style="width:50px;height:auto;"></a>
 </div>

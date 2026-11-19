@@ -3,7 +3,7 @@ layout: null
 permalink: /top20/scores.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<daily-rankings rubric-version="2026-10-12-v2" status="provisional-ai-assisted-first-pass" published-count="706" reviewed-count="669">
+<daily-rankings rubric-version="2026-10-12-v2" status="provisional-ai-assisted-first-pass" published-count="707" reviewed-count="669">
   <methodology>https://rss.trevorion.io/top20/methodology/</methodology>
   <limitations>Four criteria assessed individually from published small preview images. Execution, editorial value, Zine identity and presentation clarity are consistent derived estimates, not independent full-resolution reviews. Theme appeal measures estimated general subject interest, not an image's views or reactions. Results are provisional.</limitations>
   <daily rank="1">
@@ -1272,7 +1272,7 @@ permalink: /top20/scores.xml
     </theme-criteria>
     <tags>
       <tag>#GoldenHour</tag>
-      <tag>#Lantern</tag>
+      <tag>#Lanterns</tag>
       <tag>#Stern</tag>
       <tag>#SwivelGun</tag>
       <tag>#Taffrail</tag>
@@ -2162,7 +2162,7 @@ permalink: /top20/scores.xml
     </theme-criteria>
     <tags>
       <tag>#Carriage</tag>
-      <tag>#Cobblestones</tag>
+      <tag>#Cobblestone</tag>
       <tag>#Festive</tag>
       <tag>#StreetScene</tag>
       <tag>#Townscape</tag>
@@ -3937,7 +3937,7 @@ permalink: /top20/scores.xml
       <tag>#Carcajou</tag>
       <tag>#Fierce</tag>
       <tag>#Forest</tag>
-      <tag>#Mountain</tag>
+      <tag>#Mountains</tag>
       <tag>#Predator</tag>
       <tag>#Quickhatch</tag>
       <tag>#Wildlife</tag>
@@ -5218,7 +5218,7 @@ permalink: /top20/scores.xml
       <criterion name="evergreen">4</criterion>
     </theme-criteria>
     <tags>
-      <tag>#Books</tag>
+      <tag>#Book</tag>
       <tag>#Dome</tag>
       <tag>#Islam</tag>
       <tag>#Iwan</tag>
@@ -8447,7 +8447,7 @@ permalink: /top20/scores.xml
     </theme-criteria>
     <tags>
       <tag>#Guards</tag>
-      <tag>#Knights</tag>
+      <tag>#Knight</tag>
       <tag>#MedievalCity</tag>
       <tag>#Moat</tag>
       <tag>#Refugees</tag>
@@ -10322,7 +10322,7 @@ permalink: /top20/scores.xml
     <tags>
       <tag>#Birdwatching</tag>
       <tag>#DawnGlow</tag>
-      <tag>#FishingBoats</tag>
+      <tag>#FishingBoat</tag>
       <tag>#SeaSide</tag>
     </tags>
   </daily>
@@ -13767,7 +13767,7 @@ permalink: /top20/scores.xml
       <tag>#ChristmasDecor</tag>
       <tag>#FestiveSeason</tag>
       <tag>#Home</tag>
-      <tag>#Statues</tag>
+      <tag>#Statue</tag>
     </tags>
   </daily>
   <daily rank="421">
@@ -15190,7 +15190,7 @@ permalink: /top20/scores.xml
     </theme-criteria>
     <tags>
       <tag>#Brass</tag>
-      <tag>#Reflection</tag>
+      <tag>#Reflections</tag>
       <tag>#Sand</tag>
       <tag>#Sunset</tag>
       <tag>#Time</tag>
@@ -16490,7 +16490,7 @@ permalink: /top20/scores.xml
       <criterion name="evergreen">4</criterion>
     </theme-criteria>
     <tags>
-      <tag>#Aesthetics</tag>
+      <tag>#Aesthetic</tag>
       <tag>#Discipline</tag>
       <tag>#Elegance</tag>
       <tag>#Silla</tag>
@@ -17236,7 +17236,7 @@ permalink: /top20/scores.xml
       <tag>#BaroqueStyle</tag>
       <tag>#ClassicalVibes</tag>
       <tag>#HistoricCharm</tag>
-      <tag>#Music️</tag>
+      <tag>#Music</tag>
     </tags>
   </daily>
   <daily rank="529">
