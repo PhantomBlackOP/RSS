@@ -705,3 +705,4 @@
 <a href="https://zine.trevorion.io/20261116-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/685-Red-Orbit-🪀☀️-225x150.png" alt="685: Red Orbit 🪀☀️" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261117-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/686-Jukebox-Serenade-🎶💿-225x150.png" alt="686: Jukebox Serenade 🎶💿" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261118-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/687-Golden-Twist-🥨☀-225x150.png" alt="687: Golden Twist 🥨☀" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261119-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/688-The-Bookmobile-📚🚌-225x150.png" alt="688: The Bookmobile 📚🚌" loading="lazy" style="width:50px;height:auto;"></a>

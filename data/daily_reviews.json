@@ -2,7 +2,7 @@
   "schema_version": 3,
   "rubric_version": "2026-10-12-v2",
   "assessment_status": "Provisional AI-assisted whole-archive visual review.",
-  "published_daily_count": 707,
+  "published_daily_count": 708,
   "reviewed_daily_count": 669,
   "review_limitations": "Four visual criteria judged at published small-preview scale. Execution, editorial value, Zine identity and presentation clarity are reproducible estimates, not independent high-resolution reviews. Theme appeal is a subject-interest estimate, never actual engagement.",
   "weights": {
@@ -33,8 +33,8 @@
       "scores": {
         "style": 10.0,
         "visual_impact": 10.0,
-        "originality": 10.0,
         "story": 9.0,
+        "originality": 10.0,
         "execution": 10.0,
         "editorial_value": 9.0,
         "zine_identity": 10.0,
@@ -78,8 +78,8 @@
       "scores": {
         "style": 10.0,
         "visual_impact": 10.0,
-        "originality": 9.0,
         "story": 9.0,
+        "originality": 9.0,
         "execution": 10.0,
         "editorial_value": 9.0,
         "zine_identity": 10.0,
@@ -122,8 +122,8 @@
       "scores": {
         "style": 10.0,
         "visual_impact": 10.0,
-        "originality": 8.0,
         "story": 9.0,
+        "originality": 8.0,
         "execution": 10.0,
         "editorial_value": 10.0,
         "zine_identity": 9.0,
@@ -166,8 +166,8 @@
       "scores": {
         "style": 10.0,
         "visual_impact": 10.0,
-        "originality": 8.0,
         "story": 9.0,
+        "originality": 8.0,
         "execution": 10.0,
         "editorial_value": 10.0,
         "zine_identity": 9.0,
@@ -211,8 +211,8 @@
       "scores": {
         "style": 10.0,
         "visual_impact": 10.0,
-        "originality": 8.0,
         "story": 9.0,
+        "originality": 8.0,
         "execution": 10.0,
         "editorial_value": 9.5,
         "zine_identity": 9.5,
@@ -255,8 +255,8 @@
       "scores": {
         "style": 10.0,
         "visual_impact": 10.0,
-        "originality": 9.0,
         "story": 9.0,
+        "originality": 9.0,
         "execution": 10.0,
         "editorial_value": 8.0,
         "zine_identity": 9.5,
@@ -299,8 +299,8 @@
       "scores": {
         "style": 10.0,
         "visual_impact": 10.0,
-        "originality": 9.0,
         "story": 9.0,
+        "originality": 9.0,
         "execution": 10.0,
         "editorial_value": 8.0,
         "zine_identity": 9.5,
@@ -342,8 +342,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 10.0,
-        "originality": 9.0,
         "story": 9.0,
+        "originality": 9.0,
         "execution": 9.5,
         "editorial_value": 9.5,
         "zine_identity": 9.0,
@@ -386,8 +386,8 @@
       "scores": {
         "style": 10.0,
         "visual_impact": 10.0,
-        "originality": 8.0,
         "story": 9.0,
+        "originality": 8.0,
         "execution": 10.0,
         "editorial_value": 8.0,
         "zine_identity": 9.0,
@@ -419,7 +419,7 @@
       "tags": [
         "#Castanets",
         "#FolkDance",
-        "#Guitars",
+        "#Guitar",
         "#SpanishFiesta",
         "#VillagePlaza"
       ],
@@ -429,8 +429,8 @@
       "scores": {
         "style": 10.0,
         "visual_impact": 10.0,
-        "originality": 8.0,
         "story": 9.0,
+        "originality": 8.0,
         "execution": 10.0,
         "editorial_value": 8.0,
         "zine_identity": 9.0,
@@ -472,8 +472,8 @@
       "scores": {
         "style": 10.0,
         "visual_impact": 10.0,
-        "originality": 9.0,
         "story": 7.0,
+        "originality": 9.0,
         "execution": 10.0,
         "editorial_value": 9.5,
         "zine_identity": 9.0,
@@ -518,8 +518,8 @@
       "scores": {
         "style": 10.0,
         "visual_impact": 10.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 10.0,
         "editorial_value": 8.0,
         "zine_identity": 9.0,
@@ -561,8 +561,8 @@
       "scores": {
         "style": 10.0,
         "visual_impact": 10.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 10.0,
         "editorial_value": 7.5,
         "zine_identity": 9.0,
@@ -603,8 +603,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 10.0,
+        "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 9.5,
         "zine_identity": 9.0,
@@ -646,8 +646,8 @@
       "scores": {
         "style": 10.0,
         "visual_impact": 10.0,
-        "originality": 9.0,
         "story": 7.0,
+        "originality": 9.0,
         "execution": 10.0,
         "editorial_value": 8.5,
         "zine_identity": 9.0,
@@ -690,8 +690,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 10.0,
+        "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 8.5,
         "zine_identity": 9.0,
@@ -733,8 +733,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 10.0,
-        "originality": 8.0,
         "story": 9.0,
+        "originality": 8.0,
         "execution": 9.5,
         "editorial_value": 8.5,
         "zine_identity": 8.5,
@@ -776,8 +776,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 9.0,
+        "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 9.5,
         "zine_identity": 9.0,
@@ -820,8 +820,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 9.0,
+        "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 9.5,
         "zine_identity": 9.0,
@@ -864,8 +864,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 10.0,
+        "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 8.0,
         "zine_identity": 9.0,
@@ -903,8 +903,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 9.0,
+        "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 9.0,
         "zine_identity": 9.0,
@@ -945,8 +945,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 10.0,
         "zine_identity": 9.0,
@@ -990,8 +990,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 10.0,
         "zine_identity": 9.0,
@@ -1035,8 +1035,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 10.0,
+        "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 8.0,
         "zine_identity": 9.0,
@@ -1076,8 +1076,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 9.0,
         "zine_identity": 9.0,
@@ -1118,8 +1118,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 9.0,
+        "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 7.5,
         "zine_identity": 9.0,
@@ -1159,8 +1159,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 9.0,
+        "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 7.5,
         "zine_identity": 9.0,
@@ -1201,8 +1201,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 9.0,
+        "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 9.0,
         "zine_identity": 8.5,
@@ -1243,8 +1243,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 9.0,
+        "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 8.5,
         "zine_identity": 8.5,
@@ -1285,8 +1285,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 8.0,
         "zine_identity": 9.0,
@@ -1329,8 +1329,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 7.5,
         "zine_identity": 9.0,
@@ -1370,8 +1370,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 7.5,
         "zine_identity": 9.0,
@@ -1409,8 +1409,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 7.5,
         "zine_identity": 9.0,
@@ -1441,7 +1441,7 @@
         "#CoralFormations",
         "#GreekMythology",
         "#SeaNymph",
-        "#TurquoiseWaters"
+        "#TurquoiseWater"
       ],
       "date": "2026-03-25T11:30:00+00:00",
       "artistic_merit": 86.75,
@@ -1449,8 +1449,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 10.0,
         "zine_identity": 8.5,
@@ -1494,8 +1494,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 9.0,
         "zine_identity": 8.5,
@@ -1539,8 +1539,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 9.0,
         "zine_identity": 8.5,
@@ -1585,8 +1585,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 9.0,
         "zine_identity": 8.5,
@@ -1629,8 +1629,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 9.0,
+        "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 7.5,
         "zine_identity": 8.5,
@@ -1671,8 +1671,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 9.0,
+        "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 7.5,
         "zine_identity": 8.5,
@@ -1711,8 +1711,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 9.5,
         "zine_identity": 8.5,
@@ -1755,8 +1755,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 9.5,
         "zine_identity": 8.5,
@@ -1800,8 +1800,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 8.5,
         "zine_identity": 8.5,
@@ -1843,8 +1843,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 7.0,
         "story": 9.0,
+        "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 8.5,
         "zine_identity": 8.5,
@@ -1886,8 +1886,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 9.0,
         "zine_identity": 8.5,
@@ -1930,8 +1930,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 9.0,
         "zine_identity": 8.5,
@@ -1974,8 +1974,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 9.0,
         "zine_identity": 8.5,
@@ -2018,8 +2018,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 8.0,
         "zine_identity": 8.5,
@@ -2062,8 +2062,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 8.0,
         "zine_identity": 8.5,
@@ -2107,8 +2107,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 8.0,
         "zine_identity": 8.5,
@@ -2151,8 +2151,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 8.0,
         "zine_identity": 8.5,
@@ -2193,8 +2193,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 7.0,
+        "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 8.0,
         "zine_identity": 8.5,
@@ -2237,8 +2237,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.5,
@@ -2281,8 +2281,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.5,
@@ -2323,8 +2323,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 10.0,
         "zine_identity": 8.0,
@@ -2369,8 +2369,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 7.0,
         "story": 8.0,
+        "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 9.0,
         "zine_identity": 8.0,
@@ -2415,8 +2415,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.5,
         "zine_identity": 8.5,
@@ -2462,8 +2462,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.5,
         "zine_identity": 8.5,
@@ -2506,8 +2506,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.5,
@@ -2548,8 +2548,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 7.0,
         "zine_identity": 8.5,
@@ -2590,8 +2590,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.5,
@@ -2633,8 +2633,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.5,
@@ -2677,8 +2677,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.5,
@@ -2720,8 +2720,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.5,
@@ -2761,8 +2761,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 7.0,
         "zine_identity": 8.5,
@@ -2801,8 +2801,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.5,
         "zine_identity": 8.0,
@@ -2847,8 +2847,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.5,
         "zine_identity": 8.0,
@@ -2892,8 +2892,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
         "zine_identity": 8.5,
@@ -2937,8 +2937,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
         "zine_identity": 8.5,
@@ -2979,8 +2979,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 7.5,
         "zine_identity": 8.5,
@@ -3017,8 +3017,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 7.5,
         "zine_identity": 8.5,
@@ -3057,8 +3057,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 7.5,
         "zine_identity": 8.5,
@@ -3098,8 +3098,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 7.5,
         "zine_identity": 8.5,
@@ -3140,8 +3140,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 7.5,
         "zine_identity": 8.5,
@@ -3182,8 +3182,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
         "zine_identity": 8.0,
@@ -3227,8 +3227,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
         "zine_identity": 8.0,
@@ -3270,8 +3270,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
         "zine_identity": 8.0,
@@ -3314,8 +3314,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
         "zine_identity": 8.0,
@@ -3357,8 +3357,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
         "zine_identity": 8.0,
@@ -3401,8 +3401,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
         "zine_identity": 8.0,
@@ -3445,8 +3445,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
         "zine_identity": 8.0,
@@ -3489,8 +3489,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
         "zine_identity": 8.0,
@@ -3535,8 +3535,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 9.0,
         "zine_identity": 8.0,
@@ -3580,8 +3580,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 9.5,
         "zine_identity": 8.0,
@@ -3626,8 +3626,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.5,
@@ -3672,8 +3672,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.5,
@@ -3716,8 +3716,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -3759,8 +3759,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 7.0,
         "story": 8.0,
+        "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 7.5,
         "zine_identity": 8.0,
@@ -3802,8 +3802,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -3847,8 +3847,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -3892,8 +3892,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -3935,8 +3935,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -3977,8 +3977,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -4019,8 +4019,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -4062,8 +4062,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -4104,8 +4104,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -4146,8 +4146,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -4189,8 +4189,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -4233,8 +4233,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -4276,8 +4276,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -4318,8 +4318,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -4361,8 +4361,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -4404,8 +4404,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -4449,8 +4449,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -4493,8 +4493,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -4537,8 +4537,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -4581,8 +4581,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.5,
@@ -4625,8 +4625,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -4667,8 +4667,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -4710,8 +4710,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -4752,8 +4752,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -4794,8 +4794,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -4836,8 +4836,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -4879,8 +4879,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -4922,8 +4922,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -4965,8 +4965,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -5008,8 +5008,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -5051,8 +5051,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -5096,8 +5096,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -5140,8 +5140,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -5185,8 +5185,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -5230,8 +5230,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -5272,8 +5272,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -5317,8 +5317,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -5361,8 +5361,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -5403,8 +5403,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -5446,8 +5446,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -5490,8 +5490,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -5532,8 +5532,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 5.0,
+        "originality": 9.0,
         "execution": 9.0,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -5576,8 +5576,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -5620,8 +5620,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -5662,8 +5662,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 9.0,
@@ -5706,8 +5706,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -5751,8 +5751,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -5794,8 +5794,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -5838,8 +5838,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -5881,8 +5881,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -5924,8 +5924,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -5967,8 +5967,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6009,8 +6009,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6053,8 +6053,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6096,8 +6096,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6141,8 +6141,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6185,8 +6185,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6226,8 +6226,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6266,8 +6266,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6305,8 +6305,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6345,8 +6345,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 9.0,
         "story": 7.0,
+        "originality": 9.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6385,8 +6385,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6425,8 +6425,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6467,8 +6467,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6509,8 +6509,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6549,8 +6549,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6589,8 +6589,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6629,8 +6629,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6670,8 +6670,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6711,8 +6711,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6752,8 +6752,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6793,8 +6793,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6836,8 +6836,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6879,8 +6879,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6920,8 +6920,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -6961,8 +6961,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -7002,8 +7002,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -7043,8 +7043,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -7085,8 +7085,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -7126,8 +7126,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -7167,8 +7167,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 9.0,
         "zine_identity": 8.5,
@@ -7211,8 +7211,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.5,
         "zine_identity": 8.0,
@@ -7254,8 +7254,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 9.0,
         "zine_identity": 8.0,
@@ -7296,8 +7296,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -7340,8 +7340,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 5.0,
+        "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -7382,8 +7382,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -7427,8 +7427,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -7469,8 +7469,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -7512,8 +7512,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -7545,7 +7545,7 @@
       "tags": [
         "#AerialPrecision",
         "#Contrails",
-        "#FighterJets",
+        "#FighterJet",
         "#JetFormation",
         "#Military"
       ],
@@ -7555,8 +7555,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -7596,8 +7596,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -7637,8 +7637,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 8.5,
@@ -7681,8 +7681,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 9.0,
-        "originality": 7.0,
         "story": 8.0,
+        "originality": 7.0,
         "execution": 8.5,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -7722,8 +7722,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 8.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 9.5,
         "zine_identity": 8.0,
@@ -7767,8 +7767,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 7.0,
         "story": 6.0,
+        "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -7811,8 +7811,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 8.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 9.5,
         "zine_identity": 8.0,
@@ -7857,8 +7857,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -7902,8 +7902,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -7945,8 +7945,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 7.0,
         "story": 6.0,
+        "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -7988,8 +7988,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -8031,8 +8031,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -8076,8 +8076,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 8.0,
         "story": 5.0,
+        "originality": 8.0,
         "execution": 9.0,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -8118,8 +8118,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 8.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 9.5,
         "zine_identity": 7.5,
@@ -8164,8 +8164,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.5,
         "zine_identity": 8.0,
@@ -8207,8 +8207,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 9.0,
         "zine_identity": 8.0,
@@ -8249,8 +8249,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 8.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 9.0,
         "zine_identity": 7.5,
@@ -8294,8 +8294,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 8.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 9.0,
         "zine_identity": 7.5,
@@ -8336,8 +8336,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 9.0,
         "story": 8.0,
+        "originality": 9.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -8379,8 +8379,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -8423,8 +8423,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -8468,8 +8468,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -8511,8 +8511,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -8552,8 +8552,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -8594,8 +8594,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -8634,8 +8634,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -8675,8 +8675,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -8718,8 +8718,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -8759,8 +8759,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -8801,8 +8801,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -8843,8 +8843,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 9.0,
         "zine_identity": 7.5,
@@ -8887,8 +8887,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 9.5,
         "zine_identity": 7.5,
@@ -8932,8 +8932,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 9.0,
         "zine_identity": 7.5,
@@ -8976,8 +8976,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 9.0,
         "zine_identity": 7.5,
@@ -9018,8 +9018,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 8.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -9059,8 +9059,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.5,
         "zine_identity": 8.0,
@@ -9103,8 +9103,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.5,
         "zine_identity": 8.0,
@@ -9147,8 +9147,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.5,
         "zine_identity": 8.0,
@@ -9190,8 +9190,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.5,
         "zine_identity": 8.0,
@@ -9234,8 +9234,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.5,
         "zine_identity": 8.0,
@@ -9276,8 +9276,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.5,
         "zine_identity": 8.0,
@@ -9319,8 +9319,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 9.0,
         "zine_identity": 8.0,
@@ -9362,8 +9362,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.5,
         "zine_identity": 7.5,
@@ -9406,8 +9406,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 9.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -9447,8 +9447,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.5,
         "zine_identity": 7.5,
@@ -9488,8 +9488,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -9529,8 +9529,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -9572,8 +9572,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -9616,8 +9616,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -9659,8 +9659,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -9696,7 +9696,7 @@
         "#MaidCafe",
         "#Moe",
         "#SliceOfLife",
-        "#SweetTreats"
+        "#SweetTreat"
       ],
       "date": "2026-06-16T10:30:00+00:00",
       "artistic_merit": 77.5,
@@ -9704,8 +9704,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -9745,8 +9745,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -9785,8 +9785,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -9823,8 +9823,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -9863,8 +9863,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -9905,8 +9905,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -9947,8 +9947,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -9989,8 +9989,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -10029,8 +10029,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 8.0,
@@ -10068,8 +10068,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -10111,8 +10111,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -10154,8 +10154,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -10196,8 +10196,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -10239,8 +10239,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 9.5,
         "zine_identity": 7.5,
@@ -10284,8 +10284,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -10327,8 +10327,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.5,
         "zine_identity": 7.5,
@@ -10371,8 +10371,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.5,
         "zine_identity": 7.5,
@@ -10415,8 +10415,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -10461,8 +10461,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.5,
         "zine_identity": 7.5,
@@ -10504,8 +10504,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -10548,8 +10548,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -10592,8 +10592,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -10632,8 +10632,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -10674,8 +10674,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -10716,8 +10716,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -10759,8 +10759,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -10802,8 +10802,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -10844,8 +10844,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -10888,8 +10888,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -10932,8 +10932,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -10977,8 +10977,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 8.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 9.0,
         "zine_identity": 7.0,
@@ -11021,8 +11021,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 8.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 9.0,
         "zine_identity": 7.0,
@@ -11066,8 +11066,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 8.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 9.0,
         "zine_identity": 7.0,
@@ -11111,8 +11111,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.5,
         "zine_identity": 8.0,
@@ -11153,8 +11153,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -11195,8 +11195,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -11237,8 +11237,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -11279,8 +11279,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -11322,8 +11322,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -11364,8 +11364,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -11407,8 +11407,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.5,
         "zine_identity": 7.5,
@@ -11451,8 +11451,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -11482,7 +11482,7 @@
       "title": "476: Gardener 🌺🦋",
       "image_url": "https://zine.trevorion.io/wp-content/uploads/2026/04/476-Gardener-🌺🦋.png",
       "tags": [
-        "#Butterflies",
+        "#Butterfly",
         "#FlowerBed",
         "#GardenCare",
         "#Ixora",
@@ -11494,8 +11494,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -11539,8 +11539,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -11583,8 +11583,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -11627,8 +11627,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -11670,8 +11670,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -11714,8 +11714,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -11758,8 +11758,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -11799,8 +11799,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -11840,8 +11840,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -11880,8 +11880,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -11920,8 +11920,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -11961,8 +11961,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 8.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -12002,8 +12002,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -12047,8 +12047,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 7.0,
         "story": 4.0,
+        "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -12090,8 +12090,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 8.0,
@@ -12134,8 +12134,8 @@
       "scores": {
         "style": 9.0,
         "visual_impact": 9.0,
-        "originality": 7.0,
         "story": 4.0,
+        "originality": 7.0,
         "execution": 9.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -12177,8 +12177,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 8.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.5,
         "zine_identity": 7.0,
@@ -12219,8 +12219,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -12263,8 +12263,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -12307,8 +12307,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -12352,8 +12352,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -12393,8 +12393,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -12434,8 +12434,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -12476,8 +12476,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -12520,8 +12520,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -12564,8 +12564,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -12607,8 +12607,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -12649,8 +12649,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -12693,8 +12693,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.5,
@@ -12735,8 +12735,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -12774,8 +12774,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -12815,8 +12815,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -12856,8 +12856,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -12897,8 +12897,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -12937,8 +12937,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -12978,8 +12978,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -13020,8 +13020,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -13062,8 +13062,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -13103,8 +13103,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 8.0,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -13145,8 +13145,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 9.5,
         "zine_identity": 7.0,
@@ -13190,8 +13190,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 9.0,
         "zine_identity": 7.5,
@@ -13236,8 +13236,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -13278,8 +13278,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 9.0,
         "zine_identity": 7.5,
@@ -13325,8 +13325,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -13369,8 +13369,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -13410,8 +13410,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 8.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -13451,8 +13451,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 8.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -13494,8 +13494,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 8.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -13538,8 +13538,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 8.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -13581,8 +13581,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 9.0,
         "zine_identity": 7.0,
@@ -13625,8 +13625,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.5,
         "zine_identity": 7.5,
@@ -13670,8 +13670,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -13711,8 +13711,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -13750,8 +13750,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -13789,8 +13789,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -13830,8 +13830,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -13871,8 +13871,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -13913,8 +13913,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -13955,8 +13955,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -13998,8 +13998,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.5,
         "zine_identity": 7.0,
@@ -14045,8 +14045,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.5,
         "zine_identity": 7.0,
@@ -14088,8 +14088,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 9.5,
         "zine_identity": 8.0,
@@ -14133,8 +14133,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.5,
         "zine_identity": 7.0,
@@ -14176,8 +14176,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.5,
         "zine_identity": 7.0,
@@ -14219,8 +14219,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.5,
         "zine_identity": 7.0,
@@ -14264,8 +14264,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.5,
         "zine_identity": 7.0,
@@ -14307,8 +14307,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 8.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -14350,8 +14350,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -14394,8 +14394,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -14438,8 +14438,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -14482,8 +14482,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -14524,8 +14524,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -14568,8 +14568,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -14611,8 +14611,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -14655,8 +14655,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -14698,8 +14698,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -14739,8 +14739,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -14781,8 +14781,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -14825,8 +14825,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -14868,8 +14868,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -14912,8 +14912,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -14955,8 +14955,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -14997,8 +14997,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -15039,8 +15039,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -15082,8 +15082,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -15127,8 +15127,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -15170,8 +15170,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -15215,8 +15215,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -15260,8 +15260,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -15303,8 +15303,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -15348,8 +15348,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -15389,8 +15389,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -15431,8 +15431,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -15473,8 +15473,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 8.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -15514,8 +15514,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -15556,8 +15556,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -15598,8 +15598,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -15642,8 +15642,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -15685,8 +15685,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -15728,8 +15728,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -15771,8 +15771,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -15814,8 +15814,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 8.0,
         "editorial_value": 6.5,
         "zine_identity": 7.0,
@@ -15859,8 +15859,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -15904,8 +15904,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -15949,8 +15949,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -15992,8 +15992,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -16036,8 +16036,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -16079,8 +16079,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -16122,8 +16122,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 8.0,
         "editorial_value": 6.5,
         "zine_identity": 7.0,
@@ -16166,8 +16166,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 9.0,
         "zine_identity": 6.5,
@@ -16209,8 +16209,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 8.5,
         "zine_identity": 7.5,
@@ -16252,8 +16252,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 8.5,
         "zine_identity": 7.5,
@@ -16296,8 +16296,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 9.0,
         "zine_identity": 6.5,
@@ -16341,8 +16341,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -16384,8 +16384,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -16429,8 +16429,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -16473,8 +16473,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -16516,8 +16516,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -16560,8 +16560,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -16601,8 +16601,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -16642,8 +16642,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -16685,8 +16685,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -16729,8 +16729,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -16773,8 +16773,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -16815,8 +16815,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -16854,8 +16854,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -16893,8 +16893,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 8.0,
         "story": 6.0,
+        "originality": 8.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -16932,8 +16932,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -16972,8 +16972,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -17012,8 +17012,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -17051,8 +17051,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -17093,8 +17093,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -17135,8 +17135,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 8.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -17177,8 +17177,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -17220,8 +17220,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -17261,8 +17261,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -17302,8 +17302,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -17344,8 +17344,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -17386,8 +17386,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -17427,8 +17427,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -17469,8 +17469,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -17510,8 +17510,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -17552,8 +17552,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -17594,8 +17594,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -17633,8 +17633,8 @@
       "scores": {
         "style": 8.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -17675,8 +17675,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 6.5,
@@ -17717,8 +17717,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -17760,8 +17760,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 9.0,
         "zine_identity": 7.5,
@@ -17806,8 +17806,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 6.5,
@@ -17847,8 +17847,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 6.5,
@@ -17889,8 +17889,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 8.0,
         "zine_identity": 6.5,
@@ -17934,8 +17934,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 9.0,
         "zine_identity": 7.0,
@@ -17979,8 +17979,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -18025,8 +18025,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -18067,8 +18067,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -18110,8 +18110,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -18153,8 +18153,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -18196,8 +18196,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -18240,8 +18240,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -18284,8 +18284,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -18327,8 +18327,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -18368,8 +18368,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -18409,8 +18409,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -18452,8 +18452,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -18495,8 +18495,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -18537,8 +18537,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.5,
@@ -18576,8 +18576,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.5,
         "zine_identity": 7.0,
@@ -18619,8 +18619,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.5,
         "zine_identity": 7.0,
@@ -18661,8 +18661,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 6.5,
@@ -18705,8 +18705,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 6.5,
@@ -18750,8 +18750,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 6.5,
@@ -18793,8 +18793,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 6.5,
@@ -18837,8 +18837,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 6.5,
@@ -18880,8 +18880,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -18922,8 +18922,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -18963,8 +18963,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -19007,8 +19007,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 6.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 7.0,
@@ -19051,8 +19051,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -19092,8 +19092,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -19135,8 +19135,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -19178,8 +19178,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -19221,8 +19221,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -19263,8 +19263,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 8.0,
         "zine_identity": 7.0,
@@ -19304,8 +19304,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 6.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 7.0,
@@ -19344,8 +19344,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 7.0,
         "story": 6.0,
+        "originality": 7.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 7.0,
@@ -19383,8 +19383,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -19426,8 +19426,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -19469,8 +19469,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -19513,8 +19513,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -19555,8 +19555,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -19596,8 +19596,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -19638,8 +19638,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -19683,8 +19683,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -19724,8 +19724,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -19764,8 +19764,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -19804,8 +19804,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -19847,8 +19847,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -19887,8 +19887,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -19928,8 +19928,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -19969,8 +19969,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -20012,8 +20012,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -20053,8 +20053,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -20088,8 +20088,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -20129,8 +20129,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -20170,8 +20170,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 7.5,
@@ -20211,8 +20211,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -20252,8 +20252,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 8.0,
         "story": 6.0,
+        "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -20293,8 +20293,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -20335,8 +20335,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -20377,8 +20377,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -20418,8 +20418,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 8.0,
         "story": 6.0,
+        "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -20460,8 +20460,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 8.0,
         "story": 6.0,
+        "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -20502,8 +20502,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -20545,8 +20545,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -20586,8 +20586,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -20627,8 +20627,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -20668,8 +20668,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -20709,8 +20709,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -20752,8 +20752,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -20794,8 +20794,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -20836,8 +20836,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -20877,8 +20877,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -20920,8 +20920,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -20964,8 +20964,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -21005,8 +21005,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -21044,8 +21044,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -21083,8 +21083,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -21122,8 +21122,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -21161,8 +21161,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -21200,8 +21200,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -21239,8 +21239,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -21278,8 +21278,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -21317,8 +21317,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -21356,8 +21356,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -21396,8 +21396,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -21435,8 +21435,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 8.0,
         "story": 6.0,
+        "originality": 8.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -21476,8 +21476,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -21518,8 +21518,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -21559,8 +21559,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -21601,8 +21601,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -21643,8 +21643,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 5.0,
         "story": 7.0,
+        "originality": 5.0,
         "execution": 7.5,
         "editorial_value": 7.0,
         "zine_identity": 6.5,
@@ -21687,8 +21687,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 8.0,
-        "originality": 5.0,
         "story": 7.0,
+        "originality": 5.0,
         "execution": 7.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -21729,8 +21729,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 8.0,
         "zine_identity": 6.5,
@@ -21771,8 +21771,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 8.0,
         "zine_identity": 6.5,
@@ -21813,8 +21813,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 8.0,
         "zine_identity": 6.5,
@@ -21856,8 +21856,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 8.0,
         "zine_identity": 6.5,
@@ -21899,8 +21899,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 8.0,
         "zine_identity": 6.5,
@@ -21942,8 +21942,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 6.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -21983,8 +21983,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 6.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -22025,8 +22025,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 8.0,
         "story": 7.0,
+        "originality": 8.0,
         "execution": 6.5,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -22064,8 +22064,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -22106,8 +22106,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -22147,8 +22147,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -22189,8 +22189,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -22230,8 +22230,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -22272,8 +22272,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -22316,8 +22316,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -22361,8 +22361,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -22405,8 +22405,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -22447,8 +22447,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -22489,8 +22489,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -22530,8 +22530,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -22572,8 +22572,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -22613,8 +22613,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 6.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -22654,8 +22654,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 8.5,
         "zine_identity": 7.0,
@@ -22696,8 +22696,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 6.5,
@@ -22737,8 +22737,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 6.5,
         "editorial_value": 8.0,
         "zine_identity": 6.5,
@@ -22779,8 +22779,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 6.5,
@@ -22820,8 +22820,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 6.5,
@@ -22861,8 +22861,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 6.5,
@@ -22902,8 +22902,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 6.5,
@@ -22943,8 +22943,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 6.5,
@@ -22984,8 +22984,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 6.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 7.0,
@@ -23025,8 +23025,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 6.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 7.0,
@@ -23066,8 +23066,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 6.0,
+        "originality": 7.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 7.0,
@@ -23105,8 +23105,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23146,8 +23146,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23188,8 +23188,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23230,8 +23230,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23271,8 +23271,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23315,8 +23315,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23357,8 +23357,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 8.0,
         "zine_identity": 6.5,
@@ -23399,8 +23399,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23441,8 +23441,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23482,8 +23482,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23521,8 +23521,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23560,8 +23560,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23599,8 +23599,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23638,8 +23638,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23677,8 +23677,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23715,8 +23715,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23754,8 +23754,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23793,8 +23793,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23832,8 +23832,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23872,8 +23872,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23911,8 +23911,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23950,8 +23950,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -23991,8 +23991,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -24032,8 +24032,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -24073,8 +24073,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -24114,8 +24114,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -24155,8 +24155,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -24196,8 +24196,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -24237,8 +24237,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -24278,8 +24278,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -24322,8 +24322,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -24363,8 +24363,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 7.0,
@@ -24406,8 +24406,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 7.0,
+        "originality": 7.0,
         "execution": 6.5,
         "editorial_value": 7.0,
         "zine_identity": 6.5,
@@ -24449,8 +24449,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -24494,8 +24494,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 7.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -24535,8 +24535,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -24576,8 +24576,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 6.5,
@@ -24618,8 +24618,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 7.0,
@@ -24659,8 +24659,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 7.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 6.5,
@@ -24702,8 +24702,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 6.5,
@@ -24744,8 +24744,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 6.5,
@@ -24786,8 +24786,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 8.5,
         "zine_identity": 6.5,
@@ -24828,8 +24828,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -24869,8 +24869,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 7.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -24910,8 +24910,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 7.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -24952,8 +24952,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -24995,8 +24995,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 7.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -25038,8 +25038,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -25079,8 +25079,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -25118,8 +25118,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -25157,8 +25157,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 7.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -25197,8 +25197,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 7.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -25236,8 +25236,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -25276,8 +25276,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -25315,8 +25315,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -25356,8 +25356,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -25397,8 +25397,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -25438,8 +25438,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 7.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -25477,8 +25477,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 6.0,
@@ -25519,8 +25519,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 7.5,
         "zine_identity": 6.0,
@@ -25561,8 +25561,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 6.0,
+        "originality": 7.0,
         "execution": 6.5,
         "editorial_value": 6.5,
         "zine_identity": 6.5,
@@ -25602,8 +25602,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 6.0,
@@ -25644,8 +25644,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 6.0,
@@ -25688,8 +25688,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 6.0,
@@ -25733,8 +25733,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 7.0,
         "zine_identity": 6.0,
@@ -25774,8 +25774,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -25815,8 +25815,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -25856,8 +25856,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -25898,8 +25898,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -25939,8 +25939,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -25981,8 +25981,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -26026,8 +26026,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -26070,8 +26070,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 7.5,
         "zine_identity": 6.0,
@@ -26111,8 +26111,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 7.0,
         "story": 5.0,
+        "originality": 7.0,
         "execution": 6.5,
         "editorial_value": 7.5,
         "zine_identity": 6.0,
@@ -26152,8 +26152,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 7.0,
+        "originality": 5.0,
         "execution": 6.5,
         "editorial_value": 7.5,
         "zine_identity": 6.0,
@@ -26193,8 +26193,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -26232,8 +26232,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -26271,8 +26271,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -26310,8 +26310,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -26351,8 +26351,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -26392,8 +26392,8 @@
       "scores": {
         "style": 7.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 7.0,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -26431,8 +26431,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 7.0,
+        "originality": 5.0,
         "execution": 6.5,
         "editorial_value": 7.0,
         "zine_identity": 6.0,
@@ -26473,8 +26473,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 7.0,
         "zine_identity": 6.0,
@@ -26514,8 +26514,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 7.0,
         "zine_identity": 6.0,
@@ -26556,8 +26556,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 6.5,
         "editorial_value": 8.5,
         "zine_identity": 6.0,
@@ -26601,8 +26601,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -26642,8 +26642,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -26681,8 +26681,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -26720,8 +26720,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -26759,8 +26759,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -26803,8 +26803,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -26844,8 +26844,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 6.5,
         "editorial_value": 7.5,
         "zine_identity": 5.5,
@@ -26888,8 +26888,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 6.5,
         "editorial_value": 7.5,
         "zine_identity": 5.5,
@@ -26931,8 +26931,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 5.0,
+        "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 7.0,
         "zine_identity": 6.0,
@@ -26973,8 +26973,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 6.5,
         "editorial_value": 7.0,
         "zine_identity": 5.5,
@@ -27014,8 +27014,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 6.0,
         "story": 5.0,
+        "originality": 6.0,
         "execution": 6.5,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -27055,8 +27055,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 6.5,
         "editorial_value": 6.5,
         "zine_identity": 5.5,
@@ -27096,8 +27096,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 6.5,
         "editorial_value": 6.5,
         "zine_identity": 5.5,
@@ -27135,8 +27135,8 @@
       "scores": {
         "style": 5.0,
         "visual_impact": 6.0,
-        "originality": 7.0,
         "story": 6.0,
+        "originality": 7.0,
         "execution": 5.5,
         "editorial_value": 7.5,
         "zine_identity": 6.0,
@@ -27176,8 +27176,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 6.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 6.0,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -27215,8 +27215,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 6.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 6.0,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -27254,8 +27254,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 6.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 6.0,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -27293,8 +27293,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 7.0,
-        "originality": 5.0,
         "story": 5.0,
+        "originality": 5.0,
         "execution": 6.5,
         "editorial_value": 6.0,
         "zine_identity": 5.5,
@@ -27332,8 +27332,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 6.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 7.0,
         "zine_identity": 5.5,
@@ -27373,8 +27373,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 6.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 7.0,
         "zine_identity": 5.5,
@@ -27415,8 +27415,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 6.0,
-        "originality": 6.0,
         "story": 5.0,
+        "originality": 6.0,
         "execution": 6.0,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -27454,8 +27454,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 6.0,
-        "originality": 6.0,
         "story": 5.0,
+        "originality": 6.0,
         "execution": 6.0,
         "editorial_value": 6.5,
         "zine_identity": 6.0,
@@ -27493,8 +27493,8 @@
       "scores": {
         "style": 5.0,
         "visual_impact": 6.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 5.5,
         "editorial_value": 7.5,
         "zine_identity": 5.5,
@@ -27534,8 +27534,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 6.0,
-        "originality": 5.0,
         "story": 5.0,
+        "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 7.0,
         "zine_identity": 6.0,
@@ -27576,8 +27576,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 6.0,
-        "originality": 5.0,
         "story": 5.0,
+        "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 7.0,
         "zine_identity": 6.0,
@@ -27617,8 +27617,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 6.0,
-        "originality": 5.0,
         "story": 5.0,
+        "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 7.0,
         "zine_identity": 5.5,
@@ -27659,8 +27659,8 @@
       "scores": {
         "style": 5.0,
         "visual_impact": 5.0,
-        "originality": 6.0,
         "story": 7.0,
+        "originality": 6.0,
         "execution": 5.0,
         "editorial_value": 7.5,
         "zine_identity": 6.0,
@@ -27700,8 +27700,8 @@
       "scores": {
         "style": 5.0,
         "visual_impact": 6.0,
-        "originality": 6.0,
         "story": 6.0,
+        "originality": 6.0,
         "execution": 5.5,
         "editorial_value": 6.5,
         "zine_identity": 5.5,
@@ -27739,8 +27739,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 6.0,
-        "originality": 5.0,
         "story": 5.0,
+        "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 6.5,
         "zine_identity": 5.5,
@@ -27783,8 +27783,8 @@
       "scores": {
         "style": 5.0,
         "visual_impact": 6.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 5.5,
         "editorial_value": 7.0,
         "zine_identity": 6.0,
@@ -27826,8 +27826,8 @@
       "scores": {
         "style": 5.0,
         "visual_impact": 6.0,
-        "originality": 6.0,
         "story": 5.0,
+        "originality": 6.0,
         "execution": 5.5,
         "editorial_value": 7.0,
         "zine_identity": 5.5,
@@ -27867,8 +27867,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 6.0,
-        "originality": 5.0,
         "story": 5.0,
+        "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 6.0,
         "zine_identity": 5.5,
@@ -27908,8 +27908,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 6.0,
-        "originality": 5.0,
         "story": 5.0,
+        "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 6.0,
         "zine_identity": 5.5,
@@ -27949,8 +27949,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 6.0,
-        "originality": 5.0,
         "story": 5.0,
+        "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 6.0,
         "zine_identity": 5.5,
@@ -27990,8 +27990,8 @@
       "scores": {
         "style": 6.0,
         "visual_impact": 6.0,
-        "originality": 5.0,
         "story": 5.0,
+        "originality": 5.0,
         "execution": 6.0,
         "editorial_value": 6.0,
         "zine_identity": 5.5,
@@ -28029,8 +28029,8 @@
       "scores": {
         "style": 5.0,
         "visual_impact": 6.0,
-        "originality": 6.0,
         "story": 5.0,
+        "originality": 6.0,
         "execution": 5.5,
         "editorial_value": 6.5,
         "zine_identity": 5.5,
@@ -28068,8 +28068,8 @@
       "scores": {
         "style": 5.0,
         "visual_impact": 6.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 5.5,
         "editorial_value": 6.5,
         "zine_identity": 5.0,
@@ -28107,8 +28107,8 @@
       "scores": {
         "style": 5.0,
         "visual_impact": 6.0,
-        "originality": 5.0,
         "story": 6.0,
+        "originality": 5.0,
         "execution": 5.5,
         "editorial_value": 6.5,
         "zine_identity": 5.0,
@@ -28146,8 +28146,8 @@
       "scores": {
         "style": 5.0,
         "visual_impact": 6.0,
-        "originality": 5.0,
         "story": 5.0,
+        "originality": 5.0,
         "execution": 5.5,
         "editorial_value": 7.0,
         "zine_identity": 5.0,
@@ -28188,8 +28188,8 @@
       "scores": {
         "style": 5.0,
         "visual_impact": 6.0,
-        "originality": 5.0,
         "story": 5.0,
+        "originality": 5.0,
         "execution": 5.5,
         "editorial_value": 6.0,
         "zine_identity": 5.0,
@@ -28229,8 +28229,8 @@
       "scores": {
         "style": 5.0,
         "visual_impact": 6.0,
-        "originality": 5.0,
         "story": 5.0,
+        "originality": 5.0,
         "execution": 5.5,
         "editorial_value": 6.0,
         "zine_identity": 5.0,
@@ -28268,8 +28268,8 @@
       "scores": {
         "style": 5.0,
         "visual_impact": 5.0,
-        "originality": 5.0,
         "story": 5.0,
+        "originality": 5.0,
         "execution": 5.0,
         "editorial_value": 6.0,
         "zine_identity": 5.0,

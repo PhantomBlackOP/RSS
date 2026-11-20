@@ -3,7 +3,7 @@ layout: null
 permalink: /top20/scores.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<daily-rankings rubric-version="2026-10-12-v2" status="provisional-ai-assisted-first-pass" published-count="707" reviewed-count="669">
+<daily-rankings rubric-version="2026-10-12-v2" status="provisional-ai-assisted-first-pass" published-count="708" reviewed-count="669">
   <methodology>https://rss.trevorion.io/top20/methodology/</methodology>
   <limitations>Four criteria assessed individually from published small preview images. Execution, editorial value, Zine identity and presentation clarity are consistent derived estimates, not independent full-resolution reviews. Theme appeal measures estimated general subject interest, not an image's views or reactions. Results are provisional.</limitations>
   <daily rank="1">
@@ -330,7 +330,7 @@ permalink: /top20/scores.xml
     <tags>
       <tag>#Castanets</tag>
       <tag>#FolkDance</tag>
-      <tag>#Guitars</tag>
+      <tag>#Guitar</tag>
       <tag>#SpanishFiesta</tag>
       <tag>#VillagePlaza</tag>
     </tags>
@@ -1109,7 +1109,7 @@ permalink: /top20/scores.xml
       <tag>#CoralFormations</tag>
       <tag>#GreekMythology</tag>
       <tag>#SeaNymph</tag>
-      <tag>#TurquoiseWaters</tag>
+      <tag>#TurquoiseWater</tag>
     </tags>
   </daily>
   <daily rank="35">
@@ -5781,7 +5781,7 @@ permalink: /top20/scores.xml
     <tags>
       <tag>#AerialPrecision</tag>
       <tag>#Contrails</tag>
-      <tag>#FighterJets</tag>
+      <tag>#FighterJet</tag>
       <tag>#JetFormation</tag>
       <tag>#Military</tag>
     </tags>
@@ -7412,7 +7412,7 @@ permalink: /top20/scores.xml
       <tag>#MaidCafe</tag>
       <tag>#Moe</tag>
       <tag>#SliceOfLife</tag>
-      <tag>#SweetTreats</tag>
+      <tag>#SweetTreat</tag>
     </tags>
   </daily>
   <daily rank="227">
@@ -8772,7 +8772,7 @@ permalink: /top20/scores.xml
       <criterion name="evergreen">5</criterion>
     </theme-criteria>
     <tags>
-      <tag>#Butterflies</tag>
+      <tag>#Butterfly</tag>
       <tag>#FlowerBed</tag>
       <tag>#GardenCare</tag>
       <tag>#Ixora</tag>
