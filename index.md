@@ -9,9 +9,9 @@ show_title: false
 <p class="home-lead">Original Dailies, occasional special editions, news, articles and creative work. A weekly record of the Trevorion Zine, preserved and linked directly to each published post.</p>
 <section class="feature" aria-labelledby="latest-title">
   <div><div class="kicker">Latest weekly digest</div>
-    <h2 id="latest-title">2026 · Week 47</h2>
+    <h2 id="latest-title">2026 · Week 48</h2>
     <p>Published Dailies, stories and highlights from this week.</p></div>
-  <a class="action" href="/2026/11/16/week-47.html">Read latest digest →</a>
+  <a class="action" href="/2026/11/23/week-48.html">Read latest digest →</a>
 </section>
 <section class="portal-grid" aria-label="Browse the Zine RSS archive">
   <a class="portal-card" href="/archive/"><span class="card-icon">▤</span><strong>Weekly archive</strong><span>Browse every digest, newest first.</span></a>
@@ -22,12 +22,12 @@ show_title: false
 <section aria-labelledby="recent-title">
  <div class="section-header"><h2 id="recent-title">Latest Daily artwork</h2><a href="/gallery/">All Dailies →</a></div>
  <div class="recent-art">
+<a href="https://zine.trevorion.io/20261123-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/692-Garden-Stroll-🌸🌿-960x640.png" alt="" loading="lazy" decoding="async"><span>692: Garden Stroll 🌸🌿</span></a>
 <a href="https://zine.trevorion.io/20261122-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/691-Indigo-Welcome-🏮🌸-960x640.png" alt="" loading="lazy" decoding="async"><span>691: Indigo Welcome 🏮🌸</span></a>
 <a href="https://zine.trevorion.io/20261121-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/690-Eastern-Rosella-🦜🌿-960x640.png" alt="" loading="lazy" decoding="async"><span>690: Eastern Rosella 🦜🌿</span></a>
 <a href="https://zine.trevorion.io/20261120-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/689-Matryoshka-🪆🌻-960x640.png" alt="" loading="lazy" decoding="async"><span>689: Matryoshka 🪆🌻</span></a>
 <a href="https://zine.trevorion.io/20261119-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/688-The-Bookmobile-📚🚌-960x640.png" alt="" loading="lazy" decoding="async"><span>688: The Bookmobile 📚🚌</span></a>
 <a href="https://zine.trevorion.io/20261118-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/687-Golden-Twist-🥨☀-960x640.png" alt="" loading="lazy" decoding="async"><span>687: Golden Twist 🥨☀</span></a>
-<a href="https://zine.trevorion.io/20261117-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/686-Jukebox-Serenade-🎶💿-960x640.png" alt="" loading="lazy" decoding="async"><span>686: Jukebox Serenade 🎶💿</span></a>
 </div>
 </section>
 <nav class="feed-strip" aria-label="RSS subscriptions">

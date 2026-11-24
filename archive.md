@@ -7,6 +7,7 @@ show_title: false
 
 # 📚 Weekly Archive
 
+- [2026 Week 48 – Dailies & Highlights](/2026/11/23/week-48.html) (Nov 23, 2026)
 - [2026 Week 47 – Dailies & Highlights](/2026/11/16/week-47.html) (Nov 16, 2026)
 - [2026 Week 46 – Dailies & Highlights](/2026/11/09/week-46.html) (Nov 09, 2026)
 - [2026 Week 45 – Dailies & Highlights](/2026/11/02/week-45.html) (Nov 02, 2026)
