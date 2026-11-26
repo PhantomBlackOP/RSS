@@ -22,12 +22,12 @@ show_title: false
 <section aria-labelledby="recent-title">
  <div class="section-header"><h2 id="recent-title">Latest Daily artwork</h2><a href="/gallery/">All Dailies →</a></div>
  <div class="recent-art">
+<a href="https://zine.trevorion.io/20261125-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/694-Cryogenic-Stasis-❄️🧬-960x640.png" alt="" loading="lazy" decoding="async"><span>694: Cryogenic Stasis ❄️🧬</span></a>
 <a href="https://zine.trevorion.io/20261124-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/693-Baihe-Tuanshan-百合團扇-🪭🌸-960x640.png" alt="" loading="lazy" decoding="async"><span>693: Bǎihé Tuánshàn (百合團扇) 🪭🌸</span></a>
 <a href="https://zine.trevorion.io/20261123-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/692-Garden-Stroll-🌸🌿-960x640.png" alt="" loading="lazy" decoding="async"><span>692: Garden Stroll 🌸🌿</span></a>
 <a href="https://zine.trevorion.io/20261122-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/691-Indigo-Welcome-🏮🌸-960x640.png" alt="" loading="lazy" decoding="async"><span>691: Indigo Welcome 🏮🌸</span></a>
 <a href="https://zine.trevorion.io/20261121-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/690-Eastern-Rosella-🦜🌿-960x640.png" alt="" loading="lazy" decoding="async"><span>690: Eastern Rosella 🦜🌿</span></a>
 <a href="https://zine.trevorion.io/20261120-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/689-Matryoshka-🪆🌻-960x640.png" alt="" loading="lazy" decoding="async"><span>689: Matryoshka 🪆🌻</span></a>
-<a href="https://zine.trevorion.io/20261119-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/688-The-Bookmobile-📚🚌-960x640.png" alt="" loading="lazy" decoding="async"><span>688: The Bookmobile 📚🚌</span></a>
 </div>
 </section>
 <nav class="feed-strip" aria-label="RSS subscriptions">
