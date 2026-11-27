@@ -3,7 +3,7 @@ layout: null
 permalink: /top20/scores.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<daily-rankings rubric-version="2026-10-12-v2" status="provisional-ai-assisted-first-pass" published-count="714" reviewed-count="669">
+<daily-rankings rubric-version="2026-10-12-v2" status="provisional-ai-assisted-first-pass" published-count="714" reviewed-count="668">
   <methodology>https://rss.trevorion.io/top20/methodology/</methodology>
   <limitations>Four criteria assessed individually from published small preview images. Execution, editorial value, Zine identity and presentation clarity are consistent derived estimates, not independent full-resolution reviews. Theme appeal measures estimated general subject interest, not an image's views or reactions. Results are provisional.</limitations>
   <daily rank="1">
@@ -20534,42 +20534,6 @@ permalink: /top20/scores.xml
     </tags>
   </daily>
   <daily rank="633">
-    <title>Star Pun!</title>
-    <post-url>https://zine.trevorion.io/papa-pun-5/</post-url>
-    <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/06/Star-Wars-scaled.jpg</published-image-url>
-    <published>2025-05-05T10:00:00+00:00</published>
-    <artistic-merit>63.50</artistic-merit>
-    <theme-appeal>3.38</theme-appeal>
-    <reasoning>Whole-archive visual review: impact 7/10, style 6/10, story 6/10, originality 6/10. Related subjects: general creative art. Other dimensions are rubric-based estimates.</reasoning>
-    <review-basis>Published Zine Sitemap mosaic contact-sheet image, 225x150; full-size source verification required to audit fine execution detail</review-basis>
-    <artistic-criteria>
-      <criterion name="visual_impact" weight-percent="20" assessment="individual-visual-review">7</criterion>
-      <criterion name="style" weight-percent="15" assessment="individual-visual-review">6</criterion>
-      <criterion name="story" weight-percent="15" assessment="individual-visual-review">6</criterion>
-      <criterion name="originality" weight-percent="15" assessment="individual-visual-review">6</criterion>
-      <criterion name="execution" weight-percent="15" assessment="calculated-estimate">6.5</criterion>
-      <criterion name="editorial_value" weight-percent="10" assessment="calculated-estimate">6.5</criterion>
-      <criterion name="zine_identity" weight-percent="5" assessment="calculated-estimate">6</criterion>
-      <criterion name="presentation_clarity" weight-percent="5" assessment="calculated-estimate">6.5</criterion>
-    </artistic-criteria>
-    <theme-criteria>
-      <criterion name="reach">3</criterion>
-      <criterion name="recognition">3</criterion>
-      <criterion name="cross_audience">3.5</criterion>
-      <criterion name="evergreen">4</criterion>
-    </theme-criteria>
-    <tags>
-      <tag>#Comic</tag>
-      <tag>#Dad</tag>
-      <tag>#DadJoke</tag>
-      <tag>#PapaPun</tag>
-      <tag>#Retro</tag>
-      <tag>#Son</tag>
-      <tag>#StarWars</tag>
-      <tag>#Wordplay</tag>
-    </tags>
-  </daily>
-  <daily rank="634">
     <title>380: Bariatric Bed 🏥🪟</title>
     <post-url>https://zine.trevorion.io/20260115-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/01/380-Bariatric-Bed-🏥🪟.png</published-image-url>
@@ -20602,7 +20566,7 @@ permalink: /top20/scores.xml
       <tag>#Minimalism</tag>
     </tags>
   </daily>
-  <daily rank="635">
+  <daily rank="634">
     <title>454: Hospital 🌙🏥</title>
     <post-url>https://zine.trevorion.io/20260330-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/04/454-Hospital-🌙🏥.png</published-image-url>
@@ -20635,7 +20599,7 @@ permalink: /top20/scores.xml
       <tag>#Wheelchair</tag>
     </tags>
   </daily>
-  <daily rank="636">
+  <daily rank="635">
     <title>335: Western Whip Snake 🌿🐍</title>
     <post-url>https://zine.trevorion.io/20251201-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2025/12/335-Western-Whip-Snake-🌿🐍.png</published-image-url>
@@ -20668,7 +20632,7 @@ permalink: /top20/scores.xml
       <tag>#SerpIswed</tag>
     </tags>
   </daily>
-  <daily rank="637">
+  <daily rank="636">
     <title>073: And here we go… 🏎️🏁</title>
     <post-url>https://zine.trevorion.io/20250314-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/073.png</published-image-url>
@@ -20700,7 +20664,7 @@ permalink: /top20/scores.xml
       <tag>#SeasonStart</tag>
     </tags>
   </daily>
-  <daily rank="638">
+  <daily rank="637">
     <title>093: Kuroe Yamada 🖤🍙</title>
     <post-url>https://zine.trevorion.io/20250403-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/093.png</published-image-url>
@@ -20731,7 +20695,7 @@ permalink: /top20/scores.xml
       <tag>#Future</tag>
     </tags>
   </daily>
-  <daily rank="639">
+  <daily rank="638">
     <title>027: Labrador 🐕💛</title>
     <post-url>https://zine.trevorion.io/20250127-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/027.png</published-image-url>
@@ -20762,7 +20726,7 @@ permalink: /top20/scores.xml
       <tag>#GoldenCoat</tag>
     </tags>
   </daily>
-  <daily rank="640">
+  <daily rank="639">
     <title>💻 HTTP 400: “Bad Request” status code ⚠️</title>
     <post-url>https://zine.trevorion.io/20260204-2/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/400-Special-HTTP-400-💻⚠️.png</published-image-url>
@@ -20795,7 +20759,7 @@ permalink: /top20/scores.xml
       <tag>#RequestFailed</tag>
     </tags>
   </daily>
-  <daily rank="641">
+  <daily rank="640">
     <title>034: Future Grok 🤖🚀</title>
     <post-url>https://zine.trevorion.io/20250203-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/034.png</published-image-url>
@@ -20826,7 +20790,7 @@ permalink: /top20/scores.xml
       <tag>#TechVision</tag>
     </tags>
   </daily>
-  <daily rank="642">
+  <daily rank="641">
     <title>107: The Truck 🚛🌆</title>
     <post-url>https://zine.trevorion.io/20250417-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/107.png</published-image-url>
@@ -20857,7 +20821,7 @@ permalink: /top20/scores.xml
       <tag>#Survival</tag>
     </tags>
   </daily>
-  <daily rank="643">
+  <daily rank="642">
     <title>154: Crimson Tide 🗡️🌅</title>
     <post-url>https://zine.trevorion.io/20250603-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/154.png</published-image-url>
@@ -20888,7 +20852,7 @@ permalink: /top20/scores.xml
       <tag>#WarriorMaiden</tag>
     </tags>
   </daily>
-  <daily rank="644">
+  <daily rank="643">
     <title>180: The Dice 🎲🎯</title>
     <post-url>https://zine.trevorion.io/20250629-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/180.png</published-image-url>
@@ -20919,7 +20883,7 @@ permalink: /top20/scores.xml
       <tag>#RollToWin</tag>
     </tags>
   </daily>
-  <daily rank="645">
+  <daily rank="644">
     <title>038: Liquor 🥃🍷</title>
     <post-url>https://zine.trevorion.io/20250207-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/038.png</published-image-url>
@@ -20950,7 +20914,7 @@ permalink: /top20/scores.xml
       <tag>#Spirits</tag>
     </tags>
   </daily>
-  <daily rank="646">
+  <daily rank="645">
     <title>007: Knight 🛡️🧥</title>
     <post-url>https://zine.trevorion.io/20250107-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2025/08/7-Knight-🛡️🧥.png</published-image-url>
@@ -20981,7 +20945,7 @@ permalink: /top20/scores.xml
       <tag>#Protector</tag>
     </tags>
   </daily>
-  <daily rank="647">
+  <daily rank="646">
     <title>065: Hot Dog 🌭🥤</title>
     <post-url>https://zine.trevorion.io/20250306-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/065.png</published-image-url>
@@ -21012,7 +20976,7 @@ permalink: /top20/scores.xml
       <tag>#StreetFood</tag>
     </tags>
   </daily>
-  <daily rank="648">
+  <daily rank="647">
     <title>005: Latest Insanity 💻💸</title>
     <post-url>https://zine.trevorion.io/20250105-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2025/01/5-Latest-Insanity-💻💸.png</published-image-url>
@@ -21043,7 +21007,7 @@ permalink: /top20/scores.xml
       <tag>#TechLust</tag>
     </tags>
   </daily>
-  <daily rank="649">
+  <daily rank="648">
     <title>087: The Boss 😎👨🏻‍💼</title>
     <post-url>https://zine.trevorion.io/20250328-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/087.png</published-image-url>
@@ -21074,7 +21038,7 @@ permalink: /top20/scores.xml
       <tag>#Leadership</tag>
     </tags>
   </daily>
-  <daily rank="650">
+  <daily rank="649">
     <title>011: Doomsday 🤖💀</title>
     <post-url>https://zine.trevorion.io/20250111-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2025/01/11-Doomsday-🤖💀.png</published-image-url>
@@ -21105,7 +21069,7 @@ permalink: /top20/scores.xml
       <tag>#PostHuman</tag>
     </tags>
   </daily>
-  <daily rank="651">
+  <daily rank="650">
     <title>114: Happy Birthday 🎉🎂</title>
     <post-url>https://zine.trevorion.io/20250424-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/114.png</published-image-url>
@@ -21136,7 +21100,7 @@ permalink: /top20/scores.xml
       <tag>#Party</tag>
     </tags>
   </daily>
-  <daily rank="652">
+  <daily rank="651">
     <title>120: Wind Chimes 🎐🇲🇹</title>
     <post-url>https://zine.trevorion.io/20250430-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/120.png</published-image-url>
@@ -21167,7 +21131,7 @@ permalink: /top20/scores.xml
       <tag>#WindChimes</tag>
     </tags>
   </daily>
-  <daily rank="653">
+  <daily rank="652">
     <title>021: Noah 🌧️🚢</title>
     <post-url>https://zine.trevorion.io/20250121-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/021.png</published-image-url>
@@ -21198,7 +21162,7 @@ permalink: /top20/scores.xml
       <tag>#SeaLover</tag>
     </tags>
   </daily>
-  <daily rank="654">
+  <daily rank="653">
     <title>000: USS Grok 🛸🌌</title>
     <post-url>https://zine.trevorion.io/20250101-0/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/000.png</published-image-url>
@@ -21229,7 +21193,7 @@ permalink: /top20/scores.xml
       <tag>#Starship</tag>
     </tags>
   </daily>
-  <daily rank="655">
+  <daily rank="654">
     <title>017: Those ASML shares … 📈🏭</title>
     <post-url>https://zine.trevorion.io/20250117-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/017.png</published-image-url>
@@ -21260,7 +21224,7 @@ permalink: /top20/scores.xml
       <tag>#StockMarket</tag>
     </tags>
   </daily>
-  <daily rank="656">
+  <daily rank="655">
     <title>035: Manga 📖🖊️</title>
     <post-url>https://zine.trevorion.io/20250204-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/035.png</published-image-url>
@@ -21291,7 +21255,7 @@ permalink: /top20/scores.xml
       <tag>#Shelf</tag>
     </tags>
   </daily>
-  <daily rank="657">
+  <daily rank="656">
     <title>116: Pastizzi 👩‍🍳🇲🇹</title>
     <post-url>https://zine.trevorion.io/20250426-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/116.png</published-image-url>
@@ -21324,7 +21288,7 @@ permalink: /top20/scores.xml
       <tag>#Snack</tag>
     </tags>
   </daily>
-  <daily rank="658">
+  <daily rank="657">
     <title>001: Back in the day 🎣🌊</title>
     <post-url>https://zine.trevorion.io/20250101-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2025/01/1-Back-in-the-day.png</published-image-url>
@@ -21355,7 +21319,7 @@ permalink: /top20/scores.xml
       <tag>#SeaSide</tag>
     </tags>
   </daily>
-  <daily rank="659">
+  <daily rank="658">
     <title>056: Tablet 📱💻</title>
     <post-url>https://zine.trevorion.io/20250225-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/056.png</published-image-url>
@@ -21386,7 +21350,7 @@ permalink: /top20/scores.xml
       <tag>#Touchscreen</tag>
     </tags>
   </daily>
-  <daily rank="660">
+  <daily rank="659">
     <title>029: Spaghetti 🍝🍅</title>
     <post-url>https://zine.trevorion.io/20250129-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/029.png</published-image-url>
@@ -21417,7 +21381,7 @@ permalink: /top20/scores.xml
       <tag>#PastaLovers</tag>
     </tags>
   </daily>
-  <daily rank="661">
+  <daily rank="660">
     <title>047: Pizza 🍕🔥</title>
     <post-url>https://zine.trevorion.io/20250216-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/047.png</published-image-url>
@@ -21448,7 +21412,7 @@ permalink: /top20/scores.xml
       <tag>#ItalianCuisine</tag>
     </tags>
   </daily>
-  <daily rank="662">
+  <daily rank="661">
     <title>025: Golf ⛳🏌️</title>
     <post-url>https://zine.trevorion.io/20250125-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/025.png</published-image-url>
@@ -21479,7 +21443,7 @@ permalink: /top20/scores.xml
       <tag>#SportsLife</tag>
     </tags>
   </daily>
-  <daily rank="663">
+  <daily rank="662">
     <title>113: Death Note 📖💀</title>
     <post-url>https://zine.trevorion.io/20250423-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/113.png</published-image-url>
@@ -21510,7 +21474,7 @@ permalink: /top20/scores.xml
       <tag>#Supernatural</tag>
     </tags>
   </daily>
-  <daily rank="664">
+  <daily rank="663">
     <title>003: Missing the glory days! ⚽🏆</title>
     <post-url>https://zine.trevorion.io/20250103-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2025/01/3-Missing-the-glory-days-⚽🏆.png</published-image-url>
@@ -21541,7 +21505,7 @@ permalink: /top20/scores.xml
       <tag>#TrebleEra</tag>
     </tags>
   </daily>
-  <daily rank="665">
+  <daily rank="664">
     <title>006: Foot Soldier ⚔️🔥</title>
     <post-url>https://zine.trevorion.io/20250106-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2025/08/6-Foot-Soldier-⚔️🔥.png</published-image-url>
@@ -21572,7 +21536,7 @@ permalink: /top20/scores.xml
       <tag>#History</tag>
     </tags>
   </daily>
-  <daily rank="666">
+  <daily rank="665">
     <title>058: Old Petrol Station ⛽🏚️</title>
     <post-url>https://zine.trevorion.io/20250227-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/058.png</published-image-url>
@@ -21603,7 +21567,7 @@ permalink: /top20/scores.xml
       <tag>#Roadside</tag>
     </tags>
   </daily>
-  <daily rank="667">
+  <daily rank="666">
     <title>015: Doctor🧑‍⚕️🩺</title>
     <post-url>https://zine.trevorion.io/20250115-1-2/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2026/02/015.png</published-image-url>
@@ -21634,7 +21598,7 @@ permalink: /top20/scores.xml
       <tag>#SmartGlassesGuy</tag>
     </tags>
   </daily>
-  <daily rank="668">
+  <daily rank="667">
     <title>004: Gamer Forever! 🕶️🎮</title>
     <post-url>https://zine.trevorion.io/20250104-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2025/01/4-Gamer-Forever-🕶️🎮-1.png</published-image-url>
@@ -21665,7 +21629,7 @@ permalink: /top20/scores.xml
       <tag>#IntrovertLife</tag>
     </tags>
   </daily>
-  <daily rank="669">
+  <daily rank="668">
     <title>002: How it all began 📺🏎️</title>
     <post-url>https://zine.trevorion.io/20250102-1/</post-url>
     <published-image-url>https://zine.trevorion.io/wp-content/uploads/2025/01/2-How-it-all-began-📺🏎️.png</published-image-url>

@@ -7,7 +7,7 @@ show_title: false
 
 # Daily Image Gallery 2025
 
-<p>372 Daily artworks and special editions. Select any image to view its original Zine post.</p>
+<p>371 Daily artworks and special editions. Select any image to view its original Zine post.</p>
 
 <div class="gallery-grid">
 <a href="https://zine.trevorion.io/20250101-0/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/02/000-225x150.png" alt="000: USS Grok 🛸🌌" loading="lazy" style="width:50px;height:auto;"></a>
@@ -137,7 +137,6 @@ show_title: false
 <a href="https://zine.trevorion.io/20250502-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/02/122-225x150.png" alt="122: Calico Nap ☀️🐾" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20250503-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/02/123-225x150.png" alt="123: Paper Boat 📰⛵️" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20250504-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/02/124-225x150.png" alt="124: Ellarya, the Meadow Witch 🌄🧙‍♀️" loading="lazy" style="width:50px;height:auto;"></a>
-<a href="https://zine.trevorion.io/papa-pun-5/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/06/Star-Wars-225x150.jpg" alt="Star Pun!" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20250505-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/02/125-225x150.png" alt="125: Commander Fluffstrike 🐾🛡️" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20250506-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/02/126-225x150.png" alt="126: Remember 📜⌨️" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20250507-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/02/127-225x150.png" alt="127: The Last Candle 🕯️🌌" loading="lazy" style="width:50px;height:auto;"></a>
@@ -512,7 +511,6 @@ show_title: false
 <li>122: Calico Nap ☀️🐾: <a href="https://zine.trevorion.io/20250502-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/02/122.png">Full artwork</a></li>
 <li>123: Paper Boat 📰⛵️: <a href="https://zine.trevorion.io/20250503-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/02/123.png">Full artwork</a></li>
 <li>124: Ellarya, the Meadow Witch 🌄🧙‍♀️: <a href="https://zine.trevorion.io/20250504-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/02/124.png">Full artwork</a></li>
-<li>Star Pun!: <a href="https://zine.trevorion.io/papa-pun-5/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/06/Star-Wars-scaled.jpg">Full artwork</a></li>
 <li>125: Commander Fluffstrike 🐾🛡️: <a href="https://zine.trevorion.io/20250505-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/02/125.png">Full artwork</a></li>
 <li>126: Remember 📜⌨️: <a href="https://zine.trevorion.io/20250506-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/02/126.png">Full artwork</a></li>
 <li>127: The Last Candle 🕯️🌌: <a href="https://zine.trevorion.io/20250507-1/">View Daily</a> | <a href="https://zine.trevorion.io/wp-content/uploads/2026/02/127.png">Full artwork</a></li>

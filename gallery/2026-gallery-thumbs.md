@@ -340,3 +340,4 @@
 <a href="https://zine.trevorion.io/20261123-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/692-Garden-Stroll-🌸🌿-225x150.png" alt="692: Garden Stroll 🌸🌿" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261124-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/693-Baihe-Tuanshan-百合團扇-🪭🌸-225x150.png" alt="693: Bǎihé Tuánshàn (百合團扇) 🪭🌸" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20261125-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/694-Cryogenic-Stasis-❄️🧬-225x150.png" alt="694: Cryogenic Stasis ❄️🧬" loading="lazy" style="width:50px;height:auto;"></a>
+<a href="https://zine.trevorion.io/20261126-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/11/695-Clapperboard-🎬🎥-225x150.png" alt="695: Clapperboard 🎬🎥" loading="lazy" style="width:50px;height:auto;"></a>

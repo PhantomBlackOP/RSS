@@ -125,7 +125,6 @@
 <a href="https://zine.trevorion.io/20250502-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/02/122-225x150.png" alt="122: Calico Nap ☀️🐾" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20250503-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/02/123-225x150.png" alt="123: Paper Boat 📰⛵️" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20250504-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/02/124-225x150.png" alt="124: Ellarya, the Meadow Witch 🌄🧙‍♀️" loading="lazy" style="width:50px;height:auto;"></a>
-<a href="https://zine.trevorion.io/papa-pun-5/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/06/Star-Wars-225x150.jpg" alt="Star Pun!" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20250505-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/02/125-225x150.png" alt="125: Commander Fluffstrike 🐾🛡️" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20250506-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/02/126-225x150.png" alt="126: Remember 📜⌨️" loading="lazy" style="width:50px;height:auto;"></a>
 <a href="https://zine.trevorion.io/20250507-1/"><img src="https://zine.trevorion.io/wp-content/uploads/2026/02/127-225x150.png" alt="127: The Last Candle 🕯️🌌" loading="lazy" style="width:50px;height:auto;"></a>
